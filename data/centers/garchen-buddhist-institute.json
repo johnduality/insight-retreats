@@ -1,0 +1,86 @@
+{
+  "id": "garchen-buddhist-institute",
+  "name": "Garchen Buddhist Institute",
+  "aka": [
+    "Garchen Institute",
+    "GBI"
+  ],
+  "website": "https://garchen.net/",
+  "location": {
+    "city": "Chino Valley",
+    "region": "Central Arizona",
+    "state": "AZ",
+    "lat": 34.68,
+    "lng": -112.6
+  },
+  "tradition": "Tibetan Buddhism — Drikung Kagyu lineage (Vajrayana)",
+  "technique": "Structured solitary silent retreat centered on sadhana practice (deity yoga, ngöndro, Chenrezig/compassion practices, Mahamudra), plus weekly group meditation and periodic empowerments and teachings",
+  "influences": [
+    "H.E. Garchen Rinpoche",
+    "Kyobpa Jigten Sumgön (founder of the Drikung Kagyu lineage)",
+    "H.H. Drikung Kyabgön Chetsang Rinpoche",
+    "Drikung Kagyu lineage"
+  ],
+  "teacherAccess": "Resident lamas (e.g., a resident Khenpo) and, for the multi-year program, an appointed Retreat Master oversee retreatants; short independent stays have limited direct teacher contact unless timed to a scheduled teaching, puja, or empowerment.",
+  "retreatOptions": "Options range from a brief non-retreat orientation stay (max 10 days/year), to short-term personal silent solitary retreats, long-term personal retreats (weeks to months, with monthly rates), and an ongoing multi-year (traditionally 3-year) Drikung Kagyu retreat under a Retreat Master; a month-plus volunteer/work-study program is also offered.",
+  "schedule": "Weekly Sunday group meditation and puja services year-round, an annual published calendar of multi-day teachings/empowerments (heaviest Nov-Jan), plus self-arranged personal retreats booked directly with the office and periodic 3-year retreat cohorts starting when a Retreat Master is available.",
+  "cost": "Fixed nightly accommodation fees rather than dana: $15/night camping, $21/night indoor camping, $30-45/night dorm or shared-house beds, $30-70/night guest house, and $40-80/night for retreat huts/deluxe cabins used for solitary retreat; monthly rates available on inquiry for stays of a month or more.",
+  "pricePerDay": {
+    "min": 15,
+    "max": 80,
+    "unit": "night",
+    "notes": "Published per-accommodation nightly rates: outdoor camping $15, indoor camping $21, shared dorm $30/person, private dorm room $40, Guest House $30-70 depending on occupancy, rustic Retreat Huts $40 (May-Aug) to $47 (Sep-May), Deluxe Retreat Cabin $80. Retreat huts and deluxe cabins are the accommodation types used for personal solitary retreat. Monthly rates for stays of a month or longer are available by inquiry and not published.",
+    "source": "https://garchen.net/accommodation-options/"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "Accommodations include access to shared or personal kitchens and food storage, but retreatants are expected to buy and prepare their own food; no communal meal plan is described for personal retreats. Guest House and Deluxe Retreat Cabins have their own kitchen/mini-fridge; dorms and huts share a central kitchen.",
+  "workRequired": "no",
+  "workNotes": "No work is required for paid personal-retreat or short-stay guests. A separate one-month-or-longer Volunteer/Work-Study program (with dedicated bunk housing) trades service for reduced cost, and event volunteers can trade hours for reduced or free event tuition, but this is optional and distinct from the retreat accommodations.",
+  "about": "Garchen Buddhist Institute is a Drikung Kagyu Tibetan Buddhist center on a remote ridge off Perkinsville Road outside Chino Valley, Arizona, founded to share the practice lineage of the late H.E. Garchen Rinpoche. Rather than running a single fixed retreat program, the Institute functions primarily as a residential retreat facility: it offers short orientation stays, self-directed short- and long-term personal solitary silent retreats in rustic huts or deluxe self-contained cabins, dormitory and guest-house lodging for group teachings and events, and an ongoing multi-year (traditionally three-year) group retreat led by an appointed Retreat Master, open to US citizens only due to visa restrictions. All formal retreats require structured practice (at minimum four two-hour meditation/sadhana sessions daily) and silence, with resident lamas providing guidance and an events calendar of teachings, empowerments, and pujas layered on top of the year-round retreat housing. The property borders the Prescott National Forest and offers camping, dorm, guest-house, hut, and cabin lodging at fixed nightly rates, with monthly rates available for extended retreats.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "long-retreats",
+    "self-guided",
+    "monastic-community",
+    "camping",
+    "fixed-fee",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Garchen Buddhist Institute - Home",
+      "url": "https://garchen.net/"
+    },
+    {
+      "title": "Personal Solitary Retreats",
+      "url": "https://garchen.net/personal-retreats/"
+    },
+    {
+      "title": "3-Year Retreat",
+      "url": "https://garchen.net/3-year-retreat/"
+    },
+    {
+      "title": "Accommodations",
+      "url": "https://garchen.net/accommodation-options/"
+    },
+    {
+      "title": "Getting to the Institute",
+      "url": "https://garchen.net/our-location/"
+    },
+    {
+      "title": "Conduct Guidelines",
+      "url": "https://garchen.net/conduct-guidelines/"
+    },
+    {
+      "title": "Volunteer & Work Study Positions",
+      "url": "https://garchen.net/voluteer-staff-positions/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

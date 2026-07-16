@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Insight Retreats — Retreat Centers of California</title>
+    <meta
+      name="description"
+      content="A catalogue of meditation and contemplative retreat centers in California — traditions, schedules, cost, and practical details, with list and map views."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=New+Rocker&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+    <!-- Leaflet (map) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="brand" href="#/">insight-retreats.org</a>
+        <nav class="header-actions">
+          <a class="nav-link" href="#/about">About</a>
+        </nav>
+      </div>
+    </header>
+
+    <p id="intro" class="intro wrap-narrow">A map of insight meditation centers in the United States.</p>
+
+    <!-- Catalogue view (list + map share the same filters) -->
+    <main id="catalogue" class="wrap view">
+      <section class="controls">
+        <div class="controls-row">
+          <input id="search" class="search" type="search" placeholder="Search by name, tradition, city…" autocomplete="off" />
+          <select id="stateFilter" class="select" aria-label="Filter by state">
+            <option value="">All states</option>
+          </select>
+          <div class="viewtoggle" role="tablist" aria-label="View mode">
+            <button id="tabList" class="viewtoggle-btn is-active" role="tab" type="button">List</button>
+            <button id="tabMap" class="viewtoggle-btn" role="tab" type="button">Map</button>
+          </div>
+        </div>
+        <div id="tagFilters" class="tag-filters" aria-label="Filter by tag"></div>
+        <p id="resultCount" class="result-count"></p>
+        <p id="supportedStates" class="supported-states"></p>
+      </section>
+
+      <section id="listView" class="list-view">
+        <div id="cards" class="cards"></div>
+      </section>
+
+      <section id="mapView" class="map-view is-hidden">
+        <div id="map" class="map"></div>
+      </section>
+    </main>
+
+    <!-- Detail view -->
+    <main id="detail" class="wrap view is-hidden"></main>
+
+    <!-- ABOUT PAGE — edit the text and links below freely -->
+    <main id="about" class="wrap-narrow view is-hidden">
+      <a class="detail-back" href="#/">← Back to catalogue</a>
+      <div class="detail-head"><h1>About</h1></div>
+      <div class="detail-main about-page">
+        <p>
+          <strong>insight-retreats.org</strong> is a map and catalogue of insight
+          meditation centers across the United States — places that offer overnight
+          residential retreats of two nights or more, focused on meditation practice.
+        </p>
+        <p>
+          Each entry lists the center's tradition and technique, teacher access, retreat
+          options and schedule, cost, whether food is served, whether work is required,
+          and a set of standardized tags — all drawn from the center's own website and
+          other public sources.
+        </p>
+        <h2>How entries are made</h2>
+        <p>
+          Entries are written by Claude, an AI assistant, from publicly available
+          information. They may be out of date or contain errors — always confirm
+          details (especially dates and pricing) with the center directly before making
+          plans. Each entry links to the sources it was based on.
+        </p>
+        <h2>Resources</h2>
+        <p>A few starting points for finding and preparing for a retreat:</p>
+        <ul class="about-links">
+          <li><a href="https://www.dharma.org/" target="_blank" rel="noopener">Insight Meditation Society</a> — retreats and teachings</li>
+          <li><a href="https://www.dharmaseed.org/" target="_blank" rel="noopener">Dharma Seed</a> — free archive of recorded dharma talks</li>
+          <li><a href="https://www.buddhanet.net/" target="_blank" rel="noopener">BuddhaNet</a> — general Buddhist directory and resources</li>
+        </ul>
+        <p><!-- Add or replace resource links above, and edit any of this text to say what you want. --></p>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          Entries are written by Claude, an AI assistant, from public sources, and may be out of date or contain errors.
+        </p>
+      </div>
+    </footer>
+
+    <!-- Leaflet -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+
+
+    <!-- Generated data as globals so the site works when opened directly as a file -->
+    <script src="./data/data.js"></script>
+
+    <!-- App -->
+    <script src="./app.js"></script>
+  </body>
+</html>

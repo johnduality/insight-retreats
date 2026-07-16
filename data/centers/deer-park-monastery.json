@@ -1,0 +1,79 @@
+{
+  "name": "Deer Park Monastery",
+  "website": "https://deerparkmonastery.org",
+  "aka": [
+    "Tu Vien Loc Uyen"
+  ],
+  "location": {
+    "city": "Escondido",
+    "region": "Southern California",
+    "state": "CA",
+    "lat": 33.2378,
+    "lng": -117.1215
+  },
+  "tradition": "Plum Village (Thich Nhat Hanh) engaged Zen Buddhism",
+  "influences": [
+    "Thich Nhat Hanh",
+    "Plum Village Tradition",
+    "Engaged Buddhism",
+    "Vietnamese Thien (Zen)",
+    "Mahayana Buddhism"
+  ],
+  "teacherAccess": "Guidance from resident monastics through Dharma talks and small-group Dharma sharing; no formal one-on-one interviews.",
+  "retreatOptions": "Days of Mindfulness (single day); weekend and seasonal multi-day retreats; young-adult Wake Up retreats; annual ~90-day Rains Retreat.",
+  "about": "Deer Park Monastery is a 400-acre Buddhist monastery in the hills of Escondido, founded in 2000 by Zen master Thich Nhat Hanh in the Plum Village tradition of engaged, everyday-life mindfulness. A resident community of monks and nuns lives and practices year-round across two hamlets, Solidity Hamlet (men) and Clarity Hamlet (women), and welcomes lay guests for Days of Mindfulness and overnight retreats. Practice centers on gentle mindfulness woven through all activities: sitting and walking meditation, mindful eating, chanting, deep relaxation, dharma talks and discussion, and working meditation. No prior meditation experience is required, and retreats range from weekend and seasonal gatherings to a young-adult Wake Up retreat and an annual 90-day Rains Retreat. The atmosphere is quiet and communal, with periods of noble silence and meals taken together in silence.",
+  "technique": "Plum Village mindfulness: sitting and walking meditation, mindful eating, chanting, deep relaxation, dharma talks, and working meditation.",
+  "schedule": "Days of Mindfulness plus multi-day seasonal and special retreats; typical day runs ~5:00 AM wake-up to 10:00 PM lights-out with meditation, a dharma talk, working meditation, and rest.",
+  "cost": "Overnight retreats charged per night by lodging type; seasonal adult rates $70 (own tent) to $140 (3-bed dorm); special retreats $85-$150; Days of Mindfulness by donation.",
+  "pricePerDay": {
+    "min": 100,
+    "max": 140,
+    "unit": "night",
+    "notes": "Adult seasonal-retreat dorm rates: 6-bed dorm $100/night, 3-bed dorm $140/night (own tent $70). Special retreats run higher ($110/$150 dorm, $85 tent). Rains Retreat has reduced rates. Meals included. Scholarships (Hemera Grant) excluded.",
+    "source": "https://wp.deerparkmonastery.org/plan-a-visit/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian, generally vegan, meals per day included in the registration fee; some retreat meals taken in silence; limited ability to accommodate special dietary needs.",
+  "workRequired": "yes",
+  "workNotes": "Working meditation (community service such as cleaning, kitchen, or garden work) is a scheduled daily part of retreats, in the spirit of mindful work rather than heavy labor.",
+  "sources": [
+    {
+      "title": "Plan a Visit (rates, meals, schedule, lodging)",
+      "url": "https://wp.deerparkmonastery.org/plan-a-visit/"
+    },
+    {
+      "title": "Register for a Retreat",
+      "url": "https://deerparkmonastery.org/visit/register-for-a-retreat/"
+    },
+    {
+      "title": "Deer Park Monastery | Plum Village",
+      "url": "https://plumvillage.org/practice-centre/deer-park-monastery"
+    },
+    {
+      "title": "Deer Park Monastery - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deer_Park_Monastery"
+    }
+  ],
+  "tags": [
+    "plum-village",
+    "zen",
+    "mahayana",
+    "day-retreats",
+    "silent",
+    "long-retreats",
+    "family-friendly",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "id": "deer-park-monastery",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "great-plains-zen-center",
+  "name": "Great Plains Zen Center",
+  "aka": [
+    "GPZC"
+  ],
+  "location": {
+    "address": "W7762 Falk Rd, Monroe, WI 53566",
+    "city": "Monroe",
+    "region": "South Central Wisconsin",
+    "state": "WI",
+    "lat": 42.6013,
+    "lng": -89.6382
+  },
+  "tradition": "Zen Buddhism (Zen Peacemaker lineage)",
+  "technique": "Zazen (seated meditation) and kinhin (walking meditation) in structured sesshin and zazenkai retreats, with oryoki meal practice and work practice",
+  "influences": [
+    "Bernie Glassman",
+    "Zen Peacemaker Order",
+    "Susan Myoyu Andersen Roshi",
+    "John Gendo Wolff Roshi"
+  ],
+  "teacherAccess": "Teacher-led retreats with daily dharma talks; participants may request individual meetings with the guiding teacher during sesshin.",
+  "retreatOptions": "Monthly retreats ranging from a weekend zazenkai up to seven-day sesshin; full-time or part-time, in-person or online participation is available for most retreats.",
+  "schedule": "Sesshin days begin early with alternating 30-minute sitting periods and 10-minute kinhin, plus work practice, meals, and chanting services, all conducted in silence; many retreats close with the Gate of Sweet Nectar ceremony on the final morning.",
+  "cost": "Multi-day sesshin run roughly $175 (members) to $195 (non-members) for full-time in-person attendance, prorated for part-time attendance; online participation is by suggested donation of $10-30 per day. Scholarships are available for anyone who needs them.",
+  "pricePerDay": {
+    "min": 58,
+    "max": 65,
+    "unit": "night",
+    "notes": "Derived from the 3-day sesshin fee ($175 members / $195 non-members) for a retreat running Thursday 5:30pm to Sunday ~8am (3 nights on-site), meals and lodging included.",
+    "source": "https://greatplainszen.org/event/three-day-sesshin-july-30-august-2-2026/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals included in the retreat fee; special dietary restrictions can be accommodated with advance notice; meals are eaten with oryoki bowls and utensils.",
+  "workRequired": "yes",
+  "workNotes": "Daily work practice (samu) is a scheduled part of every sesshin and zazenkai, alongside sitting and walking meditation.",
+  "about": "Great Plains Zen Center is a Zen Buddhist community on about three acres of restored prairie in rural Green County, near Monroe, Wisconsin, with a second, non-residential practice site in Palatine, Illinois. Rooted in the Zen Peacemaker lineage under teachers Susan Myoyu Andersen Roshi and John Gendo Wolff Roshi, GPZC holds monthly retreats at its Monroe location ranging from a weekend zazenkai to a seven-day sesshin, all of which include on-site overnight lodging and meals in the registration fee. Retreat days follow a traditional silent schedule of alternating zazen and kinhin, work practice, oryoki meals, and chanting, with participants able to attend full-time or part-time, in person or online. The center emphasizes accessibility, offering scholarships to keep retreats affordable for all who wish to attend.",
+  "tags": [
+    "zen",
+    "silent",
+    "online-hybrid",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Great Plains Zen Center - Monroe Wisconsin",
+      "url": "https://greatplainszen.org/great-plains-zen-center-monroe-wisconsin/"
+    },
+    {
+      "title": "Retreats (Sesshin and Zazenkai) - Great Plains Zen Center",
+      "url": "https://greatplainszen.org/retreats-sesshin-and-zazenkai/"
+    },
+    {
+      "title": "Three Day Sesshin July 30-August 2 2026",
+      "url": "https://greatplainszen.org/event/three-day-sesshin-july-30-august-2-2026/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

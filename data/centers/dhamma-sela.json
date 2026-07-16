@@ -1,0 +1,73 @@
+{
+  "id": "dhamma-sela",
+  "name": "Dhamma Sela",
+  "aka": [
+    "Rocky Mountain Vipassana Center",
+    "Rocky Mountain Vipassana Association"
+  ],
+  "website": "https://sela.dhamma.org/",
+  "location": {
+    "address": "6409 County Road 82, Elbert, CO 80106",
+    "city": "Elbert",
+    "county": "Elbert County",
+    "region": "Front Range",
+    "state": "CO",
+    "lat": 39.1,
+    "lng": -104.61
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana (breath awareness and body-scanning meditation)",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "Courses are led by certified assistant teachers appointed within the Goenka tradition, with scheduled interviews rather than informal one-on-one access.",
+  "retreatOptions": "10-day residential courses, plus shorter 1-day and 3-day courses and service periods for returning students",
+  "about": "Dhamma Sela, also known as the Rocky Mountain Vipassana Center, is a residential Vipassana meditation center on 156 acres of ponderosa pine forest and grassland near Elbert, Colorado, roughly 60 miles southeast of Denver and 35 miles northeast of Colorado Springs. Established in 2017, it offers the standard 10-day Vipassana course as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, in which students learn Anapana and Vipassana meditation under a code of discipline that includes Noble Silence for most of the course. Beyond the core 10-day courses, the center hosts shorter old-student courses, work-focused service periods, and periodic group sittings for continuing practitioners in the Denver area. As with all centers in the Goenka network, courses are taught entirely on a volunteer and donation basis, with no fees charged to students.",
+  "schedule": "Several 10-day courses run each year (separated by gender), along with occasional 1-day sittings, old-student short courses, and multi-day service periods",
+  "cost": "Strictly donation-based (dana); no fees or suggested amounts are charged, as course costs are covered by voluntary donations from past students",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course.",
+    "source": "https://sela.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are provided free to all students and servers during courses and service periods",
+  "workRequired": "no",
+  "workNotes": "Course students are not required to work; separate voluntary service periods and Dhamma service opportunities are available for old students",
+  "tags": [
+    "goenka",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Sela - official site",
+      "url": "https://sela.dhamma.org/"
+    },
+    {
+      "title": "Dhamma Sela course schedule (dhamma.org)",
+      "url": "https://www.dhamma.org/en-US/schedules/schsela"
+    },
+    {
+      "title": "About Dhamma Sela",
+      "url": "https://sela.dhamma.org/the-center/dhamma-sela/"
+    },
+    {
+      "title": "Dhamma Sela - Directions",
+      "url": "https://sela.dhamma.org/course-info/directions/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+harness/.env
+.wrangler/
+.DS_Store
+*.log
+render-check-tmp.mjs
+.fuse_hidden*

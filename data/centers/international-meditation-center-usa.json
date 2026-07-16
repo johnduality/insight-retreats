@@ -1,0 +1,69 @@
+{
+  "id": "international-meditation-center-usa",
+  "name": "International Meditation Center - USA",
+  "aka": [
+    "IMC-USA",
+    "International Meditation Center Maryland"
+  ],
+  "website": "https://www.internationalmeditationcenter.org/",
+  "location": {
+    "city": "Westminster",
+    "region": "Central Maryland",
+    "state": "MD",
+    "lat": 39.7088,
+    "lng": -76.983
+  },
+  "tradition": "Theravada Buddhist Vipassana in the Sayagyi U Ba Khin lineage",
+  "technique": "Anapana (mindfulness of breathing) followed by body-scanning Vipassana, within a framework of sila (precepts), samadhi and panna",
+  "influences": [
+    "Sayagyi U Ba Khin",
+    "Mother Sayamagyi",
+    "Ledi Sayadaw",
+    "Webu Sayadaw"
+  ],
+  "teacherAccess": "A single resident/visiting teacher leads each course, gives twice-daily group instruction and discourses, and meets students individually for daily interviews",
+  "retreatOptions": "Ten-day residential courses only, run about six times a year; shorter stays are rarely accommodated and only by special arrangement",
+  "schedule": "Roughly bimonthly 10-day courses (e.g. 2026 dates: Jul 3-13, Aug 14-24, Sep 4-14 in Half Moon Bay CA, Oct 9-19, Dec 18-28); courses run Friday evening through Monday morning cadence with application via online or paper form",
+  "cost": "No fee is charged for the teaching; a suggested donation of $400 covers room and board for the full 10-day course",
+  "pricePerDay": {
+    "min": 40,
+    "max": 40,
+    "unit": "night",
+    "notes": "Derived from the site's suggested $400 donation for the full 10-day/10-night residential course ($400 / 10 nights = $40/night); framed as a suggested donation, not a fixed fee",
+    "source": "https://www.internationalmeditationcenter.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Wholesome vegetarian meals are provided; special diets for medical reasons are accommodated where possible",
+  "workRequired": "no",
+  "workNotes": "Course guidelines describe meditation, discourses, and daily teacher interviews; no work practice or chore requirement is mentioned for students",
+  "about": "International Meditation Center - USA (IMC-USA) is a Theravada Buddhist meditation center in rural Westminster, Maryland, founded in 1988 to carry on the teaching of the late Sayagyi U Ba Khin as transmitted by his leading disciple Mother Sayamagyi. It operates under the auspices of the International Meditation Center in the United Kingdom, where Mother Sayamagyi lived and taught for forty years. The center holds ten-day residential Vipassana courses roughly six times a year, combining morning and evening group meditation, daily discourses, and individual interviews with a visiting teacher. Students begin with Anapana (mindfulness of breathing) before moving into Vipassana body-scanning practice, all grounded in observance of five precepts and noble silence. There is no course fee; students are asked for a suggested donation to cover food and lodging, and vegetarian meals and dormitory-style accommodation are provided on-site.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "International Meditation Center - USA, homepage",
+      "url": "https://www.internationalmeditationcenter.org/"
+    },
+    {
+      "title": "Buddhist Meditation Courses in Maryland (guidelines, dates, timetable)",
+      "url": "https://www.internationalmeditationcenter.org/buddhist-meditation-courses-in-maryland"
+    },
+    {
+      "title": "IMC-USA Course Application Form",
+      "url": "https://www.internationalmeditationcenter.org/apply"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

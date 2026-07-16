@@ -1,0 +1,66 @@
+{
+  "id": "dhamma-pakasa",
+  "name": "Dhamma Pakasa (Illinois Vipassana Center)",
+  "aka": [
+    "Illinois Vipassana Center",
+    "Illinois Vipassana Meditation Center"
+  ],
+  "location": {
+    "city": "Pecatonica",
+    "region": "Northern Illinois",
+    "state": "IL",
+    "lat": 42.3186,
+    "lng": -89.3577
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin",
+  "technique": "Ten-day residential courses in Anapana and Vipassana meditation, focused on body sensation and equanimity, taught via recorded instruction from S.N. Goenka",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin",
+    "Theravada Buddhism"
+  ],
+  "teacherAccess": "Courses are led on-site by trained assistant teachers who guide students through audio and video recordings of S.N. Goenka; there is no live discourse teacher",
+  "retreatOptions": "Residential 10-day courses for new and old students, plus 1-3 day short courses, Satipatthana Sutta courses, and teen/children's Anapana courses, mostly restricted to old students for the shorter formats",
+  "schedule": "Standard Goenka 10-day timetable: courses begin with evening check-in and end the morning of day 11, with about 10 hours of meditation daily from roughly 4:30am to 9pm, observed in noble silence until the final full day",
+  "cost": "Donation-based (dana); no fees are charged for the course, teaching, food, or accommodation",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Donation-based (dana); no fixed or suggested fee. All expenses are met by voluntary donations from former students.",
+    "source": "https://www.dhamma.org/en-US/schedules/schpakasa"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "no",
+  "workNotes": "No work is required of participants during the 10-day course itself; meals and site upkeep are handled by volunteer servers. Separate voluntary 'service periods' and 'House & Garden Days' exist for old students between courses but are not part of the course program.",
+  "foodNotes": "Simple, wholesome vegetarian meals are served throughout the course; students with special dietary needs can generally be accommodated if they contact the center well in advance.",
+  "about": "Dhamma Pakasa is the Illinois Vipassana Center, sited on twenty quiet acres next to the Four Lakes Forest Preserve near Pecatonica in northern Illinois, not far from Rockford. Operating since 2003, it is one of several centers worldwide teaching Vipassana meditation as brought by S.N. Goenka in the tradition of Sayagyi U Ba Khin. The center offers residential ten-day courses for new and returning students, along with shorter courses and Satipatthana Sutta courses, and Anapana programs for teenagers and children, for qualified old students. All courses are taught through recorded audio and video instruction from Goenka rather than a live teacher, and are held largely in noble silence. The center accommodates about fifty students, generally in private rooms sharing a bathroom with another student, and serves simple vegetarian meals throughout the course. As with all Goenka centers, courses are entirely donation-based, with no fees charged for teaching, food, or lodging.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "diet-vegetarian",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Pakasa - Home",
+      "url": "https://pakasa.dhamma.org/"
+    },
+    {
+      "title": "The Center - Illinois Vipassana Center - Dhamma Pakasa",
+      "url": "https://pakasa.dhamma.org/illinois-vipassana-center/"
+    },
+    {
+      "title": "Dhamma Pakasa Course Schedule (dhamma.org)",
+      "url": "https://www.dhamma.org/en-US/schedules/schpakasa"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

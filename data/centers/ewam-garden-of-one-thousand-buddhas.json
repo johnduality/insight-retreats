@@ -1,0 +1,75 @@
+{
+  "id": "ewam-garden-of-one-thousand-buddhas",
+  "name": "Ewam Garden of One Thousand Buddhas",
+  "website": "https://ewam.org/centers/ewam-usa/buddha-garden",
+  "aka": [
+    "Garden of One Thousand Buddhas",
+    "Ewam Montana",
+    "Ewam Buddhist Center",
+    "Ewam Buddha Garden",
+    "Ewam USA",
+    "Ewam Buddhist Institute"
+  ],
+  "location": {
+    "city": "Arlee",
+    "region": "Jocko Valley, near Missoula",
+    "state": "MT",
+    "lat": 47.1619,
+    "lng": -114.0851
+  },
+  "tradition": "Nyingma School of Tibetan Buddhism — a public Buddhist garden and retreat/study center under Gochen Tulku Sang-ngag Rinpoche",
+  "influences": [
+    "Tibetan Buddhism",
+    "Nyingma",
+    "Vajrayana",
+    "Dzogchen"
+  ],
+  "teacherAccess": "Multi-day retreats, ceremonies, and Shedra courses are taught directly by Gochen Tulku Sang-ngag Rinpoche and resident/visiting Tibetan and Western teachers, with group instruction, individual practice guidance, and periodic personal interviews.",
+  "retreatOptions": "Multi-day residential programs held on-site, including the 12-day annual Ewam Buddhist Institute (Shedra) study courses each held in July, the roughly 9-day Sangwa Yeshe Drubchöd group practice ceremony, and the annual month-long Yangti Gomde retreat cycle (progressive levels held August into September) for continuing students.",
+  "about": "The Ewam Garden of One Thousand Buddhas is a public park, botanical garden, and Tibetan Buddhist center in Montana's Jocko Valley near Arlee, on land of the Confederated Salish and Kootenai Tribes. Founded by Gochen Tulku Sang-ngag Rinpoche of the Nyingma School, the Garden is both a free public pilgrimage site and the home of the Ewam Buddhist Institute (Shedra), which teaches multi-day residential courses on the complete Buddhist path each summer, and of the annual Yangti Gomde, a roughly month-long gathering where continuing students progress through ngondro, deity practice, and Dzogchen training under Rinpoche's guidance. Retreatants can stay on-site in camping, shared-room, or single-room accommodations. The Garden also hosts a large annual group ceremony (the Sangwa Yeshe Drubchöd) and free community events such as the Peace Festival, though those day events are separate from its residential retreat and study programs.",
+  "technique": "Tibetan Vajrayana meditation including ngondro (preliminary practices), deity yoga (kyerim), subtle-body practices (tsalung, including tummo and trulkhor), and progressive Dzogchen meditation within the Yangti Nagpo cycle.",
+  "schedule": "Residential program days combine two teaching/practice sessions with study or contemplation; ceremonial retreats center on daily group ritual practice (drupchö) in front of the Garden's central Yum Chenmo statue; the public garden itself keeps separate seasonal daily visiting hours.",
+  "cost": "Specific current per-night or per-retreat pricing is not published on the official retreat/program pages checked; residential participants in multi-day programs are housed on-site (camping, shared, or single rooms) for the duration of the course.",
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Residential program participants are housed and fed on-site for the duration of multi-day courses and retreats; specific meal/diet details were not published on the pages checked.",
+  "workRequired": "unknown",
+  "workNotes": "Paid, room-and-board internships (e.g. Garden Helper, Gift Shop Clerk) are advertised separately from the retreat/study programs; no work requirement is stated for retreat or Shedra participants themselves.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "camping",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "The Garden of One Thousand Buddhas (Ewam USA center page)",
+      "url": "https://ewam.org/centers/ewam-usa/buddha-garden"
+    },
+    {
+      "title": "Ewam Yangti Gomde",
+      "url": "https://ewam.org/home/ewam-yangti-gomde"
+    },
+    {
+      "title": "Programs",
+      "url": "https://ewam.org/retreats"
+    },
+    {
+      "title": "Ewam Buddhist Institute",
+      "url": "https://ewam.org/ewam-buddhist-institute"
+    },
+    {
+      "title": "Ewam Shedra Program 2026 (course dates)",
+      "url": "https://ewam.org/ewam-shedra-program-2026"
+    },
+    {
+      "title": "Summer Shedra Program Description (PDF)",
+      "url": "https://ewam.org/wp-content/uploads/2025/03/ShedraDescripCiombined.pdf"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

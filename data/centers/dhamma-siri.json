@@ -1,0 +1,71 @@
+{
+  "id": "dhamma-siri",
+  "name": "Dhamma Sirī – Southwest Vipassana Meditation Center",
+  "aka": [
+    "Southwest Vipassana Meditation Center",
+    "Dhamma Siri"
+  ],
+  "location": {
+    "city": "Kaufman",
+    "region": "Dallas–Fort Worth",
+    "state": "TX",
+    "lat": 32.4908,
+    "lng": -96.2924
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka, in the tradition of Sayagyi U Ba Khin",
+  "technique": "Anapana (breath awareness) followed by Vipassana body-scanning to develop concentration and equanimity toward sensation",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin",
+    "Burmese Vipassana tradition"
+  ],
+  "teacherAccess": "Instruction is delivered via S.N. Goenka's recorded audio and video discourses; a resident assistant teacher leads daily group sittings and is available for private interviews (12:00-1:00pm) and public question time (9:00-9:30pm)",
+  "retreatOptions": "10-day residential courses for new and returning students (most common); occasional 1-day, 3-day, Satipatthana, and longer 20/30/45-day courses for old students; separate children's and teen courses",
+  "schedule": "Fixed daily timetable, 4:00am wake-up bell through 9:30pm lights-out, roughly 10 hours of seated meditation per day in structured blocks, one evening discourse, Noble Silence observed from the first evening through the morning of the second-to-last day; no deviation from the timetable is permitted",
+  "cost": "No fee for teaching, room, or board; courses are run strictly on a voluntary donation (dana) basis. First-time students may only donate after completing a course; donations fund future students' courses",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Donation-based (dana); no fixed or suggested fee. First-time students may give a donation only at the end of the course, once they have experienced the benefits themselves.",
+    "source": "https://siri.dhamma.org/course-info/ten-day-other-adult-courses/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "no",
+  "workNotes": "Courses are staffed entirely by volunteer teachers, managers, and kitchen workers; participating students are not assigned chores during the course itself, though they are expected to clean their own room before departing. Experienced students may separately apply to return later as volunteer course servers (dhamma seva), which is a distinct, optional commitment outside of taking a course.",
+  "foodNotes": "Simple vegetarian meals (breakfast, lunch, and a light evening tea/fruit break; old students take only lemon water or plain tea after midday) are provided at no charge; no outside food is allowed and special requests generally can't be accommodated, though medically necessary diets can be arranged in advance.",
+  "about": "Dhamma Sirī, also called the Southwest Vipassana Meditation Center, is a rural retreat center on about 20 acres a few miles south of Kaufman, Texas, roughly 45 minutes southeast of Dallas. Established in 1990, it teaches Vipassana meditation exactly as presented by the late S.N. Goenka in the tradition of Sayagyi U Ba Khin, using his recorded audio and video instructions supplemented by a resident assistant teacher. Its core offering is the 10-day residential course, held about a dozen times a year for roughly 20 to 90 students, along with occasional 1-day, 3-day, Satipatthana, and longer 20/30/45-day courses for returning students. Courses follow a fixed timetable starting at 4:00am with about ten hours of seated meditation daily, require Noble Silence for most of the stay, and ask all participants to accept the Code of Discipline, including five (or eight, for old students) moral precepts. Meals are simple vegetarian food prepared by volunteers, and the entire course—teaching, room, and board—is offered free of charge on a strictly voluntary donation basis.",
+  "tags": [
+    "goenka",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "siri.dhamma.org — Home",
+      "url": "https://siri.dhamma.org/"
+    },
+    {
+      "title": "Ten Day Other Adult Courses",
+      "url": "https://siri.dhamma.org/course-info/ten-day-other-adult-courses/"
+    },
+    {
+      "title": "Code",
+      "url": "https://siri.dhamma.org/about/code/"
+    },
+    {
+      "title": "What To Expect",
+      "url": "https://siri.dhamma.org/what-to-expect/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

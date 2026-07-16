@@ -1,0 +1,77 @@
+{
+  "id": "dhamma-dhara",
+  "name": "Dhamma Dharā",
+  "aka": [
+    "Vipassana Meditation Center – Dhamma Dharā",
+    "Shelburne Vipassana Center"
+  ],
+  "website": "https://dhara.dhamma.org/",
+  "location": {
+    "address": "386 Colrain-Shelburne Rd, Shelburne, MA 01370",
+    "city": "Shelburne Falls",
+    "county": "Franklin County",
+    "region": "Pioneer Valley",
+    "state": "MA",
+    "lat": 42.63464,
+    "lng": -72.666934
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give evening discourses and are available for brief questions.",
+  "retreatOptions": "10-day courses (most common), plus longer 20-day, 30-day, and 45-day courses, and periodic courses for children/teenagers.",
+  "about": "Dhamma Dharā, founded in 1982, was the first Vipassana meditation center established in North America and now sits on 108 acres of rural farmland in western Massachusetts. It offers residential courses in Vipassana meditation as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, with the standard 10-day course as the foundational offering. Students follow a fixed daily schedule of silent meditation, live entirely on-site, and observe Noble Silence for most of the course. Longer 20-, 30-, and 45-day courses are available for returning students who have completed at least one 10-day course. Like all centers in the Goenka network, it operates purely on voluntary donations, with courses offered free of charge to all who attend.",
+  "schedule": "Roughly 19 ten-day courses run per year, plus periodic longer courses (20/30/45-day) and courses for children and teens; courses run on a fixed published schedule with defined start and end dates.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course.",
+    "source": "https://dhara.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior course) are asked to give some work service (dhamma seva) during their stay; new students generally are not required to work.",
+  "tags": [
+    "goenka",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "About Us | Vipassana Meditation Center – Dhamma Dharā",
+      "url": "https://dhara.dhamma.org/the-center/"
+    },
+    {
+      "title": "What to Expect | Vipassana Meditation Center – Dhamma Dharā",
+      "url": "https://dhara.dhamma.org/courses/what-to-expect/"
+    },
+    {
+      "title": "Questions and Answers | Vipassana Meditation Center – Dhamma Dharā",
+      "url": "https://dhara.dhamma.org/courses/qanda/"
+    },
+    {
+      "title": "Dhamma Dhara: Land of Dhamma | Vipassana Research Institute",
+      "url": "https://www.vridhamma.org/Dhamma-Dhara-Land-of-Dhamma"
+    },
+    {
+      "title": "Getting Here | Vipassana Meditation Center – Dhamma Dharā",
+      "url": "https://dhara.dhamma.org/getting-here/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

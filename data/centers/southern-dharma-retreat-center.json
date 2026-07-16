@@ -1,0 +1,78 @@
+{
+  "id": "southern-dharma-retreat-center",
+  "name": "Southern Dharma Retreat Center",
+  "website": "https://southerndharma.org/",
+  "aka": [
+    "SDRC"
+  ],
+  "location": {
+    "city": "Hot Springs",
+    "region": "Asheville area / Blue Ridge Mountains",
+    "state": "NC",
+    "lat": 35.799,
+    "lng": -82.854
+  },
+  "tradition": "Non-sectarian, teacher-led silent meditation retreats spanning Insight/Vipassana, Zen, Theravada, and Tibetan Buddhist traditions",
+  "technique": "Silent sitting and walking meditation, working meditation, and metta/heart practices, guided by each visiting teacher's own lineage",
+  "influences": [
+    "Insight Meditation (Vipassana)",
+    "Zen",
+    "Theravada teachers",
+    "Tibetan Buddhism",
+    "Insight Dialogue"
+  ],
+  "teacherAccess": "Retreats are led by visiting teachers vetted by SDRC's Programs Committee, offering daily dharma talks, meditation instruction, and individual or small-group interviews with the teacher(s).",
+  "retreatOptions": "Year-round calendar of residential retreats from long weekends (3-4 nights) to weeklong and 10-13 night retreats, an annual month-long retreat, plus occasional online/hybrid and Asheville-based programs.",
+  "schedule": "Daily rhythm of early wake-up, multiple sitting and walking meditation periods, a working meditation period, mindful movement, and an evening dharma talk, held in Noble Silence with lights out at 10pm.",
+  "cost": "2026 pricing is lodging-based: about $100/night for a tent platform, roughly $135-255/night for a furnished canvas tent, about $200-240/night for a shared lodge bed, and roughly $260-295/night for a private unheated kuti; 25%/50% scholarships and added BIPOC/young-adult aid are available, and teacher dana is requested separately.",
+  "pricePerDay": {
+    "min": 100,
+    "max": 295,
+    "unit": "night",
+    "notes": "Derived by dividing each 2026 retreat's published lodging-tier fee by its number of nights, checked across three sample retreats (4, 5, and 10 nights): tent platform/ground is a consistent $100/night base rate; furnished canvas tent runs about $204-255/night; shared lodge bed about $205-240/night; unheated private kuti about $260-295/night. Fees include all meals; teacher dana is a separate, optional contribution not included in these figures.",
+    "source": "https://southerndharma.org/retreat-schedule/1550/a-life-that-works"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "All prepared meals are vegan and gluten-free by default (kitchen is not certified gluten-free), with vegetarian dairy/gluten add-ons offered alongside every meal; SDRC purchases no meat or fish, so retreatants who require animal protein must bring their own shelf-stable supply.",
+  "workRequired": "yes",
+  "workNotes": "Every full retreat day includes a scheduled working-meditation period (about 8:30-9:45am) where retreatants help with kitchen, cleaning, or grounds tasks as part of practice, in addition to periodic larger volunteer work crews organized by the Facilities Manager.",
+  "about": "Southern Dharma Retreat Center is a non-sectarian meditation retreat center on about 150 acres of forest on Hap Mountain near Hot Springs and Spring Creek in Madison County, North Carolina, roughly an hour from Asheville. Founded in 1978, it hosts a year-round calendar of silent, teacher-led residential retreats -- typically four to ten nights, plus an annual month-long retreat -- led by visiting teachers drawn from Insight/Vipassana, Zen, Tibetan, and other Buddhist lineages rather than a single resident tradition. Guests stay in a shared lodge, unheated single kutis, furnished canvas tents, or basic tent platforms, and all meals are vegan and gluten-free by default with vegetarian add-ons offered alongside. Days follow a structured schedule of sitting and walking meditation, a working-meditation period, and an evening dharma talk, held in Noble Silence. Since 2026, program fees are tied directly to the chosen lodging type rather than a single flat rate, with need-based scholarships and BIPOC/young-adult financial aid available; teacher dana is requested separately from the program fee.",
+  "tags": [
+    "insight-vipassana",
+    "zen",
+    "silent",
+    "long-retreats",
+    "diet-vegan",
+    "diet-vegetarian",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "camping",
+    "online-hybrid"
+  ],
+  "sources": [
+    {
+      "title": "Southern Dharma Retreat Center - Home",
+      "url": "https://southerndharma.org/"
+    },
+    {
+      "title": "About - Southern Dharma (Mission, Land and History)",
+      "url": "https://southerndharma.org/about/"
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "url": "https://southerndharma.org/frequently-asked-questions/"
+    },
+    {
+      "title": "Sample 2026 retreat listing with lodging-based pricing (A Life that Works)",
+      "url": "https://southerndharma.org/retreat-schedule/1550/a-life-that-works"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-14",
+    "reviewStatus": "unverified"
+  }
+}

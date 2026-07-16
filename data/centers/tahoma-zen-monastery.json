@@ -1,0 +1,72 @@
+{
+  "name": "Tahoma Zen Monastery",
+  "website": "https://www.tahomazenmonastery.com/",
+  "aka": [
+    "Tahoma-san Sogen-ji Zen Monastery",
+    "One Drop Zendo"
+  ],
+  "location": {
+    "city": "Freeland",
+    "region": "Puget Sound",
+    "state": "WA",
+    "lat": 48.0281,
+    "lng": -122.5482
+  },
+  "tradition": "Rinzai Zen in the lineage of Shodo Harada Roshi and the One Drop Zendo (Sogen-ji) sangha.",
+  "influences": [
+    "Shodo Harada Roshi",
+    "Sogen-ji (Okayama, Japan)",
+    "Rinzai Zen",
+    "koan practice"
+  ],
+  "teacherAccess": "Sesshin are led by Shodo Harada Roshi with resident monks; koan-based teisho and individual guidance are part of intensive retreats.",
+  "retreatOptions": "Multi-day residential sesshin including a 7-day osesshin and shorter samu/partial-attendance sesshin, plus daylong retreats and daily zazen.",
+  "about": "Tahoma Zen Monastery is a Rinzai Zen training monastery on Whidbey Island near Freeland, Washington, affiliated with Shodo Harada Roshi's One Drop Zendo and Sogen-ji in Japan. It maintains a traditional daily schedule of morning and evening zazen, sutra chanting, and work practice, and hosts weekly community Zazenkai open to the public and online. Several times a year it holds week-long osesshin led by Harada Roshi, featuring intensive zazen, koan study, and daily teisho, alongside shorter samu sesshin and monthly daylong retreats. Residents and sesshin participants live communally on the wooded monastery grounds, sharing meals, chores, and practice. The monastery emphasizes sustained, embodied practice grounded in classic Rinzai form.",
+  "technique": "Rinzai Zen zazen with breath and koan practice, sutra chanting, kinhin, and samu (work practice).",
+  "schedule": "Intensive daily rhythm of early-morning choka and zazen, seated meditation blocks, teisho, samu, and evening zazen throughout sesshin.",
+  "cost": "Week-long osesshin is $450 for the full week, or $75/day for partial attendance; daylong retreats are offered by donation; financial aid available.",
+  "pricePerDay": {
+    "min": 64,
+    "max": 75,
+    "unit": "night",
+    "notes": "$450 for the 7-night osesshin equals about $64/night; partial attendance is $75/day. Financial aid available.",
+    "source": "https://www.tahomazenmonastery.com/2026/03/22/may-2026-samu-sesshin/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Communal vegetarian monastery meals are served during sesshin and community days.",
+  "workRequired": "yes",
+  "workNotes": "Samu (work practice) is integral; the samu sesshin includes a two-hour morning work period.",
+  "tags": [
+    "zen",
+    "silent",
+    "monastic-community",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "day-retreats",
+    "online-hybrid",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Tahoma Zen Monastery – Home",
+      "url": "https://www.tahomazenmonastery.com/"
+    },
+    {
+      "title": "May 2026 Samu Sesshin (pricing and schedule)",
+      "url": "https://www.tahomazenmonastery.com/2026/03/22/may-2026-samu-sesshin/"
+    },
+    {
+      "title": "Sesshin",
+      "url": "https://www.tahomazenmonastery.com/sesshin/"
+    }
+  ],
+  "id": "tahoma-zen-monastery",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

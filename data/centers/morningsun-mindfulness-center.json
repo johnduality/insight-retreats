@@ -1,0 +1,62 @@
+{
+  "id": "morningsun-mindfulness-center",
+  "name": "MorningSun Mindfulness Center",
+  "aka": [
+    "Morning Sun Community",
+    "Morning Sun Mindfulness Center"
+  ],
+  "website": "https://morningsuncommunity.org/",
+  "location": {
+    "city": "Alstead",
+    "region": "Monadnock Region NH",
+    "state": "NH",
+    "lat": 43.149,
+    "lng": -72.3606
+  },
+  "tradition": "Plum Village Zen / Engaged Buddhism (lineage of Thich Nhat Hanh)",
+  "technique": "Sitting and walking meditation, mindful eating, Days of Mindfulness, and community practice in the Plum Village tradition",
+  "influences": [
+    "Thich Nhat Hanh",
+    "Plum Village tradition",
+    "Fern Dorresteyn",
+    "Michael Ciborski",
+    "Order of Interbeing"
+  ],
+  "teacherAccess": "Retreats are led by resident Dharma teachers Fern Dorresteyn and Michael Ciborski (both trained as monastics at Plum Village and ordained in the Order of Interbeing), often alongside visiting Order of Interbeing teachers.",
+  "retreatOptions": "Weekend 'Mindful Living Weekend' retreats (Friday evening-Sunday afternoon) and longer themed multi-day residential retreats (educators, families, young adults, and others) held on-site at the community's own retreat building, 'the Barn,' with dormitory rooms in 'El Cielo' and a camping option.",
+  "about": "MorningSun is a Buddhist mindfulness practice center and residential community in the Plum Village tradition of Thich Nhat Hanh, located on 240 acres in Alstead, New Hampshire. It was founded by Fern Dorresteyn and Michael Ciborski, who each trained for years as monastics at Plum Village in France before returning to New Hampshire to build a lay practice community. With the completion of its own retreat building, known as 'the Barn,' and dormitory housing in 'El Cielo,' MorningSun now hosts year-round residential programming, including a monthly weekend retreat and periodic multi-day themed retreats for educators, families, young adults, and other groups. Retreats combine sitting and walking meditation, mindful eating, and community practice drawn directly from the Plum Village tradition, with lodging ranging from dormitory rooms to on-site camping.",
+  "schedule": "Mindful Living Weekend retreats held most months (Friday evening through Sunday afternoon); themed multi-day retreats scheduled through the warmer months; weekly Sunday Day of Mindfulness.",
+  "cost": "Program fee on an affordable sliding scale (roughly $240-440 for a multi-day retreat), plus separate lodging cost (camping around $50, dormitory around $180 for the retreat); no fixed nightly rate is published.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Retreats include mindful, communal vegetarian meals as part of the program, consistent with Plum Village practice.",
+  "workRequired": "partial",
+  "workNotes": "As a practice community, retreats typically include shared community tasks and 'working meditation' alongside sitting and walking practice.",
+  "tags": [
+    "plum-village",
+    "family-friendly",
+    "camping",
+    "sliding-scale",
+    "diet-vegetarian",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "MorningSun - Mindfulness Center in the Plum Village Tradition",
+      "url": "https://morningsuncommunity.org/"
+    },
+    {
+      "title": "Educator Retreat (program and pricing example)",
+      "url": "https://morningsuncommunity.org/event/educator-retreat/"
+    },
+    {
+      "title": "MorningSun Mindfulness Center Facebook",
+      "url": "https://www.facebook.com/morningsunmindfulnesscenter/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

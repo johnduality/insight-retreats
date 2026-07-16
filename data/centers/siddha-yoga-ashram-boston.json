@@ -1,0 +1,77 @@
+{
+  "id": "siddha-yoga-ashram-boston",
+  "name": "Siddha Yoga Ashram in Boston",
+  "aka": [
+    "Siddha Yoga Meditation Ashram - Boston, Massachusetts",
+    "SYDA Foundation & Siddha Yoga Meditation Center of New England"
+  ],
+  "website": "https://siddhayogaashramboston.org/",
+  "location": {
+    "address": "155 Clyde St, Chestnut Hill, MA 02467",
+    "city": "Chestnut Hill",
+    "county": "Norfolk County",
+    "region": "Greater Boston",
+    "state": "MA",
+    "lat": 42.319511,
+    "lng": -71.150676
+  },
+  "tradition": "Siddha Yoga / Kashmir Shaivism",
+  "technique": "Meditation, chanting, and study of Siddha Yoga teachings, with seva (selfless service)",
+  "influences": [
+    "Swami Muktananda (Baba Muktananda)",
+    "Gurumayi Chidvilasananda",
+    "Bhagawan Nityananda"
+  ],
+  "teacherAccess": "On-site retreats are led by trained Siddha Yoga meditation teachers; overall guidance flows from the living Guru, Gurumayi Chidvilasananda, via the global Siddha Yoga path.",
+  "retreatOptions": "6-day residential Sadhana Retreats for committed Siddha Yoga students, alongside periodic one-day Muktananda Dhyana Saptah events at the same ashram.",
+  "about": "The Siddha Yoga Ashram in Boston is a historic Tudor Revival building (built 1909) in Chestnut Hill, Massachusetts, that served as a residence for Siddha Yoga Gurus Swami Muktananda and Gurumayi Chidvilasananda and has operated as a retreat center for over 45 years. It hosts the Siddha Yoga Sadhana Retreat, a 6-day residential program with enrollment capped around 25 students who dedicate a week to meditation, chanting, study, and discussion under a Siddha Yoga meditation teacher. The ashram also hosts shorter one-day Muktananda Dhyana Saptah events and other teaching gatherings. The path is rooted in Kashmir Shaivism and the teachings of the Siddha Yoga Gurus, emphasizing direct experience of the Self through grace-bestowing (shaktipat) practices. Retreats are geared toward students already established on the Siddha Yoga path rather than first-time visitors.",
+  "schedule": "Sadhana Retreats and other multi-day teaching events are scheduled periodically through the year, alongside shorter one-day Muktananda Dhyana Saptah dates, announced via the Siddha Yoga events calendar; Boston is one of several ashram locations worldwide offering the Sadhana Retreat.",
+  "cost": "Registration fee is not published online; enrollment (capped near 25 participants) is arranged directly through Siddha Yoga's retreat registration process, with program fees kept separate from the tradition's optional dana (donations) to the SYDA Foundation.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Residential retreats are full-board ashram stays; specific menus are not published online, but Siddha Yoga ashrams follow a vegetarian food standard.",
+  "workRequired": "partial",
+  "workNotes": "Seva (selfless service, e.g. cooking, cleaning) is a core practice woven into ashram and retreat life, though not framed as a mandatory labor exchange for lodging.",
+  "tags": [
+    "yoga-hindu",
+    "long-retreats",
+    "meals-included",
+    "work-practice",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Siddha Yoga Ashram Boston - Welcome",
+      "url": "https://siddhayogaashramboston.org/"
+    },
+    {
+      "title": "Siddha Yoga Ashram Boston - Contact Us",
+      "url": "https://siddhayogaashramboston.org/contact-us/"
+    },
+    {
+      "title": "Siddha Yoga Meditation Ashram - Boston, Massachusetts",
+      "url": "https://www.siddhayoga.org/retreats/ashram-in-boston/"
+    },
+    {
+      "title": "Siddha Yoga Retreats (overview)",
+      "url": "https://www.siddhayoga.org/retreats/"
+    },
+    {
+      "title": "Siddha Yoga Sadhana Retreats",
+      "url": "https://www.siddhayoga.org/retreats/sadhana-retreat/"
+    },
+    {
+      "title": "Siddha Yoga Ashram Locations for Muktananda Dhyana Saptah",
+      "url": "https://www.siddhayoga.org/muktananda-dhyana-saptah/ashram-locations/"
+    },
+    {
+      "title": "Selfless Service (Seva)",
+      "url": "https://www.siddhayoga.org/practices/seva/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

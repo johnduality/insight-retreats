@@ -1,0 +1,68 @@
+{
+  "id": "wonderwell-mountain-refuge",
+  "name": "Wonderwell Mountain Refuge",
+  "aka": [
+    "Natural Dharma Fellowship"
+  ],
+  "website": "https://naturaldharma.org/wonderwell-mountain-refuge/",
+  "location": {
+    "city": "Springfield",
+    "region": "Dartmouth-Lake Sunapee Region NH",
+    "state": "NH",
+    "lat": 43.503,
+    "lng": -72.0816
+  },
+  "tradition": "Tibetan Buddhism (Mahamudra and Dzogchen, non-sectarian)",
+  "technique": "Mahamudra and Dzogchen meditation, sitting and walking practice, Noble Silence retreats",
+  "influences": [
+    "Lama Willa Miller",
+    "Lama Liz Monson",
+    "Natural Dharma Fellowship",
+    "Tibetan Mahamudra and Dzogchen lineages"
+  ],
+  "teacherAccess": "Group residential retreats are led by Natural Dharma Fellowship's resident lamas and visiting teachers; self-led solo retreats require an application and may include a phone interview with a teacher.",
+  "retreatOptions": "Residential group retreats and self-guided solo retreats (2-night minimum) in a historic 15,000-square-foot building accommodating up to 40 guests, with private-bath rooms, dorm rooms, and camping options.",
+  "about": "Wonderwell Mountain Refuge is the residential retreat center of the Natural Dharma Fellowship, a Buddhist community founded by Lama Willa Miller that teaches in the Tibetan Mahamudra and Dzogchen lineages. Set on 25 acres in Springfield, New Hampshire, the historic building houses a large meditation hall with a Tara shrine and seating for 100, along with guest rooms, dormitories, and self-contained solo-retreat suites. The center hosts scheduled group retreats led by NDF teachers throughout the year, as well as self-directed solo silent retreats for practitioners with established meditation experience. Group retreats include vegetarian meals prepared by the community's chefs, light 'yogi job' service tasks, and the practice of Noble Silence. Wonderwell also periodically hosts retreats from allied Buddhist and contemplative organizations.",
+  "schedule": "Group residential retreats scheduled at multiple points throughout the year; solo retreats bookable year-round with a two-night minimum stay.",
+  "cost": "Solo retreats use a three-tier sliding scale of $50-120/night (2-night minimum); group retreat pricing is set per program and room type, generally in the $1,500 range for a multi-night retreat with private room.",
+  "pricePerDay": {
+    "min": 50,
+    "max": 120,
+    "unit": "night",
+    "notes": "Published three-tier sliding-scale nightly rate for self-guided solo retreats (2-night minimum); group program pricing is set separately per retreat.",
+    "source": "https://naturaldharma.org/practice/solo-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Group retreats include vegetarian meals made from local, organic ingredients with vegan and gluten-free options; solo retreatants self-cater using private in-suite kitchens.",
+  "workRequired": "partial",
+  "workNotes": "Group retreat participants sign up for a daily 'yogi job' (about an hour a day, e.g. dishwashing or simple cleaning); solo retreatants have no work obligation.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "camping",
+    "sliding-scale"
+  ],
+  "sources": [
+    {
+      "title": "Wonderwell Mountain Refuge - Natural Dharma Fellowship",
+      "url": "https://naturaldharma.org/wonderwell-mountain-refuge/"
+    },
+    {
+      "title": "Solo Retreat",
+      "url": "https://naturaldharma.org/practice/solo-retreat/"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://naturaldharma.org/contact/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "drala-mountain-center",
+  "name": "Drala Mountain Center",
+  "aka": [
+    "Shambhala Mountain Center",
+    "Rocky Mountain Dharma Center"
+  ],
+  "website": "https://www.dralamountain.org/",
+  "location": {
+    "address": "151 Shambhala Way",
+    "city": "Red Feather Lakes",
+    "county": "Larimer County",
+    "region": "Front Range",
+    "state": "CO",
+    "lat": 40.7354265,
+    "lng": -105.5413491
+  },
+  "tradition": "Shambhala Buddhism (Tibetan Vajrayana)",
+  "technique": "Sitting and walking meditation, dharma study, and contemplative practice in the Shambhala/Trungpa lineage",
+  "influences": [
+    "Chögyam Trungpa Rinpoche",
+    "Sakyong Mipham Rinpoche",
+    "Shambhala Buddhist lineage"
+  ],
+  "teacherAccess": "Programs led by visiting teachers, scholars, and lineage-holders within the Shambhala Buddhist and broader contemplative community.",
+  "retreatOptions": "Weekend workshops through week-long programs, plus self-guided solo retreats and occasional multi-week retreats.",
+  "about": "Drala Mountain Center (formerly Shambhala Mountain Center) is a 600-acre retreat center in the Rocky Mountain foothills near Red Feather Lakes, Colorado, founded in 1971 by Chögyam Trungpa Rinpoche as the Rocky Mountain Dharma Center. It is home to the Great Stupa of Dharmakaya, a 108-foot stupa that houses Trungpa Rinpoche's relics, and operates within the Shambhala Buddhist lineage. The center hosts a year-round calendar of meditation, mindfulness, yoga, creative-arts, and eco-dharma retreats alongside daily practice for staff and residents. Guests can choose from tent camping, dormitories, monk rooms, and private lodge rooms, with all on-site lodging tiers including three meals a day. The organization underwent a name change and governance restructuring in 2022 following sexual-misconduct scandals within Shambhala International.",
+  "schedule": "Year-round scheduled programs ranging from weekend workshops to week-long retreats, with structured daily sessions (morning, afternoon, evening); self-guided solo retreats bookable anytime.",
+  "cost": "Program tuition is billed separately from lodging; lodging (which includes three daily meals) ranges from about $54/night for off-site commuters to $274/night for a private suite, with camping and dorm options in between.",
+  "pricePerDay": {
+    "min": 159,
+    "max": 315,
+    "unit": "night",
+    "notes": "Derived from a standard 7-night residential retreat (The Power of Dark Retreat, Aug 17-24 2026): tuition $425 (~$61/night) plus per-night lodging, which ranges from Earth Dorm ($98/night) to Lodge Single ($254/night); all lodging tiers include three meals/day.",
+    "source": "https://www.dralamountain.org/program/dr826-the-power-of-dark-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Three meals a day included with all on-site lodging; vegetarian, vegan, and gluten-free options offered.",
+  "workRequired": "no",
+  "workNotes": "No work-practice requirement for program guests; separate volunteer and staff-residency tracks exist for those who want to work on-site.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "meals-included",
+    "camping",
+    "silent",
+    "self-guided",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Drala Mountain Center - Official Site",
+      "url": "https://www.dralamountain.org/"
+    },
+    {
+      "title": "Lodging / Rates - Drala Mountain Center",
+      "url": "https://www.dralamountain.org/lodging-rates/"
+    },
+    {
+      "title": "The Power of Dark Retreat (7-night program page)",
+      "url": "https://www.dralamountain.org/program/dr826-the-power-of-dark-retreat/"
+    },
+    {
+      "title": "Drala Mountain Center - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Drala_Mountain_Center"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

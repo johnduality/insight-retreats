@@ -1,0 +1,78 @@
+{
+  "id": "bodhi-manda-zen-center",
+  "name": "Bodhi Manda Zen Center",
+  "aka": [
+    "Jemez Bodhi Mandala",
+    "Bodhi Manda Zen Center of Rinzai-ji"
+  ],
+  "location": {
+    "city": "Jemez Springs",
+    "region": "Jemez Springs area",
+    "state": "NM",
+    "lat": 35.7739,
+    "lng": -106.6934
+  },
+  "tradition": "Rinzai Zen Buddhism",
+  "technique": "Zazen (sitting meditation), chanting, kinhin (walking meditation), and samu (work practice) in the traditional Rinzai Zen monastic style",
+  "influences": [
+    "Rinzai Zen lineage",
+    "Rinzai-ji (Myoshin-ji) tradition",
+    "Joshu Sasaki Roshi's teaching"
+  ],
+  "teacherAccess": "Resident Abbess (Jiun Hosen, Osho) and staff provide guidance; formal dokusan (teacher interviews) offered during sesshin",
+  "retreatOptions": "Guest lodging with a two-night minimum stay; monthly weekend zazenkai (3-4 days) and weeklong sesshin offered several times a year, plus two-month spring and fall monastic training periods and a one-month winter program",
+  "schedule": "Daily practice begins at 5 AM with zazen and chanting in the Sutra Hall; sesshin adds a rigorous meditation schedule with dokusan, silent formal meals, and daily dharma talks; the center is closed Mondays and Tuesdays",
+  "cost": "Guest lodging is $100/night for one person or $175/night for a couple (two-night minimum, children 12 and under free); zazenkai (3 days) is $200-250 all-inclusive; sesshin is $450-600 (5 days) or $600-810 (7 days) all-inclusive depending on shared or private room",
+  "pricePerDay": {
+    "min": 100,
+    "max": 175,
+    "unit": "night",
+    "notes": "Published guest lodging rate: $100/night for one person, $175/night for a couple (two-night minimum). Sesshin (7 days, all-inclusive) works out to roughly $86-116/night separately.",
+    "source": "https://bmzc.org/fees-and-rates"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "workRequired": "partial",
+  "workNotes": "Samu (work practice) is a core part of daily monastic life, sesshin, and the seasonal monastic training periods; short-term lodging guests are not required to do samu but may join daily practice.",
+  "foodNotes": "Home-cooked vegetarian meals are served buffet-style in the dining hall for $15/person/meal when available; sesshin and zazenkai fees include all meals, but lodging-only guests must confirm meal availability in advance or can dine in the village of Jemez Springs.",
+  "about": "Bodhi Manda Zen Center is a Rinzai Zen Buddhist practice and retreat center in Jemez Springs, New Mexico, founded in 1973 after a student of Zen Master Joshu Sasaki Roshi found the site's natural hot springs and persuaded him to teach there. The community trains in a classic Rinzai monastic form built around zazen, chanting, kinhin, and samu, with daily sitting beginning at 5 AM in the historic Sutra Hall and Zendo, a building whose timbers have been tree-ring dated to the early 1880s, making it one of the oldest structures in Jemez Springs. Guests can stay in shared or private rooms with a required two-night minimum, and overnight visitors have access to the center's on-site natural hot springs. Beyond casual lodging, the Bodhi offers monthly weekend zazenkai, weeklong sesshin retreats, full moon sittings, and extended spring and fall monastic training periods, with all-inclusive fees covering meals, lodging, and program.",
+  "tags": [
+    "zen",
+    "mahayana",
+    "silent",
+    "long-retreats",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "fixed-fee",
+    "monastic-community",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Bodhi Manda Zen Center - Home",
+      "url": "https://bmzc.org/"
+    },
+    {
+      "title": "Fees and Rates — Bodhi Manda Zen Center",
+      "url": "https://bmzc.org/fees-and-rates"
+    },
+    {
+      "title": "Visit the Bodhi — Bodhi Manda Zen Center",
+      "url": "https://bmzc.org/visiting"
+    },
+    {
+      "title": "Practice at the Bodhi — Bodhi Manda Zen Center",
+      "url": "https://bmzc.org/zen-practice"
+    },
+    {
+      "title": "Bodhi Archeology (Zendo History) — Bodhi Manda Zen Center",
+      "url": "https://bmzc.org/bodhi-archeology"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

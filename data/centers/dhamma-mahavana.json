@@ -1,0 +1,78 @@
+{
+  "id": "dhamma-mahavana",
+  "name": "California Vipassana Center — Dhamma Mahavana",
+  "aka": [
+    "California Vipassana Center",
+    "CVC",
+    "Dhamma Mahavana"
+  ],
+  "website": "https://mahavana.dhamma.org/",
+  "location": {
+    "city": "North Fork",
+    "region": "Sierra Foothills",
+    "state": "CA",
+    "lat": 37.2028,
+    "lng": -119.529
+  },
+  "tradition": "Vipassana in the tradition of S.N. Goenka (Sayagyi U Ba Khin lineage)",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin",
+    "Theravada Buddhism"
+  ],
+  "about": "Dhamma Mahavana (Pali for \"Great Forest of Dhamma\") is California's oldest Vipassana center, founded in 1991 and set on 109 forested acres of oak, pine, cedar, and manzanita in the Sierra Nevada foothills near North Fork. Its core offering is the standard 10-day residential Vipassana course as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, guided by assistant teachers using Goenka's audio and video recordings. Students observe Noble Silence for the first nine days, refraining from all communication with fellow meditators while following a disciplined daily schedule. The technique is taught free of any charge, with courses funded entirely by donations from those who have completed a prior course. Facilities include individual meditation cells in a pagoda complex, a dedicated meditation hall, separate accommodations and walking paths for men and women, and a kitchen providing all meals.",
+  "technique": "Vipassana as taught by S.N. Goenka: three days of Anapana (observation of natural breath) followed by Vipassana, the systematic observation of bodily sensations to develop equanimity.",
+  "teacherAccess": "Assistant teachers of S.N. Goenka lead courses via his recorded instructions and evening discourses, and are available for individual questions at scheduled times each day.",
+  "retreatOptions": "Primarily standard 10-day residential courses; the wider Goenka network also offers 3-day, Satipatthana, and long (20/30-day) courses for eligible old students.",
+  "schedule": "Structured daily schedule from roughly 4:00 a.m. to 9:30 p.m., with about 10 hours of seated meditation, group sittings, an evening discourse, and Noble Silence observed for the first nine days.",
+  "cost": "No charge for tuition, food, or lodging; courses run entirely on voluntary donations (dana) from students who have completed a previous course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No per-night rate — courses carry no charge, so there is nothing to prorate.",
+    "source": "https://mahavana.dhamma.org/course-finances/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Simple vegetarian meals are provided for all students; new students receive breakfast, lunch, and afternoon tea, with a lighter fruit/tea break in the evening.",
+  "workRequired": "no",
+  "workNotes": "No work or service is required of course participants; the center is run by volunteers, and serving on a course is a separate optional role for old students.",
+  "tags": [
+    "goenka",
+    "theravada",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "California Vipassana Center — Home",
+      "url": "https://mahavana.dhamma.org/"
+    },
+    {
+      "title": "About The Center",
+      "url": "https://mahavana.dhamma.org/about-the-center/"
+    },
+    {
+      "title": "Courses",
+      "url": "https://mahavana.dhamma.org/courses/"
+    },
+    {
+      "title": "Course Finances",
+      "url": "https://mahavana.dhamma.org/course-finances/"
+    },
+    {
+      "title": "Course Schedule",
+      "url": "https://www.dhamma.org/en-US/schedules/schmahavana"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

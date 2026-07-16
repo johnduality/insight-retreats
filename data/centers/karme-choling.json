@@ -1,0 +1,89 @@
+{
+  "id": "karme-choling",
+  "name": "Karmê Chöling",
+  "aka": [
+    "Tail of the Tiger (former name, 1970-1974)"
+  ],
+  "website": "https://www.karmecholing.org/",
+  "location": {
+    "city": "Barnet",
+    "region": "Northeast Kingdom, Vermont",
+    "state": "VT",
+    "lat": 44.3223,
+    "lng": -72.0898
+  },
+  "tradition": "Shambhala Buddhism (Tibetan Vajrayana, Karma Kagyu / Nyingma lineages)",
+  "technique": "Shamatha-vipashyana sitting meditation, Shambhala Training path, tantric/Vajrayana practices for authorized students, plus contemplative disciplines (kyudo archery, mudra space awareness, qigong)",
+  "influences": [
+    "Chögyam Trungpa Rinpoche",
+    "Shambhala International",
+    "Karma Kagyu lineage",
+    "Nyingma lineage",
+    "Sakyong Mipham Rinpoche"
+  ],
+  "teacherAccess": "Assigned meditation instructor for one-on-one guidance during personal retreats; scheduled programs are led by visiting Shambhala teachers, senior students, and facilitators, with talks and Q&A built into the retreat schedule",
+  "retreatOptions": "Half-day and weekend community programs, 5- to 10-day group retreats (Weekthuns, dathuns), self-guided personal retreats of any length, solitary cabin retreats, and open-ended residency (month-to-month living/work-study)",
+  "schedule": "Year-round program calendar of scheduled retreats plus rolling admission for self-guided personal retreats, solitary cabin retreats, and residency; daily community schedule includes two meditation periods, meals, and tea",
+  "cost": "Scheduled programs charge tuition plus separate accommodation/meal fees; self-guided personal retreats charge a flat $20/day program fee plus per-night lodging; financial aid, student discounts, and Shambhala-center matching scholarships are available",
+  "pricePerDay": {
+    "min": 40,
+    "max": 160,
+    "unit": "night",
+    "notes": "Per-night lodging rates for a personal/self-guided retreat, meals included: Shrine Room floor $40, Dorm bed $60, Standard room $120, Premium room $160 (campground options $40-70/night, commuter $30/day meals-only). A separate $20/day program fee applies to custom personal retreats; scheduled group-program tuition is billed separately from these accommodation rates.",
+    "source": "https://www.karmecholing.org/visit/accommodations"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Three meals a day plus tea, largely from the center's own organic garden and local Vermont sources; kitchen accommodates omnivore, vegetarian, vegan, and gluten-free diets, and a community kitchen is available for self-prepared food.",
+  "workRequired": "partial",
+  "workNotes": "Residents and household members participate in ROTA (dishes, cleaning common areas, roles in community practice sessions) framed as mindful work practice; short scheduled retreats and pure guest stays generally do not require work, but in-house/residency stays do.",
+  "about": "Karmê Chöling is a Shambhala Buddhist meditation retreat center on roughly 700-750 acres of forest and farmland in Barnet, in Vermont's Northeast Kingdom. Founded in 1970 by Chögyam Trungpa Rinpoche as his first North American teaching seat (originally named Tail of the Tiger, renamed in 1974), it remains a hub of the Shambhala lineage rooted in Karma Kagyu and Nyingma Tibetan Buddhism. The center hosts a year-round residential community alongside a full calendar of programs, from introductory meditation weekends and the Shambhala Training path to multi-day dathun and Weekthun retreats, solitary cabin retreats, and open-ended residency. Guests can choose scheduled group programs or arrange self-guided personal retreats with support from an assigned meditation instructor, staying in private rooms, dorms, or seasonal tent platforms and eating meals sourced partly from the center's own organic garden. Beyond sitting meditation, Karmê Chöling also teaches contemplative disciplines such as kyudo (Japanese archery), mudra space awareness, and qigong, and it offers financial aid, student discounts, and scholarship matching to make retreats broadly accessible.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "family-friendly",
+    "diet-vegetarian",
+    "diet-vegan",
+    "diet-omnivore",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Karmê Chöling - Official Website",
+      "url": "https://www.karmecholing.org/"
+    },
+    {
+      "title": "Karmê Chöling - About",
+      "url": "https://www.karmecholing.org/about"
+    },
+    {
+      "title": "Karmê Chöling - Retreats 5-Days or More",
+      "url": "https://www.karmecholing.org/programs/deep-meditation-retreats"
+    },
+    {
+      "title": "Karmê Chöling - Accommodations & Pricing",
+      "url": "https://www.karmecholing.org/visit/accommodations"
+    },
+    {
+      "title": "Karmê Chöling - Personal Retreats: What to Know",
+      "url": "https://www.karmecholing.org/retreats/personal-retreats/what-to-know"
+    },
+    {
+      "title": "Karmê Chöling - Financial Aid",
+      "url": "https://www.karmecholing.org/financial-aid"
+    },
+    {
+      "title": "Wikipedia - Karmê Chöling",
+      "url": "https://en.wikipedia.org/wiki/Karm%C3%AA_Ch%C3%B6ling"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

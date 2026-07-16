@@ -1,0 +1,68 @@
+{
+  "name": "Tashi Choling Center for Buddhist Studies",
+  "website": "https://tashicholing.org/",
+  "aka": [
+    "Tashi Chöling"
+  ],
+  "location": {
+    "city": "Ashland",
+    "region": "Southern Oregon",
+    "state": "OR",
+    "lat": 42.0619,
+    "lng": -122.6122
+  },
+  "tradition": "Tibetan Vajrayana Buddhism in the Nyingma lineage of H.H. Dudjom Rinpoche, founded by Venerable Gyatrul Rinpoche.",
+  "influences": [
+    "Nyingma",
+    "Dudjom Tersar lineage",
+    "Dzogchen"
+  ],
+  "teacherAccess": "Retreats are led by authorized senior students and lamas (Sangye Khandro, Les Collins, Lama Bruce Newman) and by visiting Nyingma masters teaching on-site.",
+  "retreatOptions": "Annual multi-day practice-intensive retreats on-site (Vajrasattva/Saga Dawa in spring, Vajrakilaya in fall, Six Bardos in summer, Tröma Nagmo chöd in late winter) with East Wing lodging and camping.",
+  "about": "Tashi Chöling is a Tibetan Vajrayana Buddhist center in the secluded Colestin Valley south of Ashland, Oregon, founded in 1980 by the Nyingma master Venerable Gyatrul Rinpoche. Its four-story traditional temple, Mandala Garden with a 35-foot Vajrasattva statue, Amitabha shrine and Parinirvana stupa sit amid the Siskiyou Mountains. The center offers annual practice-intensive retreats timed to auspicious dates of the Tibetan calendar, including the Vajrasattva retreat around Saga Dawa in spring, the Vajrakilaya retreat in fall, a summer Six Bardos retreat, and Tröma Nagmo chöd in late winter. Daily Vajrasattva practice and monthly lunar-cycle pujas are also held. The adjacent East Wing houses the kitchen, dining and assembly hall, and retreat rooms, providing accommodation for retreat participants, and the center is supported by donations rather than fixed fees.",
+  "technique": "Nyingma Vajrayana deity practice: sadhana/puja with mantra recitation, visualization and tsog food offerings, plus ngöndro preliminaries, chöd, and dzogchen instruction.",
+  "schedule": "Multi-day retreats scheduled around the Tibetan Festival Days; daily temple practice with monthly lunar-cycle pujas throughout the year.",
+  "cost": "Donation-supported; retreats are funded by dana with no fixed registration fee published, and monthly sangha contributions are invited.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No suggested amount; monthly sangha contributions also invited.",
+    "source": "https://tashicholing.org/monthly.html"
+  },
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Retreat participants share communal meals in the East Wing dining hall; pujas include a tsog food offering, and visitors are welcome to bring food.",
+  "workRequired": "unknown",
+  "workNotes": "The center is largely volunteer-run and welcomes help with tasks, but no work requirement is stated for retreat attendance.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "camping",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Tashi Choling - Programs & Annual Retreats",
+      "url": "https://tashicholing.org/programs.html"
+    },
+    {
+      "title": "Tashi Choling - About Us / Vajrayana Buddhism",
+      "url": "https://tashicholing.org/about.html"
+    },
+    {
+      "title": "Tashi Choling - The Temple & East Wing (lodging)",
+      "url": "https://tashicholing.org/temple.html"
+    },
+    {
+      "title": "Tashi Choling - Monthly News & Donations",
+      "url": "https://tashicholing.org/monthly.html"
+    }
+  ],
+  "id": "tashi-choling",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

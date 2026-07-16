@@ -1,0 +1,67 @@
+{
+  "id": "mid-america-buddhist-association",
+  "name": "Mid-America Buddhist Association",
+  "aka": [
+    "MABA",
+    "MABA Monastery"
+  ],
+  "website": "https://maba-usa.org/",
+  "location": {
+    "city": "Augusta",
+    "region": "Missouri River Valley (near St. Louis)",
+    "state": "MO",
+    "lat": 38.5684,
+    "lng": -90.8807
+  },
+  "tradition": "Chinese Mahayana / Chan Buddhism",
+  "technique": "Chan (Zen) sitting and walking meditation, chanting, and Pure Land practice within the Chinese Mahayana monastic tradition",
+  "influences": [
+    "Master Jì Rú (Abbot)",
+    "Chinese Chan Buddhism",
+    "Pure Land Buddhism"
+  ],
+  "teacherAccess": "Resident monastics, including Abbot Master Jì Rú and ordained nuns, lead Sunday practice, give Dharma talks, and guide on-site retreats; lay Dharma teachers also assist.",
+  "retreatOptions": "Public retreats generally run one to three days with longer retreats offered periodically, including an extended winter monastic retreat (Dec 1-Mar 1); overnight guests stay in gender-separated dormitories on site.",
+  "about": "Mid-America Buddhist Association (MABA) is a Chinese Mahayana Buddhist monastery on 74 acres in the Missouri River valley near Augusta, home to a resident community of monastics led by Abbot Master Jì Rú. The monastery is open to the public on Fridays, Saturdays, and Sundays for sitting and walking meditation, chanting, and Dharma study, and it hosts periodic multi-day retreats that combine meditation sessions, Dharma talks, and cooperative work practice. Overnight retreatants and monastics are housed separately by gender in the Blue Lotus House and the Buffalo Lodge, both simple dormitory-style buildings on the monastery grounds. All meals are vegetarian and prepared by volunteer cooks, with lunch as the main meal of the day. MABA operates on a dana (generosity) model, asking no fixed fees but suggesting retreat donations to cover food and facility upkeep.",
+  "schedule": "Open to visitors Friday-Sunday year-round; multi-day retreats are offered periodically through the year, with a longer monastic winter retreat each December through March.",
+  "cost": "Donation-based (dana); no fixed fees, though a retreat donation of about $50/day for food and upkeep is suggested.",
+  "pricePerDay": {
+    "min": 50,
+    "max": 50,
+    "unit": "day",
+    "notes": "The $50/day figure is MABA's own suggested donation, not a required fee.",
+    "source": "https://maba-usa.org/visiting"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian meals a day (no meat, fish, or poultry), prepared by volunteer cooks; lunch is the main meal.",
+  "workRequired": "partial",
+  "workNotes": "Retreats include cooperative activities and simple daily tasks alongside meditation and Dharma talks.",
+  "tags": [
+    "mahayana",
+    "silent",
+    "diet-vegetarian",
+    "meals-included",
+    "dana-donation",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "MABA - Visiting (retreat and facilities info)",
+      "url": "https://maba-usa.org/visiting"
+    },
+    {
+      "title": "MABA - Community (Abbot and Sangha)",
+      "url": "https://maba-usa.org/community"
+    },
+    {
+      "title": "MABA - Home",
+      "url": "https://maba-usa.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

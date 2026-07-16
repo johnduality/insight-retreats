@@ -1,0 +1,149 @@
+{
+  "description": "Controlled tag vocabulary for Insight Retreats. The harness and the site both read this file. Tags are grouped only for display/filtering; on an entry they live in a flat `tags` array. Add new tags here (never invent tags inline) so filtering, colours, and the export stay consistent.",
+  "version": 2,
+  "groups": [
+    {
+      "id": "tradition",
+      "label": "Tradition / Lineage",
+      "color": "#1d4ed8",
+      "tags": [
+        {
+          "id": "zen",
+          "label": "Zen"
+        },
+        {
+          "id": "plum-village",
+          "label": "Plum Village"
+        },
+        {
+          "id": "theravada",
+          "label": "Theravada"
+        },
+        {
+          "id": "insight-vipassana",
+          "label": "Insight / Vipassana"
+        },
+        {
+          "id": "goenka",
+          "label": "Goenka"
+        },
+        {
+          "id": "tibetan-vajrayana",
+          "label": "Tibetan / Vajrayana"
+        },
+        {
+          "id": "mahayana",
+          "label": "Mahayana"
+        },
+        {
+          "id": "yoga-hindu",
+          "label": "Yoga / Hindu"
+        }
+      ]
+    },
+    {
+      "id": "format",
+      "label": "Format",
+      "color": "#0891b2",
+      "tags": [
+        {
+          "id": "day-retreats",
+          "label": "Day Retreats"
+        },
+        {
+          "id": "silent",
+          "label": "Silent Retreats"
+        },
+        {
+          "id": "long-retreats",
+          "label": "Long Retreats (2+ weeks)"
+        },
+        {
+          "id": "family-friendly",
+          "label": "Family / Teen Programs"
+        },
+        {
+          "id": "online-hybrid",
+          "label": "Online / Hybrid Options"
+        },
+        {
+          "id": "self-guided",
+          "label": "Self-Guided / Personal Retreat"
+        }
+      ]
+    },
+    {
+      "id": "diet",
+      "label": "Food / Diet",
+      "color": "#db2777",
+      "tags": [
+        {
+          "id": "diet-vegan",
+          "label": "Vegan"
+        },
+        {
+          "id": "diet-vegetarian",
+          "label": "Vegetarian"
+        },
+        {
+          "id": "diet-omnivore",
+          "label": "Omnivore"
+        }
+      ]
+    },
+    {
+      "id": "cost-model",
+      "label": "Cost Model",
+      "color": "#059669",
+      "tags": [
+        {
+          "id": "dana-donation",
+          "label": "Dana / Donation-Based"
+        },
+        {
+          "id": "sliding-scale",
+          "label": "Sliding Scale"
+        },
+        {
+          "id": "fixed-fee",
+          "label": "Fixed Fee"
+        },
+        {
+          "id": "scholarships",
+          "label": "Scholarships Available"
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "label": "Practical",
+      "color": "#7c3aed",
+      "tags": [
+        {
+          "id": "meals-included",
+          "label": "Meals Included"
+        },
+        {
+          "id": "work-practice",
+          "label": "Work / Service Expected"
+        },
+        {
+          "id": "no-work-required",
+          "label": "No Work Required"
+        },
+        {
+          "id": "accessible",
+          "label": "Wheelchair Accessible"
+        },
+        {
+          "id": "camping",
+          "label": "Camping / Tent Options"
+        },
+        {
+          "id": "monastic-community",
+          "label": "Resident Monastic Community"
+        }
+      ]
+    }
+  ]
+}

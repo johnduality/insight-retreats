@@ -1,0 +1,75 @@
+{
+  "id": "upaya-zen-center",
+  "name": "Upaya Zen Center",
+  "aka": [
+    "Upaya Institute and Zen Center",
+    "Upaya Zen Center & Buddhist Monastery"
+  ],
+  "location": {
+    "city": "Santa Fe",
+    "region": "Santa Fe area",
+    "state": "NM",
+    "lat": 35.6799,
+    "lng": -105.9086
+  },
+  "tradition": "Zen Buddhist practice, service, and training center in the Soto Zen lineage, founded by Roshi Joan Halifax",
+  "technique": "Zazen (seated meditation), liturgy and chant, koan and Dogen study, and work practice (samu) woven with socially engaged Buddhism",
+  "influences": [
+    "Roshi Joan Halifax",
+    "Soto Zen lineage",
+    "Socially Engaged Buddhism",
+    "Zen Peacemaker Order"
+  ],
+  "teacherAccess": "Guests and residents can request dokusan (private interview) with Roshi Joan Halifax and Upaya's Guiding Teachers, and attend weekly dharma talks",
+  "retreatOptions": "Guest Practitioner stays (3-30 days) with samu and full practice schedule, self-directed Personal Practice retreats (2+ days), scheduled sesshins/practice periods and seminars, and multi-month Residential Zen Training",
+  "schedule": "Zazen three times daily, morning and/or afternoon samu (work practice), weekly Wednesday evening dharma talks, liturgy, and noble silence from 9pm to 9am",
+  "cost": "Guest Practitioner: $200/night (single room, three organic vegetarian meals, about 3 hours of samu daily, 3-day minimum); Dedicated Guest Practitioner (full resident schedule incl. afternoon samu): $100/night; self-directed Personal Practice retreat (2-day minimum): $300/night; scholarships available for those in financial need",
+  "pricePerDay": {
+    "min": 200,
+    "max": 200,
+    "unit": "night",
+    "notes": "Guest Practitioner track (standard 3-day-minimum stay: single room, three organic vegetarian meals, ~3 hrs samu daily) is $200/night. Other tracks at the same center: Dedicated Guest Practitioner (heavier work commitment) $100/night; self-directed Personal Practice retreat $300/night.",
+    "source": "https://www.upaya.org/be-at-upaya/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "partial",
+  "workNotes": "Guest Practitioners do about 3 hours of samu (work practice) daily and Dedicated Guest Practitioners follow the full resident schedule including afternoon samu, but self-directed Personal Practice retreatants are not required to work.",
+  "foodNotes": "Three organic vegetarian meals a day are included for Guest Practitioner and Personal Practice stays Wednesday through Sunday; on personal practice days (Monday/Tuesday) guests prepare their own food from the pantry.",
+  "about": "Upaya Zen Center is a Zen Buddhist monastery and practice community in Santa Fe, New Mexico, founded by Roshi Joan Halifax and known for weaving traditional Soto Zen training with socially engaged Buddhism. Visitors can stay as Guest Practitioners for three to thirty days, joining the resident schedule of zazen, work practice, liturgy, and study in a single room with organic vegetarian meals provided. Shorter, more flexible Personal Practice retreats of two or more days are also available for those who want quiet time in the community without a full work commitment. Longer-term Residential Zen Training runs for a minimum of three months and immerses residents in daily meditation, samu, seminars, and service alongside Roshi Joan Halifax and Upaya's Guiding Teachers. The center also runs chaplaincy training, end-of-life care programs, and extensive socially engaged Buddhist service projects.",
+  "tags": [
+    "zen",
+    "mahayana",
+    "silent",
+    "long-retreats",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "monastic-community",
+    "scholarships",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Upaya Zen Center - Home",
+      "url": "https://www.upaya.org/"
+    },
+    {
+      "title": "Ways to Be at Upaya",
+      "url": "https://www.upaya.org/be-at-upaya/"
+    },
+    {
+      "title": "Residential Zen Training at Upaya Zen Center",
+      "url": "https://www.upaya.org/being-at-upaya/residential-program/"
+    },
+    {
+      "title": "About Us - Upaya Zen Center",
+      "url": "https://www.upaya.org/about/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

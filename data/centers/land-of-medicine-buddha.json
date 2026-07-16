@@ -1,0 +1,80 @@
+{
+  "id": "land-of-medicine-buddha",
+  "name": "Land of Medicine Buddha",
+  "website": "https://landofmedicinebuddha.org/",
+  "aka": [
+    "LMB",
+    "Land of Medicine Buddha Healing and Meditation Center"
+  ],
+  "location": {
+    "city": "Soquel",
+    "region": "Santa Cruz County",
+    "state": "CA",
+    "lat": 37.010732,
+    "lng": -121.934112
+  },
+  "tradition": "Tibetan Buddhist (Gelug/Mahayana), affiliated with the Foundation for the Preservation of the Mahayana Tradition (FPMT)",
+  "about": "Land of Medicine Buddha is a 108-acre redwood retreat sanctuary in the Santa Cruz Mountains near the Central California coast, founded in the Tibetan Buddhist tradition and affiliated with the FPMT. The center offers weekend and week-long dharma retreats, day classes, guided pujas and meditations, and self-guided personal getaways, alongside sacred sites such as prayer wheels, stupas, and the Eight Verses Pilgrimage Trail. Programs draw on the Gelug lineage and the vision of Lama Thubten Yeshe and Lama Zopa Rinpoche, aiming to cultivate a kind heart and inner peace through Buddhist and secular contemplative education. Overnight guests stay in guest rooms, yurts, dorms, or tent platforms and have access to hiking trails, a pool and sauna, and a dining room. It also hosts outside groups for rentals and runs a primary school and end-of-life care through affiliated organizations.",
+  "influences": [
+    "Lama Thubten Yeshe",
+    "Lama Zopa Rinpoche",
+    "FPMT",
+    "His Holiness the Dalai Lama",
+    "Gelug lineage"
+  ],
+  "technique": "Tibetan Buddhist practice including Medicine Buddha puja, lamrim meditation, mantra recitation, and tantric teachings and initiations.",
+  "teacherAccess": "Resident and visiting FPMT teachers (geshes and monastics) lead retreats and classes; guided pujas and meditations are open to guests.",
+  "retreatOptions": "Weekend and week-long dharma retreats, day-long classes, online/hybrid programs, group rentals, and self-guided personal getaways.",
+  "schedule": "Retreats follow a structured schedule of teaching sessions with shared meals; overnight guests may also join daily pujas and meditations.",
+  "cost": "Weekend residential retreats run roughly $550-$700 all-inclusive (lodging, meals, teachings); nightly guest-room bookings are also available.",
+  "pricePerDay": {
+    "min": 275,
+    "max": 350,
+    "unit": "night",
+    "notes": "Based on the 2-night Wise Paths to the Heart retreat (Aug 21-23, 2026): Shared Dorm $550 and Single Room $700 all-inclusive of lodging, meals, and teachings, divided by 2 nights. Lower-cost tent platform ($400) and private yurt ($500) options also offered; monastic rate $0.",
+    "source": "https://landofmedicinebuddha.org/retreat-guru/1937/wise-paths-to-the-heart"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are included in retreat and commuter fees; guest-room stays include a free self-serve continental breakfast.",
+  "workRequired": "no",
+  "workNotes": "No work is required of paying retreatants or guests; a separate service-study volunteer/internship program is available for those who wish to contribute.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "day-retreats",
+    "online-hybrid",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "camping",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Land of Medicine Buddha - Home",
+      "url": "https://landofmedicinebuddha.org/"
+    },
+    {
+      "title": "Stay / Book a Room",
+      "url": "https://landofmedicinebuddha.org/stay/"
+    },
+    {
+      "title": "Personal Getaway",
+      "url": "https://landofmedicinebuddha.org/stay/personal-getaway/"
+    },
+    {
+      "title": "Retreats",
+      "url": "https://landofmedicinebuddha.org/programs/retreats/"
+    },
+    {
+      "title": "Wise Paths to the Heart retreat (pricing and schedule)",
+      "url": "https://landofmedicinebuddha.org/retreat-guru/1937/wise-paths-to-the-heart"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

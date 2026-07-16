@@ -1,0 +1,80 @@
+{
+  "id": "honolulu-diamond-sangha",
+  "name": "Honolulu Diamond Sangha",
+  "aka": [
+    "Palolo Zen Center",
+    "Diamond Sangha",
+    "Palolo Zen Temple"
+  ],
+  "website": "https://diamondsangha.org/",
+  "location": {
+    "city": "Honolulu",
+    "region": "Oahu, Hawaii",
+    "state": "HI",
+    "lat": 21.3095,
+    "lng": -157.7813
+  },
+  "tradition": "Zen Buddhism in the Diamond Sangha lineage founded by Robert Aitken Roshi (Harada-Yasutani/Sanbo Kyodan-influenced)",
+  "influences": [
+    "Robert Aitken Roshi (founding teacher)",
+    "Yasutani Roshi and Yamada Koun Roshi lineage",
+    "Michael Kieran Roshi",
+    "Diamond Sangha international network"
+  ],
+  "teacherAccess": "Daily dokusan (private interviews) with the teacher during sesshin and zazenkai; ongoing guidance from resident teachers Michael Kieran Roshi and Kathy Ratliffe plus trained Tantos (training leaders).",
+  "retreatOptions": "Monthly one-day zazenkai; sesshin of 3, 5, 7, or 8 days held several times a year (Fall, Spring, Hele Malie, Summer, and the 8-day Rohatsu sesshin); residential practice for established students (2-month minimum stay).",
+  "about": "Honolulu Diamond Sangha, widely known as the Palolo Zen Center, is a lay Zen Buddhist temple set on 13 acres in the rainy Palolo Valley on the island of Oahu. It was founded by Robert Aitken Roshi, one of the first Western Zen teachers, in a lineage descending from Yasutani Roshi and Yamada Koun Roshi; today the community is guided by Michael Kieran Roshi and Dharma Guide Kathy Ratliffe. Members gather for early-morning and evening zazen throughout the week and monthly one-day zazenkai, but the heart of practice is sesshin - silent, intensive retreats of three to eight days held several times a year, during which participants live at the temple, sitting zazen from about 4am to 9pm with dokusan (private teacher interviews), a sutra service, oryoki-style formal meals, and samu (work practice). Experienced students may also apply for longer-term residency (a two-month minimum stay) at the temple while working or studying in Honolulu. The community is lay-led and non-monastic, with simple vegetarian meals prepared in the temple's shared kitchen and fee reductions available for those unable to pay in full.",
+  "technique": "Zazen (seated Zen meditation) combining koan introspection and shikantaza in the Diamond Sangha lineage, with dokusan (private interviews with the teacher), sutra recitation, and samu (work practice).",
+  "schedule": "Sesshin runs from about 4:00am wake-up through 9:00pm bedtime, alternating blocks of zazen and dokusan with a sutra service, oryoki formal meals, work periods (samu), and an afternoon Dharma assembly, observed mostly in silence.",
+  "cost": "Fixed full-time sesshin fees of $46.50/day for members and $51.50/day for non-members, covering lodging and meals (e.g. the 7-day Summer sesshin is $325 members / $360 non-members); fee reductions available by request for those unable to pay in full.",
+  "pricePerDay": {
+    "min": 46.5,
+    "max": 51.5,
+    "unit": "night",
+    "notes": "Published full-time sesshin day-rate: $46.50/day for Honolulu Diamond Sangha members, $51.50/day for non-members, covering lodging and meals (e.g. the 7-day Summer sesshin totals $325 member / $360 non-member). Excludes part-time per-sitting-block rates.",
+    "source": "https://diamondsangha.org/wp-content/uploads/2024/09/Sesshin-Information-Sheet.pdf"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Formal oryoki-style meals are served during sesshin from the temple's vegetarian kitchen; medically necessary dietary restrictions can be accommodated if noted on the application.",
+  "workRequired": "yes",
+  "workNotes": "Samu (work practice) is built into the daily sesshin schedule to sustain the group and prepare meals; residents additionally commit to about three hours of temple work per week.",
+  "tags": [
+    "zen",
+    "silent",
+    "day-retreats",
+    "long-retreats",
+    "work-practice",
+    "meals-included",
+    "fixed-fee",
+    "scholarships",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Honolulu Diamond Sangha - Facilities",
+      "url": "https://diamondsangha.org/about-us/facilities/"
+    },
+    {
+      "title": "Honolulu Diamond Sangha - Sesshin",
+      "url": "https://diamondsangha.org/training/sesshin/"
+    },
+    {
+      "title": "Honolulu Diamond Sangha - Residential Training",
+      "url": "https://diamondsangha.org/training/residential-training/"
+    },
+    {
+      "title": "Honolulu Diamond Sangha - Frequently Asked",
+      "url": "https://diamondsangha.org/new-to-hds/frequently-asked-questions/"
+    },
+    {
+      "title": "Sesshin Information Sheet (current fees)",
+      "url": "https://diamondsangha.org/wp-content/uploads/2024/09/Sesshin-Information-Sheet.pdf"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

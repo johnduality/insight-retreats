@@ -1,0 +1,77 @@
+{
+  "id": "nebraska-zen-center",
+  "name": "Nebraska Zen Center",
+  "aka": [
+    "Nebraska Zen Center/Heartland Temple",
+    "Heartland Temple",
+    "NZC"
+  ],
+  "website": "https://nebraskazencenter.org/",
+  "location": {
+    "address": "3625 Lafayette Ave, Omaha, NE 68131",
+    "city": "Omaha",
+    "region": "Eastern Nebraska",
+    "state": "NE",
+    "lat": 41.2708,
+    "lng": -95.96996
+  },
+  "tradition": "Soto Zen Buddhism, Katagiri lineage",
+  "influences": [
+    "Dainin Katagiri Roshi",
+    "Shunryu Suzuki Roshi",
+    "Rev. Nonin Chowaney",
+    "Rev. Kyoki Roberts"
+  ],
+  "about": "Nebraska Zen Center/Heartland Temple is a Soto Zen Buddhist community in Omaha's Bemis Park neighborhood, founded in 1975 by Dainin Katagiri Roshi and one of the oldest Soto Zen sanghas in the United States. The sangha has owned and operated its current temple building at 3625 Lafayette Avenue since 1991, when resident abbot Rev. Nonin Chowaney purchased and renovated it, adding a zendo, Buddha hall, student bedrooms, and guest space. Beyond its regular weekday zazen and Sunday services, NZC periodically offers multi-day sesshin (silent meditation retreats) held on-site, combining seated and walking meditation, oryoki-style formal meals, dharma talks, temple-care work periods, and one-on-one meetings with the teacher. The center currently hosts a rotating Interim Head Priest and priests-in-training on short-term residencies rather than a large permanent monastic community, but retreatants can stay overnight at the temple for the full length of a sesshin.",
+  "technique": "Soto Zen shikantaza (zazen) and kinhin (walking meditation), oryoki formal meal practice, and Zen chanting liturgy.",
+  "teacherAccess": "Daily dharma talks and one-on-one dokusan meetings with the guiding teacher during sesshin.",
+  "retreatOptions": "Weekly zazen and monthly one-day sittings; three-day sesshins held several times a year (Friday evening–Sunday noon); an annual five-day Rohatsu sesshin each December.",
+  "schedule": "Weekday morning zazen (6-7:20am) plus evening sittings; three-day sesshins run Friday 2pm to Sunday noon several times a year, with a five-day Rohatsu sesshin in early December.",
+  "cost": "Sesshin registration fee of $120 for members / $135 for nonmembers for a three-day (two-night) retreat, or pay what you can.",
+  "pricePerDay": {
+    "min": 60,
+    "max": 68,
+    "unit": "night",
+    "notes": "Three-day/two-night sesshin: $120 (members) to $135 (nonmembers) ÷ 2 nights (Fri–Sun).",
+    "source": "https://nebraskazencenter.org/september-sesshin/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Traditional oryoki-style formal meals are served during sesshin; regular offerings at the center are always vegetarian, though not always vegan.",
+  "workRequired": "yes",
+  "workNotes": "Sesshin schedule includes built-in temple-care (mindful cleaning) work periods alongside sitting and meals.",
+  "tags": [
+    "zen",
+    "silent",
+    "sliding-scale",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Sesshins and Retreats – Nebraska Zen Center",
+      "url": "https://nebraskazencenter.org/sesshins-and-retreats/"
+    },
+    {
+      "title": "September Sesshin – Nebraska Zen Center",
+      "url": "https://nebraskazencenter.org/september-sesshin/"
+    },
+    {
+      "title": "A Brief History of NZC – Nebraska Zen Center",
+      "url": "https://nebraskazencenter.org/history/"
+    },
+    {
+      "title": "Weekday Practice – Nebraska Zen Center",
+      "url": "https://nebraskazencenter.org/weekly-practice-schedule/"
+    },
+    {
+      "title": "Your First Visit – Nebraska Zen Center",
+      "url": "https://nebraskazencenter.org/your-first-visit/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

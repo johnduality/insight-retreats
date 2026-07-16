@@ -1,0 +1,90 @@
+{
+  "id": "won-dharma-center",
+  "name": "Won Dharma Center",
+  "aka": [
+    "WDC"
+  ],
+  "website": "https://wondharmacenter.org/",
+  "location": {
+    "address": "361 State Route 23, Claverack, NY 12513",
+    "city": "Claverack",
+    "county": "Columbia County",
+    "region": "Hudson Valley",
+    "state": "NY",
+    "lat": 42.2088,
+    "lng": -73.7534
+  },
+  "tradition": "Won Buddhism",
+  "technique": "Seated meditation (Il-Won-Sang), mindfulness in daily life, walking meditation, dharma talks, yoga",
+  "influences": [
+    "Sotaesan (Park Chungbin)",
+    "Won Buddhism",
+    "Rev. Dosung Yoo",
+    "Won Buddhism USA Headquarters"
+  ],
+  "teacherAccess": "Structured retreats are led on-site by Won Buddhist kyomunims (ordained ministers) and invited guest teachers giving meditation instruction and dharma talks; self-retreat guests practice independently.",
+  "retreatOptions": "Self-retreats (2 nights up to about 2 weeks, booked independently) and structured group retreats (typically 3-6 nights, weekend to week-long) offered several times per year.",
+  "about": "Won Dharma Center is a 426-acre meditation and retreat center in Claverack, NY, in the Hudson Valley, established in 2011 as a first step toward a US headquarters for Won Buddhism, a Korean Buddhist tradition founded by Sotaesan (Park Chungbin) in 1916. The eco-friendly, award-winning campus includes a main meditation hall (Il Won Hall), a dining and conference building (One World Hall), and two guest houses accommodating up to 60 overnight guests, set amid wooded foothills with views of the Catskill Mountains. WDC hosts structured group retreats led by Won Buddhist ministers and guest teachers several times a year, alongside self-retreats open to any guest staying two nights or more. Programs emphasize seated meditation, mindfulness in daily life, walking meditation, dharma talks, and yoga, reflecting Won Buddhism's motto that Buddha-dharma is daily life and daily life is Buddha-dharma. Vegetarian meals are served, and the site also hosts corporate off-sites and conferences.",
+  "schedule": "A handful of structured multi-day retreats run spring through fall on fixed calendar dates (roughly 3-6 nights, weekend to week-long); self-retreats can be scheduled any time with a minimum 2-night stay, booked up to one month ahead.",
+  "cost": "Structured retreats use tiered/sliding-scale pricing by room type (single, double sliding-scale, camper, commuter) covering lodging, meals, and instruction for the whole retreat; self-retreats require a $50 non-refundable deposit with the balance due at check-in.",
+  "pricePerDay": {
+    "min": 112,
+    "max": 146,
+    "unit": "night",
+    "notes": "Derived from the Oct 2026 'Living from Our Center' 5-night structured retreat: 2-bed room sliding-scale fee of $560-730 per person divided by 5 nights.",
+    "source": "https://wondharmacenter.org/won-retreat-gratitude-awakening/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are vegetarian (including dairy and eggs), served buffet-style using fresh, local, and some on-site organic garden ingredients; special/allergen diets can be accommodated with advance notice.",
+  "workRequired": "no",
+  "workNotes": "No formal work-practice requirement is described for retreat guests.",
+  "tags": [
+    "self-guided",
+    "meals-included",
+    "sliding-scale",
+    "silent",
+    "accessible",
+    "camping",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Won Dharma Center - Home",
+      "url": "https://wondharmacenter.org/"
+    },
+    {
+      "title": "Retreat Programs - Won Dharma Center",
+      "url": "https://wondharmacenter.org/retreat-programs/"
+    },
+    {
+      "title": "Facilities - Won Dharma Center",
+      "url": "https://wondharmacenter.org/facilities/"
+    },
+    {
+      "title": "Self Retreats - Won Dharma Center",
+      "url": "https://wondharmacenter.org/self-retreats/"
+    },
+    {
+      "title": "[WDC Retreat] Living from Our Center (pricing)",
+      "url": "https://wondharmacenter.org/won-retreat-gratitude-awakening/"
+    },
+    {
+      "title": "Labor Day Weekend Retreat (pricing reference)",
+      "url": "https://wondharmacenter.org/labor-day-weekend-retreat/"
+    },
+    {
+      "title": "Won Buddhism - Won Dharma Center",
+      "url": "https://wondharmacenter.org/won-buddhism/"
+    },
+    {
+      "title": "Won Buddhism - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Won_Buddhism"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

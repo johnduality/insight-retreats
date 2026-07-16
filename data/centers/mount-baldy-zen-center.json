@@ -1,0 +1,81 @@
+{
+  "id": "mount-baldy-zen-center",
+  "name": "Mount Baldy Zen Center",
+  "website": "https://www.mbzc.org",
+  "aka": [
+    "MBZC",
+    "Mt. Baldy Zen Center"
+  ],
+  "location": {
+    "city": "Mount Baldy",
+    "county": "San Bernardino County",
+    "region": "Southern California",
+    "state": "CA",
+    "lat": 34.262816,
+    "lng": -117.633014
+  },
+  "tradition": "Rinzai Zen (Nyorai-nyokyo lineage of Joshu Sasaki Roshi, part of the Rinzai-ji network)",
+  "influences": [
+    "Rinzai Zen",
+    "Joshu Sasaki Roshi",
+    "Myoshinji lineage",
+    "Japanese monastic Zen training"
+  ],
+  "teacherAccess": "During sesshin, participants receive daily teisho (dharma commentary) and may request private one-on-one sanzen (koan interviews) with the presiding visiting Rinzai roshi.",
+  "retreatOptions": "Intensive five-day sesshin (dai-sesshin/ozesshin), three-month summer and winter seichu training periods, less formal spring and autumn seikan work-practice periods, and introductory practice for newcomers.",
+  "technique": "Traditional Rinzai zazen (seated meditation with breath and koan introspection) supported by chanting, formal meals, work practice, teisho, and private sanzen.",
+  "schedule": "A rigorous monastic day held largely in silence, with early rising (around 3-4 a.m.), many successive periods of zazen and kinhin interspersed with chanting, formal meals, and work; dai-sesshin days can stretch roughly 18 hours.",
+  "cost": "The five-day sesshin fee is $500; work exchange or reduced fees may be available for those who would otherwise be unable to attend, arranged through the Rinzai-ji office.",
+  "pricePerDay": {
+    "min": 83,
+    "max": 100,
+    "unit": "night",
+    "notes": "Based on the $500 sesshin fee for a five-day sesshin (arrive the evening before for Hashinkyu-ji, sit Tue-Sat): about $100/night over 5 nights, or ~$83/night if staying the additional night for the closing ceremony. Excludes work-exchange and reduced-fee options.",
+    "source": "https://www.rinzaiji.org/event/darumaki-ozesshin-with-minakawa-roshi/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Simple, mostly vegetarian meals are provided and eaten formally (oryoki-style) as part of the sesshin schedule.",
+  "workRequired": "yes",
+  "workNotes": "Work practice (samu) such as cooking, cleaning, and grounds upkeep is an integral part of daily life, especially during seichu and the work-emphasis seikan periods at this rustic mountain monastery.",
+  "tags": [
+    "zen",
+    "mahayana",
+    "silent",
+    "long-retreats",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "about": "Mount Baldy Zen Center is a Rinzai Zen monastery in the San Gabriel Mountains above Mount Baldy village, founded in 1971 by Joshu Sasaki Roshi on the site of a former Boy Scout camp and long known as one of the most demanding places to practice Zen in the West. Sitting near 6,000 feet with rustic, often unheated quarters, it serves as the main training center of the Rinzai-ji network, where monks and nuns in Sasaki's lineage received their formal training. The core of practice is intensive seated meditation (zazen) with koan introspection, chanting, formal meals, work practice, and private sanzen interviews. The center runs three-month summer and winter seichu training periods, less formal spring and autumn seikan periods emphasizing work, and week-long dai-sesshin whose days can stretch some eighteen hours. Since Sasaki Roshi's death in 2014, sesshin have been led by visiting Rinzai roshi, such as Minakawa Roshi from Japan, who offer daily teisho and sanzen.",
+  "sources": [
+    {
+      "title": "Mt. Baldy Zen Center (official site)",
+      "url": "https://www.mbzc.org/"
+    },
+    {
+      "title": "Darumaki Ozesshin at Mt. Baldy - fees and schedule",
+      "url": "https://www.rinzaiji.org/event/darumaki-ozesshin-with-minakawa-roshi/"
+    },
+    {
+      "title": "What to Bring for Zen Retreats",
+      "url": "https://www.mbzc.org/what-to-bring/"
+    },
+    {
+      "title": "Profile: Mount Baldy Zen Center (Lion's Roar)",
+      "url": "https://www.lionsroar.com/profile-mount-baldy-zen-center/"
+    },
+    {
+      "title": "Mount Baldy Zen Center (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mount_Baldy_Zen_Center"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

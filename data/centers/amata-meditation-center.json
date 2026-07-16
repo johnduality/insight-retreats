@@ -1,0 +1,90 @@
+{
+  "id": "amata-meditation-center",
+  "name": "Amata Meditation Center",
+  "aka": [
+    "醍醐寺",
+    "Amata Vihara",
+    "US Zen Institute (USZI)",
+    "AMC"
+  ],
+  "website": "https://amatavihara.org/",
+  "location": {
+    "city": "Boyds",
+    "region": "Central Maryland (Washington D.C. suburbs, Montgomery County)",
+    "state": "MD",
+    "lat": 39.191843,
+    "lng": -77.322745
+  },
+  "tradition": "Early Buddhist / Theravada-style samatha-vipassana, taught under the non-sectarian US Zen Institute",
+  "technique": "Anapanasati (sixteen-phase mindfulness of breathing), satipatthana (four foundations of mindfulness), brahmavihara/apramana (four sublime abodes) concentration",
+  "influences": [
+    "Ven. Dr. Dhammadipa Sak (Abbot, founder of Amata Center)",
+    "US Zen Institute (USZI)",
+    "Early Buddhist / Theravada Pali Canon teachings (Satipatthana Sutta, Anapanasati Sutta)"
+  ],
+  "teacherAccess": "Daily small-group Q&A/interviews (typically 3-6 PM) with the resident teacher, usually Ven. Dr. Dhammadipa Sak, plus a post-retreat teatime social with the instructor.",
+  "retreatOptions": "3-day, 5-day, 7-day, and 8-day silent residential retreats offered several times a year (samadhi, anapanasati, satipatthana, and brahmavihara retreats), plus weekly Sunday self-guided sits and private retreat/event hosting.",
+  "schedule": "A handful of scheduled retreats per year (roughly every 1-2 months, e.g. Jul/Sep/Oct/Nov/Dec 2026), each with separate online registration; weekly Sunday in-person meditation and Tue/Fri virtual sessions.",
+  "cost": "No fixed public price list; retreatants register via online forms, and the center operates substantially on dana (voluntary donation) to cover teachings, food, and lodging costs.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No published per-night or flat retreat fee was found on the site. Retreat pages describe registration via online form but list no cost; the center's broader funding model (credit card, PayPal, Zelle, wire transfer to US Zen Institute Inc.) is donation-based.",
+    "source": "https://amatavihara.org/dana"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Continental breakfast (bread, bagels, instant oatmeal, fresh fruit, coffee/tea/milk/soy milk) and a catered Chinese vegetarian lunch daily; no formal dinner is served in observance of the Eight Precepts, though light snacks and fruit are available; 3-day retreats serve lunch only.",
+  "workRequired": "partial",
+  "workNotes": "Each retreat day's schedule includes a short 'working meditation' (chore) period after breakfast, framed as part of practice rather than a major labor requirement.",
+  "about": "Amata Meditation Center (醍醐寺), also called Amata Vihara, is the retreat facility of the US Zen Institute (USZI), a non-sectarian Buddhist organization founded in the Washington D.C. area in 1988 and currently led by Abbot Ven. Dr. Dhammadipa Sak. Despite the institute's 'Zen' name, the center's actual practice is rooted in early Buddhist / Theravada-style samatha-vipassana: retreats teach classical techniques such as the sixteen phases of anapanasati (mindfulness of breathing), satipatthana (the four foundations of mindfulness), and the four brahmavihara (loving-kindness, compassion, sympathetic joy, equanimity). Opened in 2023 on an 11-acre property in Boyds, Maryland, the purpose-built center offers a dedicated meditation hall and dormitory-style lodging with ensuite bathrooms, hosting several silent residential retreats per year ranging from 3 to 8 days, most under noble silence and taught primarily by the resident abbot with daily small-group interviews. Vegetarian meals are served (a light breakfast and a catered Chinese vegetarian lunch, no dinner, in keeping with the Eight Precepts), and each retreat day includes a brief period of communal working meditation. The center does not publish fixed program fees; retreatants register through online forms, and the center is financially supported mainly through dana (voluntary donations) via credit card, PayPal, Zelle, or wire transfer.",
+  "tags": [
+    "theravada",
+    "silent",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Amata Meditation Center — Home",
+      "url": "https://amatavihara.org/"
+    },
+    {
+      "title": "Meditation Retreats — Amata Meditation Center",
+      "url": "https://amatavihara.org/retreats"
+    },
+    {
+      "title": "What to Expect at Our Retreat",
+      "url": "https://amatavihara.org/what-to-expect"
+    },
+    {
+      "title": "About USZI — US Zen Institute",
+      "url": "https://amatavihara.org/about"
+    },
+    {
+      "title": "Amata Center overview / mission",
+      "url": "https://amatavihara.org/amata"
+    },
+    {
+      "title": "Support Us / Dana",
+      "url": "https://amatavihara.org/dana"
+    },
+    {
+      "title": "Private Event / Retreat Hosting",
+      "url": "https://amatavihara.org/private-event-retreat-hosting"
+    },
+    {
+      "title": "Retreat Conduct and Schedule (PDF)",
+      "url": "https://amatavihara.org/s/Retreat-Conduct-and-Schedule.pdf"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

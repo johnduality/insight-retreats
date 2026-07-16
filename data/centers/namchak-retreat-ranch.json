@@ -1,0 +1,82 @@
+{
+  "id": "namchak-retreat-ranch",
+  "name": "Namchak Retreat Ranch",
+  "website": "https://www.namchak.org/about/retreat-ranch/",
+  "aka": [
+    "Namchak Foundation",
+    "Namchak Tibetan Buddhist Practice & Retreat",
+    "Namchak Community"
+  ],
+  "location": {
+    "city": "Hot Springs",
+    "region": "Northwest Montana",
+    "state": "MT",
+    "lat": 47.6053,
+    "lng": -114.6698
+  },
+  "tradition": "Tibetan Buddhism (Nyingma) — the Namchak lineage's dedicated retreat ranch and study center",
+  "influences": [
+    "Tibetan Buddhism",
+    "Nyingma",
+    "Vajrayana",
+    "Dzogchen"
+  ],
+  "teacherAccess": "Retreats are led in person by Namchak teachers and facilitators, with group teachings, guided practice, Q&A, group dialogue, and (for some retreats) an optional individual empowerment.",
+  "retreatOptions": "Weekend and 3-5 night residential retreats on the Seeker's Path and Practitioner's Path (e.g. Reset & Renew, Green Tara, Fundamentals of Tibetan Ritual Arts), most with an in-person-only, online, or hybrid option, plus a multi-year Three-Year Retreat program for advanced practitioners.",
+  "about": "Namchak Retreat Ranch is a 10,000-acre former cattle ranch outside Hot Springs, Montana, developed by the Namchak Foundation as a dedicated home for Tibetan Buddhist practice, study, and retreat in the Nyingma lineage. Its main retreat building, the Bodhi House, holds a meditation hall and overnight rooms for about 30 students and opened in 2023; a separate three-year retreat center for long-term monastic-style retreat is also under construction on the land. Programs range from weekend introductory retreats on meditation and compassion practices to multi-day practitioner retreats on specific Vajrayana deity practices, taught by Namchak teachers and facilitators. Retreat fees are offered on a tiered, sliding-scale basis and include shuttle transportation from the Missoula airport, lodging, and three forest-to-table meals a day sourced partly from the ranch's own permaculture forest and greenhouse.",
+  "technique": "Tibetan Buddhist meditation including Shamata (Calm Abiding), Tonglen (compassion practice), Loving-Kindness (Metta), and Vajrayana deity practices such as the Green Tara sadhana, alongside relational \"Sangha Skills\" exercises.",
+  "schedule": "Retreat days combine group meditation and teaching sessions, guided practice, silent contemplative time, and group discussion; some retreats offer an optional two extra days of silent practice as an add-on after the main program.",
+  "cost": "Tiered \"Supported / Suggested / Sponsored\" tuition per retreat (with a discounted Work Study rate), e.g. $500 / $650 / $800 for the 4-night, in-person Green Tara retreat, inclusive of shuttle, lodging, and three meals a day.",
+  "pricePerDay": {
+    "min": 125,
+    "max": 200,
+    "unit": "night",
+    "notes": "Derived from the 4-night (Oct 15-19, 2026) in-person Green Tara retreat's tiered tuition — Supported $500, Suggested $650, Sponsored $800 — divided by 4 nights; excludes the discounted Work Study rate. Tuition includes shuttle, lodging, and three meals a day.",
+    "source": "https://www.namchak.org/retreats/practitioners-path/green-tara-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Three meals a day are included in retreat tuition, described as \"forest-to-table\" and made largely from organic produce grown in the ranch's own permaculture forest and greenhouse; dietary requests and allergies can be accommodated on registration.",
+  "workRequired": "no",
+  "workNotes": "Standard retreat attendance does not require work; a discounted \"Work Study\" tuition tier is offered for those who want to help in exchange for a reduced rate.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "meals-included",
+    "no-work-required",
+    "online-hybrid",
+    "sliding-scale",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Namchak Retreat Ranch (About)",
+      "url": "https://www.namchak.org/about/retreat-ranch/"
+    },
+    {
+      "title": "Retreat Ranch Experience",
+      "url": "https://www.namchak.org/about/retreat-ranch/ranch-experience/"
+    },
+    {
+      "title": "Green Tara Retreat (dates, tuition tiers)",
+      "url": "https://www.namchak.org/retreats/practitioners-path/green-tara-retreat/"
+    },
+    {
+      "title": "Reset & Renew Retreat",
+      "url": "https://www.namchak.org/retreats/seekers-path/reset-renew-retreat/"
+    },
+    {
+      "title": "Fundamentals of Tibetan Ritual Arts Retreat",
+      "url": "https://www.namchak.org/retreats/practitioners-path/fundamental-tibetan-ritual-arts-retreat/"
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "url": "https://www.namchak.org/frequently-asked-questions/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

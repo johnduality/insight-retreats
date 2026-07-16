@@ -1,0 +1,68 @@
+{
+  "id": "mituo-village",
+  "name": "Mituo Village",
+  "aka": [
+    "Amitabha Buddhist Society of Philadelphia",
+    "Camp Mensch Mill"
+  ],
+  "website": "https://www.mituovillage.com/",
+  "location": {
+    "address": "343 Conrad Road",
+    "city": "Alburtis",
+    "region": "Berks County",
+    "state": "PA",
+    "lat": 40.4357,
+    "lng": -75.6332
+  },
+  "tradition": "Pure Land Buddhism (Mahayana)",
+  "technique": "Buddha-recitation (nianfo) practice periods combining chanting, walking, and sitting cultivation, following the teachings of Master Chin Kung",
+  "influences": [
+    "Master Chin Kung",
+    "Amitabha Buddhist Society of USA",
+    "Pure Land sutras (Amitabha Sutra, Infinite Life Sutra, Contemplation Sutra)"
+  ],
+  "teacherAccess": "Resident Buddhist Venerables lead group practice sessions and give dharma talks throughout each retreat; informal access to teachers is available on-site.",
+  "retreatOptions": "Quarterly multi-day residential retreats, typically running about 5-7 days, in addition to biweekly weekend group-practice sessions.",
+  "schedule": "Retreat days follow a monastic-style timetable of six or more chanting/recitation periods from roughly 4:30am wake-up to 9pm lights-out, with breakfast and lunch served between sessions.",
+  "cost": "Free / donation-based - Mituo Village never charges a fee for retreats, meals, or lodging, though donations are welcomed.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Strictly donation-based: the center explicitly does not charge for attending retreats, including meals and boarding, and sets no suggested amount.",
+    "source": "https://www.mituovillage.com/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Communal vegetarian meals (breakfast and lunch) are provided free of charge during retreats, in keeping with Pure Land Buddhist practice.",
+  "workRequired": "no",
+  "workNotes": "No work practice is required of retreat participants; the resident nuns maintain the property and are supported by donations.",
+  "about": "Mituo Village is the retreat property of the Amitabha Buddhist Society of Philadelphia, a Pure Land Buddhist community following the teachings of the late Master Chin Kung. Purchased in 2014 from a United Church of Christ conference that had run it as a summer camp (Camp Mensch Mill) since 1928, the 140-acre site in Alburtis, Pennsylvania includes dormitories, a main hall, and a large statue of Amitabha Buddha. Resident Venerables lead quarterly multi-day retreats of roughly five to seven days built around communal Buddha-recitation (nianfo) practice periods, chanting, and dharma talks, along with more frequent biweekly weekend group-practice sessions. True to Pure Land teaching on generosity, Mituo Village never charges for retreats, meals, or lodging, relying entirely on voluntary donations from a mostly Chinese and Vietnamese diaspora sangha that travels from across the East Coast.",
+  "tags": [
+    "mahayana",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "no-work-required",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Amitabha Buddhist Society of Philadelphia - Mituo Village (official site)",
+      "url": "https://www.mituovillage.com/"
+    },
+    {
+      "title": "Mituo Village - Buddhism in America (College of William & Mary)",
+      "url": "https://americanbuddhism.pages.wm.edu/2023/11/30/mituo-village/"
+    },
+    {
+      "title": "Berks County Buddhist Center Mituo Village Welcomes Neighbors - Lancaster Farming",
+      "url": "https://www.lancasterfarming.com/country-life/family/berks-county-buddhist-center-mituo-village-welcomes-neighbors/article_6f405fe6-9b7a-11ed-97ce-1f34822fe7e6.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

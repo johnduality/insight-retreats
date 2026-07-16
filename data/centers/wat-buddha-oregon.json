@@ -1,0 +1,64 @@
+{
+  "name": "Wat Buddha Oregon",
+  "website": "https://watbuddhaoregon.org/",
+  "aka": [],
+  "location": {
+    "city": "Turner",
+    "region": "Willamette Valley",
+    "state": "OR",
+    "lat": 44.846,
+    "lng": -122.955
+  },
+  "tradition": "Thai Theravada Buddhist temple in the Insight Meditation tradition",
+  "influences": [
+    "Council of Thai Bhikkhus in the U.S.A."
+  ],
+  "teacherAccess": "Retreats led and guided by the temple's resident Thai monks, with instruction and consultation available throughout the program.",
+  "retreatOptions": "Annual multi-day residential Vipassana retreat (5 days in June 2026); temple also lists longer 5-10 day advanced Insight Meditation retreats and a weekly evening class.",
+  "about": "Wat Buddha Oregon is a Thai Theravada Buddhist temple founded in 1997 on a wooded hilltop property in Turner, Oregon, near Salem in the Willamette Valley. Established by the Thai Buddhist community of Oregon and neighboring states, it serves as an Insight Meditation center for the Council of Thai Bhikkhus in the U.S.A. and is home to resident monks led by the abbot. Each year the temple holds a multi-day residential Vipassana retreat on its grounds, along with longer advanced retreats in the spring and summer and a weekly Monday evening meditation class taught in English. Retreatants sleep in provided tents on temple property, observe the Eight Precepts and noble silence, and follow a full daily schedule of chanting, seated meditation, and Dhamma talks. Like all its programs, the retreat is offered free of charge with donations gladly accepted in the Thai dana tradition.",
+  "technique": "Vipassana insight meditation grounded in mindfulness of breathing and the Four Foundations of Mindfulness from the Satipatthana Sutta.",
+  "schedule": "Full residential day from ~5:00 a.m. morning chanting and meditation through 9:00 p.m., alternating seated meditation, meals, chanting, and evening Dhamma talks.",
+  "cost": "Free of charge; donations gladly accepted (dana-based).",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No suggested amount; any dana is entirely at the retreatant's discretion.",
+    "source": "https://watbuddhaoregon.org/vipassana2026en/"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Breakfast and lunch only (no solid food after noon under the Eight Precepts); donated meals include meat and vegetable dishes and are not strictly vegetarian, with afternoon beverages provided.",
+  "workRequired": "partial",
+  "workNotes": "Participants clean up after themselves and help keep common areas tidy, and all join morning and evening chanting.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "meals-included",
+    "dana-donation",
+    "monastic-community",
+    "camping",
+    "diet-omnivore"
+  ],
+  "sources": [
+    {
+      "title": "Vipassana Meditation Retreat 2026",
+      "url": "https://watbuddhaoregon.org/vipassana2026en/"
+    },
+    {
+      "title": "About Us - Wat Buddha Oregon",
+      "url": "https://watbuddhaoregon.org/about-us/"
+    },
+    {
+      "title": "Vipassana Meditation - Wat Buddha Oregon",
+      "url": "https://watbuddhaoregon.org/vipassana-meditation/"
+    }
+  ],
+  "id": "wat-buddha-oregon",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

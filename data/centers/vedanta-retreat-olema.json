@@ -1,0 +1,66 @@
+{
+  "id": "vedanta-retreat-olema",
+  "name": "Vedanta Retreat, Olema",
+  "aka": [
+    "Olema Retreat",
+    "Vedanta Society of Northern California Retreat",
+    "Vedanta Society Retreat"
+  ],
+  "website": "https://sfvedanta.org/retreat/",
+  "location": {
+    "city": "Olema",
+    "region": "Bay Area",
+    "state": "CA",
+    "lat": 38.0393,
+    "lng": -122.7872
+  },
+  "tradition": "Hindu / Vedanta (Ramakrishna Order)",
+  "influences": [
+    "Sri Ramakrishna",
+    "Sri Sarada Devi",
+    "Swami Vivekananda",
+    "Advaita Vedanta",
+    "Ramakrishna Order"
+  ],
+  "about": "The Vedanta Retreat in Olema is a secluded 2,000-acre property on the Point Reyes Peninsula operated by the Vedanta Society of Northern California, a center of the Ramakrishna Order. Purchased in 1946 and open to overnight retreatants since 1973, it provides a quiet, largely pristine setting where spiritual seekers of any faith may devote themselves to serious study, prayer, and meditation. There are no scheduled classes or activities for overnight retreatants; each person plans and undertakes their own retreat in silence and solitude. Separate Men's and Women's Retreat Houses, a Meditation Room, a library, and three outdoor meditation sites support the practice. The retreat also hosts an annual interfaith Memorial Day program, Saturday spiritual discussions with a swami, and a spring youth forum.",
+  "technique": "Self-directed meditation, contemplation, prayer, and spiritual study in the Vedanta tradition; no set method imposed.",
+  "teacherAccess": "No scheduled teaching during overnight retreats; new candidates have an in-person interview beforehand, and swamis lead occasional Saturday spiritual discussions.",
+  "retreatOptions": "Individual self-guided silent retreats of 1 to 5 days in the Men's or Women's Retreat Houses, not more than once a month.",
+  "schedule": "Unstructured and self-planned; retreatants observe silence and solitude with no organized daily program.",
+  "cost": "No charge to use the retreat; voluntary donations toward upkeep are welcomed.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No charge for use of the retreat; donation-only with no suggested amount.",
+    "source": "https://sfvedanta.org/retreat/"
+  },
+  "foodServed": "no",
+  "foodType": "vegetarian",
+  "foodNotes": "No meals are served to overnight retreatants; they provide and prepare their own food, and only vegetarian food is permitted on the property.",
+  "workRequired": "no",
+  "workNotes": "No work or service is required of overnight retreatants; the retreat is entirely self-directed.",
+  "tags": [
+    "yoga-hindu",
+    "self-guided",
+    "silent",
+    "dana-donation",
+    "no-work-required",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Retreat - Vedanta Society of Northern California",
+      "url": "https://sfvedanta.org/retreat/"
+    },
+    {
+      "title": "To Donate - Vedanta Society of Northern California",
+      "url": "https://sfvedanta.org/to-donate/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

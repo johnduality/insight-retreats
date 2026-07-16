@@ -1,0 +1,79 @@
+{
+  "id": "hokyoji",
+  "name": "Hokyoji",
+  "website": "https://hokyoji.org/",
+  "aka": [
+    "Hokyoji Zen Practice Community",
+    "Hokyo-ji"
+  ],
+  "location": {
+    "address": "2649 County 5, Eitzen, MN 55931",
+    "city": "Eitzen",
+    "region": "Southeastern Minnesota",
+    "state": "MN",
+    "lat": 43.508,
+    "lng": -91.4615
+  },
+  "tradition": "Soto Zen Buddhism",
+  "influences": [
+    "Dainin Katagiri Roshi",
+    "Eiheiji (head temple of Soto Zen, Japan)"
+  ],
+  "teacherAccess": "Dharma talks and one-to-one interviews with resident and visiting teachers during retreats, sesshins, and practice periods.",
+  "retreatOptions": "One- and two-day mindfulness retreats (currently paused); weekend and multi-day retreats; 5-7 day sesshins (e.g. Jewel Mirror Sesshin); practice periods; self-guided personal stays/retreats of 2-7 days.",
+  "about": "Hokyoji Zen Practice Community sits on 105 wooded acres in the bluff country where Minnesota, Wisconsin, and Iowa meet, near Eitzen. Founded by Dainin Katagiri Roshi (also founding teacher of the Minnesota Zen Meditation Center) as a temple complex modeled on Eiheiji, one of Soto Zen's two head temples in Japan, the property has grown from tents and temporary platforms into a guest house, meditation hall (zendo), practitioners' hall with commercial kitchen, and a memorial stupa. Programs include sesshins and retreats of one to seven days led by Hokyoji's own teachers and visiting sanghas, communal practice periods, and self-guided personal retreats for individuals, couples, and families. Days follow a traditional Soto Zen schedule of zazen, kinhin (walking meditation), oryoki meals, and work practice (samu), with silence maintained outside of dharma talks and interviews. Hokyoji also rents its facilities to outside groups when not hosting its own programs.",
+  "technique": "Zazen (seated meditation) and kinhin (walking meditation) in the Soto Zen tradition, with oryoki formal meals, dharma talks, and work practice (samu).",
+  "schedule": "Several sesshins and multi-day retreats scheduled per year (typically 4-8 days each, Thursday-through-Sunday practice weeks), plus daily online zazen (Wed-Sat mornings), Sunday dharma talks, and self-guided personal stays available by advance arrangement.",
+  "cost": "Led sesshins/retreats are priced per event, e.g. $623 for the 7-night Jewel Mirror Sesshin (lodging and meals included); self-guided personal stays are $75/night (food not included, 20% discount for Hokyoji members); teachers are compensated separately through dana.",
+  "pricePerDay": {
+    "min": 89,
+    "max": 89,
+    "unit": "night",
+    "notes": "Based on the 7-night Jewel Mirror Sesshin (Aug 8-15, 2026), a Hokyoji-led retreat: $623 flat fee, includes lodging and food, divided by 7 nights.",
+    "source": "https://hokyoji.org/event/jewel-mirror-sesshin-3/"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Led sesshins/retreats include vegetarian meals served using oryoki bowls; guests on self-guided personal stays are responsible for their own food and use of the kitchen.",
+  "workRequired": "partial",
+  "workNotes": "Communal work practice (samu) is built into the daily schedule of led sesshins and retreats; self-guided personal stays have no work requirement.",
+  "tags": [
+    "zen",
+    "silent",
+    "self-guided",
+    "work-practice",
+    "diet-vegetarian",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Hokyoji - Zen Practice Community (Home)",
+      "url": "https://hokyoji.org/"
+    },
+    {
+      "title": "History | Hokyoji",
+      "url": "https://hokyoji.org/history/"
+    },
+    {
+      "title": "Retreats and sesshins | Hokyoji",
+      "url": "https://hokyoji.org/retreatsesshins/"
+    },
+    {
+      "title": "Overnight Stays and Personal Retreats | Hokyoji",
+      "url": "https://hokyoji.org/individual-practiceretreat/"
+    },
+    {
+      "title": "Accommodations | Hokyoji",
+      "url": "https://hokyoji.org/accommodations/"
+    },
+    {
+      "title": "Jewel Mirror Sesshin | Hokyoji Events",
+      "url": "https://hokyoji.org/event/jewel-mirror-sesshin-3/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "vermont-zen-center",
+  "name": "Vermont Zen Center",
+  "website": "https://www.vermontzen.org/",
+  "location": {
+    "city": "Shelburne",
+    "region": "Burlington area, Vermont",
+    "state": "VT",
+    "lat": 44.363811,
+    "lng": -73.212287
+  },
+  "tradition": "Zen Buddhism (Kapleau / Rochester Zen Center lineage, Rinzai-Soto blend)",
+  "technique": "Zazen (shikantaza, breath awareness, and koan study), with teisho and dokusan",
+  "influences": [
+    "Roshi Philip Kapleau",
+    "Roshi Sunyana Graef",
+    "Harada Daiun Roshi",
+    "Rochester Zen Center lineage"
+  ],
+  "teacherAccess": "Dokusan (private interviews) with Roshi Sunyana Graef offered up to three times daily during sesshin, plus daily teisho; teacher access is limited or self-directed during personal retreats and cabin stays",
+  "retreatOptions": "2-3 day loosely-structured group retreats, 2-7 day sesshins (intensive silent zazen), self-directed personal retreats of up to one week in Center guest rooms, and a private solo retreat cabin on the property",
+  "schedule": "Annual sesshin calendar (2026: Feb 6-8 two-day retreat, Apr 18-25 seven-day sesshin, Aug 1-8 seven-day sesshin, Oct 9-15 six-day Jataka sesshin, Dec 5-12 seven-day Rohatsu sesshin); personal retreats and cabin stays scheduled year-round by arrangement, subject to Center availability",
+  "cost": "Personal retreat rooms are $50/day per person for stays up to a week (cash/check/money order only, no cards); sesshin fees are set per event and disclosed during the application process rather than published; suggested member pledge is $45/month",
+  "pricePerDay": {
+    "min": 50,
+    "max": 50,
+    "unit": "night",
+    "notes": "Standard rate for self-directed personal retreats in Zen Center guest rooms, for stays up to one week (bedding provided, meals self-prepared). Sesshin fees are set separately per event during application and are not published on the site.",
+    "source": "https://www.vermontzen.org/personal_retreats.html"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Sesshins include communal vegetarian meals prepared for participants; personal-retreat guests buy and cook their own vegetarian food in the shared kitchen. No meat, fish, poultry, or animal-derived ingredients are permitted on the premises.",
+  "workRequired": "partial",
+  "workNotes": "Sesshins include formal work periods as part of the schedule; structured group retreats require a 90-minute daily silent work period; self-directed personal retreats offer optional (not required) garden/work practice.",
+  "about": "The Vermont Zen Center is a lay Zen Buddhist community in Shelburne, Vermont, founded in 1988 by Roshi Sunyana Graef, a Dharma Heir of Roshi Philip Kapleau (author of The Three Pillars of Zen). Practice follows the Rochester Zen Center lineage established by Kapleau, blending Soto-style shikantaza and breath-awareness sitting with Rinzai-style koan inquiry, tracing back to Zen Master Harada Daiun Roshi. The Center runs an annual cycle of sesshins (two to seven days of intensive, silent zazen with dokusan and teisho), shorter loosely-structured group retreats, self-directed personal retreats of up to a week in its guest rooms, and a private solo retreat cabin on its grounds. Set on a rural property with extensive gardens adjoining the Upper LaPlatte River Natural Area, it also offers introductory workshops and courses in lovingkindness meditation, Indian vegetarian cooking, flower arranging, haiku, and gardening. It is one of a small network of centers in the Kapleau lineage, alongside the Toronto Zen Centre and Casa Zen in Costa Rica.",
+  "tags": [
+    "zen",
+    "silent",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee",
+    "work-practice",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Vermont Zen Center - Home",
+      "url": "https://www.vermontzen.org/"
+    },
+    {
+      "title": "Vermont Zen Center - Personal Retreats",
+      "url": "https://www.vermontzen.org/personal_retreats.html"
+    },
+    {
+      "title": "Vermont Zen Center - Sesshins and Retreats",
+      "url": "https://www.vermontzen.org/sesshins.html"
+    },
+    {
+      "title": "Vermont Zen Center - Sesshin Application Information",
+      "url": "https://www.vermontzen.org/sesshin_application.html"
+    },
+    {
+      "title": "Vermont Zen Center - History and Methods",
+      "url": "https://www.vermontzen.org/history.html"
+    },
+    {
+      "title": "Vermont Zen Center - Membership",
+      "url": "https://www.vermontzen.org/membership.html"
+    },
+    {
+      "title": "Vermont Zen Center Solo Retreat Cabin",
+      "url": "https://retreatcabin.org/"
+    },
+    {
+      "title": "Vermont Zen Center - Contact Information",
+      "url": "https://www.vermontzen.org/contact.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

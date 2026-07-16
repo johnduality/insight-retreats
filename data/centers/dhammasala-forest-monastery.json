@@ -1,0 +1,85 @@
+{
+  "id": "dhammasala-forest-monastery",
+  "name": "Dhammasala Forest Monastery",
+  "aka": [
+    "Dhammasala"
+  ],
+  "website": "https://dhammasala.org/",
+  "location": {
+    "city": "Perry",
+    "region": "Central Michigan",
+    "state": "MI",
+    "lat": 42.8362,
+    "lng": -84.2092
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition (Dhammayut/Thammayut lineage)",
+  "technique": "Anapanasati (breath meditation), walking meditation, and monastic Vinaya-based training",
+  "influences": [
+    "Thai Forest Tradition",
+    "Dhammayut (Thammayut) Nikaya",
+    "Ajahn Mun kammatthana lineage",
+    "Ajahn Khemasanto",
+    "Wat Bovornives Vihara, Bangkok"
+  ],
+  "teacherAccess": "Resident monks give Dhamma talks and meditation instruction, and lead a nightly 6pm Q&A session with retreatants",
+  "retreatOptions": "Weekend to week-or-longer stays, May through September, length tailored to each applicant",
+  "schedule": "Seasonal retreats May-September (weekends or weekdays by arrangement); weekly Saturday Dhamma class 5:30-6:30pm; daily lay food offering 10:30am-noon",
+  "cost": "No fee charged — all retreats, talks, and materials are offered freely on a dana (donation) basis; monastery is a 501(c)(3) nonprofit",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Pure dana model; no suggested or fixed retreat fee is published",
+    "source": "https://dhammasala.org/support/"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Daily lay food offering around 11am, a mixture of Asian and Western dishes; not strictly vegetarian but vegetarian food is available; retreatants may take one, two, or three meals a day",
+  "workRequired": "yes",
+  "workNotes": "Guests are expected to assist with meal prep and kitchen cleanup and take part in an afternoon work period (~3pm) in the forest or gardens",
+  "about": "Dhammasala Forest Monastery is a Theravada Buddhist monastery in the Thai Forest (Dhammayut) tradition, founded in 2000 by Ajahn Khemasanto on a wooded property in Perry, Michigan. The monastery offers seasonal retreats from May through September, ranging from a weekend to a week or longer, set in a secluded forest with meditation huts, tent platforms, a gazebo, and a meditation hall. Retreatants observe the Eight Precepts, keep \"wise silence,\" and follow the monastery's daily rhythm of alms-style food offerings, quiet practice periods, and an afternoon work period, with resident monks available for meditation instruction and a nightly Dhamma Q&A. All teachings, retreats, and printed materials are offered freely on a dana (donation) basis. The community includes founder Ajahn Khemasanto along with resident monks Tan Thittisampanno and Tan Mahaviro.",
+  "tags": [
+    "theravada",
+    "silent",
+    "camping",
+    "work-practice",
+    "dana-donation",
+    "meals-included",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Dhammasala Forest Monastery - Home",
+      "url": "https://dhammasala.org/"
+    },
+    {
+      "title": "Monastery Overview",
+      "url": "https://dhammasala.org/monastery/"
+    },
+    {
+      "title": "Tradition",
+      "url": "https://dhammasala.org/tradition/"
+    },
+    {
+      "title": "Visiting",
+      "url": "https://dhammasala.org/visiting/"
+    },
+    {
+      "title": "Retreats",
+      "url": "https://dhammasala.org/retreats/"
+    },
+    {
+      "title": "Support / Donate",
+      "url": "https://dhammasala.org/support/"
+    },
+    {
+      "title": "Residents",
+      "url": "https://dhammasala.org/residents/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

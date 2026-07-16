@@ -1,0 +1,69 @@
+{
+  "id": "chung-tai-retreat-center",
+  "name": "Chung Tai International Retreat Center",
+  "aka": [
+    "Chung Tai Chan Monastery USA",
+    "CTCMUSA"
+  ],
+  "location": {
+    "city": "Shepherd",
+    "region": "Houston area",
+    "state": "TX",
+    "lat": 30.4988,
+    "lng": -94.9974
+  },
+  "tradition": "Chan Buddhism, Chung Tai Chan Monastery lineage (Mahayana, Taiwan-based)",
+  "technique": "Seated and walking Chan (Zen) meditation combined with chanting and sutra study; intensive silent sitting during multi-day retreats",
+  "influences": [
+    "Grand Master Wei Chueh (Weijue)",
+    "Chung Tai Chan Monastery, Taiwan"
+  ],
+  "teacherAccess": "Ordained monastics from the Chung Tai lineage lead classes, retreats, and Dharma talks on site",
+  "retreatOptions": "Regular one-day meditation retreats plus periodic multi-day residential Chan retreats, e.g., a 7-day 'Winter Zen-7' silent retreat held with the Chung Tai Zen Center of Houston",
+  "schedule": "Multi-day retreats follow a monastic-style day of pre-dawn to evening seated and walking meditation sessions, formal meals, and rest, observed largely in silence",
+  "cost": "No set program fee; classes and retreats are offered free of charge as a community service and the center is supported entirely by voluntary donations (dana)",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Programs are offered free of charge; the center operates on a donation-supported (dana) model with no published retreat fee",
+    "source": "https://www.ctcmusa.org/donation/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "unknown",
+  "workNotes": "Not clearly documented for short-term retreat participants; the monastery's ethic ('a day without working is a day without eating') is documented for long-term resident volunteers living in on-site houses, but formal work duty for retreatants is unconfirmed",
+  "foodNotes": "Vegetarian meals are served in the on-site dining hall as part of retreat stays, consistent with the strict meat-free diet observed at Chinese Mahayana monasteries",
+  "about": "Chung Tai International Retreat Center is a 500-plus-acre Chan (Zen) Buddhist retreat campus in Shepherd, Texas, about 60 miles northeast of Houston, developed by Chung Tai Chan Monastery USA as the North American extension of Chung Tai Chan Monastery in Taiwan. The wooded, lake-dotted property includes a large meditation hall, a dining hall, and separate dormitories for male and female lay retreatants, along with quarters for resident monks and nuns. The center regularly hosts one-day meditation retreats and periodically holds longer residential programs, such as a 7-day 'Winter Zen-7' silent retreat organized with the Chung Tai Zen Center of Houston. Programs are led by ordained monastics in the lineage of the monastery's founder, Grand Master Wei Chueh, combining seated and walking Chan meditation with Dharma study. All classes and retreats are offered free of charge as a community service, with the center supported entirely by voluntary donations. It is distinct from the Chung Tai Zen Center of Houston, a city-based day-use temple affiliated with the same lineage.",
+  "tags": [
+    "mahayana",
+    "silent",
+    "long-retreats",
+    "meals-included",
+    "diet-vegetarian",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "ctcmusa.org — Home",
+      "url": "https://ctcmusa.org/"
+    },
+    {
+      "title": "About Us",
+      "url": "https://ctcmusa.org/about-us"
+    },
+    {
+      "title": "Donation",
+      "url": "https://www.ctcmusa.org/donation/"
+    },
+    {
+      "title": "Seven Day Retreat 2024",
+      "url": "https://www.ctcmusa.org/event/seven-day-retreat-2024/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "dorje-khyung-dzong",
+  "name": "Dorje Khyung Dzong",
+  "aka": [
+    "DKD",
+    "Indestructible Garuda Fortress"
+  ],
+  "website": "https://dkd.shambhala.org/",
+  "location": {
+    "city": "Gardner",
+    "county": "Huerfano County",
+    "region": "Southern Colorado",
+    "state": "CO",
+    "lat": 37.9836,
+    "lng": -105.1858
+  },
+  "tradition": "Shambhala Buddhism",
+  "technique": "Self-guided solitary meditation retreat (practice set by one's own teacher/lineage)",
+  "influences": [
+    "Chogyam Trungpa Rinpoche"
+  ],
+  "teacherAccess": "No on-site teachers; retreatants practice under guidance of their own outside spiritual teacher, with resident caretakers providing logistical (not instructional) support.",
+  "retreatOptions": "Self-guided solitary cabin retreats from a 4-night minimum up to several months or longer.",
+  "about": "Dorje Khyung Dzong (DKD) is a solitary meditation retreat center founded in 1972 by Chogyam Trungpa Rinpoche, set on 400 acres at 8,200 feet on the slopes of Greenhorn Mountain in southern Colorado. Seven simple, private cabins are dedicated solely to solo retreat, bordered by roadless San Isabel National Forest and overlooking the Huerfano Valley. While rooted in the Shambhala tradition, DKD also welcomes experienced practitioners from other Buddhist lineages and contemplative paths who arrive with clear guidance from their own teacher. It is not a guided or group retreat facility; there is no on-site teaching, and retreatants are expected to have an established daily meditation practice. Two resident caretakers live on the land year-round, offering orientation, supply support, and emergency assistance so retreatants can focus fully on solitary practice.",
+  "schedule": "Retreats are booked individually online year-round for any custom start date; there are no fixed group program dates since only solitary self-guided retreats are offered.",
+  "cost": "Nightly cabin rental fee (tiered discounts for longer stays), paid via online booking; scholarship assistance available for those with financial need.",
+  "pricePerDay": {
+    "min": 40,
+    "max": 60,
+    "unit": "night",
+    "notes": "Standard cabin rate: $60/night for stays up to 30 nights, declining to $40/night for stays of 121+ nights (long-stay discount tiers). Larger Rigdzin cabin is $75/night (up to 30 nights) down to $55/night (121+ nights), plus $25/night for a couple. Excludes scholarship-adjusted rates.",
+    "source": "https://dkd.shambhala.org/rates-policies/"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "Retreatants are responsible for their own food and personal supplies (self-catered in cabins); for stays over two weeks caretakers assist with town food-shopping trips, and for closed retreats supplies are delivered to a drop-off point.",
+  "workRequired": "no",
+  "workNotes": "No work-practice requirement; retreatants are fully self-sufficient in their cabins, supported logistically by resident caretakers.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "long-retreats",
+    "silent"
+  ],
+  "sources": [
+    {
+      "title": "Dorje Khyung Dzong - Home",
+      "url": "https://dkd.shambhala.org/"
+    },
+    {
+      "title": "About DKD",
+      "url": "https://dkd.shambhala.org/about-dkd/"
+    },
+    {
+      "title": "About Solitary Retreat",
+      "url": "https://dkd.shambhala.org/about-solitary-retreat/"
+    },
+    {
+      "title": "Rates & Policies",
+      "url": "https://dkd.shambhala.org/rates-policies/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

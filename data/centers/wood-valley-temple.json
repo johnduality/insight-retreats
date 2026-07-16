@@ -1,0 +1,61 @@
+{
+  "id": "wood-valley-temple",
+  "name": "Wood Valley Temple & Guest House",
+  "aka": [
+    "Nechung Dorje Drayang Ling",
+    "Wood Valley Temple"
+  ],
+  "website": "https://www.nechung.org/",
+  "location": {
+    "city": "Pahala",
+    "region": "Ka'u District, Big Island of Hawaii",
+    "state": "HI",
+    "lat": 19.1917,
+    "lng": -155.4794
+  },
+  "tradition": "Non-sectarian Tibetan Buddhism (Nyingma-founded, hosts teachers from all four lineages)",
+  "technique": "Tibetan Buddhist meditation, contemplation, and periodic teachings on sutra and tantra (Foundational Practices, Mahamudra, Dzogchen, Highest Yoga Tantra)",
+  "influences": [
+    "Venerable Nechung Rinpoche (founder, 1973)",
+    "His Holiness the Dalai Lama (dedicated guesthouse, 1980; taught here in 1994)",
+    "Visiting lamas of all four Tibetan Buddhist lineages"
+  ],
+  "teacherAccess": "No resident teacher for daily guidance; visiting Tibetan lamas of all lineages lead periodic public teachings and retreats several times a year.",
+  "retreatOptions": "Self-guided guest house stays in private rooms (2-night minimum) or full-facility group bookings (3-night minimum, up to 10-12 guests); periodic multi-day teachings and retreats with visiting lamas.",
+  "schedule": "Guest house open year-round for individual stays; lama-led retreats and teaching programs held periodically throughout the year (several times annually), announced on the site's events page.",
+  "cost": "Fixed nightly room rates ($85-$165/night depending on room, with weekly discounts); full guesthouse $850/night for up to 10 guests; day visitors requested to donate $5.",
+  "pricePerDay": {
+    "min": 85,
+    "max": 165,
+    "unit": "night",
+    "notes": "Published per-room nightly rates range from $85 (Orchid/Peony, single futon, currently unavailable) to $165+ (Koi Room, starting rate) for individual rooms; most standard rooms (Lehua, Cherry Blossom, Lotus, Rose) are $115/night. All rooms have a 2-night minimum; weekly rates offer a discount. Full guesthouse rental is $850/night (up to 10 guests, 3-night minimum) and is separate from this per-room range.",
+    "source": "https://www.nechung.org/guest-house"
+  },
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "No meals provided; a full self-catering kitchen (screened Hawaiian-style kitchen, dining area, lanai) is available for guest use. Guests bring their own food supplies; local cafes are in nearby Naalehu and Volcano Village.",
+  "workRequired": "no",
+  "workNotes": "No work-exchange program. There is no daily housekeeping service, and guests are asked to help maintain shared common areas, but this is light tidying rather than a formal work requirement.",
+  "about": "Wood Valley Temple & Guest House, known formally as Nechung Dorje Drayang Ling (\"Immutable Island of Melodious Sound\"), is a non-sectarian Tibetan Buddhist temple and retreat center on 25 acres in Wood Valley, in the Ka'u District of Hawaii's Big Island. Founded in 1973 by the Venerable Nechung Rinpoche, the center has hosted more than 50 visiting lamas from all lineages of Tibetan Buddhism over the past four decades, including a historic 1994 visit and teaching by His Holiness the Dalai Lama, who also dedicated the guesthouse in 1980. The property includes a remodeled plantation-era guesthouse with a second-floor meditation hall dedicated to Tara, a self-catering kitchen, gardens, and a koi pond, set in a quiet eucalyptus forest away from tourist areas. Individual travelers can book private rooms for a peaceful self-guided retreat (2-night minimum), while groups can rent the entire guesthouse for workshops or retreats (3-night minimum); there is no daily housekeeping, no phone or TV, but free wifi is available. Periodic multi-day teachings and retreats with visiting Tibetan lamas are offered on Buddhist philosophy and meditation, from foundational practices through advanced tantra, though there is no resident teacher providing ongoing individual instruction between these scheduled programs.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "no-work-required",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Wood Valley Temple & Guest House - Home",
+      "url": "https://www.nechung.org/"
+    },
+    {
+      "title": "Guesthouse Accommodations, Rates & Location",
+      "url": "https://www.nechung.org/guest-house"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

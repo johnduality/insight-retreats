@@ -1,0 +1,73 @@
+{
+  "id": "northern-california-vipassana-center",
+  "name": "Northern California Vipassana Center — Dhamma Maṇḍa",
+  "website": "https://manda.dhamma.org/",
+  "aka": [
+    "Dhamma Manda",
+    "Dhamma Maṇḍa",
+    "NCVC"
+  ],
+  "location": {
+    "city": "Cobb",
+    "region": "North Coast",
+    "state": "CA",
+    "lat": 38.8241,
+    "lng": -122.7233
+  },
+  "tradition": "Vipassana in the tradition of S.N. Goenka (Sayagyi U Ba Khin lineage)",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin",
+    "Gotama Buddha (Theravada)"
+  ],
+  "about": "Dhamma Maṇḍa, also known as the Northern California Vipassana Center, is one of the worldwide network of centers teaching Vipassana meditation as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin. Set on seventeen wooded acres in the Cobb mountain area of Lake County, it offers the standard ten-day residential course in which students learn the technique in a fixed sequence: observing the natural breath to steady the mind, then observing bodily sensations to develop equanimity, closing with metta (loving-kindness) on the final full day. Throughout the course students follow a Code of Discipline and observe Noble Silence — silence of body, speech, and mind — refraining from all communication with fellow students for the first nine days. Days begin around 4:00 a.m. and include roughly ten hours of seated meditation, with evening video discourses by Goenka. Three-day and one-day courses for returning students, along with children's programs, are also held from time to time.",
+  "technique": "Anapana (breath awareness) as preparation, then Vipassana body-scanning to observe sensations with equanimity, culminating in metta.",
+  "teacherAccess": "Guided by audio and video instructions of S.N. Goenka with an on-site assistant teacher available for individual and group questions daily.",
+  "retreatOptions": "Primarily 10-day residential courses for new and old students; periodic 3-day and 1-day courses for old students plus children's/teenagers' courses.",
+  "schedule": "Structured daily timetable from ~4:00 a.m. wake-up to ~9:30 p.m., about 10 hours of meditation with breaks, meals, and an evening discourse.",
+  "cost": "No charge — courses are funded entirely by voluntary donations (dana) from old students; no fee for tuition, food, or lodging.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No per-night rate — courses are free, so there is no fee to prorate.",
+    "source": "https://manda.dhamma.org/vipassana/about/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Simple vegetarian meals provided; new students receive no dinner, only tea and fruit in the early evening.",
+  "workRequired": "no",
+  "workNotes": "The course itself is meditation only; students may separately volunteer to serve (dana service) on later courses.",
+  "tags": [
+    "goenka",
+    "theravada",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Maṇḍa — Welcome / About the Center",
+      "url": "https://manda.dhamma.org/"
+    },
+    {
+      "title": "Dhamma Maṇḍa — About Vipassana & The Courses",
+      "url": "https://manda.dhamma.org/vipassana/about/"
+    },
+    {
+      "title": "Dhamma Maṇḍa — Contact & Mailing Address (Cobb, CA)",
+      "url": "https://manda.dhamma.org/contact/"
+    },
+    {
+      "title": "Dhamma Maṇḍa — Course Schedule",
+      "url": "https://www.dhamma.org/en-US/schedules/schmanda"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

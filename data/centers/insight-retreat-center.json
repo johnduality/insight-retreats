@@ -1,0 +1,70 @@
+{
+  "id": "insight-retreat-center",
+  "name": "Insight Retreat Center",
+  "aka": [
+    "IRC",
+    "Insight Retreat Center of IMC"
+  ],
+  "website": "https://www.insightretreatcenter.org/",
+  "location": {
+    "city": "Scotts Valley",
+    "region": "Bay Area",
+    "state": "CA",
+    "lat": 37.0489,
+    "lng": -122.0338
+  },
+  "tradition": "Insight Meditation (Theravada-based)",
+  "influences": [
+    "Gil Fronsdal",
+    "Andrea Fella",
+    "Insight Meditation Center (IMC), Redwood City",
+    "Theravada Buddhism"
+  ],
+  "about": "The Insight Retreat Center (IRC) is the residential retreat center of the Insight Meditation Center of Redwood City, located in the redwoods just outside Santa Cruz near Scotts Valley. It offers silent Insight Meditation retreats grounded in the liberation teachings of the Buddha, taught by teachers associated with IMC, including Gil Fronsdal and Andrea Fella. Retreats run from four days to four weeks and combine alternating sitting and walking meditation, instruction, dharma talks, work meditation, and practice discussion with teachers. The center is entirely community-supported, with no paid staff, and all retreats are offered freely as a gift, made possible by the generosity of participants, volunteers, and donors.",
+  "technique": "Silent Insight Meditation with alternating sitting and walking meditation, instruction, and dharma talks.",
+  "teacherAccess": "Periodic individual or group practice discussion with the retreat teacher(s).",
+  "retreatOptions": "Residential silent retreats from 4 days to 28 days, including beginner-friendly, metta, Spanish-language, LGBTQIA+, young-adult, and experienced-practitioner retreats; also online retreats.",
+  "schedule": "Full days centered on 45-minute sitting and walking periods, roughly 6:00 am to 9:30 pm, with a daily instruction period, dharma talk, and work meditation.",
+  "cost": "Offered freely at no cost; supported by donations from participants. A refundable credit-card deposit reserves a space and is only charged on late cancellation or no-show.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Free, dana-based — retreats offered at no charge; supported by donations",
+    "source": "https://www.insightretreatcenter.org/retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Breakfast, lunch, and a light supper are provided, plus food available throughout the day; meals are vegetarian.",
+  "workRequired": "yes",
+  "workNotes": "A daily work-meditation period is part of the retreat, typically kitchen, housekeeping, or groundskeeping.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Insight Retreat Center — Home",
+      "url": "https://www.insightretreatcenter.org/"
+    },
+    {
+      "title": "Residential Retreat Schedule",
+      "url": "https://www.insightretreatcenter.org/retreats/"
+    },
+    {
+      "title": "A Typical Retreat Day",
+      "url": "https://www.insightretreatcenter.org/a-typical-retreat-day/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

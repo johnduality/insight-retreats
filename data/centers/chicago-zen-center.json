@@ -1,0 +1,60 @@
+{
+  "id": "chicago-zen-center",
+  "name": "Chicago Zen Center",
+  "aka": [],
+  "location": {
+    "city": "Evanston",
+    "region": "Chicago metro",
+    "state": "IL",
+    "lat": 42.0451,
+    "lng": -87.6877
+  },
+  "tradition": "Zen Buddhism, Rochester (Kapleau) lineage",
+  "technique": "Shikantaza and koan-introspection zazen, formal sesshin practice with teisho and dokusan",
+  "influences": [
+    "Philip Kapleau Roshi",
+    "Rochester Zen Center lineage"
+  ],
+  "teacherAccess": "Daily teisho and dokusan with the Sensei/Abbot and Head of Zendo during sesshin; ongoing teacher access for formal students",
+  "retreatOptions": "4-6 day live-in sesshins, held about 5 times a year, accommodating up to 24 people; part- or short-time attendance possible by arrangement",
+  "schedule": "Sesshin days run roughly 4:30am to 9:25pm bedtime, structured into four blocks with formal zazen rounds, chanting services, a daily work period, calisthenics, three rest periods, and daily teisho with dokusan offered three times a day",
+  "cost": "Sesshin involves a fee to cover food and lodging (exact published amount not listed on site); financial assistance available via the Abbot's Fund for those unable to afford it; ongoing practice at the Center itself is offered free of charge",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "yes",
+  "workNotes": "All sesshin participants are assigned a job (kitchen or housekeeping) for the duration and take part in a daily work period; outside of sesshin, members may join sangha work days and general upkeep volunteering.",
+  "foodNotes": "Breakfast and dinner during sesshin are formal, chanted meals prepared onsite as part of the retreat; specific ingredients/diet type not detailed on site but consistent with typical Zen center vegetarian fare.",
+  "about": "Chicago Zen Center is a Zen Buddhist temple in Evanston, Illinois, in the Rochester (Kapleau) lineage founded by Philip Kapleau Roshi. The center's building accommodates up to 24 people for live-in, multi-day sesshin retreats held about five times a year, ranging from four to six days, including formal zazen, chanting, daily work periods, and dokusan with the resident teacher. Outside of sesshin, the center offers a full schedule of regular sittings, introductory practice sessions, and paths toward formal study, precepts, and ordination, and it welcomes practitioners from other Dharma traditions to its retreats. Day-to-day practice at the center is offered free of charge, with only sesshin carrying a fee to cover food and lodging, and financial assistance is available for those who cannot afford it. Longer-term residential training (minimum one-year commitment) is also available to members for a monthly fee.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Chicago Zen Center - Home",
+      "url": "https://www.chicagozen.org/"
+    },
+    {
+      "title": "Chicago Zen Center - Sesshin",
+      "url": "https://www.chicagozen.org/sesshin"
+    },
+    {
+      "title": "Chicago Zen Center - Sesshin Guidelines",
+      "url": "https://www.chicagozen.org/guidelines"
+    },
+    {
+      "title": "Chicago Zen Center - Support & Membership",
+      "url": "https://www.chicagozen.org/support"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

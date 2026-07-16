@@ -1,0 +1,94 @@
+{
+  "id": "dharma-treasure-retreat-center",
+  "name": "Dharma Treasure Retreat Center",
+  "aka": [
+    "Dharma Treasure Buddhist Sangha",
+    "Dharma Treasure at Cochise Stronghold",
+    "Dharma Treasure Retreat at Cochise Stronghold"
+  ],
+  "website": "https://dharmatreasure.org/",
+  "location": {
+    "city": "Cochise",
+    "region": "Southeastern Arizona (Cochise Stronghold, Dragoon Mountains, near Pearce)",
+    "state": "AZ",
+    "lat": 31.94,
+    "lng": -109.98
+  },
+  "tradition": "Samatha-Vipassana synthesis of Theravada and Tibetan lineages, taught largely through the secular-friendly Mind Illuminated (TMI) framework",
+  "technique": "Samatha-Vipassana (concentration paired with insight) self-directed meditation following Culadasa's The Mind Illuminated stages",
+  "influences": [
+    "Culadasa (Dr. John Yates)",
+    "The Mind Illuminated (TMI)",
+    "Theravada",
+    "Tibetan Karma Kagyu lineage (Namgyal Rinpoche/Ananda Bodhi)"
+  ],
+  "teacherAccess": "Rotating resident teachers/yogis-in-residence trained in the TMI method offer daily interviews, meditation guidance, and optional weekly dharma talks or discussion during personal retreats.",
+  "retreatOptions": "Primarily self-directed personal retreats (minimum 6 nights/7 days, 7-10+ days recommended, up to 30+ days with a discount) tailored to the retreatant's experience level, plus occasional teacher-led group retreats and periodic dark retreats.",
+  "schedule": "Open most of the year with rotating resident teachers by season; solo retreatants set their own daily schedule, while group and dark retreats are scheduled periodically and announced via the center's calendar/newsletter.",
+  "cost": "Fixed nightly lodging fee of roughly $35-$110 per person depending on accommodation type and season (minimum 6-night stay), with a separate dana (donation) offering made directly to teachers for meditation guidance; scholarships available through the Open Dharma Foundation.",
+  "pricePerDay": {
+    "min": 35,
+    "max": 110,
+    "unit": "night",
+    "notes": "Per-person nightly lodging rate for self-directed retreats: $35 for tent camping (year-round), $45-$55 for a shared bed in the Dharmatory Yurt, and $95-$110 single occupancy in the Agave Suite or Casita Manzanita (lower rate May 1-Dec 21, higher 'peak' rate Dec 22-Apr 30); 10% discount for stays of 30+ nights. Excludes meals (self-catered) and dana for teacher guidance.",
+    "source": "https://dharmatreasure.org/personal-retreat-lodging/"
+  },
+  "foodServed": "partial",
+  "foodType": "mixed",
+  "foodNotes": "Meals are self-catered and not included in the retreat fee. All accommodations have access to the shared 'Cook Shack' kitchen (or their own kitchenette/full kitchen for suite guests); retreatants can also opt into a weekly community food program/grocery run covering vegetables, meat, plant-based proteins, eggs, and bread.",
+  "workRequired": "partial",
+  "workNotes": "Solo retreatants are asked (not strictly mandated) to contribute about 45 minutes to 1 hour of daily work service (seva) — cleaning, gardening, grounds maintenance, or cooking prep — as part of the retreat.",
+  "about": "Dharma Treasure Retreat Center is a small, off-grid Buddhist meditation retreat tucked into Cochise Stronghold, a canyon in the Dragoon Mountains of southeastern Arizona about 90 minutes from Tucson. Built around the teachings of the late Upasaka Culadasa (Dr. John Yates), author of The Mind Illuminated, the center specializes in self-directed personal retreats, where solitary practitioners design their own daily schedule with guidance from rotating resident teachers trained in Culadasa's Samatha-Vipassana method, alongside occasional teacher-led group retreats and dark retreats. Lodging spans tent camping and a shared 'Dharmatory' yurt to private suites in a solar-powered, permaculture-designed eco-house with water-harvesting systems, straw-bale construction, and compost toilets. Retreat fees cover lodging only; meals are self-catered from a shared kitchen, and guidance from resident teachers is offered separately on a dana (donation) basis, with scholarships available through the Open Dharma Foundation.",
+  "tags": [
+    "insight-vipassana",
+    "self-guided",
+    "silent",
+    "camping",
+    "work-practice",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Dharma Treasure Retreat Center - Home",
+      "url": "https://dharmatreasure.org/"
+    },
+    {
+      "title": "Personal Meditation Retreats",
+      "url": "https://dharmatreasure.org/personal-meditation-retreats/"
+    },
+    {
+      "title": "Retreat Costs",
+      "url": "https://dharmatreasure.org/retreat-costs/"
+    },
+    {
+      "title": "Personal Retreat Lodging",
+      "url": "https://dharmatreasure.org/personal-retreat-lodging/"
+    },
+    {
+      "title": "Personal Retreat Meals",
+      "url": "https://dharmatreasure.org/personal-retreat-meals/"
+    },
+    {
+      "title": "Retreat Location",
+      "url": "https://dharmatreasure.org/retreat-location/"
+    },
+    {
+      "title": "Getting to Dharma Treasure Retreat at Cochise Stronghold",
+      "url": "https://dharmatreasure.org/locations-maps-directions/"
+    },
+    {
+      "title": "Teachers - Dharma Treasure",
+      "url": "https://dharmatreasure.org/teachers-in-training/"
+    },
+    {
+      "title": "About Culadasa",
+      "url": "https://dharmatreasure.org/about/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

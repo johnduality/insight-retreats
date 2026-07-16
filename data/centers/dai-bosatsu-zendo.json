@@ -1,0 +1,78 @@
+{
+  "id": "dai-bosatsu-zendo",
+  "name": "Dai Bosatsu Zendo Kongo-ji",
+  "aka": [
+    "Zen Studies Society - Dai Bosatsu Zendo",
+    "DBZ"
+  ],
+  "website": "https://zenstudies.org/dai-bosatsu-zendo/",
+  "location": {
+    "address": "223 Beecher Lake Road",
+    "city": "Livingston Manor",
+    "county": "Ulster",
+    "region": "Catskills",
+    "state": "NY",
+    "lat": 42.028011,
+    "lng": -74.644017
+  },
+  "tradition": "Rinzai Zen Buddhism (Zen Studies Society)",
+  "technique": "Zazen, koan study, and sesshin under traditional Rinzai monastic forms",
+  "influences": [
+    "Nyogen Senzaki",
+    "Soen Nakagawa Roshi",
+    "Chigan Roshi (current Abbot)"
+  ],
+  "teacherAccess": "Daily dokusan (private interviews) with the Abbot during sesshin, kessei, and residential training",
+  "retreatOptions": "Weekend Introduction to Zen programs to week-long (5-8 day) sesshin retreats, plus 3-month kessei training periods",
+  "about": "Dai Bosatsu Zendo Kongo-ji is a Rinzai Zen Buddhist monastery of the Zen Studies Society, set on the shore of Beecher Lake amid 1,400 acres of forest in the Catskill Mountains near Livingston Manor, NY. Opened in 1976, it offers structured residential training to lay and ordained students of all backgrounds, centered on zazen, koan study, dokusan (private teacher interviews), and work practice under the guidance of Abbot Chigan Roshi. Newcomers can attend weekend Introduction to Zen programs, while more experienced practitioners take part in week-long sesshin retreats held about six times a year and three-month kessei training periods each spring and fall. The monastery also runs a summer work-study internship and, during warmer months, opens its Beecher House retreat center to outside groups.",
+  "schedule": "Introduction to Zen weekends run periodically; sesshin retreats are held roughly six times a year (typically 5-8 days each); kessei residential training periods run each spring and fall",
+  "cost": "Fixed fees per program: about $300 for an Introduction to Zen weekend and $425-625 for a week-long sesshin depending on length and membership status; reduced rates available for financial need",
+  "pricePerDay": {
+    "min": 85,
+    "max": 100,
+    "unit": "night",
+    "notes": "Derived from the Nyogen Senzaki Sesshin (May 5 4pm - May 10 12pm 2026, 5 nights): $425 ZSS member / $500 nonmember, i.e. ~$85-100/night",
+    "source": "https://zenstudies.org/event/dbz-nyogen-senzaki-sesshin-2026/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three formal vegetarian meals a day, eaten in silence using traditional oryoki/jihatsu bowls",
+  "workRequired": "yes",
+  "workNotes": "Daily samu (work practice) is a scheduled part of sesshin, Introduction to Zen weekends, and residency",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "meals-included",
+    "work-practice",
+    "diet-vegetarian",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Dai Bosatsu Zendo - Zen Studies Society",
+      "url": "https://zenstudies.org/dai-bosatsu-zendo/"
+    },
+    {
+      "title": "Sesshin - Zen Studies Society",
+      "url": "https://zenstudies.org/dai-bosatsu-zendo/sesshin/"
+    },
+    {
+      "title": "Introduction to Zen - Zen Studies Society",
+      "url": "https://zenstudies.org/dai-bosatsu-zendo/introduction-to-zen/"
+    },
+    {
+      "title": "DBZ: Nyogen Senzaki Sesshin (registration/pricing)",
+      "url": "https://zenstudies.org/event/dbz-nyogen-senzaki-sesshin-2026/"
+    },
+    {
+      "title": "Dai Bosatsu Zendo Kongo-ji - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dai_Bosatsu_Zendo_Kongo-ji"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

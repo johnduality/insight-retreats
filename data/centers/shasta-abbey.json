@@ -1,0 +1,68 @@
+{
+  "id": "shasta-abbey",
+  "name": "Shasta Abbey Buddhist Monastery",
+  "website": "https://shastaabbey.org/",
+  "aka": [
+    "Shasta Abbey",
+    "Order of Buddhist Contemplatives"
+  ],
+  "location": {
+    "city": "Mount Shasta",
+    "region": "Far North",
+    "state": "CA",
+    "lat": 41.3505,
+    "lng": -122.3538
+  },
+  "tradition": "Soto Zen Buddhism (Serene Reflection Meditation), a monastery of the Order of Buddhist Contemplatives",
+  "influences": [
+    "Rev. Master Houn Jiyu-Kennett",
+    "Keido Chisan Koho Zenji",
+    "Soto Zen"
+  ],
+  "about": "Shasta Abbey is a Soto Zen Buddhist monastery in the Serene Reflection Meditation tradition, a monastery of the Order of Buddhist Contemplatives founded by Rev. Master Houn Jiyu-Kennett in 1970. Located near the town of Mount Shasta in far northern California, it is a training place for female and male Buddhist monks and a place of practice for lay people. Guests new to the Abbey begin with an Introductory Retreat (typically Friday to Sunday) that introduces seated meditation, Dharma talks, and monastic life; those with more experience may join Continuing Practice, Meditation, and week-long retreats, or stay for extended residential lay training. Retreats follow the monastic schedule and are held in silence as much as possible, with periods of seated and working meditation, ceremonies, and silent meals. Despite the words Abbey and Contemplatives in its names, this is a Buddhist monastery, not a Christian one.",
+  "technique": "Serene Reflection Meditation (Soto Zen shikantaza / 'just sitting') taught within a traditional monastic schedule.",
+  "teacherAccess": "Meditation instruction, Dharma talks, informal discussion, and private spiritual counseling with resident monks; senior-monk guidance for lay residents.",
+  "retreatOptions": "Introductory (Fri-Sun), Continuing Practice, Celebratory, three-day Meditation, and seven-day Week-Long retreats, plus extended residential lay training.",
+  "schedule": "Guests follow the full monastic daily schedule of seated meditation, working meditation, ceremonies, chanting, and silent meals.",
+  "cost": "Shasta Abbey does not charge for retreats or religious services; donations to support the monastery are welcomed.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No set fee; retreats are offered freely and supported by donations/offerings.",
+    "source": "https://shastaabbey.org/donations/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are provided and eaten in silence in the monastic style during retreats.",
+  "workRequired": "yes",
+  "workNotes": "Working meditation (samu) is a regular part of the retreat and residential schedule.",
+  "tags": [
+    "zen",
+    "silent",
+    "diet-vegetarian",
+    "meals-included",
+    "dana-donation",
+    "monastic-community",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Shasta Abbey - Home",
+      "url": "https://shastaabbey.org/"
+    },
+    {
+      "title": "Shasta Abbey - Retreats",
+      "url": "https://shastaabbey.org/retreats/"
+    },
+    {
+      "title": "Shasta Abbey - Giving / Donations",
+      "url": "https://shastaabbey.org/donations/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

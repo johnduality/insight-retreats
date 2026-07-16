@@ -1,0 +1,69 @@
+{
+  "id": "korinji",
+  "name": "Korinji",
+  "aka": [
+    "Korinji Monastery",
+    "So'tekizan Korinji",
+    "Korinji Rinzai Zen Monastery"
+  ],
+  "location": {
+    "address": "S470 Hirst Road, Reedsburg, WI 53959",
+    "city": "Reedsburg",
+    "region": "South Central Wisconsin",
+    "state": "WI",
+    "lat": 43.5322,
+    "lng": -90.0026
+  },
+  "tradition": "Rinzai Zen (with non-sectarian Shingon, Tendai, and Shugendo practice)",
+  "technique": "Zazen with koan training in the orally transmitted Rinzai lineage, combined with Zen-Ken-Sho: the unified practice of Zen, budo (martial arts), and fine arts such as sado (tea ceremony)",
+  "influences": [
+    "Omori Sogen Roshi",
+    "Meido Moore Roshi",
+    "Rinzai Zen International"
+  ],
+  "teacherAccess": "Direct guidance from resident teacher Meido Moore Roshi during retreats, including sanzen/dokusan (private interviews) during Dai-Sesshin and one-on-one guidance during the beginners' Zen Life Retreat.",
+  "retreatOptions": "Annual weekend Zen Life Retreat for beginners; six 7-day Rinzai Zen Dai-Sesshin intensive retreats per year for more experienced practitioners (plus additional sesshin held in Europe); periodic Shugendo mountain training retreats.",
+  "schedule": "Dai-Sesshin follows a rigorous traditional monastic schedule with pre-dawn wake-up, multiple daily blocks of zazen and walking meditation, chanting service, samu (work practice), dharma talks, and late-evening solo sitting (yaza); the beginner's Zen Life Retreat offers a gentler introduction to monastery forms and meditation instruction.",
+  "cost": "Retreat fees are not published on the website; Korinji asks that prospective participants contact the monastery directly for current pricing and registration for the Zen Life Retreat or Dai-Sesshin.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals during retreats are silent and vegetarian, part of the monastery's formal training schedule.",
+  "workRequired": "yes",
+  "workNotes": "Samu (work practice) is a scheduled part of the daily retreat routine, alongside meditation, chanting, and (for residents) additional labor and monastery upkeep.",
+  "about": "Korinji is a Rinzai Zen training monastery (sodo) on seventeen forested acres near Reedsburg, Wisconsin, about fifty miles from Madison, founded in 2013 by Meido Moore Roshi. It serves as headquarters of Rinzai Zen International and preserves an especially rigorous approach to Zen training modeled on Japanese monasteries such as Tenryuji, integrating koan study with budo, sado, and other traditional arts under the framework of Zen-Ken-Sho. Korinji offers a weekend Zen Life Retreat each year for newcomers to Zen practice, and six seven-day Dai-Sesshin intensive retreats annually for more experienced students, along with periodic Shugendo mountain training and other public events. Because of steep terrain and limited parking access, the monastery is not currently able to accommodate residents or guests who use wheelchairs or cannot safely navigate uneven ground and stairs.",
+  "tags": [
+    "zen",
+    "silent",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Korinji Monastery | Meditation | WI, USA",
+      "url": "https://www.korinji.org/"
+    },
+    {
+      "title": "About | Korinji",
+      "url": "https://www.korinji.org/about"
+    },
+    {
+      "title": "Retreats, Classes & Events | Korinji",
+      "url": "https://www.korinji.org/retreats-events"
+    },
+    {
+      "title": "Residency & Ordination | Korinji",
+      "url": "https://www.korinji.org/residency-ordination"
+    },
+    {
+      "title": "Contact | Korinji",
+      "url": "https://www.korinji.org/contact"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "zen-center-of-pittsburgh",
+  "name": "Zen Center of Pittsburgh / Deep Spring Temple",
+  "aka": [
+    "Deep Spring Temple",
+    "ZCP"
+  ],
+  "website": "https://www.deepspringzen.org/",
+  "location": {
+    "address": "124 Willow Ridge Road",
+    "city": "Sewickley",
+    "region": "Pittsburgh area",
+    "state": "PA",
+    "lat": 40.6002,
+    "lng": -80.1748
+  },
+  "tradition": "Soto Zen Buddhism",
+  "technique": "Shikantaza (silent seated meditation), kinhin (walking meditation), chanting, oryoki formal meals, and samu (work practice)",
+  "influences": [
+    "Soto Zen lineage of Gengo Akiba Roshi",
+    "Japanese Soto-shu"
+  ],
+  "teacherAccess": "Daily dharma talks and interview opportunities with Abbot Kotoku Ray Crivello during sesshin; private instruction also offered by appointment outside retreats.",
+  "retreatOptions": "Monthly one-day sesshin, a weekend sesshin (Friday evening to Sunday morning, 2 nights), and the week-long Rohatsu sesshin each December (about 8 nights); occasional multi-day intensives such as a sewing/precepts retreat.",
+  "schedule": "Sesshin days generally run zazen and kinhin from early morning through evening, interspersed with soji (work practice), oryoki meals, and dharma talks; Rohatsu alternates full days (6am-8pm) with partial and rest days over its roughly 8-day span.",
+  "cost": "Tiered/sliding-scale fees; Rohatsu Full Sesshin with lodging is $410-$570 depending on tier (about $410 scholarship / $490 sustaining / $570 supporting) for the ~8-night retreat, or $55/night for dormitory lodging alone at other residential events.",
+  "pricePerDay": {
+    "min": 51,
+    "max": 71,
+    "unit": "night",
+    "notes": "Derived from the Rohatsu Sesshin 'Full Sesshin with Lodging' tiered price ($410/$490/$570) divided across the roughly 8 nights of the Nov 30-Dec 8 retreat (~$51-$71/night); a separate stand-alone dormitory lodging rate of $55/night is also published for other residential events.",
+    "source": "https://www.deepspringzen.org/rohatsu-2025"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals during sesshin are served in formal oryoki style; Zen temple meals of this kind are vegetarian.",
+  "workRequired": "partial",
+  "workNotes": "Sesshin schedules include a soji (work practice) period; volunteer temple days also occur ahead of major retreats like Rohatsu.",
+  "about": "Zen Center of Pittsburgh / Deep Spring Temple is a Soto Zen Buddhist temple founded in 1999, now led by Abbot Kotoku Ray Crivello, on fourteen wooded acres about thirty minutes north of Pittsburgh. Beyond its regular weekly zazen schedule, the temple hosts a monthly one-day sesshin, a two-night weekend sesshin, and the week-long Rohatsu sesshin each December commemorating the Buddha's awakening, all built around shikantaza, kinhin, oryoki meals, and dharma talks with the Abbot. On-site lodging is available in a small temple dormitory and guest apartment, with a tiered/sliding-scale fee structure intended to keep retreats accessible, including scholarship pricing. The center also supports residency training for those exploring ordination in the Soto Zen lineage of Gengo Akiba Roshi.",
+  "tags": [
+    "zen",
+    "silent",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Zen Center of Pittsburgh Deep Spring Temple - About",
+      "url": "https://www.deepspringzen.org/about"
+    },
+    {
+      "title": "Upcoming Events - Zen Center of Pittsburgh Deep Spring Temple",
+      "url": "https://www.deepspringzen.org/events-2-1"
+    },
+    {
+      "title": "Rohatsu 2025 - Zen Center of Pittsburgh Deep Spring Temple",
+      "url": "https://www.deepspringzen.org/rohatsu-2025"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

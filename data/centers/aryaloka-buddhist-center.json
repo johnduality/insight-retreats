@@ -1,0 +1,76 @@
+{
+  "id": "aryaloka-buddhist-center",
+  "name": "Aryaloka Buddhist Center",
+  "aka": [
+    "Aryaloka Buddhist Retreat Center"
+  ],
+  "website": "https://aryaloka.org/",
+  "location": {
+    "city": "Newmarket",
+    "region": "Seacoast NH",
+    "state": "NH",
+    "lat": 43.0716,
+    "lng": -70.9502
+  },
+  "tradition": "Triratna Buddhist Community (eclectic, non-sectarian Western Buddhism drawing on Mahayana and Vajrayana sources)",
+  "technique": "Mindfulness of Breathing and Metta Bhavana (loving-kindness) meditation, alongside Dharma study, ritual and devotional practice",
+  "influences": [
+    "Urgyen Sangharakshita",
+    "Triratna Buddhist Community",
+    "Western Buddhist Order",
+    "Manjuvajra (founder)"
+  ],
+  "teacherAccess": "Retreats and classes are led by Triratna Order members and visiting teachers, including founder-era teachers historically and current Triratna Buddhist Order teachers.",
+  "retreatOptions": "Overnight residential retreats of a weekend or longer held on-site, with shared or single bedrooms and a tenting option; also offers non-residential classes and workshops.",
+  "about": "Aryaloka Buddhist Center is a Triratna Buddhist retreat center on fourteen wooded acres beside the Piscassic River in Newmarket, New Hampshire, founded in 1985 by Manjuvajra, an Order Member of the Triratna Buddhist Community (then the Friends of the Western Buddhist Order). What began as a residential community and Right Livelihood project has become a dedicated retreat facility used year-round for weekend and longer residential retreats, classes, and workshops on meditation, mindfulness, and Buddhist practice. Guests stay in shared or single bedrooms in the center's distinctive dome buildings and adjoining barn, share in light communal work such as meal clean-up, and eat vegan meals prepared on-site. Aryaloka has hosted many visiting teachers from the international Triratna community, including founder Sangharakshita, and remains a hub for Buddhist practice in the New Hampshire Seacoast region.",
+  "schedule": "Weekend and longer residential retreats scheduled most weekends throughout the year, alongside weekly Tuesday 'Friends' Night' meditation and periodic day classes.",
+  "cost": "Sliding-scale fees typical of $300-450 for a 5-night residential retreat (meals and housing included); shorter weekend retreats priced proportionally.",
+  "pricePerDay": {
+    "min": 60,
+    "max": 90,
+    "unit": "night",
+    "notes": "Derived from published sliding-scale pricing of $300/$375/$450 for a 5-night residential retreat (housing and meals included); per-night figure calculated by dividing by nights.",
+    "source": "https://aryaloka.org/civicrm/event/info?reset=1&id=292"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Healthy vegan meals are provided for all retreats and weekend classes, with allergy accommodations and both dairy and non-dairy options.",
+  "workRequired": "partial",
+  "workNotes": "Retreat participants take part in shared work such as meal clean-up and end-of-retreat tidying; longer retreats include a mid-week clean-up period.",
+  "tags": [
+    "mahayana",
+    "family-friendly",
+    "diet-vegan",
+    "meals-included",
+    "work-practice",
+    "sliding-scale",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Aryaloka Buddhist Retreat Center - Home",
+      "url": "https://aryaloka.org/"
+    },
+    {
+      "title": "About Your Visit to Aryaloka",
+      "url": "https://aryaloka.org/about-your-visit-aryaloka"
+    },
+    {
+      "title": "Aryaloka's Story",
+      "url": "https://aryaloka.org/aryalokas-story"
+    },
+    {
+      "title": "US & Canada Leadership Retreat (pricing example)",
+      "url": "https://aryaloka.org/civicrm/event/info?reset=1&id=292"
+    },
+    {
+      "title": "Registration Info",
+      "url": "https://aryaloka.org/registration-info"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "green-gulch-farm-zen-center",
+  "name": "Green Gulch Farm Zen Center",
+  "website": "https://www.sfzc.org/practice-centers/green-gulch-farm",
+  "aka": [
+    "Green Dragon Temple",
+    "Soryu-ji",
+    "Green Gulch Farm",
+    "GGF"
+  ],
+  "location": {
+    "city": "Muir Beach",
+    "region": "Bay Area",
+    "state": "CA",
+    "lat": 37.8631,
+    "lng": -122.5747
+  },
+  "tradition": "Soto Zen (San Francisco Zen Center lineage)",
+  "influences": [
+    "Shunryu Suzuki Roshi",
+    "San Francisco Zen Center",
+    "Japanese Soto Zen"
+  ],
+  "about": "Green Dragon Temple / Green Gulch Farm (Soryu-ji) is a Buddhist practice center in the Japanese Soto Zen tradition, one of three practice centers of the San Francisco Zen Center. Set on a coastal valley near Muir Beach in Marin County, it combines zazen (sitting meditation), Zen study, and work practice with an organic farm and garden. Its mission is to awaken the bodhisattva spirit of kindness and realistic helpfulness as a living enactment of the Buddha's Way. Residential offerings include guest student stays, seasonal practice periods, sesshins, apprenticeships, and overnight guest-house stays, alongside Sunday public Dharma talks and workshops.",
+  "technique": "Soto Zen zazen (silent sitting meditation), sutra chanting and bowing services, and mindful work practice.",
+  "teacherAccess": "Weekly Dharma lectures, zazen instruction, and opportunities to meet with resident teachers and practice leaders.",
+  "retreatOptions": "Guest student stays (2-week minimum), seasonal practice periods, sesshins, work-practice apprenticeships, and multi-night guest-house stays.",
+  "schedule": "Daily monastic rhythm: 5:30am wake-up, morning and evening zazen, service, temple cleaning, silent breakfast, and morning/afternoon work practice.",
+  "cost": "Guest students pay $35/day (14-day minimum); guest-house rooms run about $160-$335 per night depending on room, occupancy, and weekday/weekend.",
+  "pricePerDay": {
+    "min": 160,
+    "max": 335,
+    "unit": "night",
+    "notes": "Guest-house room rates: single/double occupancy small or large rooms, weekday $160-$275 and weekend $205-$335 per night. Separately, structured guest student residency is $35/day with a 14-day minimum.",
+    "source": "https://www.sfzc.org/practice-centers/green-gulch-farm/visits-stays"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals featuring organic produce grown on the farm and garden; guest-house kitchen offers fresh-baked bread, jams, seasonal fruit, coffee and tea.",
+  "workRequired": "partial",
+  "workNotes": "Work practice (dishes, cleaning, farm/garden/maintenance crews) is central to guest student and apprenticeship stays; short-term guest-house guests are not required to work.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "diet-vegetarian",
+    "meals-included",
+    "fixed-fee",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Green Gulch Farm - San Francisco Zen Center",
+      "url": "https://www.sfzc.org/locations/green-gulch-farm"
+    },
+    {
+      "title": "Visits & Stays at Green Gulch (guest rates)",
+      "url": "https://www.sfzc.org/practice-centers/green-gulch-farm/visits-stays"
+    },
+    {
+      "title": "Guest Student Stays at Green Gulch",
+      "url": "https://www.sfzc.org/locations/green-gulch-farm/visits-stays-green-gulch/guest-student-stays-green-gulch"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

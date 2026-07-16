@@ -1,0 +1,70 @@
+{
+  "id": "expanding-light-retreat",
+  "name": "The Expanding Light Retreat",
+  "aka": [
+    "Ananda Expanding Light",
+    "Ananda Village",
+    "Ananda Meditation Retreats"
+  ],
+  "website": "https://www.expandinglight.org/",
+  "location": {
+    "city": "Nevada City",
+    "region": "Sierra Foothills",
+    "state": "CA",
+    "lat": 39.2402,
+    "lng": -121.0895
+  },
+  "tradition": "Kriya Yoga and meditation in the Paramhansa Yogananda lineage (Ananda)",
+  "influences": [
+    "Paramhansa Yogananda",
+    "Swami Kriyananda"
+  ],
+  "about": "The Expanding Light Retreat is the guest retreat of Ananda Village, one of the world's oldest intentional spiritual communities, set on roughly 700 acres in the Sierra foothills near Nevada City. Its programs are based on the teachings of Paramhansa Yogananda (author of Autobiography of a Yogi) and his direct disciple Swami Kriyananda, who founded Ananda. The center runs around 150 guided programs a year plus flexible-date personal retreats, all centered on meditation, Ananda Yoga, pranayama, Energization Exercises, and the Kriya Yoga path. Guests join twice-daily yoga and meditation sessions, classes, and community events while staying on campus with all vegetarian meals included. Programs welcome beginners and experienced practitioners alike, and online offerings are also available.",
+  "technique": "Yogananda-lineage meditation, Ananda Yoga, pranayama, Energization Exercises, and Kriya Yoga initiation.",
+  "teacherAccess": "Guided daily by resident Ananda meditation teachers; each guest has a personal retreat host for support.",
+  "retreatOptions": "Self-paced personal retreats (flexible dates) plus ~150 guided multi-day programs, silent retreats, family and Kriya trainings; day passes and online programs also offered.",
+  "schedule": "Twice-daily yoga and meditation sessions with classes, activities, and community events throughout the day.",
+  "cost": "All-inclusive per-person, per-night rates by accommodation type; minimum two-night stay. Discounts and needs-based rates available.",
+  "pricePerDay": {
+    "min": 118,
+    "max": 330,
+    "unit": "night",
+    "notes": "All-inclusive per-person-per-night (lodging + 3 vegetarian meals + full program participation); minimum two-night stay. Range spans Tent/RV ($118) to Ensuite Private ($330); weekend rates higher than Sun-Thur.",
+    "source": "https://meditationretreat.org/yoga-and-meditation-retreats/personal-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three organic vegetarian meals daily plus tea, coffee, and fruit; gluten-free, non-dairy, and vegan options available on request.",
+  "workRequired": "no",
+  "workNotes": "No work required for guests; an optional Karma Yoga service-immersion program is offered separately.",
+  "tags": [
+    "yoga-hindu",
+    "self-guided",
+    "silent",
+    "meals-included",
+    "fixed-fee",
+    "diet-vegetarian",
+    "no-work-required",
+    "online-hybrid",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Ananda Meditation Retreats (official site)",
+      "url": "https://meditationretreat.org/"
+    },
+    {
+      "title": "The Expanding Light Retreat Campus - accommodations & FAQs",
+      "url": "https://meditationretreat.org/the-expanding-light-retreat/"
+    },
+    {
+      "title": "Personal Retreat - prices, inclusions, per-night rates",
+      "url": "https://meditationretreat.org/yoga-and-meditation-retreats/personal-retreat/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

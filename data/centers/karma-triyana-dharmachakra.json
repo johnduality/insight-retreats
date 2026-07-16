@@ -1,0 +1,73 @@
+{
+  "id": "karma-triyana-dharmachakra",
+  "name": "Karma Triyana Dharmachakra",
+  "aka": [
+    "KTD",
+    "KTD Monastery"
+  ],
+  "website": "https://kagyu.org/",
+  "location": {
+    "address": "335 Mead Mountain Rd",
+    "city": "Woodstock",
+    "county": "Ulster County",
+    "region": "Hudson Valley",
+    "state": "NY",
+    "lat": 42.07083,
+    "lng": -74.12306
+  },
+  "tradition": "Tibetan Buddhist (Karma Kagyu)",
+  "technique": "Vajrayana meditation, puja/ritual practice, and self-directed personal retreat under lama guidance",
+  "influences": [
+    "16th Karmapa Rangjung Rigpe Dorje",
+    "Khenpo Karthar Rinpoche",
+    "17th Karmapa",
+    "Bardor Tulku Rinpoche",
+    "Karma Kagyu lineage"
+  ],
+  "teacherAccess": "Resident lamas and monastic teachers lead weekly teachings and pujas; personal retreat purpose and practice plan is reviewed and approved by the lamas beforehand.",
+  "retreatOptions": "Day visits and weekend teachings up to week-long teaching/nyungne retreats, plus open-length, self-directed Personal Retreat stays (multi-night minimum, scheduled by application).",
+  "about": "Karma Triyana Dharmachakra (KTD) is a Tibetan Buddhist monastery in the Catskill Mountains above Woodstock, NY, founded in 1976 by the 16th Karmapa as the North American seat of the Karma Kagyu lineage. It functions as a working monastery with a resident monastic community, holding daily pujas and offering weekly public teachings, periodic week-long retreats, and nyungne retreats throughout the year. KTD also runs a Personal Retreat program allowing individual practitioners to stay on-site in private, shared, or dorm rooms for self-directed practice, with dates and purpose approved in advance by the resident lamas. Guests take meals with the community and can join the daily schedule of shrine room practice.",
+  "schedule": "Weekly public teachings and thrice-daily pujas year-round, periodic week-long and nyungne retreats tied to the ritual calendar, plus Personal Retreats scheduled individually by application (minimum one week advance notice).",
+  "cost": "Personal Retreat lodging is priced per night by room type (dorm, shared, or private); other public teachings and pujas are generally offered on a dana (donation) basis.",
+  "pricePerDay": {
+    "min": 48,
+    "max": 96,
+    "unit": "night",
+    "notes": "From the Personal Retreat Application room-rate options: Dorm $48/night, Share with Friend $62/person/night, Private $96/night.",
+    "source": "https://kagyu.org/visit/personalRetreat"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals (with vegan options) are provided to guests and retreatants; meals require preregistration.",
+  "workRequired": "unknown",
+  "workNotes": "No work-practice requirement for guests is specified on the official site; retreatants join the monastery's existing daily schedule.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "silent",
+    "long-retreats",
+    "meals-included",
+    "diet-vegetarian",
+    "dana-donation",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Karma Triyana Dharmachakra (official site)",
+      "url": "https://kagyu.org/"
+    },
+    {
+      "title": "Personal Retreat Application",
+      "url": "https://kagyu.org/visit/personalRetreat"
+    },
+    {
+      "title": "Karma Triyana Dharmachakra - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karma_Triyana_Dharmachakra"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

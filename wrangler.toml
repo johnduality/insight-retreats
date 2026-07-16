@@ -1,0 +1,7 @@
+# Cloudflare Pages configuration for insight-retreats.org
+#
+# The static site is built by `node scripts/build-data.mjs` and served from ./public.
+
+name = "insight-retreats"
+compatibility_date = "2025-07-01"
+pages_build_output_dir = "public"

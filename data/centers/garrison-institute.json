@@ -1,0 +1,98 @@
+{
+  "id": "garrison-institute",
+  "name": "Garrison Institute",
+  "aka": [
+    "The Garrison Institute",
+    "Glenclyffe"
+  ],
+  "website": "https://www.garrisoninstitute.org/",
+  "location": {
+    "address": "14 Mary's Way, Route 9D, Garrison, NY 10524",
+    "city": "Garrison",
+    "county": "Putnam County",
+    "region": "Hudson Valley",
+    "state": "NY",
+    "lat": 41.3773,
+    "lng": -73.944
+  },
+  "tradition": "Secular / interfaith contemplative practice",
+  "technique": "Mindfulness, meditation, and contemplative practice drawn from many traditions (varies by visiting teacher)",
+  "influences": [
+    "Sharon Salzberg",
+    "Tsoknyi Rinpoche",
+    "Rupert Spira",
+    "Daniel Goleman",
+    "Dan Siegel",
+    "DharmaPunx NYC (Josh Korda)",
+    "New York Zen Center for Contemplative Care",
+    "the Dalai Lama (guest visitor)"
+  ],
+  "teacherAccess": "Visiting teachers change with each program (e.g., Sharon Salzberg, Tsoknyi Rinpoche, Rupert Spira, Zen and Insight teachers, DharmaPunx NYC); most retreats include daily talks, guided sits, and some small-group or dialogue access with the teacher(s).",
+  "retreatOptions": "Day and evening programs plus residential retreats ranging from 2-3 night weekends to 6-7 night intensives, some with a livestream/online option.",
+  "about": "The Garrison Institute is a nonsectarian, nonprofit contemplative retreat and research center housed in a renovated 1923 Capuchin Franciscan monastery on the 95-acre former Glenclyffe estate overlooking the Hudson River in Garrison, New York. Founded in 2003 by Diana Calthorpe Rose and Jonathan F. P. Rose as a 'monastery for the 21st century,' it hosts residential meditation and mindfulness retreats led by a rotating roster of outside teachers spanning Buddhist, secular-mindfulness, nondual, yogic, and other contemplative lineages, alongside its own programs on resilience, planetary health, and spirituality and social change. It is not affiliated with a single tradition; each retreat's content, format, and cost are set by the visiting teacher or organization renting the space. The site sleeps up to 165 overnight guests in single, double, and dorm-style rooms with shared bathrooms and no elevator, and serves vegetarian meals in a communal dining hall.",
+  "schedule": "Programs run on a published calendar of externally-led and Institute-run retreats year-round, most commonly Thursday/Friday–Sunday weekends or 6-7 night intensives; there is no standing daily open-sit schedule outside of scheduled retreats.",
+  "cost": "Each retreat sets its own all-inclusive program, lodging, and meals fee (varies by teacher/organizer), typically tiered by room type (single, double/twin, dorm/shared, or commuter without lodging); need-based scholarships and a Many Voices Fund for BIPOC applicants are available for some programs.",
+  "pricePerDay": {
+    "min": 222,
+    "max": 262,
+    "unit": "night",
+    "notes": "Derived from a 6-night residential retreat (Tsoknyi Rinpoche, Sept 2025): dorm $1,330, double $1,420, single $1,570 total per person, including ~$400 program tuition, lodging, and 3 vegetarian meals/day. Prices vary significantly by visiting teacher and program; comparable 7-night retreats have run $2,840-$3,275 total per person.",
+    "source": "https://tsoknyirinpoche.org/events/garrison-institute-open-retreat-in-person/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian (often lacto-vegetarian) meals per day included with residential registration; gluten/dairy-free options generally available on request depending on the retreat.",
+  "workRequired": "no",
+  "workNotes": "No work/service practice is required of retreatants; the Institute is staffed and catered.",
+  "tags": [
+    "long-retreats",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships",
+    "online-hybrid"
+  ],
+  "sources": [
+    {
+      "title": "Garrison Institute - official site",
+      "url": "https://www.garrisoninstitute.org/"
+    },
+    {
+      "title": "Programs & Retreats - The Garrison Institute",
+      "url": "https://www.garrisoninstitute.org/retreats/programs-retreats/"
+    },
+    {
+      "title": "Retreats - The Garrison Institute",
+      "url": "https://www.garrisoninstitute.org/retreats/"
+    },
+    {
+      "title": "Facility & Grounds - The Garrison Institute",
+      "url": "https://www.garrisoninstitute.org/retreats/being-here/facility-grounds/"
+    },
+    {
+      "title": "Scholarships - The Garrison Institute",
+      "url": "https://www.garrisoninstitute.org/about-us/scholarships/"
+    },
+    {
+      "title": "Garrison Institute - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Garrison_Institute"
+    },
+    {
+      "title": "Seven-Day Retreat at Garrison Institute, 11-18 October 2026 - Rupert Spira",
+      "url": "https://rupertspira.com/events/events/seven-day-retreat-at-garrison-institute-11-18-october-2026/"
+    },
+    {
+      "title": "A Taste of Liberation - In Person - Pundarika Foundation (Garrison Institute pricing)",
+      "url": "https://tsoknyirinpoche.org/events/garrison-institute-open-retreat-in-person/"
+    },
+    {
+      "title": "Starting Over: Stepping Out of Old Stories Into New Experiences (DharmaPunx NYC Labor Day retreat)",
+      "url": "https://www.garrisoninstitute.org/event/starting-over-stepping-out-of-old-stories/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "tassajara-zen-mountain-center",
+  "name": "Tassajara Zen Mountain Center",
+  "aka": [
+    "Tassajara",
+    "Tassajara Hot Springs",
+    "Zenshinji"
+  ],
+  "website": "https://www.sfzc.org/locations/tassajara",
+  "location": {
+    "city": "Carmel Valley",
+    "region": "Monterey County (Ventana Wilderness, Los Padres National Forest)",
+    "state": "CA",
+    "lat": 36.2361,
+    "lng": -121.5453
+  },
+  "tradition": "Soto Zen Buddhist",
+  "influences": [
+    "Soto Zen",
+    "San Francisco Zen Center",
+    "Shunryu Suzuki Roshi",
+    "Japanese Zen monasticism"
+  ],
+  "about": "Tassajara Zen Mountain Center is the first Soto Zen Buddhist monastery established in the United States, founded in 1967 when Shunryu Suzuki Roshi and the San Francisco Zen Center purchased the remote hot springs property deep in the Ventana Wilderness of Los Padres National Forest. Reached by a steep 14-mile dirt road, it operates year-round as a training monastery for resident and practice-period students, with fall and winter reserved for intensive monastic practice. Each summer, from roughly the end of April through early September, Tassajara opens as a guest season, welcoming the public by reservation to share its relaxed monastic environment, natural hot springs, creek, and pool. Guests can come for simple overnight stays or join teacher-led multi-day retreats grounded in the Dharma. The setting is deliberately rustic: no cell service or internet, kerosene-lit paths, shared bathhouses, and three vegetarian meals a day served communally.",
+  "technique": "Soto Zen seated meditation (zazen) with morning and evening sittings, service, and monastic forms.",
+  "teacherAccess": "Resident priests and practice leaders guide practice; guest retreats are led by experienced Zen teachers.",
+  "retreatOptions": "Summer guest overnight stays, teacher-led multi-day retreats, and multi-week monastic practice periods.",
+  "schedule": "Optional early-morning zazen and service for guests; quiet hours 8pm to 8:30am; meals at 8am, 12:30pm and 6:30pm.",
+  "cost": "Per-night guest room rates by room type and season; dorms roughly $125-153/night, cabins and rooms roughly $250-400/night.",
+  "pricePerDay": {
+    "min": 125,
+    "max": 400,
+    "unit": "night",
+    "notes": "Per-night guest-season rates vary by room type (shared dorm bed vs. cabin/room) and shoulder vs. peak season; dorm beds around $125.50 weekday / $153 weekend (two-night minimum), private cabins and rooms roughly $250-400/night including three vegetarian meals and full access to the hot springs, pool, creek and trails.",
+    "source": "https://www.sfzc.org/locations/tassajara/guest-season-reservations"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian meals daily included with guest stays, served communally in the Dining Room at 8am, 12:30pm and 6:30pm.",
+  "workRequired": "no",
+  "workNotes": "Summer overnight guests are not required to work; work practice (samu) applies to resident students and practice-period participants.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Tassajara - San Francisco Zen Center",
+      "url": "https://www.sfzc.org/locations/tassajara"
+    },
+    {
+      "title": "Guest Season & Reservations - Tassajara",
+      "url": "https://www.sfzc.org/locations/tassajara/guest-season-reservations"
+    },
+    {
+      "title": "Room Descriptions at Tassajara",
+      "url": "https://www.sfzc.org/practice-centers/tassajara/guest-season-reservations/guest-accommodations-tassajara/room-descriptions"
+    },
+    {
+      "title": "Tassajara Cancellation Policy (deposits, two-night minimums)",
+      "url": "https://www.sfzc.org/practice-centers/tassajara/guest-season-reservations/tassajara-cancellation-policy"
+    },
+    {
+      "title": "Tassajara Hot Springs, Monterey County: Updated Guide 2026 (secondary source for nightly rate range)",
+      "url": "https://catraveltimes.com/tassajara-hot-springs/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

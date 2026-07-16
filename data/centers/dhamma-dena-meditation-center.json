@@ -1,0 +1,75 @@
+{
+  "id": "dhamma-dena-meditation-center",
+  "name": "Dhamma Dena Meditation Center",
+  "website": "https://www.dhammadena.org",
+  "aka": [
+    "Dhamma Dena Desert Vipassana Center",
+    "Dhamma Dena"
+  ],
+  "location": {
+    "city": "Joshua Tree",
+    "county": "San Bernardino County",
+    "region": "Southern California",
+    "state": "CA",
+    "lat": 34.2192,
+    "lng": -116.2242
+  },
+  "tradition": "Insight Meditation in the Theravada tradition, in the lineage of founder Ruth Denison and the Burmese master Sayagyi U Ba Khin.",
+  "influences": [
+    "Ruth Denison",
+    "Sayagyi U Ba Khin",
+    "Theravada Insight Meditation",
+    "Four Foundations of Mindfulness (Satipatthana)"
+  ],
+  "teacherAccess": "On formal retreats a resident teacher leads sittings and offers dharma talks, group sharing and interviews; retreats are otherwise held in noble silence.",
+  "retreatOptions": "Teacher-led silent residential retreats (typically 4-10 days), plus self-retreats and volunteer/work retreats of a week up to three months for those with an established practice.",
+  "technique": "Body-based mindfulness and insight meditation grounded in the four foundations of mindfulness, in the somatic, movement-inclusive style developed by Ruth Denison.",
+  "schedule": "Formal retreats follow a teacher-set silent daily schedule; the residential community sits together morning (7:30am) and evening (7:30pm), with weekly text study and occasional community dinners and hikes.",
+  "cost": "Dana (donation)-based: teachings, lodging and meals are offered freely, with voluntary donations to teacher, center and cook invited at the end of the retreat.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Retreats are offered on a dana (donation) basis with no set fee or suggested amount; retreatants are invited to give voluntarily at the end according to their means. Airport rides to/from Palm Springs (PSP) are $30 each way.",
+    "source": "https://www.dhammadena.org/retreats/Jhanas-Satipatthana-and-Dependent-Origination-Leigh-Brasington-Mar-2026"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Formal retreats include lodging and 3 vegetarian meals daily with options for various diets; kitchens are available for those who must cook their own, and self-retreaters buy/prepare their own food.",
+  "workRequired": "yes",
+  "workNotes": "Formal-retreat yogis do light 'yogi jobs'; self-retreaters offer about 1 hour of work per day, and volunteer-retreaters give up to 4.5-5 hours a day, five days a week, in exchange for room and basic food staples.",
+  "about": "Dhamma Dena is a Vipassana (insight meditation) center in the Mojave Desert near Joshua Tree National Park and Twentynine Palms, founded in the late 1970s by pioneering Buddhist teacher Ruth Denison, one of only four Westerners authorized to teach by the Burmese master Sayagyi U Ba Khin. The rustic, student-built center offers teacher-led silent residential retreats in the tradition of insight meditation and the four foundations of mindfulness, as well as self-retreats and volunteer/work retreats for those with an established practice. Retreats are offered on a dana (donation) basis, with lodging and vegetarian meals provided freely and voluntary donations invited at the end. The center is explicitly committed to accessibility and to welcoming people of color, LGBTQ+ communities, immigrants, people with disabilities and those without financial resources. Facilities are wheelchair accessible and fragrance-free, with camping and van/RV stays also possible on the desert land.",
+  "tags": [
+    "insight-vipassana",
+    "theravada",
+    "silent",
+    "long-retreats",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "accessible",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Dena Meditation Center - About",
+      "url": "https://www.dhammadena.org/about"
+    },
+    {
+      "title": "Dhamma Dena Meditation Center - Retreats",
+      "url": "https://www.dhammadena.org/retreats"
+    },
+    {
+      "title": "Jhanas, Satipatthana and Dependent Origination (10-day silent retreat, Mar 2026)",
+      "url": "https://www.dhammadena.org/retreats/Jhanas-Satipatthana-and-Dependent-Origination-Leigh-Brasington-Mar-2026"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

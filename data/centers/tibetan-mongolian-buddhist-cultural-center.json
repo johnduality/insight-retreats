@@ -1,0 +1,70 @@
+{
+  "id": "tibetan-mongolian-buddhist-cultural-center",
+  "name": "Tibetan Mongolian Buddhist Cultural Center",
+  "aka": [
+    "TMBCC",
+    "Tibetan Cultural Center",
+    "Kumbum Chamtse Ling Monastery"
+  ],
+  "website": "https://tmbcc.org/",
+  "location": {
+    "city": "Bloomington",
+    "region": "Southern Indiana",
+    "state": "IN",
+    "lat": 39.1231,
+    "lng": -86.4855
+  },
+  "tradition": "Tibetan Buddhism (Gelug)",
+  "technique": "Meditation, dharma study, and puja practice in the Gelug lineage of Tibetan Buddhism",
+  "influences": [
+    "Thubten Jigme Norbu (Tagtser Rinpoche)",
+    "Arjia Rinpoche",
+    "Geshe Lobsang Kunga",
+    "14th Dalai Lama"
+  ],
+  "teacherAccess": "Resident Spiritual Director Geshe Lobsang Kunga teaches dharma classes and meditation on site; visiting Tibetan and Mongolian teachers and scholars give periodic teachings and empowerments.",
+  "retreatOptions": "Guests can reserve octagonal wooden cottages or shared retreat rooms in the Cultural Building for personal or group meditation retreats of any length, with a 20% discount for stays of seven or more nights.",
+  "about": "The Tibetan Mongolian Buddhist Cultural Center (TMBCC) sits on 108 wooded acres outside Bloomington and is home to the Kumbum Chamtse Ling Monastery and Temple, founded in 1979 by Indiana University professor Thubten Jigme Norbu, the elder brother of the 14th Dalai Lama. The grounds include a temple, two stupas, a Kora meditation trail, and four octagonal wooden retreat cottages plus several retreat rooms in the main Cultural Building. It practices the Gelug tradition of Tibetan Buddhism, with weekly meditation instruction and group meditation led by resident monks, and periodic teachings from visiting lamas and scholars. The Dalai Lama himself has visited and taught at the center on five occasions, including consecrating the temple in 2003. Overnight guests can book a cottage or retreat room for a single night up to an extended stay, making it a genuine residential retreat facility rather than a day-only visitor site.",
+  "schedule": "Meditation instruction Mondays at 6pm and group meditation Mondays and Thursdays at 6:30pm; retreat cottages and rooms available year-round by reservation for stays of any length.",
+  "cost": "$80-150 per night depending on room type and season, with a 20% discount for stays of 7+ nights.",
+  "pricePerDay": {
+    "min": 80,
+    "max": 150,
+    "unit": "night",
+    "notes": "Range spans shared Manjushri/Green Tara rooms ($80 regular/$100 seasonal) up to private octagonal cottages ($130 regular/$150 seasonal).",
+    "source": "https://tmbcc.org/accommodation/"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "Cottages and rooms include shared or private kitchens for self-catering; the center does not provide prepared meals to retreat guests.",
+  "workRequired": "no",
+  "workNotes": "Volunteering (yard work, grounds maintenance) is welcomed but not required of retreat guests.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "TMBCC official site",
+      "url": "https://tmbcc.org/"
+    },
+    {
+      "title": "TMBCC - About",
+      "url": "https://tmbcc.org/about/"
+    },
+    {
+      "title": "TMBCC - Accommodation & rates",
+      "url": "https://tmbcc.org/accommodation/"
+    },
+    {
+      "title": "TMBCC - Participation",
+      "url": "https://tmbcc.org/participation/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

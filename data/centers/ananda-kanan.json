@@ -1,0 +1,61 @@
+{
+  "id": "ananda-kanan",
+  "name": "Ananda Kanan",
+  "aka": [
+    "Ozark Retreat Center",
+    "Ananda Kanan Ozark Retreat and Conference Center"
+  ],
+  "website": "https://anandakanan.org/",
+  "location": {
+    "city": "Willow Springs",
+    "region": "Ozarks",
+    "state": "MO",
+    "lat": 36.988,
+    "lng": -91.967
+  },
+  "tradition": "Ananda Marga Tantra Yoga (Hindu/tantric meditation lineage)",
+  "technique": "Personally-instructed mantra meditation (Rajadhiraja Yoga) as the central practice, alongside kiirtan chanting and yoga asanas",
+  "influences": [
+    "Shrii Shrii Anandamurti (founder of Ananda Marga)",
+    "Ananda Marga Tantra Yoga lineage"
+  ],
+  "teacherAccess": "Trained Ananda Marga acharyas (teachers) give personal meditation instruction and lead the organization's scheduled retreats and conferences on site.",
+  "retreatOptions": "Multi-day Ananda Marga retreats and conferences held on the property (e.g. a spring retreat, an annual summer conference, and a several-day kiirtana retreat), plus self-guided personal retreats of any length in private cabins or shared dormitories (102 beds total across two dorms).",
+  "about": "Ananda Kanan (\"the Garden of Bliss\") is a 66-acre rural retreat property in the Missouri Ozarks owned and operated by Ananda Marga, a worldwide spiritual and social-service organization whose core spiritual practice is mantra meditation. Since 1983 the land has hosted Ananda Marga's own multi-day meditation retreats and conferences, including a spring retreat, an annual summer conference, and a multi-day kiirtana (chanting) retreat, run by trained acharyas who also give personal meditation instruction. Alongside these organized programs, the center rents out three private cabins and two dormitories for self-guided personal retreats, with guests free to walk the wooded trails, sit by the on-site lake, and take optional classes in meditation, yoga, or art. Vegetarian meals are served during organized retreats and conferences, while cabin guests typically self-cater using in-cabin kitchens.",
+  "schedule": "Organized Ananda Marga retreats and conferences occur periodically through the year (spring retreat, July summer conference, August kiirtana retreat); cabins and dorms are otherwise available for self-guided personal retreats year-round.",
+  "cost": "Cabin and dorm lodging is a fixed nightly/booking fee (booked directly or via Airbnb for the cabins); pricing for organized retreats and conferences varies by event.",
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are served during organized Ananda Marga retreats and conferences; self-guided cabin guests generally self-cater using kitchens in the cabins.",
+  "workRequired": "no",
+  "workNotes": "No work practice required for personal cabin retreats; not specified for organized retreat programs.",
+  "tags": [
+    "yoga-hindu",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Ananda Kanan - official site",
+      "url": "https://anandakanan.org/"
+    },
+    {
+      "title": "Ozark Retreat Center - Personal Retreats",
+      "url": "https://www.ozarkretreatcenter.com/personal-retreats"
+    },
+    {
+      "title": "Ananda Marga USA - Missouri project page",
+      "url": "https://anandamarga.us/projects/missouri/"
+    },
+    {
+      "title": "Ananda Marga USA - Meditation (core practice)",
+      "url": "https://anandamarga.us/practices/self-realization/meditation/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

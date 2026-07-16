@@ -1,0 +1,65 @@
+{
+  "id": "ratna-ling-retreat-center",
+  "name": "Ratna Ling Retreat Center",
+  "website": "https://ratnaling.org/",
+  "aka": [
+    "Ratna Ling",
+    "Ratna Ling Retreats"
+  ],
+  "location": {
+    "city": "Cazadero",
+    "region": "North Bay",
+    "state": "CA",
+    "lat": 38.5729,
+    "lng": -123.2836
+  },
+  "tradition": "Tibetan Buddhist (Nyingma), in the lineage of founder Tarthang Tulku Rinpoche; operated by the Tibetan Nyingma Meditation Center",
+  "influences": [
+    "Tarthang Tulku Rinpoche",
+    "Nyingma lineage of Tibetan Buddhism",
+    "Tibetan Nyingma Meditation Center"
+  ],
+  "about": "Ratna Ling Retreat Center sits on roughly 120 to 130 acres of coastal redwoods along a ridge above the Sonoma County coast, about a 90-mile drive north of San Francisco. Founded in the Tibetan Buddhist Nyingma tradition of Tarthang Tulku Rinpoche and operated by the Tibetan Nyingma Meditation Center, it welcomes people of all backgrounds seeking to reconnect with themselves and nature. The center hosts weekend and multi-day residential retreats spanning meditation, mindfulness, yoga, Buddhist study, healing, and writing, along with personal (self-guided) retreats. Guests stay in elegant private cottage suites with sweeping views and are served organic vegetarian meals from the center's own gardens. A wellness center offering bodywork and massage rounds out the experience.",
+  "technique": "Meditation and mindfulness grounded in the Tibetan Nyingma tradition, often paired with yoga, dharma discussion, chanting, and time in nature.",
+  "teacherAccess": "Retreats are led by resident instructors and visiting guest faculty in small-group settings, with dharma talks, guided practice, and discussion.",
+  "retreatOptions": "Guided weekend and multi-day residential retreats (meditation, yoga, Buddhist, healing, writing), plus self-guided personal retreats and online programs.",
+  "schedule": "Typical weekend: Friday afternoon check-in and evening opening; full days of meditation, yoga, and free time; Sunday morning practice and midday checkout.",
+  "cost": "Guided weekend retreats commonly around $975 for a shared private queen room in a cottage (2 nights), all-inclusive of meals and classes; some retreats offer sliding scale.",
+  "pricePerDay": {
+    "min": 400,
+    "max": 550,
+    "unit": "night",
+    "notes": "Based on a 2-night guided weekend retreat listed at $975 for a private queen room (shared cottage), including all meals and classes; ~$488/night. Rates vary by retreat and room type.",
+    "source": "https://ratnaling.org/retreats/5698/grace-gratitude-a-pre-thanksgiving-yoga-meditation-retreat"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Organic vegetarian buffet meals (three daily on full retreat days), much of it grown in the center's gardens; gluten-free, vegan/dairy-free, and allergy requests accommodated.",
+  "workRequired": "no",
+  "workNotes": "Guests are served and not required to do work practice; the center is supported by resident volunteers.",
+  "tags": [
+    "tibetan-vajrayana",
+    "meals-included",
+    "fixed-fee",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Ratna Ling Retreats - Home",
+      "url": "https://ratnaling.org/"
+    },
+    {
+      "title": "Accommodations & Dining",
+      "url": "https://ratnaling.org/accommodations/"
+    },
+    {
+      "title": "Grace & Gratitude weekend retreat (pricing/schedule)",
+      "url": "https://ratnaling.org/retreats/5698/grace-gratitude-a-pre-thanksgiving-yoga-meditation-retreat"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

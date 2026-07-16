@@ -1,0 +1,79 @@
+{
+  "id": "trijang-buddhist-institute",
+  "name": "Trijang Buddhist Institute",
+  "aka": [
+    "TBI"
+  ],
+  "website": "https://www.tbiusa.org/",
+  "location": {
+    "city": "Northfield",
+    "region": "Central Vermont",
+    "state": "VT",
+    "lat": 44.136303,
+    "lng": -72.734367
+  },
+  "tradition": "Tibetan Buddhism, Gelug lineage",
+  "technique": "Vajrayana deity-yoga retreat practice (Vajrayogini and Manjushri sadhana), pujas, and Gelug philosophical study",
+  "influences": [
+    "Kyabje Trijang Rinpoche (Trijang Dorje Chang)",
+    "Kyabje Trijang Chocktrul Rinpoche",
+    "Je Tsongkhapa",
+    "Gaden Tripa Jetsun Lungrik Namgyal",
+    "14th Dalai Lama"
+  ],
+  "teacherAccess": "Resident monk/volunteer available daily (about 9am-5pm) for questions; Kyabje Trijang Chocktrul Rinpoche personally leads teachings and the annual retreats on site",
+  "retreatOptions": "16th annual Vajrayogini Retreat (about 2 weeks, Jun 20-Jul 5 2026), 1st Manjushri Retreat (1 week, Aug 15-22 2026), plus day-long teachings, pujas, and shorter meditation sessions",
+  "schedule": "Annual summer Vajrayana retreats (Vajrayogini in June/July, a new Manjushri retreat in August) plus a recurring year-round calendar of pujas, teachings, and meditation sittings",
+  "cost": "Donation-based; regular lodging+meals run about $30-70/night depending on room; the annual retreats require a separate application/acceptance and a fixed accommodation donation starting around $500/person for the full retreat",
+  "pricePerDay": {
+    "min": 30,
+    "max": 70,
+    "unit": "night",
+    "notes": "Published fixed lodging+meals donation rates outside retreat periods, from a shared Basement/Tara room ($30/night per person) up to a Small Barn single room ($70/night); the annual Vajrayogini Retreat is priced separately, from about $500/person for the roughly 2-week retreat across accommodation tiers ranging from camping to private rooms.",
+    "source": "https://www.tbiusa.org/loadging-information"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Dining hall with a full commercial kitchen; meals are offered on a donation basis (about $10/meal or $25/day for three meals as of 2025); the specific diet/menu type is not published on the site",
+  "workRequired": "unknown",
+  "workNotes": "No published work-practice (seva) requirement for retreat guests; the institute is run day-to-day by resident monks and volunteers",
+  "about": "Trijang Buddhist Institute (TBI) is the North American seat of Kyabje Trijang Rinpoche, set on a former dairy farm of roughly 350 acres in the green mountains of Northfield, Vermont. Officially established in 2004 in the Gelug lineage of Tibetan Buddhism founded by Je Tsongkhapa, TBI houses resident monks and offers teachings, pujas, and Tibetan language study open to visitors of any or no religious background. Its signature programs are advanced Vajrayana retreats guided in person by Kyabje Trijang Chocktrul Rinpoche, including the roughly two-week Vajrayogini Retreat held each summer and a newly added week-long Manjushri Retreat, both of which require a prior application and acceptance. Lodging spans shared dorms, a Mongolian yurt, and camping up to private rooms in converted 1880s barn buildings and a farmhouse, with meals served from an on-site commercial dining hall. The community operates on a donation basis, publishing fixed suggested rates for lodging, meals, and retreat accommodation rather than charging conventional program fees.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "fixed-fee",
+    "monastic-community",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Trijang Buddhist Institute - Official Site",
+      "url": "https://www.tbiusa.org/"
+    },
+    {
+      "title": "2026 Retreats - Trijang Buddhist Institute",
+      "url": "https://www.tbiusa.org/2026-retreats"
+    },
+    {
+      "title": "Lodging Information - Trijang Buddhist Institute",
+      "url": "https://www.tbiusa.org/loadging-information"
+    },
+    {
+      "title": "Visitor Guide - Trijang Buddhist Institute",
+      "url": "https://www.tbiusa.org/visitor-guide"
+    },
+    {
+      "title": "About Our Institute - Trijang Buddhist Institute",
+      "url": "https://www.tbiusa.org/aboutinstitute"
+    },
+    {
+      "title": "Vajrayogini Retreat Accommodation Options",
+      "url": "https://www.tbiusa.org/bookstore/vajrayogini-retreat-accommodation-options"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

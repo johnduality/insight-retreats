@@ -1,0 +1,82 @@
+{
+  "id": "yokoji-zen-mountain-center",
+  "name": "Yokoji Zen Mountain Center",
+  "website": "https://zmc.org",
+  "aka": [
+    "Yokoji",
+    "Zen Mountain Center",
+    "ZMC"
+  ],
+  "location": {
+    "city": "Mountain Center",
+    "county": "Riverside County",
+    "region": "Southern California",
+    "state": "CA",
+    "lat": 33.721788,
+    "lng": -116.636181
+  },
+  "tradition": "Japanese Zen (Soto, White Plum Asanga lineage founded by Taizan Maezumi Roshi)",
+  "influences": [
+    "Soto Zen",
+    "White Plum Asanga",
+    "Rinzai koan study",
+    "Taizan Maezumi Roshi"
+  ],
+  "teacherAccess": "Daily silent zazen with dharma teaching and one-on-one private interviews (dokusan/daisan) with the teacher are available to sesshin participants.",
+  "retreatOptions": "Sesshin (silent retreats) of 2-7 nights, including weekend Beginner's Mind Sesshin and 7-day sesshin, plus longer residential training periods of a month or more.",
+  "technique": "Seated Zen meditation (zazen), including breath, shikantaza (just sitting), and koan practice, supported by chanting, dharma talks, and private interview.",
+  "schedule": "Full monastic-style day of early-morning to evening zazen periods interspersed with chanting, work practice, and meals, held in silence throughout sesshin.",
+  "cost": "Sesshin fees scale by length and membership: a 7-night sesshin is $400 for members and $550 for non-members; shorter stays cost proportionally less (e.g. 2 nights $150 member / $250 non-member).",
+  "pricePerDay": {
+    "min": 57,
+    "max": 79,
+    "unit": "night",
+    "notes": "Based on a 7-night sesshin: $400 member / $550 non-member total, divided by 7 nights. Shorter sesshin run slightly higher per night. Excludes the $50 non-refundable deposit and volunteer/work alternatives.",
+    "source": "https://zmc.org/sesshin"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian meals a day are provided, made from fresh, often local and organic ingredients in simple, nutritious menus.",
+  "workRequired": "yes",
+  "workNotes": "Work practice (samu) such as cleaning, cooking, and grounds upkeep is an integral daily part of sesshin and residential training at this off-grid mountain center.",
+  "tags": [
+    "zen",
+    "mahayana",
+    "silent",
+    "long-retreats",
+    "day-retreats",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "about": "Yokoji Zen Mountain Center is a Soto Zen training temple in the San Jacinto mountains of Riverside County, founded in 1981 by Taizan Maezumi Roshi and part of the White Plum Asanga lineage. It offers around nine silent meditation retreats (sesshin) each year, ranging from weekend Beginner's Mind Sesshin to intensive 7-day sesshin, alongside longer residential training periods and a weekly Sunday introductory program with Zen meditation instruction. Days center on seated meditation (zazen), chanting, dharma talks, private interviews with the teacher (dokusan), and work practice (samu) that keeps the off-grid center running. All meals are vegetarian, and fees are kept affordable, with reduced rates for members and volunteer options for those who prefer to contribute time. The setting is rustic and mountainous, shaped by hot summers, snowy winters, and a rhythm of life closely tuned to the seasons.",
+  "sources": [
+    {
+      "title": "Sesshin (Zen Meditation Retreat) and pricing",
+      "url": "https://zmc.org/sesshin"
+    },
+    {
+      "title": "Beginner's Mind Sesshin",
+      "url": "https://zmc.org/beginners-mind-sesshin"
+    },
+    {
+      "title": "Dokusan / Daisan (private interview)",
+      "url": "https://zmc.org/dokusan"
+    },
+    {
+      "title": "Work Practice (Samu)",
+      "url": "https://zmc.org/work"
+    },
+    {
+      "title": "Residential Training",
+      "url": "https://zmc.org/residential-training"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

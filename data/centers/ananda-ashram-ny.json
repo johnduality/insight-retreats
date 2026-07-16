@@ -1,0 +1,73 @@
+{
+  "id": "ananda-ashram-ny",
+  "name": "Ananda Ashram (Yoga Society of New York)",
+  "aka": [
+    "Yoga Society of New York",
+    "Ananda Ashram Yoga Society of New York, Inc."
+  ],
+  "website": "https://www.anandaashram.org/",
+  "location": {
+    "address": "13 Sapphire Road",
+    "city": "Monroe",
+    "county": "Orange County",
+    "region": "Hudson Valley",
+    "state": "NY",
+    "lat": 41.2951,
+    "lng": -74.163
+  },
+  "tradition": "Yoga-Vedanta / Hindu",
+  "technique": "Hatha Yoga, meditation, Sanskrit study and chanting",
+  "influences": [
+    "Shri Brahmananda Sarasvati (Ramamurti S. Mishra, M.D.)"
+  ],
+  "teacherAccess": "Resident Ashram teachers lead daily meditation, yoga, and Sanskrit classes, with periodic visiting scholars and musicians for workshops.",
+  "retreatOptions": "Overnight Lodging Package covers stays of 1-6 nights (camping through private rooms); longer stays arranged directly through the Guest Residency Program.",
+  "about": "Ananda Ashram is the country retreat center of the Yoga Society of New York, Inc., founded in 1964 by Shri Brahmananda Sarasvati (Ramamurti S. Mishra, M.D.) as a Yoga-Vedanta ashram and spiritual-educational community. Set on roughly 55 wooded acres around a lake in the Hudson Valley foothills of the Catskills, about an hour from New York City, it offers year-round guest stays alongside its small resident community. Guests join the Ashram's daily rhythm of morning and evening meditation, Hatha Yoga and Sanskrit classes, chanting, and classical Indian dance and music instruction, plus weekend workshops and cultural events. Overnight lodging packages provide simple accommodations - camping, dorm beds, or private/semi-private rooms - with vegetarian meals included, bookable for one to six nights, with longer stays arranged through the Guest Residency Program. The Ashram welcomes visitors of all backgrounds and faiths and is a separate organization from the unrelated 'Ananda' communities founded by Swami Kriyananda (e.g., Ananda Village/Ananda Meditation Retreat, California).",
+  "schedule": "Open year-round with a daily core program (morning/evening meditation, yoga, Sanskrit) plus a recurring calendar of weekend workshops and special events.",
+  "cost": "Flat per-night guest rate (room, board, and core program included) that varies by accommodation type from camping to private rooms; separate workshop/program fees may apply.",
+  "pricePerDay": {
+    "min": 65,
+    "max": 200,
+    "unit": "night",
+    "notes": "Overnight Lodging Package per-night guest rates by accommodation type: camping $65, dorm room $85, upgraded dorm bed $95, standard room (double or twin) $140, upgraded room $180, premium room $200. Rate includes room, board, and the Ashram's daily core program.",
+    "source": "https://retreat.guru/events/170-1572/overnight-summer-lodging-package"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals included in guest rate: lunch served daily, dinner Friday/Saturday, breakfast Saturday/Sunday, and self-serve continental breakfast on other days.",
+  "workRequired": "partial",
+  "workNotes": "Standard paying guests are not required to work; a separate live-in volunteer/work-exchange arrangement (reduced weekly rate for ~35 hours/week) is available for those wanting to stay longer at lower cost.",
+  "tags": [
+    "yoga-hindu",
+    "meals-included",
+    "diet-vegetarian",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Ananda Ashram - Official Site",
+      "url": "https://www.anandaashram.org/"
+    },
+    {
+      "title": "Overnight Lodging Package - Ananda Ashram (Retreat Guru)",
+      "url": "https://retreat.guru/events/170-1572/overnight-summer-lodging-package"
+    },
+    {
+      "title": "Ananda Ashram - Retreat Guru center profile",
+      "url": "https://retreat.guru/centers/170-1/ananda-ashram"
+    },
+    {
+      "title": "Shri Brahmananda Sarasvati (Founder) - Ananda Ashram",
+      "url": "https://www.anandaashram.org/Founder"
+    },
+    {
+      "title": "Ananda Ashram - Visiting Communities profile",
+      "url": "https://visitingcommunities.com/?page_id=1272"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

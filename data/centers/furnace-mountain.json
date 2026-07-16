@@ -1,0 +1,73 @@
+{
+  "id": "furnace-mountain",
+  "name": "Furnace Mountain",
+  "aka": [
+    "Furnace Mountain Zen Center",
+    "Furnace Mountain Zen Retreat Center",
+    "Kwan Se Um San Ji Sah"
+  ],
+  "website": "https://www.furnacemountainzen.org/",
+  "location": {
+    "city": "Clay City",
+    "region": "Eastern Kentucky",
+    "state": "KY",
+    "lat": 37.7695,
+    "lng": -83.842
+  },
+  "tradition": "Zen (Korean Son, Kwan Um lineage)",
+  "technique": "Zen sitting meditation, koan inquiry, chanting, and work practice",
+  "influences": [
+    "Zen Master Dae Gak",
+    "Seung Sahn Soen Sa Nim",
+    "Kwan Um School of Zen (historical affiliation)"
+  ],
+  "teacherAccess": "Daily dharma talks and private interviews with the resident Zen teacher(s) during retreats.",
+  "retreatOptions": "Residential retreats ranging from long weekends to week-long and month-long stays, plus a secluded solo hermitage retreat and non-residential day-long/beginner retreats.",
+  "about": "Furnace Mountain is a Zen Buddhist retreat center on 1,000 acres of woodland in the Red River Gorge region of the Daniel Boone National Forest in Eastern Kentucky. Founded in 1986 and modeled after a traditional Korean Buddhist temple, it centers on Son (Zen) meditation practice guided by resident and visiting Zen teachers in the lineage of Zen Master Dae Gak. Residents and retreatants keep a schedule of formal sitting meditation, chanting, and work practice, living in rustic log cabins scattered through the forest. Meals are simple organic vegetarian fare, much of it grown in the center's own permaculture garden. Retreats run from single overnight weekends up to month-long stays, and a secluded hermitage is available for solo retreat.",
+  "schedule": "Regular weekend retreats (Thursday evening to Sunday), plus periodic week-long and month-long retreats; solo hermitage retreats available by arrangement.",
+  "cost": "Suggested-donation sliding scale covering room and board; regular weekend retreat roughly $248-$412, week-long retreats roughly $578-$962; solo hermitage stays $60-$75/night.",
+  "pricePerDay": {
+    "min": 83,
+    "max": 137,
+    "unit": "night",
+    "notes": "Derived from the suggested-donation range for the regular weekend retreat (Thursday 7pm-Sunday 1:30pm, roughly 3 nights): Basic $248 to Benefactor $412 total, divided by 3 nights.",
+    "source": "https://www.furnacemountainzen.org/how-to-register--suggested-donations.html"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three organic vegetarian meals a day (oryoki-style formal meals during sits), made largely from produce grown in the center's own permaculture garden.",
+  "workRequired": "partial",
+  "workNotes": "Daily work period is part of the retreat schedule; work-study exchange is also available for reduced-cost stays.",
+  "tags": [
+    "zen",
+    "silent",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "sliding-scale",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Furnace Mountain Zen Center - official site",
+      "url": "https://www.furnacemountainzen.org/"
+    },
+    {
+      "title": "General retreat information",
+      "url": "https://www.furnacemountainzen.org/general-retreat-information.html"
+    },
+    {
+      "title": "How to register & suggested donations",
+      "url": "https://www.furnacemountainzen.org/how-to-register--suggested-donations.html"
+    },
+    {
+      "title": "Furnace Mountain - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Furnace_Mountain"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

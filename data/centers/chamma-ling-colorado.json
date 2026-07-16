@@ -1,0 +1,75 @@
+{
+  "id": "chamma-ling-colorado",
+  "name": "Chamma Ling Colorado",
+  "aka": [
+    "Chamma Ling"
+  ],
+  "website": "https://chammaling.com/",
+  "location": {
+    "address": "Camino Baca Grande, Crestone, CO",
+    "city": "Crestone",
+    "county": "Saguache County",
+    "region": "San Luis Valley",
+    "state": "CO",
+    "lat": 37.961025,
+    "lng": -105.668681
+  },
+  "tradition": "Tibetan Bon tradition",
+  "technique": "Solitary/personal meditation retreat, including dark retreat; Dzogchen practice",
+  "influences": [
+    "Tenzin Wangyal Rinpoche",
+    "Ligmincha International",
+    "Bön lineage"
+  ],
+  "teacherAccess": "No onsite teacher or retreat attendant; self-directed practice, with optional online prep resources via Ligmincha Learning and required application/approval for first-time dark retreats.",
+  "retreatOptions": "Solitary retreat cabins bookable from one week up to several months (including dark retreat); Community House available to rent for small group retreats up to 8 people.",
+  "about": "Chamma Ling Colorado is a Tibetan Bon retreat center near Crestone, Colorado, founded by Tenzin Wangyal Rinpoche on land gifted by the Manitou Foundation in 2000. Its primary offering is a set of private, self-catered retreat cabins for solitary practitioners, bookable for stays from one week to several months, including specially prepared dark retreat cabins. A Community House on the property can also be rented for small group retreats and local practice gatherings. There is no onsite teacher or food service; retreatants are expected to be self-sufficient, though the center provides referrals to local help for meals, transportation, and moving belongings up the footpath to the cabins. The center is open to the public and bookable online through Retreat Guru, not restricted to a closed community of students.",
+  "schedule": "Cabins are bookable year-round on a rolling, self-selected basis; regular season runs January-June and September-December, with a discounted quiet season July-August; occasional group teachings/retreats are scheduled separately and listed on the site's events calendar.",
+  "cost": "Self-catered cabin rental billed as a per-week rate (with an effective per-night price) that varies by cabin size, season, and length of stay, with longer stays receiving discounts; a 50% deposit is due within 7 days of booking and the balance 60 days before arrival.",
+  "pricePerDay": {
+    "min": 63,
+    "max": 105,
+    "unit": "night",
+    "notes": "Derived from published weekly rates (May 1-Jan 15 season): single cabin ranges from $90/night (1 week) down to $63/night (4+ week discount tier); two-person cabin ranges up to $105/night (1 week). Excludes Jan 16-Apr 30 flat weekly rate, quiet-season discounts, dark-retreat surcharge, and Community House rate.",
+    "source": "https://chammaling.com/reserve-a-cabin/"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "No food service or retreat attendant provided; cabins have a small fully equipped kitchen and guests self-cater, sourcing groceries locally (e.g., Elephant Cloud Market) or arranging a local contact for meal delivery/shopping.",
+  "workRequired": "no",
+  "workNotes": "No work-practice or seva requirement; guests are independent for the duration of their stay.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "silent",
+    "long-retreats",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Chamma Ling Colorado - Home",
+      "url": "https://chammaling.com/"
+    },
+    {
+      "title": "About Chamma Ling Colorado",
+      "url": "https://chammaling.com/about/"
+    },
+    {
+      "title": "Our Retreat Cabins",
+      "url": "https://chammaling.com/our-retreat-cabins/"
+    },
+    {
+      "title": "Reserve a Cabin",
+      "url": "https://chammaling.com/reserve-a-cabin/"
+    },
+    {
+      "title": "Location",
+      "url": "https://chammaling.com/location/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

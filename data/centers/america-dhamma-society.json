@@ -1,0 +1,75 @@
+{
+  "id": "america-dhamma-society",
+  "name": "America Dhamma Society",
+  "aka": [
+    "Pa-Auk Tawya Vipassanadhura Hermitage, Georgia",
+    "Pa Auk Georgia",
+    "PATVH"
+  ],
+  "website": "https://www.americadhammasociety.org/",
+  "location": {
+    "address": "1975 Old Flat Branch Rd, Ellijay, GA 30540",
+    "city": "Ellijay",
+    "county": "Gilmer County",
+    "region": "North Georgia Mountains",
+    "state": "GA",
+    "lat": 34.66,
+    "lng": -84.45
+  },
+  "tradition": "Theravada Buddhism, Pa-Auk Sayadaw lineage",
+  "technique": "Samatha-Vipassana meditation in the Pa-Auk method (concentration/jhana practice paired with insight meditation), taught through sitting and walking meditation periods",
+  "influences": [
+    "Pa-Auk Sayadaw",
+    "Sayadaw U Kumarabhivamsa",
+    "Sayadaw U Janakabhivamsa"
+  ],
+  "teacherAccess": "Visiting Sayadaws and Sayalays lead scheduled retreats with daily Dhamma talks, group sitting and walking meditation, and Q&A sessions; during Vassa (the rains retreat) resident monastics have also offered individual meditation interviews and Dhamma sharings.",
+  "retreatOptions": "Periodic residential retreats, historically ranging from 2-day weekend practice sessions and 3- to 5-day retreats up to multi-week retreats during visits by senior Sayadaws; overnight and multi-night stays require advance approval due to very limited on-site accommodation.",
+  "schedule": "A typical retreat day runs from about 9am to 4pm with alternating sitting and walking meditation, a Dhamma talk, Buddha puja, and a communal lunch, bracketed by informal practice time; specific retreat calendars are announced individually rather than published on a fixed annual schedule.",
+  "cost": "No published fees; the hermitage operates entirely on dana (voluntary donations) from supporters, in keeping with Theravada monastic custom.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No suggested amount; fully dana-supported by the hermitage.",
+    "source": "https://www.americadhammasociety.org/2019/05/08/donation-usage/"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "A communal lunch is part of the published retreat schedule (with Buddha puja beforehand), consistent with the Theravada custom of one main meal before noon, but the site does not publish specifics on diet type or how special dietary needs are handled.",
+  "workRequired": "unknown",
+  "workNotes": "No work or service requirement is described for retreat participants on the website; the hermitage's small lay committee and volunteers maintain the grounds and buildings separately from retreat programs.",
+  "about": "America Dhamma Society operates the Pa-Auk Tawya Vipassanadhura Hermitage, the first Pa-Auk lineage monastery in the United States, on about 178 acres of land in the North Georgia mountains near Ellijay. The land was purchased in 2016 and the hermitage was formally recognized by the Pa-Auk Sayadaw in early 2017; since then it has hosted a running series of residential meditation retreats led by visiting Sayadaws and Sayalays from the Pa-Auk tradition, teaching Samatha-Vipassana meditation aimed at realizing the Four Noble Truths. The site has grown in phases from a rebuilt entrance bridge and well to a dedicated three-season meditation hall and a Sima (ordination) hall, with residential quarters still being expanded, which is why overnight accommodation remains limited and multi-night stays require prior approval. Retreats have ranged from weekend and 3- to 5-day sittings up to multi-week programs during a senior Sayadaw's visit, and the community also observes an annual Vassa (rains retreat) period when resident monastics offer extended teaching and individual meditation guidance. As with other monasteries in the Theravada tradition, the hermitage operates entirely on dana, with no set fees for teaching, retreats, or accommodation.",
+  "tags": [
+    "theravada",
+    "dana-donation",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "America Dhamma Society / Pa-Auk Tawya Vipassanadhura Hermitage - official site",
+      "url": "https://www.americadhammasociety.org/"
+    },
+    {
+      "title": "Milestones",
+      "url": "https://www.americadhammasociety.org/category/milestones/"
+    },
+    {
+      "title": "Donation Usage",
+      "url": "https://www.americadhammasociety.org/2019/05/08/donation-usage/"
+    },
+    {
+      "title": "2025 Visit and Meditation Practice (registration and accommodation policy)",
+      "url": "https://www.americadhammasociety.org/2025/03/14/2025-visit-and-meditation-practice/"
+    },
+    {
+      "title": "Directions",
+      "url": "https://www.americadhammasociety.org/category/directions/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "zen-mountain-monastery",
+  "name": "Zen Mountain Monastery",
+  "aka": [
+    "ZMM",
+    "Doshinji"
+  ],
+  "website": "https://zmm.org/",
+  "location": {
+    "address": "871 Plank Rd, PO Box 197",
+    "city": "Mount Tremper",
+    "county": "Ulster County",
+    "region": "Catskills",
+    "state": "NY",
+    "lat": 41.9989,
+    "lng": -74.3538
+  },
+  "tradition": "Soto Zen (Mountains and Rivers Order)",
+  "technique": "Zazen (seated meditation), koan study, liturgy, and work practice within the Eight Gates of Zen",
+  "influences": [
+    "John Daido Loori, Roshi (founder)",
+    "Taizan Maezumi, Roshi",
+    "Mountains and Rivers Order",
+    "Soto Zen with Rinzai koan study"
+  ],
+  "teacherAccess": "Private teacher interviews (dokusan) offered during retreats; daily Dharma talks during sesshins.",
+  "retreatOptions": "Weekend retreats (Friday evening-Sunday); multi-day sesshins; week-, month-, and year-long residencies.",
+  "about": "Zen Mountain Monastery (Doshinji) is a Soto Zen training monastery and retreat center on 220 forested acres in the Catskill Mountains of Mount Tremper, New York, founded in 1980 by John Daido Loori, Roshi as the head temple of the Mountains and Rivers Order. Visitors can join monthly weekend retreats, longer meditation-intensive sesshins, and residential training programs ranging from one week to a year, all built around the monastery's structured daily schedule of zazen, liturgy, and work practice. Programs are organized around the 'Eight Gates of Zen' -- meditation, teaching interviews, liturgy, art practice, body practice, work practice, study, and right action. All retreats include vegetarian meals, dormitory-style lodging, and instruction from resident teachers, currently led by abbot Geoffrey Shugen Arnold, Roshi.",
+  "schedule": "Weekend retreats offered roughly monthly; multi-day sesshins several times a year; residencies begin the first Tuesday of most months.",
+  "cost": "Fixed program fees per retreat (e.g. $300 for a weekend), all-inclusive of lodging, meals, and instruction; financial assistance/scholarships available.",
+  "pricePerDay": {
+    "min": 150,
+    "max": 150,
+    "unit": "night",
+    "notes": "Introduction to Zen Training Weekend (Friday-Sunday, 2 nights): $300 total program fee, all-inclusive of lodging, meals, and instruction.",
+    "source": "https://zmm.org/retreats/4467/introduction-to-zen-training-weekend-45"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals included; vegetarian with vegan, gluten-free, and non-dairy options generally available. Guests asked not to bring personal food.",
+  "workRequired": "yes",
+  "workNotes": "Retreats and residencies include silent caretaking/work practice periods as part of the daily monastic schedule.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "monastic-community",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Zen Mountain Monastery - Coming to a Retreat",
+      "url": "https://zmm.org/coming-to-a-retreat/"
+    },
+    {
+      "title": "Zen Mountain Monastery - Introduction to Zen Training Weekend (registration/price)",
+      "url": "https://zmm.org/retreats/4467/introduction-to-zen-training-weekend-45"
+    },
+    {
+      "title": "Zen Mountain Monastery - One-Month Residential Retreat",
+      "url": "https://zmm.org/one-month-residential-retreat-at-zmm/"
+    },
+    {
+      "title": "Zen Mountain Monastery - Visiting the Monastery",
+      "url": "https://zmm.org/visiting-the-monastery/"
+    },
+    {
+      "title": "Zen Mountain Monastery - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zen_Mountain_Monastery"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

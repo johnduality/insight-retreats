@@ -1,0 +1,82 @@
+{
+  "id": "big-bear-retreat-center",
+  "name": "Big Bear Retreat Center",
+  "website": "https://bigbearretreatcenter.org",
+  "aka": [
+    "BBRC",
+    "InsightLA Big Bear Retreat Center"
+  ],
+  "location": {
+    "city": "Big Bear City",
+    "county": "San Bernardino County",
+    "region": "Southern California",
+    "state": "CA",
+    "lat": 34.2444,
+    "lng": -116.8461
+  },
+  "tradition": "Insight Meditation in the Theravada tradition and secular mindfulness",
+  "influences": [
+    "InsightLA",
+    "Burmese Vipassana lineages (Mahasi Sayadaw and Sayadaw U Tejaniya styles)",
+    "Western Insight Meditation movement (IMS / Spirit Rock teacher lineages)"
+  ],
+  "teacherAccess": "Daily Dharma talks and guided meditation with Q&A, plus small-group practice discussion meetings with the teaching team.",
+  "retreatOptions": "Weekend-to-week-long (typically 3-7 night) silent residential retreats, themed/affinity and workshop retreats, flexible self-guided stays, and online/hybrid options.",
+  "about": "Big Bear Retreat Center (BBRC) is the residential retreat center of InsightLA, set in the San Bernardino Mountains at roughly 6,500 feet about two hours from Los Angeles. It hosts silent Insight Meditation retreats and secular mindfulness programs, drawing well-known Western Insight teachers, alongside themed and affinity retreats for communities such as BIPOC, LGBTQ+, women, people in recovery, and Spanish-speaking practitioners. Most core retreats are silent, following a full daily schedule of alternating sitting and walking meditation, Dharma talks, work meditation, and small-group meetings with teachers. Fees cover lodging and meals on a sliding scale by room type, with some retreats offered on a dana (donation) basis; discounted and pay-what-you-can spots plus scholarships aim to keep retreats accessible, and nobody is turned away for lack of funds. Accommodations are shared cabins with vegetarian meals prepared on site.",
+  "technique": "Silent Insight Meditation: alternating sitting and walking meditation with mindfulness of breath, body, and mind, plus lovingkindness and guided instruction.",
+  "schedule": "Silent days from a 6-6:30am wake-up bell to about 9:30pm, alternating 30-45 minute sitting and walking periods with movement, a daily Dharma talk, work meditation, and periodic teacher practice discussions.",
+  "cost": "Sliding-scale fees by room type covering lodging and meals (e.g. roughly $450 triple to $1,875 private for a 5-night retreat); some retreats are dana-based, with discounted/pay-what-you-can spots and scholarships available.",
+  "pricePerDay": {
+    "min": 90,
+    "max": 375,
+    "unit": "night",
+    "notes": "Rest in Simplicity, a 6-day/5-night silent Insight retreat (Sep 22-27, 2026), meals and lodging included: standard tiers by room type from $450 (triple, shared bath) to $1,875 (private room, private bath) divided by 5 nights; excludes scholarship/pay-what-you-can spots.",
+    "source": "https://bigbearretreatcenter.org/retreats/1999/rest-in-simplicity/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All-vegetarian meals (breakfast, lunch, and a light supper) prepared by on-site chefs, with vegan, gluten-free, dairy-free, and allergy accommodations available on request; tea and coffee self-serve.",
+  "workRequired": "yes",
+  "workNotes": "A daily 30-40 minute work-meditation period (yogi job) such as kitchen help, cleanup, housekeeping, or grounds-keeping is part of the retreat, assigned at check-in.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "self-guided",
+    "online-hybrid",
+    "diet-vegetarian",
+    "sliding-scale",
+    "dana-donation",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Rest in Simplicity retreat (pricing and registration)",
+      "url": "https://bigbearretreatcenter.org/retreats/1999/rest-in-simplicity/"
+    },
+    {
+      "title": "Retreat Calendar - Upcoming Retreats",
+      "url": "https://bigbearretreatcenter.org/upcoming-retreats/"
+    },
+    {
+      "title": "Frequently Asked Questions (schedule, food, work, financial support)",
+      "url": "https://bigbearretreatcenter.org/faq/"
+    },
+    {
+      "title": "Love and Awareness: The Heart That Knows (pricing example)",
+      "url": "https://bigbearretreatcenter.org/retreats/1960/love-and-awareness-the-heart-that-knows"
+    },
+    {
+      "title": "Big Bear Meditation and Mindfulness Retreat Center | InsightLA",
+      "url": "https://insightla.org/location/big-bear-retreat-center/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-14",
+    "reviewStatus": "unverified"
+  }
+}

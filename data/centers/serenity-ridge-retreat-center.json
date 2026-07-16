@@ -1,0 +1,70 @@
+{
+  "id": "serenity-ridge-retreat-center",
+  "name": "Serenity Ridge Retreat Center",
+  "aka": [
+    "Ligmincha International",
+    "Ligmincha Serenity Ridge",
+    "Serenity Ridge"
+  ],
+  "location": {
+    "city": "Shipman",
+    "region": "Blue Ridge foothills, Nelson County",
+    "state": "VA",
+    "lat": 37.8333,
+    "lng": -78.85
+  },
+  "tradition": "Tibetan Bön Buddhism (Dzogchen)",
+  "technique": "Dzogchen meditation and Tibetan Bön contemplative practices, including Trekchöd, Tögal, tsa lung/trul khor movement, and Five Elements practices",
+  "influences": [
+    "Tenzin Wangyal Rinpoche",
+    "Yungdrung Bön lineage",
+    "Zhang Zhung Nyengyü oral tradition",
+    "Menri Monastery"
+  ],
+  "teacherAccess": "Founder Tenzin Wangyal Rinpoche teaches on-site several times a year; resident and visiting lamas lead daily teachings and guided practice sessions during retreats",
+  "retreatOptions": "Weekend retreats (2-3 nights) up to two-week summer intensives, plus multi-day courses and periodic service retreats",
+  "schedule": "Structured retreat days with teachings and guided meditation sessions; meals served breakfast 8-8:45am, lunch 1-2pm, dinner 6-7pm; longer retreats include several consecutive days of silent practice",
+  "cost": "Residential retreats bundle tuition, meals, and lodging; e.g. a 2-night weekend Dzogchen retreat runs about $422 (tent site) and a 15-night summer retreat runs $2,465 (tent site) up to $4,820 (private queen/queen ensuite room)",
+  "pricePerDay": {
+    "min": 164,
+    "max": 321,
+    "unit": "night",
+    "notes": "Derived from the 2026 Summer Dzogchen Meditation Retreat (June 26-July 11, 2026, 15 nights), which bundles tuition, meals, and lodging: Tent Site $2,465 (~$164/night) up to Private Queen/Queen Room w/ ensuite bath $4,820 (~$321/night).",
+    "source": "https://serenityridge-ligmincha.secure.retreat.guru/program/2026-summer-dzogchen-retreat-2-weeks/?lang=en"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "partial",
+  "workNotes": "Optional work-exchange (2-3 hours/day) reduces the registration fee but is not required; a longer-term residency program requires about 20 hours/week of service.",
+  "foodNotes": "Vegetarian, vegan, and gluten-free meals are included in registration; hot beverages and fruit are available in the dining area at all times.",
+  "about": "Serenity Ridge Retreat Center is the North American headquarters of Ligmincha International, sitting on more than 90 wooded acres in the Blue Ridge foothills near Shipman, Virginia. Founded in 1998 by Geshe Tenzin Wangyal Rinpoche, it is dedicated to preserving and teaching the Bön Buddhist tradition of Tibet, with retreats centered on Dzogchen meditation, the Five Elements practices, and Tibetan yogic disciplines such as tsa lung and trul khor. Rinpoche teaches on-site several times each year, and resident or visiting lamas lead additional retreats ranging from weekends to two-week intensives, some including extended periods of silent practice. Accommodations range from tent camping to private suites, meals are included in every retreat registration, and the center also runs service retreats and a longer-term residency program for those wanting deeper immersion.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "long-retreats",
+    "family-friendly",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Serenity Ridge Retreat Center | Ligmincha",
+      "url": "https://ligmincha.org/centers-usa-serenityridge/"
+    },
+    {
+      "title": "2026 Summer Dzogchen Meditation Retreat (Both Weeks) - registration & pricing",
+      "url": "https://serenityridge-ligmincha.secure.retreat.guru/program/2026-summer-dzogchen-retreat-2-weeks/?lang=en"
+    },
+    {
+      "title": "RETREAT—Clear Light, Natural Mind: The Direct Path of Dzogchen",
+      "url": "https://ligmincha.org/event/serenity-ridge-dzogchen-meditation-summer-retreat-2026/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

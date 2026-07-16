@@ -1,0 +1,79 @@
+{
+  "id": "metta-forest-monastery",
+  "name": "Metta Forest Monastery",
+  "website": "https://www.watmetta.org",
+  "aka": [
+    "Wat Metta",
+    "Wat Mettavanaram",
+    "Mettavanarama"
+  ],
+  "location": {
+    "city": "Valley Center",
+    "county": "San Diego County",
+    "region": "Southern California",
+    "state": "CA",
+    "lat": 33.24788,
+    "lng": -116.996
+  },
+  "tradition": "Theravada Buddhism in the Thai Forest (Kammatthana) Tradition",
+  "influences": [
+    "Thai Forest Tradition (Kammatthana)",
+    "Ajaan Mun Bhuridatto",
+    "Ajaan Lee Dhammadharo",
+    "Ajaan Fuang Jotiko",
+    "Ajaan Suwat Suvaco",
+    "Thanissaro Bhikkhu (Ajaan Geoff)"
+  ],
+  "teacherAccess": "Abbot Ajaan Geoff (Thanissaro Bhikkhu) is available most days for Q&A about the Dhamma and meditation, plus a recorded morning Dhamma talk and a live evening talk.",
+  "retreatOptions": "No fixed retreat calendar; self-directed overnight stays from a few days up to a week or two (first-time guests are capped at two weeks), reserved ahead by phone.",
+  "about": "Metta Forest Monastery (Wat Metta) is a Thai Forest Theravada monastery set in an avocado orchard in the hills outside Valley Center, in northern San Diego County. Founded in 1990 by Ajaan Suwat Suvaco and led since 1993 by abbot Thanissaro Bhikkhu (Ajaan Geoff), its primary purpose is to support monks practicing the Dhamma and Vinaya, but laymen and laywomen are welcomed for overnight stays. Rather than running scheduled retreats, the monastery is 'always in retreat mode': overnight guests reserve ahead, observe the Eight Precepts, and follow the resident community's daily schedule of meditation, chanting, chores, and an alms round. Meditation follows the breath technique of Ajaan Lee Dhammadharo, and accommodation is simple, in a dormitory guesthouse or on tent platforms in the orchard. The monastery is supported entirely by donation and charges nothing for room, board, or teachings.",
+  "technique": "Breath meditation ('Keeping the Breath in Mind,' Method 2) in the lineage of Ajaan Lee Dhammadharo, alongside chanting and walking meditation.",
+  "schedule": "Daily monastic routine roughly 5:30 AM morning meditation and Dhamma talk, chores, alms round and a single main meal mid-morning, free afternoon, and evening chanting and meditation ending around 8:20 PM.",
+  "cost": "No charge for room, board, or teachings; the monastery is supported entirely by the generosity (dana) of its lay supporters.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Donation-only. The monastery does not charge for room, board, or teachings; there is no suggested or required amount, so no per-night rate is determinable. Everything is offered freely and supported by dana.",
+    "source": "https://www.watmetta.org/overnight-visitors/"
+  },
+  "foodServed": "yes",
+  "foodType": "omnivore",
+  "foodNotes": "One main daily meal, a laypeople's potluck offered mid-morning; overnight guests observe the sixth precept (no eating after solar noon). Food is not vegetarian (same food first offered to the monks); lacto-ovo vegetarians can usually be accommodated but vegan diets cannot.",
+  "workRequired": "yes",
+  "workNotes": "Overnight visitors follow the daily schedule, which includes morning and afternoon work periods (chores such as sweeping paths, kitchen help, weeding, and gardening); bring work clothes.",
+  "sources": [
+    {
+      "title": "Overnight Visitors : watmetta.org",
+      "url": "https://www.watmetta.org/overnight-visitors/"
+    },
+    {
+      "title": "Daily Schedule : watmetta.org",
+      "url": "https://www.watmetta.org/daily-schedule/"
+    },
+    {
+      "title": "About : watmetta.org",
+      "url": "https://www.watmetta.org/about/"
+    },
+    {
+      "title": "Metta Forest Monastery - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mett%C4%81_Forest_Monastery"
+    }
+  ],
+  "tags": [
+    "theravada",
+    "self-guided",
+    "long-retreats",
+    "camping",
+    "monastic-community",
+    "dana-donation",
+    "diet-omnivore",
+    "work-practice",
+    "meals-included"
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-14",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "dhamma-visuddhi",
+  "name": "Dhamma Visuddhi",
+  "aka": [
+    "Vipassana Meditation Center - Dhamma Visuddhi"
+  ],
+  "location": {
+    "address": "500 Meadow Hill Dr, Menomonie, WI 54751",
+    "city": "Menomonie",
+    "region": "Western Wisconsin",
+    "state": "WI",
+    "lat": 44.8894,
+    "lng": -91.9406
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka, in the tradition of Sayagyi U Ba Khin",
+  "technique": "Anapana and Vipassana body-scan meditation, taught step-by-step in silent, fixed-schedule residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual dharma talks; a certified assistant teacher is on-site to answer technique questions during a daily interview period (12-1pm) and public question time (9-9:30pm); nightly discourse is a recorded video/audio talk by S.N. Goenka.",
+  "retreatOptions": "Standard 10-day residential courses (most common offering), plus periodic 3-day and short old-student courses for those who have already completed a 10-day course.",
+  "schedule": "Fixed daily timetable from 4:00am wake-up to 9:30pm lights-out, with alternating group and self-directed meditation sessions, meal breaks, and an evening video discourse; Noble Silence is observed by all students until the morning of the last full day.",
+  "cost": "No tuition fee of any kind; entirely dana (voluntary donation)-based. First-time students may donate at the end of the course if they wish; only returning students who have completed a prior course may donate toward future courses.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No suggested amount; first-time students give only after completing a course.",
+    "source": "https://visuddhi.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Simple vegetarian meals prepared and served on-site for the full duration of the course; special dietary requests generally cannot be accommodated except for medically documented conditions.",
+  "workRequired": "partial",
+  "workNotes": "New students are not required to work during their first course; returning (\"old\") students are invited to volunteer as course servers or to attend dedicated service periods that help run and maintain the center.",
+  "about": "Dhamma Visuddhi is a Vipassana meditation center on 15 forested acres overlooking the Red Cedar River in Menomonie, Wisconsin, about an hour east of the Minneapolis-St. Paul airport. Established in 2013, it is one of the Goenka tradition's roughly 16 centers in North America, offering the standard 10-day residential Vipassana course taught via recorded instruction from S.N. Goenka along with on-site assistant teachers. Students live on the dorm-style campus for the full course, observe Noble Silence for most of the stay, and follow a fixed daily meditation schedule. Courses run entirely on voluntary donations from past students, with no set fees for anyone attending their first course. A 19th-century mansion houses the kitchen, dining halls, and some student lodging, with separate dormitory buildings for men and women elsewhere on the property.",
+  "tags": [
+    "goenka",
+    "insight-vipassana",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Welcome to Dhamma Visuddhi",
+      "url": "https://visuddhi.dhamma.org/welcome/"
+    },
+    {
+      "title": "General Information | Dhamma Visuddhi",
+      "url": "https://visuddhi.dhamma.org/center/general-information/"
+    },
+    {
+      "title": "Course Information | Dhamma Visuddhi",
+      "url": "https://visuddhi.dhamma.org/courses/courses-information/"
+    },
+    {
+      "title": "The Code of Discipline | Dhamma Visuddhi",
+      "url": "https://visuddhi.dhamma.org/courses/code/"
+    },
+    {
+      "title": "Course Schedule - Dhamma Visuddhi, Menomonie, Wisconsin",
+      "url": "https://www.dhamma.org/en-US/schedules/schvisuddhi"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

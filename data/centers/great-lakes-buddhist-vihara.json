@@ -1,0 +1,72 @@
+{
+  "id": "great-lakes-buddhist-vihara",
+  "name": "Great Lakes Buddhist Vihara",
+  "aka": [
+    "GLBV"
+  ],
+  "website": "https://glbvihara.org/",
+  "location": {
+    "city": "Southfield",
+    "region": "Metro Detroit",
+    "state": "MI",
+    "lat": 42.4734,
+    "lng": -83.2219
+  },
+  "tradition": "Theravada (Sri Lankan)",
+  "technique": "Samatha (concentration), vipassana (insight), and mettā meditation",
+  "influences": [
+    "Sri Lankan Theravada monastic lineage",
+    "Ven. Brahmanagama Muditha Nayaka Thero (founding abbot)",
+    "Ven. Yatinuwara Sankichcha Thero (abbot)",
+    "Ven. Galaboda Dhammavihara Thero"
+  ],
+  "teacherAccess": "Resident Sri Lankan-trained monks (Bhantes) lead retreats directly and are available for personal interviews and guidance during retreat",
+  "retreatOptions": "Individual retreats plus formal group retreats: monthly one-day mindfulness/meditation programs and structured 2-5 day (and longer) silent retreats",
+  "schedule": "Monthly one-day meditation/mindfulness retreats plus periodic multi-day silent retreats; also weekly meditation classes and monthly Poya/Sil observances",
+  "cost": "Dana-based (no fixed fee): teachings and retreats offered freely; donations accepted and appreciated to support the monks and Vihara",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Pure dana/donation model; no suggested daily figure is published",
+    "source": "https://glbvihara.org/faq/"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Breakfast and lunch, eaten in silence, are provided by congregation members during retreats; specific dietary composition (vegetarian vs. omnivore) is not published",
+  "workRequired": "unknown",
+  "workNotes": "No formal work-practice or karma yoga program is described on the site",
+  "about": "Great Lakes Buddhist Vihara (GLBV) is a Theravada Buddhist monastery in the Sri Lankan tradition, established in 1997 and based in Southfield, Michigan, serving practitioners across Michigan, Ohio, Indiana, and Ontario. The Vihara is home to resident monks trained and ordained in Sri Lanka who lead daily practice, teach meditation, and offer both individual retreats and formal group retreats ranging from single-day mindfulness programs to structured 2-5 day (and longer) silent retreats combining concentration, vipassana (insight), and mettā meditation. Retreats are held in Noble Silence, with participants observing five or eight precepts and receiving personal guidance from the Bhantes through periodic interviews and teachings on Buddhist doctrine and philosophy. True to the practice of dana, GLBV offers all teachings and retreats free of charge, relying entirely on voluntary donations to support the monks and its programs, with retreat meals provided by community members. The center welcomes people of all faiths and backgrounds and also hosts weekly meditation classes, Poya/Sil observances, and youth and family programs alongside its retreat offerings.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "day-retreats",
+    "dana-donation",
+    "meals-included",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Great Lakes Buddhist Vihara - Home",
+      "url": "https://glbvihara.org/"
+    },
+    {
+      "title": "About - Great Lakes Buddhist Vihara",
+      "url": "https://glbvihara.org/about/"
+    },
+    {
+      "title": "FAQ - Great Lakes Buddhist Vihara",
+      "url": "https://glbvihara.org/faq/"
+    },
+    {
+      "title": "Retreats - Great Lakes Buddhist Vihara",
+      "url": "https://glbvihara.org/retreats/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

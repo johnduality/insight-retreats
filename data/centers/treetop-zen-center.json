@@ -1,0 +1,69 @@
+{
+  "id": "treetop-zen-center",
+  "name": "Treetop Zen Center",
+  "aka": [],
+  "website": "https://www.treetopzencenter.org/",
+  "location": {
+    "city": "Oakland",
+    "region": "Kennebec County",
+    "state": "ME",
+    "lat": 44.5402,
+    "lng": -69.722
+  },
+  "tradition": "Soto Zen Buddhism (White Plum Asanga lineage)",
+  "technique": "Zazen (seated meditation), kinhin (walking meditation), koan introspection, chanting, and oryoki meal forms.",
+  "influences": [
+    "Stefano Mui Barragato (founding teacher)",
+    "Margaret Ne-Eka Barragato (founding teacher)",
+    "White Plum Asanga lineage"
+  ],
+  "teacherAccess": "Daisan (private interviews) and dharma talks with the resident teachers during sesshin; regular teacher-led sittings twice weekly year-round.",
+  "retreatOptions": "Weekly zazen; three multi-day silent sesshins a year (Mud Season Retreat, Summer Sesshin, Autumn Sesshin), each running roughly Wednesday evening through Sunday (about 4-5 nights).",
+  "about": "Treetop Zen Center is a small Soto Zen practice community in Oakland, Maine, founded by Stefano Mui Barragato and Margaret Ne-Eka Barragato after they relocated from New York's Hudson Valley in the early 2000s. The center is built into the Barragatos' rural home property, where a converted garage above the main house serves as the zendo and nearby rooms and cabins provide retreat lodging. Practice draws on the White Plum Asanga lineage and includes zazen, koan introspection, chanting, and oryoki meal forms, held in what the sangha describes as a spirit of playfulness and intimacy rather than heavy formality. Beyond twice-weekly meditation (in person and by Zoom), Treetop runs three multi-day silent sesshins a year -- a Mud Season Retreat, a Summer Sesshin, and an Autumn Sesshin -- each running from Wednesday evening through Sunday. Retreatants can sleep in the shared zendo space or reserve a private cabin or room in the house, and vegetarian meals are cooked communally by volunteer tenzos as part of the retreat's work practice.",
+  "schedule": "Sesshin days run from roughly 7am zazen through an evening zazen and dharma talk, with samu (work practice), meals, and rest periods interspersed between sitting blocks.",
+  "cost": "$300 program fee covers all retreat meals; lodging is a separate add-on of $50 (shared zendo-floor sleeping) to $175 (private cabin or room), with reduced or no-cost options for those with financial need.",
+  "pricePerDay": {
+    "min": 88,
+    "max": 119,
+    "unit": "night",
+    "notes": "Derived from the $300 sesshin program fee (meals) plus a $50 (shared zendo floor) to $175 (private cabin/room) lodging add-on, spread over the roughly 4-night Wednesday-evening-through-Sunday retreat.",
+    "source": "https://www.treetopzencenter.org/upcoming-sesshins/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals cooked communally by volunteer tenzos are included in the retreat program fee.",
+  "workRequired": "yes",
+  "workNotes": "Sesshin days include a scheduled samu (work practice) period, and retreatants may volunteer as a tenzo (retreat cook).",
+  "tags": [
+    "zen",
+    "silent",
+    "fixed-fee",
+    "sliding-scale",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Treetop Zen Center — Home",
+      "url": "https://www.treetopzencenter.org/"
+    },
+    {
+      "title": "Our Founding Story",
+      "url": "https://www.treetopzencenter.org/our-founding-story/"
+    },
+    {
+      "title": "Upcoming Sesshins and Retreats",
+      "url": "https://www.treetopzencenter.org/upcoming-sesshins/"
+    },
+    {
+      "title": "Contact Us / Getting Here",
+      "url": "https://www.treetopzencenter.org/visiting/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "barre-center-for-buddhist-studies",
+  "name": "Barre Center for Buddhist Studies",
+  "aka": [
+    "BCBS"
+  ],
+  "website": "https://www.buddhistinquiry.org/",
+  "location": {
+    "address": "149 Lockwood Road, Barre, MA 01005",
+    "city": "Barre",
+    "county": "Worcester County",
+    "region": "Central Massachusetts",
+    "state": "MA",
+    "lat": 42.4098,
+    "lng": -72.109
+  },
+  "tradition": "Multi-tradition Buddhist study and practice (Insight/Theravada roots, plus Zen, Tibetan, and broader Mahayana teachings)",
+  "technique": "Insight (vipassana) meditation with silent sitting and walking practice, paired with Buddhist study",
+  "influences": [
+    "Joseph Goldstein",
+    "Sharon Salzberg",
+    "Rob Burbea",
+    "Bhikkhu Anālayo"
+  ],
+  "teacherAccess": "Retreats and courses are led by a rotating faculty of well-known Buddhist teachers across traditions, with daily instruction, guided meditation, and dharma talks.",
+  "retreatOptions": "Residential programs typically run 5 nights to a week, with some shorter weekend and longer multi-week or Path/Certificate programs also offered.",
+  "about": "The Barre Center for Buddhist Studies (BCBS) is a 501(c)(3) educational nonprofit founded in 1990 by Joseph Goldstein and Sharon Salzberg to integrate Buddhist study and practice. Set on 90 wooded acres in rural Barre, Massachusetts, the campus includes a farmhouse, dharma hall, guest cottages, a 10,000-volume library, and a working garden. BCBS is intentionally non-sectarian, drawing on teachers and traditions spanning Theravada/Insight, Zen, and Tibetan Buddhism for its residential and online offerings. Residential retreats follow a structured opening/middle/closing-day format built around silent sitting and walking meditation, dharma talks, and community meals. It is a separate organization from the neighboring Insight Meditation Society (IMS), also located in Barre, MA.",
+  "schedule": "Residential retreats follow a fixed opening/middle/closing-day structure with daily sitting, walking, optional work-or-rest periods, and evening dharma talks; most run 5 nights and are scheduled periodically throughout the year alongside online programs.",
+  "cost": "Tiered sliding-scale pricing per program (e.g., a subsidized Tier 3 rate up to a Tier 1 rate covering actual program cost, plus an optional Benefactor tier and a lower-cost non-lodging Commuter option); financial assistance is available on request.",
+  "pricePerDay": {
+    "min": 139,
+    "max": 219,
+    "unit": "night",
+    "notes": "Derived from the 5-night residential retreat 'Seeing That Frees: Exploring the Path of Emptiness' (Jul 21-26, 2026): Tier 3 subsidized rate $695 to Tier 1 (actual program cost) $1095, each divided by 5 nights. Excludes the donation-boosted Benefactor tier ($1495) and the non-lodging Commuter option ($425).",
+    "source": "https://www.buddhistinquiry.org/classes/2026-seeing-that-frees-exploring-the-path-of-emptiness/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals served daily in a shared dining room, locally and organically sourced when possible, including produce from the on-site garden.",
+  "workRequired": "partial",
+  "workNotes": "Daily retreat schedule includes 'Work Practice or Rest' blocks; light work practice is offered/encouraged but framed as optional rather than mandatory.",
+  "tags": [
+    "silent",
+    "insight-vipassana",
+    "mahayana",
+    "meals-included",
+    "diet-vegetarian",
+    "sliding-scale",
+    "scholarships",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Barre Center for Buddhist Studies — Home",
+      "url": "https://www.buddhistinquiry.org/"
+    },
+    {
+      "title": "About — Barre Center for Buddhist Studies",
+      "url": "https://www.buddhistinquiry.org/about/"
+    },
+    {
+      "title": "Barre Campus — Barre Center for Buddhist Studies",
+      "url": "https://www.buddhistinquiry.org/about/barre-campus/"
+    },
+    {
+      "title": "Seeing That Frees: Exploring the Path of Emptiness (2026 residential retreat and pricing)",
+      "url": "https://www.buddhistinquiry.org/classes/2026-seeing-that-frees-exploring-the-path-of-emptiness/"
+    },
+    {
+      "title": "Finding Balance in Chaos: A Mindfulness Retreat (2026 residential retreat and pricing)",
+      "url": "https://www.buddhistinquiry.org/classes/2026-finding-balance-in-chaos-a-mindfulness-retreat-for-coming-back-to-ourselves/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "sonoma-mountain-zen-center",
+  "name": "Sonoma Mountain Zen Center (Genjo-ji)",
+  "aka": [
+    "Genjo-ji",
+    "SMZC"
+  ],
+  "website": "https://www.smzc.org/",
+  "location": {
+    "city": "Santa Rosa",
+    "region": "North Bay",
+    "state": "CA",
+    "lat": 38.2978,
+    "lng": -122.5558
+  },
+  "tradition": "Soto Zen (Shunryu Suzuki-roshi lineage)",
+  "influences": [
+    "Shunryu Suzuki-roshi",
+    "Jakusho Kwong-roshi",
+    "Dogen Zenji"
+  ],
+  "about": "Sonoma Mountain Zen Center, also known as Genjo-ji, is a Soto Zen practice center in the lineage of Shunryu Suzuki-roshi, founded by Jakusho Kwong-roshi. It is a lay practice temple dedicated to zazen, \"just sitting,\" that upholds a traditional Zen schedule and is open to the public. The temple sits atop Sonoma Mountain about an hour north of San Francisco, overlooking ancient oaks, redwood groves, and the Valley of the Moon. It offers daily meditation, weekly programs, monthly meditation intensives, multi-day sesshins, and guest temple stays. A resident community maintains the grounds and daily practice life.",
+  "technique": "Zazen (seated Soto Zen \"just sitting\"), with kinhin walking meditation, sutra chanting, and oryoki meals.",
+  "teacherAccess": "Guided by resident teachers and senior practitioners in the Jakusho Kwong-roshi lineage; instruction, dharma talks, and sesshin practice on site.",
+  "retreatOptions": "Monthly multi-day silent sesshins (e.g. 3-day Bodhidharma Sesshin, 1 to 3 overnights), guest temple stays, and residential guest practice.",
+  "schedule": "Rigorous sesshin day begins 5:00 am with 11 meditation periods, chanting, and mindful work, ending at 9:00 pm.",
+  "cost": "Sesshin from $85/night (10-20% member discount); temple stays $150-$200/night depending on room.",
+  "pricePerDay": {
+    "min": 85,
+    "max": 200,
+    "unit": "night",
+    "notes": "Sesshin retreats from $85/night (10-20% member discount); temple stays $150 dormitory, $175 private room, $200 private room with restroom, per night.",
+    "source": "https://www.smzc.org/events-1/bodhidharma-3-day-sesshin-1-to-3-overnights-on-site-in-zendo-4"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Communal vegetarian meals served formally as oryoki during sesshin and temple stays.",
+  "workRequired": "yes",
+  "workNotes": "Sesshin and temple-stay schedules include mindful work practice (samu) as part of daily training.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "fixed-fee",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "SMZC home page",
+      "url": "https://www.smzc.org/"
+    },
+    {
+      "title": "Bodhidharma 3-Day Sesshin (1 to 3 Overnights)",
+      "url": "https://www.smzc.org/events-1/bodhidharma-3-day-sesshin-1-to-3-overnights-on-site-in-zendo-4"
+    },
+    {
+      "title": "Temple Stay",
+      "url": "https://www.smzc.org/copy-of-temple-stay-1"
+    },
+    {
+      "title": "Guest Resident Practice",
+      "url": "https://www.smzc.org/residency"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

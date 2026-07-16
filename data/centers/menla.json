@@ -1,0 +1,94 @@
+{
+  "id": "menla",
+  "name": "Menla",
+  "aka": [
+    "Menla Mountain Retreat and Conference Center",
+    "Menla Retreat and Dewa Spa"
+  ],
+  "website": "https://menla.org/",
+  "location": {
+    "address": "375 Pantherkill Road, Phoenicia, NY 12464",
+    "city": "Phoenicia",
+    "county": "Ulster County",
+    "region": "Catskills",
+    "state": "NY",
+    "lat": 42.0676776,
+    "lng": -74.3709397
+  },
+  "tradition": "Tibetan Vajrayana Buddhism (project of Tibet House US)",
+  "technique": "Tibetan Buddhist meditation, philosophy, and Vajra Yoga; specific practice varies by visiting teacher/retreat topic",
+  "influences": [
+    "Tibet House US",
+    "Robert A.F. Thurman",
+    "Dalai Lama XIV",
+    "Sharon Salzberg",
+    "Krishna Das",
+    "Mark Epstein",
+    "various visiting Buddhist and dharma teachers"
+  ],
+  "teacherAccess": "Teacher-led retreats with lectures, guided meditation, discussion, Q&A, and informal access to faculty during meals and breaks",
+  "retreatOptions": "Weekend (2-3 night) to week-long (6-7 night) residential retreats and personal getaways",
+  "about": "Menla is a 501(c)(3) non-profit retreat and conference center on a 330-acre nature reserve in the Catskill Forest Preserve, established as a project of Tibet House US and spearheaded by Robert and Nena Thurman. About 40% of its programming consists of Tibet House-sponsored retreats on Buddhism, meditation, and yoga, led by teachers such as Robert Thurman, Sharon Salzberg, and Krishna Das, while the remainder are outside groups renting its facilities. Alongside its Dewa Spa and wellness amenities, Menla offers substantive residential Buddhist retreats covering topics like Dzogchen, dark retreat practice, and foundational Buddhist path teachings, typically running 3 to 7 nights. The Dalai Lama visited and blessed the property in 2006 and has expressed support for Menla's mission of bringing Tibetan mind-body healing arts to the West.",
+  "schedule": "Rotating calendar of Tibet House/Menla-sponsored retreats held nearly year-round, most beginning Thursday or Monday and running through the following Sunday",
+  "cost": "Fixed per-person program fee covering lodging and meals, tiered by room type (shared/economy dorm through private deluxe); partial scholarships and seasonal volunteer work-trade available",
+  "pricePerDay": {
+    "min": 315,
+    "max": 589,
+    "unit": "night",
+    "notes": "Derived from the 6-night 'Clearlight, Darkness, and Nonduality' retreat (Oct 26-Nov 1, 2026): $1,890 (Economy Quad, shared bath) to $3,534 (Deluxe King) divided by 6 nights; rates include meals and lodging. Commuter (no-lodging) rate excluded.",
+    "source": "https://menla.secure.retreat.guru/program/thus-andrew-holecek-bob-thurman-2/?form=1&lang=en"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian cuisine largely sourced from Menla's own organic garden; vegan, gluten-free, and other special diets accommodated with advance notice.",
+  "workRequired": "no",
+  "workNotes": "Optional seasonal volunteer/work-trade stays (minimum 6 hrs/day) available in exchange for housing; not required of standard retreat guests.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "meals-included",
+    "fixed-fee",
+    "scholarships",
+    "family-friendly",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Menla - Resort & Destination Spa - Catskills NY",
+      "url": "https://menla.org/"
+    },
+    {
+      "title": "About Us - Menla",
+      "url": "https://menla.org/about-us/"
+    },
+    {
+      "title": "Retreats - Menla",
+      "url": "https://menla.org/retreats/"
+    },
+    {
+      "title": "FAQs - Menla",
+      "url": "https://menla.org/faqs/"
+    },
+    {
+      "title": "Clearlight, Darkness, and Nonduality - Menla",
+      "url": "https://menla.org/retreat/clearlight-darkness-and-nonduality/"
+    },
+    {
+      "title": "Clearlight, Darkness, and Nonduality - Registration/Pricing",
+      "url": "https://menla.secure.retreat.guru/program/thus-andrew-holecek-bob-thurman-2/?form=1&lang=en"
+    },
+    {
+      "title": "Wake Up Sleepy Buddha: The Buddhist Path in Practice - Menla",
+      "url": "https://menla.org/retreat/wake-up-sleepy-buddha-the-buddhist-path-in-practice/"
+    },
+    {
+      "title": "Stay at Menla",
+      "url": "https://menla.org/stay-at-menla/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

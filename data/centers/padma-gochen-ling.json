@@ -1,0 +1,67 @@
+{
+  "id": "padma-gochen-ling",
+  "name": "Padma Gochen Ling",
+  "aka": [
+    "Padma Gochen Ling Temple",
+    "PBC Tennessee Retreat Center"
+  ],
+  "website": "https://www.pbc-tn.org/about-us/gochen-ling",
+  "location": {
+    "address": "618 Rock Springs Ln, Monterey, TN 38574",
+    "city": "Monterey",
+    "region": "Upper Cumberland",
+    "state": "TN",
+    "lat": 36.1405,
+    "lng": -85.2595
+  },
+  "tradition": "Tibetan Buddhism, Nyingma school (Padmasambhava Buddhist Center)",
+  "technique": "Shamatha (calm-abiding) meditation, Dzogchen, Ngondro, sadhana practice, and Vajrayana empowerments",
+  "influences": [
+    "Khenchen Palden Sherab Rinpoche",
+    "Khenpo Tsewang Dongyal Rinpoche",
+    "Guru Padmasambhava",
+    "Nyingma lineage",
+    "Dudjom Rinpoche"
+  ],
+  "teacherAccess": "Multi-day retreats and empowerments are led in person by Venerable Khenpo Tsewang Dongyal Rinpoche or visiting PBC lamas, with teachings, guided meditation, and Q&A.",
+  "retreatOptions": "Periodic weekend residential retreats (Friday evening to Sunday afternoon) and occasional longer multi-day teaching/empowerment retreats, roughly one to a few times a year.",
+  "schedule": "No fixed weekly residential schedule; multi-day retreats and empowerments are scheduled a few times per year and announced on the PBC-TN and Padmasambhava.org events calendars.",
+  "cost": "Retreat cost is a suggested program donation rather than a flat fee -- e.g. a recent weekend empowerment retreat asked $395 for members and up to $430 for nonmembers for the full retreat -- separate from any dana offered to the teacher.",
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "For at least one recent multi-day retreat the center explicitly did not provide meals -- retreatants were asked to bring their own food, with a communal refrigerator and kitchen available on site; policies may vary by event.",
+  "workRequired": "unknown",
+  "workNotes": "No work/service requirement is described on the official site for retreat attendees.",
+  "about": "Padma Gochen Ling is the rural retreat property of the Padmasambhava Buddhist Center of Tennessee (PBC-TN), a Nyingma Tibetan Buddhist community founded in 1990 by Khenchen Palden Sherab Rinpoche and Khenpo Tsewang Dongyal Rinpoche. Located outside Monterey, Tennessee, on the Cumberland Plateau, it is PBC-TN's dedicated land and temple, distinct from the group's weekly meeting space (Yeshe Tsogyal Temple) in Nashville, and the center has been actively expanding its retreat facilities (new bathhouse, Sangha House apartment, road work). It hosts periodic multi-day residential retreats and empowerments led by Venerable Khenpo Tsewang Dongyal Rinpoche -- such as a Vajrasattva empowerment and a Winter Dzogchen retreat -- centered on shamatha meditation, Dzogchen, Ngondro, and Vajrayana ritual practice. Retreats typically run Friday evening through Sunday afternoon or longer, with simple on-site lodging; guests are generally asked to bring their own food and meditation cushions. As with much of the Padmasambhava Buddhist Center network, retreat fees are structured as suggested program donations rather than fixed prices.",
+  "tags": [
+    "tibetan-vajrayana",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Padmasambhava Buddhist Center of Tennessee - Home",
+      "url": "https://www.pbc-tn.org/"
+    },
+    {
+      "title": "About Us - Padma Gochen Ling | pbc-tn",
+      "url": "https://www.pbc-tn.org/about-us/gochen-ling"
+    },
+    {
+      "title": "Empowerment & Teachings on Buddha Vajrasattva - Padma Gochen Ling in Monterey, Tennessee - June 6, 7, and 8",
+      "url": "https://www.padmasambhava.org/event-details-registration/empowerment-teachings-on-buddha-vajrasattva-padma-gochen-ling-in-monterey-tennessee-june-6-7-and-8"
+    },
+    {
+      "title": "Glorifying PBC Centers with Enhanced Retreat Facilities!",
+      "url": "https://www.padmasambhava.org/post/glorifying-pbc-centers-with-enhanced-retreat-facilities"
+    },
+    {
+      "title": "Schedule | pbc-tn",
+      "url": "https://www.pbc-tn.org/schedule-1"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

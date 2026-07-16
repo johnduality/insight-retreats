@@ -1,0 +1,83 @@
+{
+  "id": "vallecitos-mountain-retreat-center",
+  "name": "Vallecitos Mountain Retreat Center",
+  "aka": [
+    "Vallecitos Mountain Refuge",
+    "VMRC"
+  ],
+  "website": "https://www.vallecitos.org/",
+  "location": {
+    "city": "Tierra Amarilla",
+    "region": "Taos area",
+    "state": "NM",
+    "lat": 36.6344,
+    "lng": -106.2048
+  },
+  "tradition": "Insight Meditation, general dharma/mindfulness framing rather than an explicitly monastic Buddhist institution",
+  "technique": "Silent Insight Meditation (Vipassana) with sitting and walking meditation, dharma talks, and individual or small-group teacher meetings",
+  "influences": [
+    "Spirit Rock Meditation Center",
+    "Insight Meditation Society",
+    "Theravada Buddhism",
+    "Dzogchen (Tibetan Buddhism)"
+  ],
+  "teacherAccess": "Daily dharma talks plus individual or small-group practice meetings with visiting teachers, many trained through Spirit Rock or IMS in Insight Meditation and Dzogchen lineages.",
+  "retreatOptions": "Seasonal (May-October) teacher-led silent Insight Meditation retreats, typically 5-8 nights, plus occasional application-based 'Time on the Land' independent self-retreat sessions.",
+  "schedule": "Most retreats held in Noble Silence, alternating sitting and walking meditation, daily dharma talks and teacher meetings, and a short daily work-meditation period; standard arrival 3-5pm with an opening sit, departure after breakfast on the last day.",
+  "cost": "Sliding-scale pricing with Benefactor/Actual/Scholarship tiers that vary by lodging type and retreat length; a 2026 7-night retreat ranged from $665 (tent camping) to $2,625 (Hermitage, top tier), with a private casita at the standard 'Actual Rate' costing $1,470. Most retreats are dana-based, meaning teachers receive no fee from VMRC and rely on end-of-retreat donations from participants.",
+  "pricePerDay": {
+    "min": 95,
+    "max": 375,
+    "unit": "night",
+    "notes": "Derived from the 2026 'Insight and Resilience' 7-night (7-night/6-day) retreat sliding-scale rates: Tent Camping $665 total (~$95/night) up to the published sliding-scale ceiling of $2,625 (~$375/night, Hermitage top tier); a private Casita at the standard 'Actual Rate' is $1,470 (~$210/night). Rates vary by specific retreat and season.",
+    "source": "https://www.vallecitos.org/retreats/1187/2026-insight-and-resilience"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Ovo-lacto vegetarian meals (eggs and dairy included) prepared on-site with organic/local ingredients where possible; a 'Simple Bar' of plainly prepared items accommodates most special diets, but the remote, small kitchen limits highly custom requests.",
+  "workRequired": "yes",
+  "workNotes": "A short daily work-meditation period (food prep, dishes, cleaning) is part of retreat structure for all participants; light-duty jobs are available and staff accommodate personal capacity/limitations on request.",
+  "about": "Vallecitos Mountain Retreat Center is an off-grid, 135-acre wilderness refuge in the Tusas Mountains of Carson National Forest, about 50 miles west of Taos, New Mexico, near Tierra Amarilla and Hopewell Lake, at 8,880 feet elevation and reached via seven miles of unpaved forest road. The property runs on solar power only and includes meadows, aspen and conifer forest, seven ponds, and the Río Vallecitos, with a short hike to the Continental Divide Trail. Vallecitos operates a seasonal (May-October) schedule of teacher-led, silent Insight Meditation retreats held mostly in Noble Silence, combining sitting and walking meditation, dharma talks, and individual practice meetings, along with a short daily work-meditation period. Guests stay in single-occupancy casitas, yurts, tent cabins, a private hermitage, or tent camping, and eat ovo-lacto vegetarian meals prepared on-site. Though the center's own language emphasizes land, refuge, and mindfulness rather than sectarian Buddhist identity, its visiting teachers are trained in Insight Meditation/Vipassana and Dzogchen lineages, many through Spirit Rock and the Insight Meditation Society.",
+  "tags": [
+    "insight-vipassana",
+    "silent",
+    "camping",
+    "sliding-scale",
+    "scholarships",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Vallecitos Mountain Retreat Center - Home",
+      "url": "https://www.vallecitos.org/"
+    },
+    {
+      "title": "About Retreat Life",
+      "url": "https://www.vallecitos.org/planning-your-visit/about-retreat-life/"
+    },
+    {
+      "title": "Accommodations",
+      "url": "https://www.vallecitos.org/planning-your-visit/accommodations/"
+    },
+    {
+      "title": "Food / Diet",
+      "url": "https://www.vallecitos.org/planning-your-visit/food-diet/"
+    },
+    {
+      "title": "2026 Insight and Resilience retreat (pricing example)",
+      "url": "https://www.vallecitos.org/retreats/1187/2026-insight-and-resilience"
+    },
+    {
+      "title": "Location / Directions",
+      "url": "https://www.vallecitos.org/planning-your-visit/locationdirections/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-14",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "chuang-yen-monastery",
+  "name": "Chuang Yen Monastery",
+  "aka": [
+    "Buddhist Association of the United States (BAUS)",
+    "CYM"
+  ],
+  "website": "https://www.baus.org/en/visit-us/chuang-yen-monastery/",
+  "location": {
+    "address": "2020 Route 301, Carmel, NY 10512",
+    "city": "Kent",
+    "county": "Putnam County",
+    "region": "Hudson Valley",
+    "state": "NY",
+    "lat": 41.4744,
+    "lng": -73.7466
+  },
+  "tradition": "Chan / Pure Land Mahayana Buddhism",
+  "technique": "Chan (Zen) meditation, Pure Land recitation, sutra/Abhidhamma study, and Theravada-informed insight meditation retreats led by resident and visiting teachers",
+  "influences": [
+    "Dr. C.T. Shen (BAUS co-founder)",
+    "Master Sheng Yen",
+    "Ven. Bhikkhu Bodhi (BAUS President)",
+    "Venerable Lok To"
+  ],
+  "teacherAccess": "Retreats are led directly by resident abbesses/monastics or visiting teachers such as Ven. Bhikkhu Bodhi, with daily dharma talks and small-group instruction.",
+  "retreatOptions": "Structured residential retreats/workshops ranging from a few days up to 21 days, held a few times a year; day visits are also possible but overnight lodging is reserved for registered retreat participants and volunteers.",
+  "about": "Chuang Yen Monastery is a large Mahayana Buddhist temple complex on 225 acres in Kent (Putnam County), New York, operated by the Buddhist Association of the United States (BAUS). It is home to the largest indoor Buddha statue in the Western Hemisphere and combines Chan, Pure Land, and broader Buddhist study traditions, including programs led by Theravada scholar-monk Ven. Bhikkhu Bodhi. A few times a year the monastery hosts multi-day residential meditation and dharma-study retreats, some observing Noble Silence and the Eight Precepts, where participants stay onsite and are provided meals and simple dormitory-style lodging. Outside of organized retreats, the monastery is open for day visits (April–December) but does not offer general overnight guest accommodation. The setting is a quiet rural Hudson Valley campus with temple halls, a library, and memorial terraces amid wooded grounds.",
+  "schedule": "Retreats and workshops are scheduled a few times per year (varies by season; the monastery is closed to visitors in winter, Jan 2–Mar 31), typically announced individually on the BAUS events calendar with dedicated registration per retreat.",
+  "cost": "Retreats are run on a donation basis rather than a fixed published fee; participants typically register via an application/Google Form and are asked for a donation to cover room and board, with suggested meal-sponsorship donation tiers available separately for day visitors.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No fixed per-night retreat fee is published; retreats operate on a donation basis and registration forms do not list a set price. Day-visitor meal donation is a separate $7+/meal suggestion, not a retreat lodging rate.",
+    "source": "https://www.baus.org/en/visit-us/faq/join-longer-retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are provided to retreat participants as part of room and board; day-visitor vegetarian lunch (weekends) suggests a $7/person donation.",
+  "workRequired": "unknown",
+  "workNotes": "Retreat guidelines emphasize precepts, silence, and dress/conduct rules; no explicit mandatory work/chore practice for retreat guests is described on official pages.",
+  "tags": [
+    "mahayana",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "monastic-community",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Chuang Yen Monastery - BAUS.org",
+      "url": "https://www.baus.org/en/visit-us/chuang-yen-monastery/"
+    },
+    {
+      "title": "Join Longer Retreats - BAUS.org",
+      "url": "https://www.baus.org/en/visit-us/faq/join-longer-retreats/"
+    },
+    {
+      "title": "Visitors Info - BAUS.org",
+      "url": "https://www.baus.org/en/visit-us/chuang-yen-monastery/visitors-info/"
+    },
+    {
+      "title": "FAQ List - BAUS.org",
+      "url": "https://www.baus.org/en/visit-us/faq/faq-list/"
+    },
+    {
+      "title": "FULL 9/4-7 A Four-Day Hybrid Retreat with Ven. Bhikkhu Bodhi - BAUS.org",
+      "url": "https://www.baus.org/en/9-4-7-a-four-day-hybrid-retreat-with-ven-bhikkhu-bodhi/"
+    },
+    {
+      "title": "Chuang Yen Monastery - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chuang_Yen_Monastery"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

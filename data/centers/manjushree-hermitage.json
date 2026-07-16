@@ -1,0 +1,69 @@
+{
+  "id": "manjushree-hermitage",
+  "name": "Manjushree Hermitage Tibetan Buddhist Center",
+  "aka": [
+    "Manjushree Hermitage",
+    "Manjushree Foundation"
+  ],
+  "website": "https://manjushreehermitage.org/",
+  "location": {
+    "city": "Michigan City",
+    "region": "Northwest Indiana",
+    "state": "IN",
+    "lat": 41.7559,
+    "lng": -86.8167
+  },
+  "tradition": "Tibetan Buddhism (Karma Kagyu)",
+  "technique": "Meditation, dharma study, and retreat in the Karma Kagyu lineage of Tibetan Buddhism",
+  "influences": [
+    "Shangpa Rinpoche (Venerable Shyangwa Tulku Lama Rinpoche)",
+    "16th Gyalwa Karmapa Rangjung Rigpe Dorje",
+    "Dupsing Rinpoche",
+    "Karma Kagyu lineage teachers"
+  ],
+  "teacherAccess": "Founder Shangpa Rinpoche and visiting Karma Kagyu teachers (such as Ven. Dupseng Rinpoche) lead periodic special retreats on site; sangha members lead weekly meditation programs.",
+  "retreatOptions": "Several heated cabins with private bathrooms are available on the property for personal meditation retreat, whether for a single night, a few days, a month, or longer, in addition to periodic multi-day teacher-led group retreats.",
+  "about": "Manjushree Hermitage is a Karma Kagyu Tibetan Buddhist center on wooded property in Michiana Shores, Northwest Indiana, near the Michigan border. Founded to bring the teachings of Shangpa Rinpoche and other Karma Kagyu master teachers to the region, it is a volunteer-run, donation-dependent center with no paid staff. The grounds include a dining hall with a communal kitchen and several heated guest cabins with bathrooms, allowing visitors to stay for anywhere from one night to an extended personal retreat. Beyond individual retreat stays, the Hermitage hosts periodic multi-day retreats with visiting Tibetan lamas alongside its regular Sunday, Monday, and Thursday meditation and study programs. Its emphasis throughout is on Buddhist meditation practice rather than physical yoga or other secular wellness offerings.",
+  "schedule": "Weekly Sunday morning group meditation and book study, Monday evening sangha programs, and Thursday evening loving-kindness meditation; special multi-day residential retreats with visiting teachers are scheduled periodically throughout the year.",
+  "cost": "Donation-based; volunteer-run center fully dependent on donations, with no fixed nightly fee published for cabin stays.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No suggested amount and no published rate to base a nightly figure on.",
+    "source": "https://manjushreehermitage.org/retreats/"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "Guests self-cater using the communal kitchen in the dining hall; the center does not provide prepared meals.",
+  "workRequired": "no",
+  "workNotes": "As an all-volunteer center, guests may pitch in with upkeep but no work is formally required to stay.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Manjushree Hermitage official site",
+      "url": "https://manjushreehermitage.org/"
+    },
+    {
+      "title": "Manjushree Hermitage - About",
+      "url": "https://manjushreehermitage.org/about/"
+    },
+    {
+      "title": "Manjushree Hermitage - Retreats",
+      "url": "https://manjushreehermitage.org/retreats/"
+    },
+    {
+      "title": "Manjushree Hermitage - Contact",
+      "url": "https://manjushreehermitage.org/contact/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

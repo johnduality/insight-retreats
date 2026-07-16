@@ -1,0 +1,84 @@
+{
+  "id": "detroit-zen-center",
+  "name": "Detroit Zen Center",
+  "aka": [
+    "DZC",
+    "Sudeoksa Temple (Detroit branch)"
+  ],
+  "website": "https://www.detroitzencenter.org/",
+  "location": {
+    "city": "Hamtramck",
+    "region": "Metro Detroit",
+    "state": "MI",
+    "lat": 42.3985,
+    "lng": -83.0498
+  },
+  "tradition": "Korean Seon (Zen), Sudeoksa lineage",
+  "technique": "Seated Zen meditation paired with manual work practice and urban ecological stewardship",
+  "influences": [
+    "Sudeoksa Temple, Korea (founded c. 530 CE)",
+    "Hwalson Sunim (founder/abbot)",
+    "Master Wondam",
+    "Korean Seon lineage"
+  ],
+  "teacherAccess": "Resident monks (Abbot Myungju Sunim and founder Hwalson Sunim) and lay dharma teachers lead Sunday sessions, dharma talks, and retreats; tea meetings with the Abbot can be arranged by request.",
+  "retreatOptions": "Weekend 'Zen Stay' meditation & urban ecology retreats (Friday 6pm to Sunday 12pm, minimum 2 nights, no partial participation) at the Hamtramck temple; short- or long-term residency stays in temple guest rooms with optional participation in the daily schedule; separate spring/summer retreats at Cloud Mountain Hermitage on Lake Superior near Ontonagon, MI.",
+  "schedule": "Weekly Sunday Guided Zen (9-10:30am) and member meditations (mornings Thu-Sat, evenings Wed-Sat) year-round; Zen Stay weekend retreats run roughly monthly from July through September (e.g. Jul 24-26 and Aug 7, 2026); Cloud Mountain Hermitage hosts retreats in spring and summer.",
+  "cost": "Sunday Guided Zen is by $20 suggested donation; the Zen Stay weekend retreat is a fixed ticketed fee of $100/night for the public ($200 total) or $50/night for members ($100 total); residency (non-retreat) guest rooms run $80-$125/night depending on room, with weekly and monthly rates available.",
+  "pricePerDay": {
+    "min": 50,
+    "max": 100,
+    "unit": "night",
+    "notes": "Derived from the 'Zen Stay: Meditation & Urban Ecology Retreat' ticket prices: $100 (member) to $200 (public) for the fixed 2-night Fri-Sun retreat, i.e. $50-$100 per night.",
+    "source": "https://www.detroitzencenter.org/event-details/zen-stay-meditation-urban-ecology-retreat-2026-07-24-18-00-1"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Zen Stay retreats include organic, vegan farm-to-table meals prepared by the community; the temple's guest residency kitchen (for non-retreat stays) is strictly vegetarian.",
+  "workRequired": "partial",
+  "workNotes": "The Zen Stay retreat has no partial participation and includes several hours per day of green-roof, peace-garden and urban ecology stewardship as a fixed part of the schedule; ordinary residency (non-retreat) guests have no work obligation and may opt into volunteer projects freely.",
+  "about": "The Detroit Zen Center (DZC) is a Korean Seon (Zen) Buddhist temple in Hamtramck, Michigan, founded in 1990 by Zen monk Hwalson Sunim as a US branch of the historic Sudeoksa Temple in Korea, where DZC's monks trained and ordained. Its campus is a grassroots renovation of a former WWII dance hall and speakeasy into a meditation hall, cafe, and guest residency, complemented by green roofs and public rain gardens that make the center a working model of urban ecological stewardship. Reflecting a 'blue-collar Zen' ethos, practice combines silent seated meditation with manual work, art, mentorship, and environmental care, led by resident monks and lay dharma teachers. Alongside weekly Sunday sessions and weekend 'Zen Stay' meditation and urban-ecology retreats in Hamtramck, the center operates Cloud Mountain Hermitage, a 9-acre retreat site on Lake Superior in the Porcupine Mountains near Ontonagon, Michigan, where monks reside part of the year and host additional retreats each spring and summer. Guests can also arrange short- or long-term residency stays in the temple's guest rooms, with or without participation in the daily meditation schedule.",
+  "tags": [
+    "zen",
+    "meals-included",
+    "work-practice",
+    "monastic-community",
+    "fixed-fee",
+    "diet-vegan"
+  ],
+  "sources": [
+    {
+      "title": "Detroit Zen Center - Home",
+      "url": "https://www.detroitzencenter.org/"
+    },
+    {
+      "title": "Detroit Zen Center - About Us, About Zen",
+      "url": "https://www.detroitzencenter.org/about"
+    },
+    {
+      "title": "Detroit Zen Center - Study & Practice",
+      "url": "https://www.detroitzencenter.org/about-3"
+    },
+    {
+      "title": "Detroit Zen Center - Residency (Zen Stay)",
+      "url": "https://www.detroitzencenter.org/residency"
+    },
+    {
+      "title": "Detroit Zen Center - Calendar / Events & Registration",
+      "url": "https://www.detroitzencenter.org/events-registration"
+    },
+    {
+      "title": "Detroit Zen Center - Zen Stay: Meditation & Urban Ecology Retreat (event page)",
+      "url": "https://www.detroitzencenter.org/event-details/zen-stay-meditation-urban-ecology-retreat-2026-07-24-18-00-1"
+    },
+    {
+      "title": "Detroit Zen Center - Donate, Become a Patron",
+      "url": "https://www.detroitzencenter.org/donations"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

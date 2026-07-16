@@ -1,0 +1,88 @@
+{
+  "id": "tara-mandala",
+  "name": "Tara Mandala",
+  "aka": [
+    "Tara Mandala Retreat Center",
+    "Tara Mandala International Buddhist Community"
+  ],
+  "website": "https://www.taramandala.org/",
+  "location": {
+    "address": "4000 USFS Road 649",
+    "city": "Pagosa Springs",
+    "county": "Archuleta County",
+    "region": "Southwestern Colorado",
+    "state": "CO",
+    "lat": 37.1615,
+    "lng": -107.1161
+  },
+  "tradition": "Tibetan Vajrayana Buddhism (Nyingma/Kagyu, Machig Labdrön's Chöd lineage)",
+  "technique": "Meditation, Chöd, Vajrayana deity/Dzogchen practice, Feeding Your Demons®",
+  "influences": [
+    "Lama Tsultrim Allione",
+    "Machig Labdrön",
+    "Sacred Feminine / Dakini lineage",
+    "Nyingma and Kagyu Tibetan Buddhism"
+  ],
+  "teacherAccess": "Retreats are led by Lama Tsultrim Allione and/or her trained Senior Teachers (Lopöns/Chögés) and visiting Tibetan lamas and tulkus, with daily dharma talks and individual practice meetings; solo cabin retreatants can request teacher check-ins.",
+  "retreatOptions": "Group residential retreats of roughly 3 days to 2+ weeks; solo retreat cabins bookable from 3 nights up to a year or more.",
+  "about": "Tara Mandala is a 700-acre Tibetan Vajrayana Buddhist retreat center in the San Juan Mountains near Pagosa Springs, Colorado, founded in 1993 by Lama Tsultrim Allione, one of the first Western women fully ordained in the Tibetan tradition and recognized as an emanation of the 11th-century yogini Machig Labdrön. The land is anchored by the three-story Tara Temple and Community Building, plus a scattering of off-grid solo retreat cabins reached by trail. Tara Mandala offers group residential retreats -- typically gathering 10 to 70 participants for several days to two weeks of teachings, meditation, and Vajrayana practice such as Chöd, Green Tara, and Dzogchen -- as well as solitary cabin retreats that can run from a long weekend to a year or more. The community blends classical Tibetan Buddhist study with Lama Tsultrim's own methods, including Feeding Your Demons® and the Mandala Method, with a particular focus on the sacred feminine. Programs are led by Lama Tsultrim, her trained Senior Teachers, and visiting Tibetan lamas and tulkus.",
+  "schedule": "Group retreats run on a published annual calendar year-round, usually 3-10 days each; solo cabin check-in and check-out are limited to Mondays and Fridays only.",
+  "cost": "Group retreats charge a sliding-scale program fee (Benefactor/Sustaining/Supported levels) plus a fixed room & board fee by accommodation type (camping, dorm yurt, shared or private room); solo cabins use flat nightly/weekly/monthly rates starting at $95/night.",
+  "pricePerDay": {
+    "min": 65,
+    "max": 95,
+    "unit": "night",
+    "notes": "Solo retreat cabin fee: $95/night for a 3-5 night stay, dropping to about $65/night for 7 nights-1 month (cabin rental only; food is not included and retreatants buy/bring their own). Group residential retreat room & board is fixed per program but not published as a single per-night figure.",
+    "source": "https://www.taramandala.org/retreats-events/personal-retreat-cabins/"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Group residential retreats include three organic, buffet-style vegetarian meals daily; solo cabin retreatants bring or buy their own food, with weekly grocery shopping provided by staff for stays longer than a week.",
+  "workRequired": "partial",
+  "workNotes": "Group retreats include a daily Karma Yoga (work meditation) assignment such as kitchen or dining-room duties; solo cabin retreats have no work requirement.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "long-retreats",
+    "meals-included",
+    "work-practice",
+    "sliding-scale",
+    "camping",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Tara Mandala - official site",
+      "url": "https://www.taramandala.org/"
+    },
+    {
+      "title": "About Tara Mandala",
+      "url": "https://www.taramandala.org/about/tara-mandala-retreat-center/about-tara-mandala/"
+    },
+    {
+      "title": "Buddhist Meditation Retreat Overview",
+      "url": "https://www.taramandala.org/retreats-events/buddhist-meditation-retreat-overview/"
+    },
+    {
+      "title": "Pricing Guidelines",
+      "url": "https://www.taramandala.org/about/tara-mandala-retreat-center/pricing-guidelines/"
+    },
+    {
+      "title": "Personal Retreat Cabins",
+      "url": "https://www.taramandala.org/retreats-events/personal-retreat-cabins/"
+    },
+    {
+      "title": "Retreat Calendar",
+      "url": "https://www.taramandala.org/calendar/"
+    },
+    {
+      "title": "Tara Mandala on Retreat Guru",
+      "url": "https://retreat.guru/centers/157-1/tara-mandala"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

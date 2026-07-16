@@ -1,0 +1,69 @@
+{
+  "id": "vajrapani-institute",
+  "name": "Vajrapani Institute",
+  "website": "https://vajrapani.org/",
+  "aka": [
+    "Vajrapani"
+  ],
+  "location": {
+    "city": "Boulder Creek",
+    "region": "Santa Cruz Mountains",
+    "state": "CA",
+    "lat": 37.2008491,
+    "lng": -122.1192766
+  },
+  "tradition": "Tibetan Buddhist (FPMT / Gelug lineage)",
+  "about": "Vajrapani Institute is a Tibetan Buddhist retreat center set on forested land in the Santa Cruz Mountains near Boulder Creek, California. Founded in 1977, it is affiliated with the Foundation for the Preservation of the Mahayana Tradition (FPMT), the global network established by Lama Thubten Yeshe and Lama Zopa Rinpoche. The center offers teacher-led group retreats on Buddhist meditation and philosophy as well as self-guided private silent retreats in cabins on a secluded ridge. Guests stay amid redwoods with access to stupas, hiking trails, and a communal dining program of vegetarian meals. The land is a place of pilgrimage as the cremation site of Lama Yeshe.",
+  "influences": [
+    "Lama Thubten Yeshe",
+    "Lama Zopa Rinpoche",
+    "FPMT"
+  ],
+  "technique": "Tibetan Mahayana meditation, lamrim study, and deity/purification practices, plus self-guided silent retreat.",
+  "teacherAccess": "Group retreats are led by qualified FPMT teachers; private retreatants practice independently with optional guided audio support.",
+  "retreatOptions": "Teacher-led group retreats (typically 3-8 nights) and self-guided private silent cabin retreats (3-night minimum).",
+  "schedule": "Group retreats follow a set daily program of meditation sessions and teachings; private retreats are self-structured.",
+  "cost": "Private cabins $160/night (3-14 nights) including 3 meals, dropping for longer stays; group retreat tuition varies.",
+  "pricePerDay": {
+    "min": 100,
+    "max": 160,
+    "unit": "night",
+    "notes": "Private retreat cabin: $160/night for 3-14 nights, $140/night for 15-27 nights, $100/night for 28+ nights, all including 3 vegetarian meals.",
+    "source": "https://vajrapani.org/private-retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian meals daily included; vegan and gluten/dairy/soy allergy accommodations available with advance notice.",
+  "workRequired": "no",
+  "workNotes": "No work practice required of retreat guests; separate volunteer program available for those who wish to serve.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "silent",
+    "family-friendly",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "no-work-required",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Vajrapani Institute - Home",
+      "url": "https://vajrapani.org/"
+    },
+    {
+      "title": "Private Retreats (rates & minimum stay)",
+      "url": "https://vajrapani.org/private-retreats/"
+    },
+    {
+      "title": "Accommodation",
+      "url": "https://vajrapani.org/accommodations/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

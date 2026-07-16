@@ -1,0 +1,67 @@
+{
+  "name": "Ser Chö Ösel Ling Retreat Center",
+  "website": "https://kcc.org/scol/",
+  "aka": [
+    "SCOL",
+    "Kagyu Changchub Chuling",
+    "KCC",
+    "Land of the Clear Light Golden Dharma"
+  ],
+  "location": {
+    "city": "Goldendale",
+    "region": "South-Central Washington",
+    "state": "WA",
+    "lat": 45.9241,
+    "lng": -120.8206
+  },
+  "tradition": "Tibetan Vajrayana Buddhism in the Karma Kagyu and Shangpa Kagyu lineages",
+  "influences": [
+    "Kyabje Bokar Rinpoche",
+    "Kyabje Kalu Rinpoche"
+  ],
+  "teacherAccess": "Group retreats are teacher- or lama-led; self-directed personal retreats are practiced independently, though retreatants create an individualized plan and can consult a lama advisor in advance rather than receiving on-site teaching.",
+  "retreatOptions": "Weekend to multi-day group retreats, month-long personal retreat in a group setting, self-guided individual multi-day retreats, and long cloistered (e.g. three-year) retreats.",
+  "about": "Ser Chö Ösel Ling ('Land of the Clear Light Golden Dharma') is a 240-acre retreat property in the high desert foothills of the Simcoe Mountains, about seven miles north of Goldendale, Washington, operated by the Portland-based sangha Kagyu Changchub Chuling. Inspired by Kyabje Bokar Rinpoche and rooted in the Karma and Shangpa Kagyu lineages of Tibetan Buddhism, it was built to support both long cloistered retreats and shorter individual and group practice. The center has sixteen cabins arranged as eight in each of two cloistered wings, each cloister with its own shrine room, dining area, multipurpose room, and shared bath, joined by a central administration building and main kitchen. KCC hosts numerous facilitated group retreats through the year, and also offers self-guided personal retreats where participants keep a shared daily schedule, practice on their own, and gather for meals and evening meditation. Full-time staff live on site and regular sangha work parties help maintain the grounds.",
+  "technique": "Tibetan Vajrayana meditation and deity/mantra practice on an individualized practice plan, with periods of silence.",
+  "schedule": "Personal retreatants keep a shared daily schedule, practicing on their own in cabins or meditation halls and gathering for meals and evening meditation with aspiration prayers.",
+  "cost": "$90 per night for a personal retreat, including a single cabin and three meals per day, two-night minimum; financial assistance up to 50% may be available.",
+  "pricePerDay": {
+    "min": 90,
+    "max": 90,
+    "unit": "night",
+    "notes": "Nightly figure is the center's listed Personal Practice Retreat rate, taken directly with no calculation needed.",
+    "source": "https://kagyuchangchubchuling.secure.retreat.guru/program/personal-practice-retreat-september-2025/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian meals are served daily and are included in the nightly retreat fee.",
+  "workRequired": "partial",
+  "workNotes": "Retreatants are expected to contribute up to one hour per day toward chores done during the meal breaks.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "long-retreats",
+    "silent",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Ser Chö Ösel Ling Retreat Center — KCC",
+      "url": "https://kcc.org/scol/"
+    },
+    {
+      "title": "Personal Practice Retreat (pricing, meals, chores) — KCC / retreat.guru",
+      "url": "https://kagyuchangchubchuling.secure.retreat.guru/program/personal-practice-retreat-september-2025/"
+    }
+  ],
+  "id": "ser-cho-osel-ling",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

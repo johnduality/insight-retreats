@@ -1,0 +1,67 @@
+{
+  "name": "Sravasti Abbey",
+  "website": "https://sravastiabbey.org/",
+  "aka": [],
+  "location": {
+    "city": "Newport",
+    "region": "Eastern Washington",
+    "state": "WA",
+    "lat": 48.2447,
+    "lng": -117.1178
+  },
+  "tradition": "Tibetan Vajrayana Buddhism in the tradition of His Holiness the Dalai Lama, founded by Ven. Thubten Chodron.",
+  "influences": [
+    "His Holiness the Dalai Lama",
+    "Ven. Thubten Chodron",
+    "Gelugpa lineage",
+    "Chinese Dharmagupta monastic tradition"
+  ],
+  "teacherAccess": "Retreats and courses are led by resident monastics, founder-abbess Ven. Thubten Chodron, and visiting scholar-practitioners, with guests living alongside the monastic community.",
+  "retreatOptions": "One-day and multi-day residential retreats, courses, and Buddhist teachings on site, plus weekly and weekend online teachings.",
+  "about": "Sravasti Abbey is a Tibetan Buddhist monastery on 350 acres of forest and meadow about 11 miles outside Newport in eastern Washington, founded in 2003 by author and fully ordained nun Ven. Thubten Chodron. It is a rare Western training monastery home to a resident community of monks and nuns practicing in the tradition of His Holiness the Dalai Lama. Guests who come for residential retreats and courses live within the community, following the daily monastic schedule of meditation, study, and offering service. Programs range from one-day events to multi-day residential retreats and courses taught by Ven. Chodron and visiting teachers. The Abbey runs entirely on an economy of generosity, offering all teachings and stays free of charge and supported by voluntary donations. Prospective guests complete an application in advance to visit and join community life.",
+  "technique": "Tibetan Vajrayana study and meditation, analytical and stabilizing meditation, and integration of Dharma into daily community life.",
+  "schedule": "Full monastic daily schedule: early morning and evening meditation practice, study, and an afternoon block of offering service.",
+  "cost": "Freely offered on a dana (generosity) basis; no set fee, supported by voluntary donations.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Retreats and stays are offered free of charge under the Abbey's economy of generosity; guests support the community through voluntary donations (dana).",
+    "source": "https://sravastiabbey.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals with lunch as the main meal; following Chinese monastic custom, dishes avoid onion, garlic, leeks, and radishes.",
+  "workRequired": "yes",
+  "workNotes": "Guests are incorporated into community life and offer service (work practice) as part of the daily schedule.",
+  "tags": [
+    "tibetan-vajrayana",
+    "monastic-community",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "dana-donation",
+    "day-retreats",
+    "online-hybrid"
+  ],
+  "sources": [
+    {
+      "title": "Sravasti Abbey - official website",
+      "url": "https://sravastiabbey.org/"
+    },
+    {
+      "title": "Schedule Quick Look - Sravasti Abbey",
+      "url": "https://sravastiabbey.org/schedule-quick-look/"
+    },
+    {
+      "title": "Sravasti Abbey - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sravasti_Abbey"
+    }
+  ],
+  "id": "sravasti-abbey",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

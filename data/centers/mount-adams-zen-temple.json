@@ -1,0 +1,65 @@
+{
+  "name": "Mount Adams Zen Buddhist Temple",
+  "website": "https://mtadamsbuddhisttemple.org/",
+  "aka": [
+    "Trout Lake Abbey",
+    "Mount Adams Thien Buddhist Temple"
+  ],
+  "location": {
+    "city": "Trout Lake",
+    "region": "Southwest Washington",
+    "state": "WA",
+    "lat": 46.0007,
+    "lng": -121.5286
+  },
+  "tradition": "Vietnamese Thien and Chinese Chan (Zen), blending Northern and Southern meditation traditions",
+  "influences": [
+    "Thich Nhat Hanh"
+  ],
+  "teacherAccess": "Guests may meditate with the resident monks in the temple; a Thich Nhat Hanh study group and regular services led by Ven. Thay Kozen support practice.",
+  "retreatOptions": "Self-directed personal residential stays (2-night minimum) plus hosted Buddhist, Druid, yoga, qigong and other group retreats through the year.",
+  "about": "The Mount Adams Zen Buddhist Temple is a small country temple in the Thien tradition of Vietnam and the Chan tradition of China, set within the 23-acre Trout Lake Abbey at the base of Mt. Adams. The Abbey grew from a friendship between a Zen Buddhist monk and a Druid priest and welcomes people of all beliefs to find peace on its organic farm and gardens. Its mission is to work toward the cessation of suffering by offering meditation and Dharma education and support. Overnight guests stay in the on-site bed and breakfast, where they can meditate with the monks in the temple, walk the lavender labyrinth, or read by the pond. Daily meditation sittings and a Saturday service are open to visitors and locals alike.",
+  "technique": "Seated Zen meditation and Dharma study in the combined Thien/Chan tradition.",
+  "schedule": "Daily meditation sittings (early morning and Mon/Wed/Fri evenings) plus a Saturday morning service; personal-retreat guests set their own rhythm.",
+  "cost": "B&B lodging from $65 per bunk to $150 per private room per night (2-night minimum); temple services and meditation are offered by donation.",
+  "pricePerDay": {
+    "min": 65,
+    "max": 150,
+    "unit": "night",
+    "notes": "Per-night B&B rates before 7.5% tax: hostel bunk $65/bed, private rooms $114-$150; 2-night minimum.",
+    "source": "https://www.tlabbey.com/bed-and-breakfast-trout-lake/"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Self-served farm-fresh vegetarian (ovo-lacto) breakfast included; gluten-free toast available on request.",
+  "workRequired": "no",
+  "workNotes": "No work required of guests; optional monthly grounds-cleanup volunteer days are offered June-September.",
+  "tags": [
+    "zen",
+    "day-retreats",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Mount Adams Zen Buddhist Temple - Home",
+      "url": "https://mtadamsbuddhisttemple.org/"
+    },
+    {
+      "title": "Trout Lake Abbey - About",
+      "url": "https://www.tlabbey.com/"
+    },
+    {
+      "title": "Trout Lake Abbey - Bed & Breakfast Rooms and Rates",
+      "url": "https://www.tlabbey.com/bed-and-breakfast-trout-lake/"
+    }
+  ],
+  "id": "mount-adams-zen-temple",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

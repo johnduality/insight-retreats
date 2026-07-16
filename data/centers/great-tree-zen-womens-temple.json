@@ -1,0 +1,79 @@
+{
+  "id": "great-tree-zen-womens-temple",
+  "name": "Great Tree Zen Women's Temple",
+  "aka": [
+    "Great Tree",
+    "Great Tree Temple",
+    "Great Tree Zen Temple"
+  ],
+  "location": {
+    "city": "Alexander",
+    "region": "Asheville area",
+    "state": "NC",
+    "lat": 35.7006,
+    "lng": -82.6359
+  },
+  "tradition": "Soto Zen Buddhism",
+  "technique": "Shikantaza (silent 'just sitting') zazen in the Soto Zen lineage of Eihei Dogen",
+  "influences": [
+    "Rev. Teijo Munnich",
+    "Rev. Dainin Katagiri",
+    "Soto Zen lineage of Eihei Dogen",
+    "Hokyoji and Tassajara Zen training"
+  ],
+  "teacherAccess": "Optional dokusan (private interview) with the abbess/resident teachers during sesshin; ongoing guidance for Practice Period participants",
+  "retreatOptions": "Six sesshins per year (2-5 days each, open to all genders with separate dorms) plus two three-month residential Practice Periods (spring and fall); extended residency/living at the temple to deepen practice is open to women only",
+  "schedule": "Sesshin days run roughly 6am-9:30pm with zazen, work practice, study, and formal oryoki meals; year-round weekly zazen, Saturday lectures, and monthly full moon ceremonies are offered in person or via Zoom",
+  "cost": "Donation-based (dana); no fixed fee for sesshins or Practice Periods, pay-what-you-can, and no one is turned away for lack of funds (scholarships available)",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No published rate to prorate; contributions are at the retreatant's discretion.",
+    "source": "https://www.greattreetemple.org/being-at-great-tree"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "workRequired": "yes",
+  "workNotes": "Work practice (samu) is a required part of sesshins and residency, including outdoor grounds work and kitchen duties",
+  "foodNotes": "Vegetarian or vegan meals are served, often eaten formally in oryoki style during retreats; dietary restrictions accommodated with advance notice",
+  "about": "Great Tree Zen Women's Temple is a Soto Zen practice center in Alexander, North Carolina, near Asheville, founded by Rev. Teijo Munnich, a dharma heir of Rev. Dainin Katagiri. The temple hosts about six sesshins (2-5 day meditation retreats) each year plus two three-month residential Practice Periods in spring and fall, all centered on zazen, study, and work practice. Multi-day sesshin retreats are open to people of all genders, with men and women housed separately in dormitory-style rooms, but the temple's longer-term residency program - living and training at Great Tree for a Practice Period or internship - is open to women only. Programs run on a dana (donation) basis with no fixed fee, and no one is turned away for lack of funds; scholarships are available. Vegetarian or vegan meals are served, often in the formal oryoki style, and all overnight participants take part in work practice such as garden and kitchen duties. Weekly zazen, Saturday lectures, and family programs are also offered, in person and via Zoom, welcoming all ages and genders.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "day-retreats",
+    "meals-included",
+    "work-practice",
+    "dana-donation",
+    "diet-vegetarian",
+    "diet-vegan",
+    "scholarships",
+    "monastic-community",
+    "family-friendly",
+    "online-hybrid"
+  ],
+  "sources": [
+    {
+      "title": "Great Tree Zen Women's Temple - Sesshin",
+      "url": "https://www.greattreetemple.org/practices/sesshin"
+    },
+    {
+      "title": "Great Tree Zen Women's Temple - About Us",
+      "url": "https://www.greattreetemple.org/about"
+    },
+    {
+      "title": "Great Tree Zen Women's Temple - Residency",
+      "url": "https://www.greattreetemple.org/practices/residency"
+    },
+    {
+      "title": "Great Tree Zen Women's Temple - Being at Great Tree (guest info)",
+      "url": "https://www.greattreetemple.org/being-at-great-tree"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

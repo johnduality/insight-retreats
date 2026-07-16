@@ -1,0 +1,80 @@
+{
+  "id": "bodhi-monastery",
+  "name": "Bodhi Monastery",
+  "aka": [
+    "Tong Jing Lan Ruo",
+    "同淨蘭若"
+  ],
+  "website": "https://bodhimonastery.org/",
+  "location": {
+    "city": "Lafayette",
+    "region": "Northern New Jersey",
+    "state": "NJ",
+    "lat": 41.0984,
+    "lng": -74.6885
+  },
+  "tradition": "Non-sectarian Buddhism (Theravada/Pali roots with early Mahayana), inspired by Master Yin-Shun",
+  "technique": "Samatha & Vipassana sitting meditation, walking meditation, daily chanting liturgy",
+  "influences": [
+    "Master Yin-Shun",
+    "Bhikkhu Bodhi",
+    "Pa-Auk Sayadaw lineage teachers",
+    "Ven. Bhikkhu Kaiyin"
+  ],
+  "teacherAccess": "Resident monastics lead daily liturgy and meditation; visiting Theravada and Chan teachers (e.g. Sayadaw U Kovida, Ven. Bhikkhu Kaiyin) lead guided multi-day retreats with method instruction and Q&A.",
+  "retreatOptions": "Free day-long weekend meditation sessions plus periodic residential silent retreats of 3, 7, 10, and up to 14 days (Samatha-Vipassana, Four Foundations of Mindfulness, Four Immeasurables) held on-site in the monastery's dormitories.",
+  "about": "Bodhi Monastery is a Buddhist monastery set on 188 acres of woodlands and fields in Sussex County, New Jersey, founded to carry forward the non-sectarian vision of the Chinese scholar-monk Master Yin-Shun. Its resident monastics hold daily chanting and meditation, and the monastery periodically hosts multi-day residential silent meditation retreats led by visiting Theravada and Chan teachers, including week-long and two-week Samatha-Vipassana retreats organized jointly with teachers connected to the Pa-Auk meditation lineage. Retreatants stay in on-site dormitory housing, follow a full daily schedule of sitting and walking meditation, observe noble silence, and take vegetarian meals provided by the monastery. The monastery is closely associated with the scholar-monk Bhikkhu Bodhi, translator of the Pali Canon, and also runs a well-known food pantry program for the local community. All programs, including the residential retreats, are offered on a donation basis.",
+  "schedule": "Weekly Sunday group sitting; free one-day weekend retreats; multi-day residential retreats (typically 3-14 nights) offered a few times per year, mainly in spring, summer, and fall.",
+  "cost": "Donation-based (dana); no set fee for residential retreats, though participants are asked to help cover costs voluntarily.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No suggested amount; retreatants give as they are able.",
+    "source": "https://bodhimonastery.org/donations"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Free vegetarian meals are provided during retreats and day programs.",
+  "workRequired": "partial",
+  "workNotes": "Retreatants are responsible for assigned chores (出坡) and keeping the meditation hall clean during residential retreats.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "mahayana",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Bodhi Monastery - About Us",
+      "url": "https://bodhimonastery.org/about-us"
+    },
+    {
+      "title": "2024 7-Day (plus 14-Day) Samatha & Vipassana Meditation Retreat",
+      "url": "https://bodhimonastery.org/2024-7-day-plus-14-day-samatha-vipassana-meditation-retreat.html"
+    },
+    {
+      "title": "2024 7-Day Retreat On Four Immeasurables",
+      "url": "https://bodhimonastery.org/2024-four-immeasurables.html"
+    },
+    {
+      "title": "Retreat archive",
+      "url": "https://bodhimonastery.org/religious-subjects/retreat"
+    },
+    {
+      "title": "Donations",
+      "url": "https://bodhimonastery.org/donations"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

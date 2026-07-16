@@ -1,0 +1,86 @@
+{
+  "id": "zen-center-of-denver",
+  "name": "Zen Center of Denver",
+  "aka": [
+    "ZCD",
+    "Denver Zen Center"
+  ],
+  "website": "https://zencenterofdenver.org/",
+  "location": {
+    "address": "1856 S. Columbine Street",
+    "city": "Denver",
+    "region": "Denver Metro",
+    "state": "CO",
+    "lat": 39.6873,
+    "lng": -104.9603
+  },
+  "tradition": "Zen (Sanbo/Harada-Yasutani lineage, Soto/Rinzai integration)",
+  "technique": "Shikantaza and koan-based zazen with dokusan/daisan teacher interviews",
+  "influences": [
+    "Daiun Sogaku Harada",
+    "Hakuun Yasutani",
+    "Philip Kapleau",
+    "Robert Aitken",
+    "Danan Henry",
+    "Karin Ryuku Kempe",
+    "Peggy Metta Sheehan"
+  ],
+  "teacherAccess": "Daily dokusan/daisan (private interviews) with fully transmitted teachers during sesshin and regular practice periods.",
+  "retreatOptions": "Single-day zazenkai, and week-long sesshin (five to seven days), held on-site with optional overnight stay.",
+  "about": "Founded in 1974, the Zen Center of Denver is an urban Zen Buddhist sangha rooted in the Harada-Yasutani lineage via Philip Kapleau and Robert Aitken, blending Soto and Rinzai traditions. Alongside daily zazen, dharma talks, and work practice, ZCD offers sesshin, week-long intensive silent retreats held one to two times per year at its own temple building. Participants can choose to stay overnight on-site (capacity around 20 beds), sleep at home, or join remotely via Zoom, with the same program and cost for all options. Sesshin includes formal oryoki-style vegetarian meals, work practice (samu), teacher interviews (dokusan/daisan), and teisho dharma talks. The center also runs a prison dharma program and community service work through the Zen Peacemakers network.",
+  "schedule": "Weekly zazen and teisho year-round; monthly zazenkai (full-day sittings); sesshin (5-7 day silent retreats) offered about one to two times per year, usually summer and winter.",
+  "cost": "Sesshin fees are calculated per day of the retreat, roughly $45/day for members and $55/day for non-members (e.g., ~$270 members / ~$330 non-members for a 6-day summer sesshin, including a non-refundable application fee); partial scholarships available for financial need.",
+  "pricePerDay": {
+    "min": 45,
+    "max": 55,
+    "unit": "night",
+    "notes": "Derived from ZCD's published per-day sesshin rate ($45/day members, $55/day non-members), applied identically whether staying on-site overnight, sleeping at home, or attending via Zoom.",
+    "source": "https://zencenterofdenver.org/sesshin-2/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Formal oryoki-style vegetarian meals served during sesshin and samu mornings.",
+  "workRequired": "partial",
+  "workNotes": "Sesshin includes periods of silent work practice (samu) as part of the schedule.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "scholarships",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Zen Center of Denver - Home",
+      "url": "https://zencenterofdenver.org/"
+    },
+    {
+      "title": "Sesshin - Zen Center of Denver",
+      "url": "https://zencenterofdenver.org/sesshin-2/"
+    },
+    {
+      "title": "Sesshin Event - Zen Center of Denver",
+      "url": "https://zencenterofdenver.org/sesshin/"
+    },
+    {
+      "title": "Lineage - Zen Center of Denver",
+      "url": "https://zencenterofdenver.org/lineage/"
+    },
+    {
+      "title": "Work Practice - Zen Center of Denver",
+      "url": "https://zencenterofdenver.org/work-practice/"
+    },
+    {
+      "title": "Getting Started - Zen Center of Denver",
+      "url": "https://zencenterofdenver.org/getting-started/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

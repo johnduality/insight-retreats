@@ -1,0 +1,76 @@
+{
+  "id": "kadampa-meditation-center-florida",
+  "name": "Kadampa Meditation Center Florida",
+  "aka": [
+    "KMC Florida",
+    "Temple for World Peace"
+  ],
+  "website": "https://meditationinsarasota.org/",
+  "location": {
+    "address": "730 N Washington Blvd, Sarasota, FL 34236",
+    "city": "Sarasota",
+    "county": "Sarasota County",
+    "region": "Gulf Coast / Southwest Florida",
+    "state": "FL",
+    "lat": 27.3372,
+    "lng": -82.5378
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU), Gelug-derived Modern Kadampa Buddhism",
+  "technique": "Lamrim-based analytical and placement meditation on lovingkindness, compassion, and emptiness, combined with lojong (mind-training) practice, following the teachings of Geshe Kelsang Gyatso",
+  "influences": [
+    "Geshe Kelsang Gyatso Rinpoche",
+    "Atisha",
+    "Je Tsongkhapa",
+    "New Kadampa Tradition – International Kadampa Buddhist Union (NKT-IKBU)"
+  ],
+  "teacherAccess": "Resident Teacher Gen Kelsang Lhadron and visiting NKT teachers give daily talks and lead guided meditations during retreats and festivals; general classes and question time are also offered throughout the week.",
+  "retreatOptions": "Multi-day residential retreats such as the annual 4-day Labor Day 'Florida Peaceful Getaway Retreat' (3-night onsite minimum), plus longer personal or 'counting' retreats by arrangement.",
+  "schedule": "Retreat days run several teaching/meditation sessions (roughly 9am-3:30pm, plus an evening puja on some days), interspersed with meals and breaks; the temple otherwise holds daily and weekly drop-in classes outside of retreat periods.",
+  "cost": "Retreat registration runs about $100-125 for a long weekend (early-bird pricing available), with optional onsite lodging and lunch add-ons priced separately; scholarships available for those needing financial assistance.",
+  "pricePerDay": {
+    "min": 50,
+    "max": 95,
+    "unit": "night",
+    "notes": "Published per-night onsite accommodation rates for the annual Florida Peaceful Getaway Retreat (3-night minimum booking required): $50/night dorm or shared room per person, $65/night shared double room per person, $95/night single room. This is separate from the ~$100-125 event/teaching registration fee.",
+    "source": "https://meditationinflorida.org/"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "workRequired": "no",
+  "workNotes": "No work is required of retreat or event participants. A separate 'Working Visits' program (35 hours of voluntary work) exists for those seeking free dormitory stays and General Program classes outside of paid retreats.",
+  "foodNotes": "Lunch is an optional paid add-on during multi-day retreats (about $35 for the whole retreat, or purchasable per meal); all meals prepared onsite are vegetarian, since the temple's communal kitchen serves only vegetarian food.",
+  "about": "Kadampa Meditation Center Florida is a Buddhist temple and residential retreat facility in Sarasota, part of the New Kadampa Tradition – International Kadampa Buddhist Union (NKT-IKBU), a modern, globally-organized school of Mahayana Buddhism founded by Geshe Kelsang Gyatso Rinpoche. Its 'Temple for World Peace,' opened in 2011, hosts daily meditation classes plus periodic residential retreats, including an annual multi-day Labor Day weekend retreat that draws Resident Teachers from all seven Kadampa centers in Florida. Onsite lodging (single rooms, shared doubles, and dorms) is available for retreat participants under a 3-night minimum booking, and a resident monastic and lay community lives at the center year-round. Teachings center on Lamrim (stages of the path) and lojong mind-training practices, aimed at developing love, compassion, and inner peace through meditation. The center is a 501(c)(3) nonprofit run by volunteers and resident teachers.",
+  "tags": [
+    "tibetan-vajrayana",
+    "fixed-fee",
+    "scholarships",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Onsite Accommodations — Kadampa Meditation Center Florida",
+      "url": "https://meditationinsarasota.org/onsite-accommodations/"
+    },
+    {
+      "title": "Living at KMC Florida — Kadampa Meditation Center Florida",
+      "url": "https://meditationinsarasota.org/living-kmc-fl/"
+    },
+    {
+      "title": "Our Tradition — Kadampa Meditation Center Florida",
+      "url": "https://meditationinsarasota.org/our-tradition/"
+    },
+    {
+      "title": "Florida Peaceful Getaway Retreat — pricing & accommodation",
+      "url": "https://meditationinflorida.org/"
+    },
+    {
+      "title": "Kadampa Meditation Center Florida — home",
+      "url": "https://meditationinsarasota.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

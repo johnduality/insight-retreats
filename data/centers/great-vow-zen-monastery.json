@@ -1,0 +1,74 @@
+{
+  "name": "Great Vow Zen Monastery",
+  "website": "https://zendust.org/great-vow-zen-monastery/",
+  "aka": [
+    "Zen Community of Oregon"
+  ],
+  "location": {
+    "city": "Clatskanie",
+    "region": "Northwest Oregon",
+    "state": "OR",
+    "lat": 46.1235,
+    "lng": -123.1289
+  },
+  "tradition": "Soto Zen in the White Plum lineage of Taizan Maezumi Roshi, enriched by Tibetan and Theravada influences.",
+  "influences": [
+    "Taizan Maezumi Roshi",
+    "Jan Chozen Bays Roshi",
+    "Hogen Bays Roshi",
+    "White Plum Asanga"
+  ],
+  "teacherAccess": "Abbots Jan Chozen Bays Roshi and Hogen Bays Roshi lead alongside other ZCO teachers, with one-on-one interviews (sanzen) offered during retreats.",
+  "retreatOptions": "Monthly weeklong silent sesshin (6-10 days), weekend retreats, workshops, year-round guest stays, and a full-time residential monastic program.",
+  "about": "Great Vow Zen Monastery is a residential community of lay and ordained practitioners engaged in around-the-clock Buddhist practice, located 80 miles northwest of Portland on 40 forested acres overlooking the Columbia River flood plain. Its practice heritage is the White Plum Soto/Rinzai lineage of Taizan Maezumi Roshi, enriched by teachings from the Tibetan and Theravada traditions. The monastery includes a spacious meditation hall, guest and resident dormitories, a dining hall, an organic vegetable garden, and the well-known Jizo Garden memorial. Each month it holds a weeklong silent sesshin, and it also offers weekend retreats, workshops, and overnight guest stays for those wishing to sample monastic life. A public Sunday Program with chanting, meditation, and a dharma talk is open to all.",
+  "technique": "Zazen (seated Zen meditation), typically 8-10 hours daily during sesshin, with walking meditation, work practice, formal oryoki meals, and teacher interviews.",
+  "schedule": "Sesshin days run roughly 4:20 a.m. to 10 p.m. in silence, with sitting in two-hour blocks of four 25-minute periods, a morning work period, meals, and a dharma talk (teisho).",
+  "cost": "Weeklong sesshin about $280-$380 total (sliding scale); a $50 deposit holds a space with the balance due on arrival; some sesshin are donation-only.",
+  "pricePerDay": {
+    "min": 47,
+    "max": 63,
+    "unit": "night",
+    "notes": "July 2026 6-night sesshin (Mon 5pm-Sun 1pm) priced $280-$380 total, divided by 6 nights.",
+    "source": "https://zendust.org/calendar/1236/july-sesshin-2026"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals that may contain eggs and dairy; vegan, gluten-free, and dairy-free options usually provided on request.",
+  "workRequired": "yes",
+  "workNotes": "A morning work period of roughly 90 minutes (cooking, cleaning, gardening, or sewing) is part of sesshin and residential practice.",
+  "tags": [
+    "zen",
+    "silent",
+    "day-retreats",
+    "monastic-community",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "sliding-scale",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Great Vow Zen Monastery",
+      "url": "https://zendust.org/great-vow-zen-monastery/"
+    },
+    {
+      "title": "Sesshin",
+      "url": "https://zendust.org/great-vow-zen-monastery/sesshin/"
+    },
+    {
+      "title": "July Sesshin 2026 (pricing)",
+      "url": "https://zendust.org/calendar/1236/july-sesshin-2026"
+    },
+    {
+      "title": "Attending an Event at Great Vow",
+      "url": "https://zendust.org/great-vow-zen-monastery/attending-an-event-at-great-vow/"
+    }
+  ],
+  "id": "great-vow-zen-monastery",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

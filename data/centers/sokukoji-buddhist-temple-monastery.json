@@ -1,0 +1,92 @@
+{
+  "id": "sokukoji-buddhist-temple-monastery",
+  "name": "SokukoJi Buddhist Temple Monastery",
+  "aka": [
+    "SokukoJi Buddhist Community",
+    "Temple of Immediate Light",
+    "Order of Immediate Light"
+  ],
+  "website": "https://www.sokukoji.org/",
+  "location": {
+    "city": "Battle Creek",
+    "region": "Southwest Michigan",
+    "state": "MI",
+    "lat": 42.3234534,
+    "lng": -85.1793845
+  },
+  "tradition": "Sōtō Zen Buddhism, under the Order of Immediate Light (a lineage founded by Sokuzan blending Sōtō Zen with Tibetan Kagyu elements)",
+  "technique": "Shikantaza (silent sitting meditation/zazen), morning and evening chanting services, dokusan-style interviews with the Abbot, Maitri Bhavana practice",
+  "influences": [
+    "Kyoun Sokuzan (Founding Abbot)",
+    "Kōbun Chino Otogawa Roshi",
+    "Chögyam Trungpa Rinpoche",
+    "Kuzan Shoho Michael Newhall (Jikoji, Los Gatos)",
+    "Sōtō Zen lineage of Japan",
+    "Tibetan Kagyu tradition"
+  ],
+  "teacherAccess": "Interviews with Founding Abbot Sokuzan are part of daily/residency practice; during the month-long Ango he offers only limited interviews, arranged through the Tsukansu (practice manager)",
+  "retreatOptions": "Monthly all-day retreat (last Saturday, in-person or virtual), flexible-length Practice Residency stays with full lodging, individually arranged Solitary Retreats, and an annual 28-day Ango retreat each February",
+  "schedule": "Daily zazen and services Monday-Saturday (morning and afternoon blocks, plus four-hour block sits on Thursdays), Sunday service with Dharma talk, an all-day retreat on the last Saturday of each month, and the annual Ango retreat every February",
+  "cost": "Suggested-donation model: $25/day for the monthly all-day retreat; during Ango, $25/day (sitting only, no lodging), $70/day (with overnight accommodation), or $1,000 for the full 28-day month with accommodation, with $15/day suggested for virtual attendance",
+  "pricePerDay": {
+    "min": 36,
+    "max": 70,
+    "unit": "night",
+    "notes": "Derived from the 2026 Ango Retreat page: a $70/day suggested donation covers sitting plus overnight accommodation; the full-month rate of $1,000 for 28 days works out to roughly $36/night if booking the entire Ango. A lower $25/day rate is also offered but is sitting-only (no lodging), so it is excluded from this range. Amounts are explicitly framed as adjustable donations (\"less if you need to, or more if you can\"), not fixed fees.",
+    "source": "https://www.sokukoji.org/2026-ango-retreat"
+  },
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "The website does not publish meal details for retreatants or residents. SokukoJi does house a live-in residential training program (described elsewhere on the site as housing seventeen students), so some form of shared meals is likely, but diet type and inclusion were not confirmed from official pages.",
+  "workRequired": "unknown",
+  "workNotes": "Practice Residency stays are described as including lodging and 'participating in all of the daily forms,' which in Sōtō Zen monasteries typically includes work practice (samu), but this is not explicitly spelled out on the site, and the published Ango schedule shows only sitting, chanting, talks, and Q&A blocks with no listed work periods.",
+  "about": "SokukoJi Buddhist Temple Monastery is a Sōtō Zen temple and residential training monastery in downtown Battle Creek, Michigan, tracing back to a 1975 dharma study group and formally established as SokukoJi in 2007. It is led by Founding Abbot Kyoun Sokuzan, who studied for years under Tibetan teacher Chögyam Trungpa Rinpoche before training with Zen master Kōbun Chino Otogawa and receiving full Sōtō Zen ordination and Dharma transmission; in 2020 he formally established the Order of Immediate Light, a lineage that deliberately blends Sōtō Zen forms with elements of the Tibetan Kagyu tradition. The community supports both an on-site residential training program and a large hybrid in-person/online sangha, offering daily zazen and services, a monthly all-day retreat, individually arranged solitary retreats, flexible-length Practice Residency stays, and its signature annual Ango retreat: 28 days of intensive practice each February with roughly 50 hours of meditation weekly, a Sunday Dharma talk, and limited interviews with Sokuzan. Nearly everything runs on a suggested-donation basis, though the Ango retreat publishes clear daily and monthly dollar figures for in-person attendance with lodging. SokukoJi is also notably active in community service, running outreach and support programs for people in addiction recovery and those incarcerated in Michigan Department of Corrections prisons.",
+  "tags": [
+    "zen",
+    "tibetan-vajrayana",
+    "long-retreats",
+    "day-retreats",
+    "monastic-community",
+    "online-hybrid",
+    "sliding-scale"
+  ],
+  "sources": [
+    {
+      "title": "SokukoJi Buddhist Temple Monastery - Home",
+      "url": "https://www.sokukoji.org/"
+    },
+    {
+      "title": "About - SokukoJi Buddhist Community",
+      "url": "https://www.sokukoji.org/about"
+    },
+    {
+      "title": "Sokuzan - SokukoJi Buddhist Community",
+      "url": "https://www.sokukoji.org/sokuzan"
+    },
+    {
+      "title": "Retreats - SokukoJi Buddhist Community",
+      "url": "https://www.sokukoji.org/retreats"
+    },
+    {
+      "title": "2026 Ango Retreat - SokukoJi Buddhist Community",
+      "url": "https://www.sokukoji.org/2026-ango-retreat"
+    },
+    {
+      "title": "Meditate With Us - SokukoJi Buddhist Community",
+      "url": "https://www.sokukoji.org/meditate-with-us"
+    },
+    {
+      "title": "Battle Creek Monastery - SokukoJi Buddhist Community",
+      "url": "https://www.sokukoji.org/battle-creek"
+    },
+    {
+      "title": "Community Mindfulness Center - SokukoJi Buddhist Community",
+      "url": "https://www.sokukoji.org/mindfulness-center"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

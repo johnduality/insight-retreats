@@ -1,0 +1,75 @@
+{
+  "id": "morgan-bay-zendo",
+  "name": "Morgan Bay Zendo",
+  "aka": [
+    "Moonspring Hermitage (former name)"
+  ],
+  "website": "https://www.morganbayzendo.org/",
+  "location": {
+    "city": "Surry",
+    "region": "Hancock County (Blue Hill Peninsula)",
+    "state": "ME",
+    "lat": 44.4959,
+    "lng": -68.5017
+  },
+  "tradition": "Zen Buddhism (blending Zen, Ch'an, and Vipassana elements; hosts Kwan Um School of Zen and Zen Peacemaker Order teachers)",
+  "technique": "Zazen (seated meditation) with kinhin (walking meditation), chanting, and teacher interviews; specific forms vary with the visiting teacher (Kwan Um/Korean Zen, Zen Peacemaker lineage).",
+  "influences": [
+    "Walter Nowick (founder)",
+    "Kwan Um School of Zen (Korean tradition)",
+    "Zen Peacemaker Order / Howling Dragon Zen"
+  ],
+  "teacherAccess": "Daily interviews (daisan) and dharma talks with the retreat's visiting teacher during sesshins; regular teacher-led sittings the rest of the year.",
+  "retreatOptions": "One-day zazenkai; 3-4 day and 7-day silent sesshins; occasional self-directed personal retreats of a week or more in a private cabin.",
+  "about": "Morgan Bay Zendo is a small Zen Buddhist meditation center on the Blue Hill Peninsula in Surry, Maine, founded in 1971 by Walter Nowick as Moonspring Hermitage and reorganized as Morgan Bay Zendo when he stopped teaching in 1985. Practice at the Zendo blends elements of Zen, Ch'an, and Vipassana traditions, and today it hosts visiting teachers from the Kwan Um School of Zen (Korean tradition) and the Zen Peacemaker Order (Howling Dragon Zen), as well as the affiliated Zen DownEast sangha. The rural, sangha-owned property includes a meditation hall, a central building with a kitchen and communal space, four small cabins, and a tenting field set among woods, a pond, and a moss garden. Beyond weekly sittings held in person and online, the Zendo offers a weeklong silent sesshin each summer, a shorter multi-day sesshin in early autumn, and periodic one-day zazenkai, all open to newcomers and experienced practitioners alike. Most programs are offered by donation, with scholarship support available to anyone who needs it.",
+  "schedule": "Full sitting schedule during sesshin (successive zazen periods from early morning through evening, with meals and rest breaks); one-day zazenkai run roughly 9am-4pm.",
+  "cost": "Most events and retreats are offered by donation; scholarship assistance is available on request for any posted fees.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Retreats and events are offered by donation, with no suggested per-night amount published; scholarship assistance is available for anyone who needs it.",
+    "source": "https://www.morganbayzendo.org/schedule/retreats-workshops"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are served to all participants during retreats.",
+  "workRequired": "unknown",
+  "workNotes": "No work practice is specified for sesshin retreatants; separate seasonal work-trade residencies (10 hrs/week of housekeeping and grounds work in exchange for cabin housing) are offered apart from the retreat program.",
+  "tags": [
+    "zen",
+    "silent",
+    "self-guided",
+    "dana-donation",
+    "diet-vegetarian",
+    "meals-included",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Morgan Bay Zendo — Home",
+      "url": "https://www.morganbayzendo.org/"
+    },
+    {
+      "title": "About MBZ",
+      "url": "https://www.morganbayzendo.org/about/about-mbz"
+    },
+    {
+      "title": "Retreats & Workshops",
+      "url": "https://www.morganbayzendo.org/schedule/retreats-workshops"
+    },
+    {
+      "title": "Facilities & Rentals",
+      "url": "https://www.morganbayzendo.org/facilities/facilities-rentals"
+    },
+    {
+      "title": "Residency",
+      "url": "https://www.morganbayzendo.org/facilities/residency"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

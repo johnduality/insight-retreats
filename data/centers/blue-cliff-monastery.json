@@ -1,0 +1,77 @@
+{
+  "id": "blue-cliff-monastery",
+  "name": "Blue Cliff Monastery",
+  "aka": [
+    "Tu Viện Bích Nham"
+  ],
+  "website": "https://www.bluecliffmonastery.org/",
+  "location": {
+    "address": "3 Mindfulness Rd",
+    "city": "Pine Bush",
+    "county": "Orange County",
+    "region": "Hudson Valley",
+    "state": "NY",
+    "lat": 41.637797,
+    "lng": -74.397121
+  },
+  "tradition": "Plum Village tradition of Engaged Buddhism (Thiền/Zen, Order of Interbeing)",
+  "technique": "Sitting and walking meditation, mindful eating, working meditation, Dharma talks",
+  "influences": [
+    "Thich Nhat Hanh"
+  ],
+  "teacherAccess": "Resident monastics (monks and nuns) lead daily practice, Dharma talks, and retreats; no outside teachers hosted.",
+  "retreatOptions": "Free Days of Mindfulness (Thu/Sun); overnight Seasonal Retreats from a weekend up to 14 nights; periodic 5-day Themed Retreats for specific communities.",
+  "about": "Blue Cliff Monastery is an 80-acre Buddhist monastery in the Hudson Valley of Pine Bush, New York, founded in 2007 by monastics and lay practitioners of Zen teacher Thich Nhat Hanh's Plum Village tradition. It is a sister monastery to Deer Park (California) and Magnolia Grove (Mississippi), following the same daily rhythm of sitting and walking meditation, mindful eating, Dharma talks, and working meditation. Visitors can join free public Days of Mindfulness (usually Thursdays and Sundays) or register for overnight Seasonal Retreats lasting a weekend up to two weeks, as well as periodic 5-day Themed Retreats for specific communities (e.g., Wake Up, Vietnamese, BIPOC, Order of Interbeing). Guests stay in shared, gender-separated dorm rooms or camping, eat community vegan meals, and practice alongside resident monks and nuns. Although not a silent retreat center, Blue Cliff emphasizes stillness, community togetherness, and engaged Buddhism rooted in Thich Nhat Hanh's teachings.",
+  "schedule": "Seasonal Retreats begin every Friday (2 nights up to 14 nights) whenever the monastery is open and no Themed Retreat is in session; Themed Retreats and Days of Mindfulness follow a separate published calendar.",
+  "cost": "Sliding-scale nightly contribution for Seasonal Retreats (about $80-$120/night for adult dorm, less for camping/commuting, reduced rates for students/seniors/teens/children), with scholarships available.",
+  "pricePerDay": {
+    "min": 80,
+    "max": 120,
+    "unit": "night",
+    "notes": "Adult dorm sliding-scale rate for standard Seasonal Retreats; three meals included. Camping ($60-$100) and commuting ($50-$90) rates are lower.",
+    "source": "https://www.bluecliffmonastery.org/about-our-retreats"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Three community meals per day included; the monastery states its food is about 95% vegan, with options like rice, steamed vegetables, oatmeal, and fresh fruit.",
+  "workRequired": "partial",
+  "workNotes": "Guests are encouraged (not strictly mandated) to join short daily 'working meditation' community service periods as part of communal practice.",
+  "tags": [
+    "plum-village",
+    "zen",
+    "mahayana",
+    "day-retreats",
+    "long-retreats",
+    "family-friendly",
+    "meals-included",
+    "diet-vegan",
+    "sliding-scale",
+    "scholarships",
+    "work-practice",
+    "camping",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Blue Cliff Monastery — Home",
+      "url": "https://www.bluecliffmonastery.org/"
+    },
+    {
+      "title": "About Our Retreats | Registration",
+      "url": "https://www.bluecliffmonastery.org/about-our-retreats"
+    },
+    {
+      "title": "Getting Here — Blue Cliff Monastery",
+      "url": "https://www.bluecliffmonastery.org/visit-bluecliff"
+    },
+    {
+      "title": "Blue Cliff Monastery — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blue_Cliff_Monastery"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

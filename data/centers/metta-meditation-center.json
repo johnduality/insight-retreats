@@ -1,0 +1,71 @@
+{
+  "id": "metta-meditation-center",
+  "name": "Metta Meditation Center",
+  "website": "https://www.mettameditationcenter.org/",
+  "aka": [
+    "Metta Meditation Retreat Center",
+    "Triple Gem of the North"
+  ],
+  "location": {
+    "address": "3864 420th Avenue, Janesville, MN 56048",
+    "city": "Janesville",
+    "region": "South Central Minnesota",
+    "state": "MN",
+    "lat": 44.164953,
+    "lng": -93.69168
+  },
+  "tradition": "Theravada Buddhist meditation",
+  "influences": [
+    "Bhante Sathi",
+    "Theravada Buddhism"
+  ],
+  "teacherAccess": "Daily Dharma talks, guided instruction, and Q&A/discussion sessions with the retreat teacher (often founder Bhante Sathi or a visiting monastic).",
+  "retreatOptions": "One-day retreats; weekend and multi-night residential retreats up to 7 days; private hermitage cabins for self-guided personal retreats.",
+  "about": "Metta Meditation Center sits on 37 acres of woodland and prairie on the shore of Lake Elysian outside Janesville, Minnesota. The property, a former Franciscan retreat house, was passed to the Buddhist community Triple Gem of the North in 2017 and now operates as a residential meditation retreat center with a large lodge (dormitory-style rooms for up to 40 guests) plus several private hermitage cabins. Retreats center on Vipassana meditation in the Theravada tradition, combining silent sitting and walking meditation with Dharma talks grounded in early Buddhist teachings, guided by founder Bhante Sathi and visiting teachers. The center runs residential retreats of several days to a week throughout the year, along with day retreats, workshops, and rentable hermitage cabins for solo or couples' personal retreats. All retreat meals are plant-based, and the center welcomes both new and experienced meditators.",
+  "technique": "Vipassana meditation: silent sitting and walking meditation, guided instruction, and Dharma talks grounded in early Buddhist teachings, supplemented with mindful movement (yoga/tai chi/qigong).",
+  "schedule": "Roughly half a dozen residential retreats scheduled per year (typically 3-7 nights), each on a fixed daily program of sitting and walking meditation, teachings, and mindful movement from morning until evening; personal retreat cabins available by reservation outside of scheduled retreats.",
+  "cost": "$800 general registration fee for the 7-day residential retreat (includes room and vegan meals), or $940 for a private room; $750 discounted rate for Triple Gem of the North sponsors; dana (donation) to the teacher is customary and separate.",
+  "pricePerDay": {
+    "min": 114,
+    "max": 134,
+    "unit": "night",
+    "notes": "Based on the 7-night 'Liberation - Vipassana' residential retreat (July 2026): $800 general fee (dorm-style shared room) or $940 with a private-room add-on, divided by 7 nights.",
+    "source": "https://www.mettameditationcenter.org/vipassana/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "All retreat meals (breakfast, lunch, dinner) are vegan/plant-based and included in the registration fee, reflecting the center's stated food policy of compassion and non-harming.",
+  "workRequired": "unknown",
+  "workNotes": "No communal work period is described in retreat materials for retreat participants; the center relies on volunteers and donations to operate.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "fixed-fee",
+    "meals-included",
+    "diet-vegan"
+  ],
+  "sources": [
+    {
+      "title": "Home | Metta Meditation Retreat Center",
+      "url": "https://www.mettameditationcenter.org/"
+    },
+    {
+      "title": "Location | Metta Meditation Retreat Center",
+      "url": "https://www.mettameditationcenter.org/location/"
+    },
+    {
+      "title": "Liberation - Vipassana 7 days | Metta Meditation Retreat Center",
+      "url": "https://www.mettameditationcenter.org/vipassana/"
+    },
+    {
+      "title": "Retreats | Triple Gem of the North",
+      "url": "https://www.triplegem.org/wp/?page_id=47"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "gomde-california",
+  "name": "Gomde California",
+  "aka": [
+    "Rangjung Yeshe Gomde California",
+    "Gomde CA"
+  ],
+  "website": "https://gomdeca.org/",
+  "location": {
+    "city": "Leggett",
+    "region": "North Coast",
+    "state": "CA",
+    "lat": 39.8666,
+    "lng": -123.7192
+  },
+  "tradition": "Tibetan Buddhist (Nyingma; Chokling Tersar lineage)",
+  "influences": [
+    "Chokyi Nyima Rinpoche",
+    "Chokling Tersar lineage",
+    "Ka-Nying Shedrub Ling Monastery (Nepal)",
+    "Shedrub Mandala / Rangjung Yeshe network"
+  ],
+  "about": "Gomde California is a Tibetan Buddhist study and retreat center on 250 forested acres along the Eel River near Leggett, in northern Mendocino County. Founded by Chokyi Nyima Rinpoche, it teaches the complete Buddhist path with an emphasis on the Chokling Tersar terma lineage of the Nyingma school, spanning foundational Buddhist teachings, the Mahayana view of emptiness and compassion, and Vajrayana practice. The center hosts guided residential programs such as the Annual Summer Seminar and an eight-week Dharma Gyan Summer Immersive, alongside year-round private retreats for practitioners working under an authentic teacher. Accommodations range from tent cabins and campsites to self-contained retreat cabins and the Tara Cottage. The setting of redwood, fir, and river valley is intended to support meditation, contemplation, and a sense of renunciation.",
+  "technique": "Chokling Tersar Nyingma practice: shamatha/vipashyana meditation, Mahayana study, and Vajrayana sadhana such as the Ocean of Amrita (Ngakso) puja and Treasury of Blessings.",
+  "teacherAccess": "Guided programs are led by Chokyi Nyima Rinpoche and lineage lamas/monks from Ka-Nying Shedrub Ling; private retreatants practice independently and must be studying under an authentic teacher.",
+  "retreatOptions": "Guided residential seminars and immersives plus year-round self-guided private retreats (two-night minimum) in cabins, cottage, tent cabins, or campground.",
+  "schedule": "Guided programs run multi-day set schedules; during the summer Buddhist Studies Program teachings are offered Wednesday through Sunday; private retreatants set their own daily practice schedule.",
+  "cost": "Private-retreat lodging runs $25-$150 per night by accommodation type; guided programs are separately priced, with scholarships available.",
+  "pricePerDay": {
+    "min": 25,
+    "max": 150,
+    "unit": "night",
+    "notes": "Per-night private-retreat lodging: Personal Camping $25, Tent Cabin $55 (summer only), Cliff Hut $75, Retreat Cabin $110, Tara Cottage $150. Two-night minimum; long-stay discounts beyond the first week.",
+    "source": "https://gomdeca.org/program-description/519/private-retreat-at-gomde-california/"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are prepared at the Sangha House during the summer program and can be taken in the community dining area or delivered to retreatants for a fee; outside the summer season private retreatants self-cater in cabin kitchens.",
+  "workRequired": "unknown",
+  "workNotes": "No work-practice requirement is stated for private retreats; residential immersive programs may include communal participation.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "long-retreats",
+    "camping",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Gomde California - Home",
+      "url": "https://gomdeca.org/"
+    },
+    {
+      "title": "Personal Retreat at Gomde California (rates & two-night minimum)",
+      "url": "https://gomdeca.org/program-description/519/private-retreat-at-gomde-california/"
+    },
+    {
+      "title": "Accommodations",
+      "url": "https://gomdeca.org/accommodations/"
+    },
+    {
+      "title": "Programs",
+      "url": "https://gomdeca.org/programs/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "diamond-mountain-retreat-center",
+  "name": "Diamond Mountain Retreat Center",
+  "aka": [
+    "Diamond Mountain University"
+  ],
+  "website": "https://www.diamondmountain.org/",
+  "location": {
+    "city": "Bowie",
+    "region": "Southeastern Arizona",
+    "state": "AZ",
+    "lat": 32.157028,
+    "lng": -109.421137
+  },
+  "tradition": "Tibetan Buddhist (Gelug) — Je Tsongkhapa lineage, taught through Geshe Michael Roach's Diamond Cutter/Asian Classics Institute tradition",
+  "technique": "Self-guided solitary meditation retreat (lam-rim, lojong, and tantric/deity-yoga practices) in private off-grid cabins, supplemented by optional yoga, study, and dharma-talk classes",
+  "influences": [
+    "Je Tsongkhapa (1357-1419)",
+    "Khen Rinpoche Geshe Lobsang Tharchin (1921-2004)",
+    "Geshe Michael Roach",
+    "Diamond Cutter Institute / Asian Classics Institute"
+  ],
+  "teacherAccess": "No resident teacher gives daily one-on-one guidance; retreatants practice independently in private cottages with experienced staff meditators available for support, plus periodic dharma talks, study groups, and occasional teachings from Diamond Cutter Institute/ACI teachers during scheduled group retreats.",
+  "retreatOptions": "Solo self-catered retreat-house rentals from a few nights up to 31+ days or months, group house rentals, a 2-4 week Serve & Study volunteer program, and periodic organized group retreats/events.",
+  "schedule": "Retreat houses bookable year-round (closed for a staff break each June-July) with no fixed program — retreatants set their own daily schedule; optional weekly yoga/meditation/dharma classes, occasional multi-day group retreats, and a Serve & Study volunteer session offered several times a year.",
+  "cost": "Fixed nightly rates by cottage tier, with a $300 minimum charge for short stays and discounted per-night rates for stays over a week; the Serve & Study volunteer program is free in exchange for roughly 30 hours/week of service.",
+  "pricePerDay": {
+    "min": 39,
+    "max": 68,
+    "unit": "night",
+    "notes": "Published per-cottage-tier nightly rates: Modest $48/night (7-30 nights) to $39/night (31+ nights); Deluxe $60 to $49/night; Premium $68 to $55/night. Stays of about 4-5 nights or fewer are charged a flat $300 minimum regardless of tier.",
+    "source": "https://www.diamondmountain.org/houses"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "Each of the 27 retreat cottages has a full self-catering kitchen (stovetop, refrigerator, sink); guests bring or arrange delivery of their own groceries since the nearest store is about 45 minutes away, and Diamond Mountain offers a grocery-shopping service for long retreats.",
+  "workRequired": "partial",
+  "workNotes": "Not required for standard paid retreat-house stays. The Serve & Study / \"Live the Life of Service\" volunteer program (2-4 weeks, free shared dorm housing) requires about 6 hours/day, 5 days/week (~30 hrs/week) of maintenance, grounds-keeping, cleaning, or hospitality work.",
+  "about": "Diamond Mountain Retreat Center is a Tibetan Buddhist retreat center on 1,000 acres in the remote Chiricahua Mountains of southeastern Arizona, near Bowie and Pearce. Founded in 2002 by students of Khen Rinpoche Geshe Lobsang Tharchin, including Geshe Michael Roach, it teaches the Gelug lineage of Je Tsongkhapa through the Diamond Cutter Institute/Asian Classics Institute curriculum. Rather than running a fixed group program, Diamond Mountain primarily rents out 27 individually built, off-grid solar-powered cottages for private, self-directed meditation retreats of any length, from a few days to many months, plus group house rentals and occasional organized retreats and classes. The center also runs a Serve & Study volunteer program offering free shared housing in exchange for service. Guests are largely on their own for cooking and daily structure, supported by an experienced on-site staff and a strict ethic of quiet and non-disruption across the retreat valley.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "long-retreats",
+    "fixed-fee",
+    "no-work-required",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Diamond Mountain Retreat Center - Home",
+      "url": "https://www.diamondmountain.org/"
+    },
+    {
+      "title": "Mission & Lineage",
+      "url": "https://www.diamondmountain.org/mission-and-lineage/"
+    },
+    {
+      "title": "Retreat Houses",
+      "url": "https://www.diamondmountain.org/houses"
+    },
+    {
+      "title": "Come Prepared",
+      "url": "https://www.diamondmountain.org/prepare"
+    },
+    {
+      "title": "What Does \"Off-Grid\" Mean?",
+      "url": "https://www.diamondmountain.org/off-grid"
+    },
+    {
+      "title": "Serve (Volunteer Programs)",
+      "url": "https://www.diamondmountain.org/serve/"
+    },
+    {
+      "title": "Rulebook - Rules & Policies",
+      "url": "https://www.diamondmountain.org/rulebook"
+    },
+    {
+      "title": "Events",
+      "url": "https://www.diamondmountain.org/events-categorized"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "great-mountain-zen-center",
+  "name": "Great Mountain Zen Center",
+  "aka": [
+    "Maitreya Abbey",
+    "GMZC"
+  ],
+  "website": "https://gmzc.org/",
+  "location": {
+    "address": "2532 South County Rd 15",
+    "city": "Berthoud",
+    "county": "Larimer County",
+    "region": "Front Range",
+    "state": "CO",
+    "lat": 40.28,
+    "lng": -105.08
+  },
+  "tradition": "Zen (White Plum Asanga lineage)",
+  "technique": "Zazen (shikantaza and koan practice), chanting, dokusan, samu (work practice)",
+  "influences": [
+    "Taizan Maezumi Roshi",
+    "Gerry Shishin Wick Roshi",
+    "Roshi Ilia Shinko Perez",
+    "White Plum Asanga",
+    "Great Heart Way"
+  ],
+  "teacherAccess": "Private dokusan (interview) with Roshi Shishin Wick, Roshi Shinko Perez, or resident teachers/priests is available during sesshins and by arrangement during personal or residential stays.",
+  "retreatOptions": "Weekend and 5-day silent sesshins (hybrid) several times a year, plus self-directed personal retreats of a weekend, week, or month, and short- or long-term residential Zen training.",
+  "about": "Great Mountain Zen Center, based at Maitreya Abbey on a rural property south of Berthoud, Colorado, is a Zen Buddhist training and retreat center in the White Plum Asanga lineage of Taizan Maezumi Roshi. Founded in 1996 by Gerry Shishin Wick, Roshi, and co-led with Roshi Ilia Shinko Perez, the abbey pairs a small residential monastic community with a lay sangha that gathers for weekly meditation, classes, and hybrid in-person/virtual retreats. GMZC hosts weekend and five-day silent sesshins throughout the year, including a Summer Sesshin and a December Rohatsu Sesshin, built around long blocks of zazen, chanting, dharma talks, work practice (samu), and optional private interviews (dokusan) with the teachers. Beyond scheduled sesshins, the abbey offers self-directed personal retreats and short- or long-term residential Zen training for practitioners wanting extended solitary or communal practice time on site. The center operates on a suggested-donation model, and guests on personal retreat are asked to bring and prepare their own food given limited kitchen and refrigerator space.",
+  "schedule": "Weekend sesshins in Feb, Mar, Apr, Sep, and Oct; a 5-day Summer Sesshin in late May; a 5-day Rohatsu Sesshin in early December; personal and residential stays are scheduled individually by arrangement.",
+  "cost": "Suggested-donation model: sesshin participation runs roughly $70-85/day depending on attendance type, while self-directed personal residential retreats are $50/day (private room) for stays under a week, discounted to about $225/week or $750/month for longer stays.",
+  "pricePerDay": {
+    "min": 25,
+    "max": 50,
+    "unit": "night",
+    "notes": "Derived from personal-retreat private-room suggested donations on the Residential Stays page: $50/day for stays under 7 days, ~$32/day equivalent for week-long stays ($225/week), and ~$25/day equivalent for month-long stays ($750/month). Food is not included.",
+    "source": "https://gmzc.org/zen-programs/residential-stays/"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Sesshins include a provided vegetarian lunch and tea for in-person attendees; guests on self-directed personal retreats or residential stays are self-catered, with limited fridge/cabinet space for their own food.",
+  "workRequired": "partial",
+  "workNotes": "Sesshins include samu (work practice); residents have assigned weekly chores and duties; guests on personal retreat are not required to work but may attend group activities.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "monastic-community",
+    "self-guided",
+    "dana-donation",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Great Mountain Zen Center - Home",
+      "url": "https://gmzc.org/"
+    },
+    {
+      "title": "Retreats 2026 - Great Mountain Zen Center",
+      "url": "https://gmzc.org/retreats/"
+    },
+    {
+      "title": "Residential Stays - Great Mountain Zen Center",
+      "url": "https://gmzc.org/zen-programs/residential-stays/"
+    },
+    {
+      "title": "Sesshin Info - Great Mountain Zen Center",
+      "url": "https://gmzc.org/zen-programs/sesshin-info/"
+    },
+    {
+      "title": "Teachers and Staff - Great Mountain Zen Center",
+      "url": "https://gmzc.org/about-us/teachers-staff/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "mountain-cloud-zen-center",
+  "name": "Mountain Cloud Zen Center",
+  "aka": [
+    "MCZC"
+  ],
+  "location": {
+    "city": "Santa Fe",
+    "region": "Santa Fe area",
+    "state": "NM",
+    "lat": 35.63836,
+    "lng": -105.91702
+  },
+  "tradition": "Zen Buddhism, Sanbo Zen lineage",
+  "technique": "Shikantaza (silent sitting) and koan introspection in the Sanbo Zen (Harada-Yasutani) lineage",
+  "influences": [
+    "Henry Shukman",
+    "Valerie Forstman",
+    "Sanbo Zen lineage",
+    "Philip Kapleau",
+    "Yamada Koun Roshi"
+  ],
+  "teacherAccess": "Guiding Teacher Valerie Forstman and Teacher Scott Thornton offer regular 1-1 dokusan, weekly Dharma talks, and teacher-led sesshin, both on-site and online",
+  "retreatOptions": "Weeklong (6-day) sesshins several times a year, weekend and daylong (zazenkai) retreats, self-directed personal retreats on a rolling basis, and a residency program with a one-month minimum stay",
+  "schedule": "Daily zazen morning and evening on weekdays with morning sitting on weekends; sesshins run a traditional silent schedule of zazen, work practice, meals, and dokusan from Monday evening to Sunday",
+  "cost": "Weeklong shared-lodging sesshin $1,050 (camp/bell tent $900, commute-only $825); weekend sesshin (shared cabin/cottage) $320; personal-retreat lodging runs $40-$140/night non-member depending on tier (camping to private cabin), with member discounts and 25-50% scholarships available; residency starts at $900/month",
+  "pricePerDay": {
+    "min": 150,
+    "max": 175,
+    "unit": "night",
+    "notes": "Derived from the 6-night weeklong sesshin fee: $900 (camp/bell tent) to $1,050 (shared lodging) / 6 nights = $150-$175/night. Personal-retreat lodging separately runs $40-$140/night depending on tier (camping to private cabin).",
+    "source": "https://www.mountaincloud.org/event/2026-spring-sesshin/"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "workRequired": "partial",
+  "workNotes": "Samu (work practice) is a required part of the daily residency schedule and is often built into sesshin; personal-retreat guests are not required to do work practice.",
+  "foodNotes": "Sesshin and zazenkai fees include prepared meals; personal-retreat and residency guests use the shared kitchen and supply their own food (no meat may be cooked on site).",
+  "about": "Mountain Cloud Zen Center is a lay Zen practice community set on 24 acres in the foothills of the Sangre de Cristo mountains, just a few miles from downtown Santa Fe, New Mexico. Founded in 1985 by students of Philip Kapleau Roshi and now guided by Valerie Forstman and Scott Thornton in the Sanbo Zen (Harada-Yasutani) lineage, the center combines a hand-built adobe zendo with on-site lodging in four rustic cabins, a cottage, a yurt, and bell tents that together sleep about 20 guests during retreats. Mountain Cloud hosts several weeklong (6-day) sesshins each year plus weekend retreats and daylong zazenkai, all offered in hybrid online/on-site format, alongside a longer residency program with a one-month minimum stay for practitioners wanting to integrate Zen practice into daily life. Sesshin fees include meals and teaching, while personal-retreat and residency guests self-cater in the shared, meat-free kitchen and contribute work practice (samu) as part of the daily schedule. Scholarships of 25-50% are available, and membership brings discounts across programs and lodging.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "day-retreats",
+    "online-hybrid",
+    "self-guided",
+    "camping",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "The Center - Mountain Cloud Zen Center",
+      "url": "https://www.mountaincloud.org/about/"
+    },
+    {
+      "title": "Residency - Mountain Cloud Zen Center",
+      "url": "https://www.mountaincloud.org/about/residency-program/"
+    },
+    {
+      "title": "Personal Retreats - Mountain Cloud Zen Center",
+      "url": "https://www.mountaincloud.org/home-2/personal-retreats/"
+    },
+    {
+      "title": "2026 Spring Sesshin - Mountain Cloud Zen Center",
+      "url": "https://www.mountaincloud.org/event/2026-spring-sesshin/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

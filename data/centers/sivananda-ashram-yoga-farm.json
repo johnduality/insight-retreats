@@ -1,0 +1,71 @@
+{
+  "id": "sivananda-ashram-yoga-farm",
+  "name": "Sivananda Ashram Yoga Farm",
+  "website": "https://sivanandayogafarm.org/",
+  "aka": [
+    "Sivananda Yoga Farm",
+    "Yoga Farm Grass Valley",
+    "Sivananda Ashram Yoga Farm Grass Valley"
+  ],
+  "location": {
+    "city": "Grass Valley",
+    "region": "Sierra Foothills",
+    "state": "CA",
+    "lat": 39.1534,
+    "lng": -121.0186
+  },
+  "tradition": "Sivananda Yoga / Vedanta",
+  "influences": [
+    "Swami Sivananda",
+    "Swami Vishnudevananda",
+    "Swami Sitaramananda"
+  ],
+  "about": "The Sivananda Ashram Yoga Farm is an 80-acre yoga ashram in the Sierra Nevada foothills near Grass Valley, established by Swami Vishnudevananda in 1971 in the lineage of Swami Sivananda. Life at the ashram follows a classical yogic daily rhythm built around twice-daily satsang (silent meditation, chanting and teachings) and two Sivananda Hatha Yoga asana and pranayama classes, framed by the Five Points and Four Paths of Yoga. Guests come for yoga vacations, weekend and themed relaxation and self-healing retreats, longer seva-study immersions, and internationally recognized yoga teacher training. The ashram is open year-round and welcomes overnight guests for a minimum of two nights, with lodging ranging from tenting to shared and private cabins. Two organic lacto-vegetarian meals and daily yoga classes are included with a stay.",
+  "technique": "Classical Sivananda Yoga: Hatha yoga asana and pranayama plus twice-daily satsang with silent meditation, mantra chanting and Vedanta teachings, organized around the Five Points and Four Paths of Yoga.",
+  "teacherAccess": "Resident swamis, acharyas and senior Sivananda teachers lead classes, satsangs and lectures; guidance and personal instruction available during a stay.",
+  "retreatOptions": "Yoga vacations (personal stays), weekend and themed relaxation/self-healing/Ayurveda retreats, foundational and scriptural courses, 1-3 month seva-study immersions, and 200/300-hour teacher trainings.",
+  "schedule": "Structured daily rhythm: early-morning and evening satsang (meditation, chanting, teaching) plus two 2-hour asana classes, brunch and dinner, with karma yoga and workshops between.",
+  "cost": "Per-night rates by accommodation type, including two vegetarian meals, daily yoga classes and satsangs: tenting from $75 to private cabins around $280/night.",
+  "pricePerDay": {
+    "min": 75,
+    "max": 280,
+    "unit": "night",
+    "notes": "Per-night rate including 2 organic vegetarian meals, daily Hatha Yoga classes, satsangs and grounds access. Range spans bring-your-own tent ($75) through shared cabins ($130-210) to single private cabins ($160-280); larger private cabins booked for multiple occupants run higher (up to ~$450/night total). 2-night minimum.",
+    "source": "https://sivanandayogafarm.org/visit/at-the-ashram/accommodations/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Two organic lacto-vegetarian meals daily (a late-morning brunch and an evening dinner), included in the accommodation rate; no eggs, meat or fish.",
+  "workRequired": "no",
+  "workNotes": "Yoga-vacation guests are not required to work; karma yoga (seva) is optional, with a dedicated 1-3 month seva-study program for those who want to volunteer.",
+  "tags": [
+    "yoga-hindu",
+    "meals-included",
+    "fixed-fee",
+    "diet-vegetarian",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Sivananda Ashram Yoga Farm - Home",
+      "url": "https://sivanandayogafarm.org/"
+    },
+    {
+      "title": "Accommodations & Pricing",
+      "url": "https://sivanandayogafarm.org/visit/at-the-ashram/accommodations/"
+    },
+    {
+      "title": "Yoga Vacation Program",
+      "url": "https://sivanandayogafarm.org/vacation/yoga-vacation/"
+    },
+    {
+      "title": "Daily Schedule",
+      "url": "https://sivanandayogafarm.org/visit/guest-information/daily-schedule/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "rocky-mountain-ecodharma-retreat-center",
+  "name": "Rocky Mountain Ecodharma Retreat Center",
+  "aka": [
+    "RMERC"
+  ],
+  "website": "https://rmerc.org/",
+  "location": {
+    "address": "8941 Overland Rd",
+    "city": "Ward",
+    "county": "Boulder County",
+    "region": "Front Range",
+    "state": "CO",
+    "lat": 40.1247474,
+    "lng": -105.4608543
+  },
+  "tradition": "Buddhist-rooted ecodharma / secular Insight Meditation",
+  "technique": "Silent Insight Meditation retreats in nature, with group and solo sitting and walking meditation, dharma talks, and teacher meetings",
+  "influences": [
+    "Spirit Rock Meditation Center",
+    "Insight Meditation Society (IMS)",
+    "Joanna Macy / Work That Reconnects"
+  ],
+  "teacherAccess": "Rotating guest teachers, many trained through Spirit Rock/IMS retreat teacher programs, lead each retreat with daily dharma talks and individual teacher meetings.",
+  "retreatOptions": "Mostly week-long silent retreats (6-7 nights), plus shorter weekend/long-weekend gatherings (3-4 nights) and occasional daylong events.",
+  "about": "Rocky Mountain Ecodharma Retreat Center (RMERC) is a nonprofit retreat center on 180 acres of forest and meadow in Ward, Colorado, about 45 minutes northwest of Boulder. It hosts its own calendar of silent, teacher-led Insight Meditation retreats that combine traditional sitting and walking practice with an explicit focus on ecological awareness and connection to the natural world. Guests stay on-site in a rustic lodge (single rooms, shared rooms, and a nook) or in camping/glamping/RV spots, with most programs running for several days to a full week under noble silence. RMERC operates on a low-cost, dana-based model: program fees cover only center expenses (food and lodging), while teachers are supported separately through voluntary donations, and scholarships are available for those with financial need.",
+  "schedule": "Seasonal program, roughly May through November, with an annually published calendar of retreats led by different visiting teachers; most retreats run Monday afternoon to Sunday afternoon.",
+  "cost": "Program price (food and lodging) is set to cover only center costs, varies by lodging type (camping/shared/single room), with an ~10% early-bird discount and separate voluntary dana for teachers; need-based scholarships available.",
+  "pricePerDay": {
+    "min": 110,
+    "max": 180,
+    "unit": "night",
+    "notes": "Derived from the 'Touching the Earth' retreat (Aug 10-16, 2026, 6 nights): program price $660-$1080 including food and lodging, divided by 6 nights; range reflects camping/shared/single-room lodging tiers.",
+    "source": "https://rmerc.org/events/touching-the-earth-380/?occurrence=2026-08-10"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are vegetarian and may include eggs or dairy; vegan and gluten-free options are available, and common allergies can usually be accommodated.",
+  "workRequired": "partial",
+  "workNotes": "Light shared 'yogi jobs' (meal prep/cleanup, bathrooms, tea bar) are assigned to participants during the retreat; not a heavy work-exchange program.",
+  "tags": [
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "meals-included",
+    "diet-vegetarian",
+    "dana-donation",
+    "scholarships",
+    "work-practice",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "RMERC - Home",
+      "url": "https://rmerc.org/"
+    },
+    {
+      "title": "Why do a Retreat at RMERC?",
+      "url": "https://rmerc.org/why-do-a-retreat-at-rmerc/"
+    },
+    {
+      "title": "RMERC Event Calendar",
+      "url": "https://rmerc.org/calendar/"
+    },
+    {
+      "title": "Touching the Earth (retreat listing with pricing, food, and lodging details)",
+      "url": "https://rmerc.org/events/touching-the-earth-380/?occurrence=2026-08-10"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

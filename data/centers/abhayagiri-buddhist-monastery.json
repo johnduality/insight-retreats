@@ -1,0 +1,68 @@
+{
+  "id": "abhayagiri-buddhist-monastery",
+  "name": "Abhayagiri Buddhist Monastery",
+  "aka": [
+    "Abhayagiri Monastery",
+    "Abhayagiri"
+  ],
+  "website": "https://www.abhayagiri.org/",
+  "location": {
+    "city": "Redwood Valley",
+    "region": "North Coast",
+    "state": "CA",
+    "lat": 39.2867,
+    "lng": -123.2793
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition (Ajahn Chah lineage)",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Sumedho",
+    "Ajahn Pasanno",
+    "Amaravati / Ajahn Chah Western Forest Sangha"
+  ],
+  "about": "Abhayagiri is a Theravada Buddhist monastery in the Thai Forest lineage of Ajahn Chah, set on 250 rustic acres in Redwood Valley, Mendocino County. It is a working monastery devoted to the training of monks and lay practitioners rather than a retreat or meditation center, and it explicitly does not run formal group or individual retreats on the property. Instead, lay guests are welcome to arrange overnight stays of several days, sharing fully in the monastic routine of morning and evening chanting and meditation, a daily work period, communal meals, and periods of solitary practice. Guests keep the Eight Precepts, including not eating after midday, and the monastery is supported entirely by voluntary donation. First-time guests are asked to stay at least three nights, with first visits generally limited to about a week.",
+  "technique": "Theravada Thai Forest practice: group sitting and walking meditation, morning and evening puja (chanting), and mindful engagement in daily work, following the Eight Precepts.",
+  "teacherAccess": "Senior monks (Ajahns) are informally available at the 5:30pm teatime and after the meal for questions; a Dhamma reflection is given at the morning work meeting and a Dhamma talk on Saturdays and Lunar Observance days.",
+  "retreatOptions": "Not a retreat center; instead offers arranged overnight guest stays (April to December) sharing monastic life, minimum three nights for first-time guests and generally up to about one week.",
+  "schedule": "Daily routine from 5:00am morning puja, 6:30am chores, 7:00am breakfast, 8:00-10:30am work period, ~10:45am main meal, afternoon personal practice, 5:30pm tea, 7:00pm evening puja.",
+  "cost": "No charge for lodging, food, or teaching; supported entirely by voluntary donations of food, requisites, money, and work.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Donation (dana) only — monastery hosts guests free of charge; supported by voluntary offerings",
+    "source": "https://www.abhayagiri.org/visiting/overnight-stays"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "A light breakfast at 7:00am and one main meal at ~10:45am are offered daily (no eating after midday, per the Eight Precepts); food is donated and varies day to day, so guests accept whatever is offered and no special diets can be accommodated.",
+  "workRequired": "yes",
+  "workNotes": "Guests are required to join a brief morning chore, the roughly three-hour daily work period, and all kitchen cleanups; tasks are assigned with physical limitations taken into account.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "monastic-community",
+    "work-practice",
+    "self-guided"
+  ],
+  "sources": [
+    {
+      "title": "Overnight Stays — Abhayagiri Monastery",
+      "url": "https://www.abhayagiri.org/visiting/overnight-stays"
+    },
+    {
+      "title": "Daily Schedule — Abhayagiri Monastery",
+      "url": "https://www.abhayagiri.org/visiting/daily-schedule"
+    },
+    {
+      "title": "Visiting FAQ — Abhayagiri Monastery",
+      "url": "https://www.abhayagiri.org/visiting/faq"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

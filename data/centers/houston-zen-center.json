@@ -1,0 +1,72 @@
+{
+  "id": "houston-zen-center",
+  "name": "Houston Zen Center",
+  "aka": [
+    "Auspicious Cloud Zen Retreat Center",
+    "Margaret Austin Center"
+  ],
+  "location": {
+    "city": "Chappell Hill",
+    "region": "Houston area",
+    "state": "TX",
+    "lat": 30.1345,
+    "lng": -96.2542
+  },
+  "tradition": "Soto Zen, in the lineage of Shunryu Suzuki Roshi and San Francisco Zen Center",
+  "technique": "Zazen (seated meditation) and shikantaza, with walking meditation, chanting, and oryoki formal meals",
+  "influences": [
+    "Dogen Zenji",
+    "Soto Zen lineage via Shunryu Suzuki Roshi",
+    "San Francisco Zen Center (Tassajara, Green Gulch Farm)",
+    "Abbot Gaelyn Godwin"
+  ],
+  "teacherAccess": "Abbot leads sesshins and offers dokusan (one-on-one interviews); assistant teachers available for practice discussion",
+  "retreatOptions": "Multi-day sesshins (3-day and 5-day, with option to join for partial days), one-day sittings, and periodic practice periods held at the Auspicious Cloud land; the land is also rented to outside groups (10-person minimum) for their own retreats",
+  "schedule": "Sesshin days typically run about 5:30am-9pm with periods of zazen, walking meditation, work practice, meals, and a dharma talk; regular week includes morning/afternoon zazen Monday-Thursday and a Sunday program",
+  "cost": "Venue rental for outside groups is $75/person/night (weekday) or $85/person/night (weekend), 10-person minimum, plus a $400 refundable cleaning deposit; HZC's own sesshins use sliding/member pricing (e.g. a recent 5-day sesshin was $300 general/$160 member, partial days $60/$40) with scholarships available",
+  "pricePerDay": {
+    "min": 75,
+    "max": 85,
+    "unit": "night",
+    "notes": "Group venue rental rate per person per night (10-person minimum); Houston Zen Center's own individual sesshin fees follow a separate sliding-scale/member schedule with scholarships available",
+    "source": "https://auspiciouscloudzen.org/rates"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "yes",
+  "workNotes": "Work practice (samu) is part of the schedule, including garden and grounds work, cooking, and cleaning during retreats and sesshins",
+  "foodNotes": "Meals during sesshins are vegetarian and served using formal oryoki bowls; participants may bring their own oryoki set or rent one from the center",
+  "about": "Houston Zen Center is a Soto Zen sangha based in Houston, Texas, in the lineage of Shunryu Suzuki Roshi and San Francisco Zen Center. In 2021 the center received the gift of the former Margaret Austin Center, a 40-acre property in Chappell Hill, about 45 minutes north of Houston, which it now operates as the Auspicious Cloud Zen Retreat Center. The land has three buildings that together sleep up to 42 people in dormitory, shared-room, and bunk configurations, plus space for tent camping, and is used both for the sangha's own sesshins and practice periods and rented out to outside groups. Retreats held there follow a traditional Zen schedule of zazen, walking meditation, work practice, oryoki meals, and dharma talks, with dokusan available with the abbot or assistant teachers. Houston Zen Center's own retreat pricing uses member discounts and sliding-scale/scholarship options, while the land itself rents to outside groups at a flat per-person, per-night rate with a 10-person minimum.",
+  "tags": [
+    "zen",
+    "silent",
+    "work-practice",
+    "diet-vegetarian",
+    "sliding-scale",
+    "scholarships",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "houstonzen.org — Home",
+      "url": "https://houstonzen.org/"
+    },
+    {
+      "title": "auspiciouscloudzen.org — Home",
+      "url": "https://auspiciouscloudzen.org/"
+    },
+    {
+      "title": "Rates",
+      "url": "https://auspiciouscloudzen.org/rates"
+    },
+    {
+      "title": "Accommodations",
+      "url": "https://auspiciouscloudzen.org/accommodations"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

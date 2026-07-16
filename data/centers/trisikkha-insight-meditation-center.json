@@ -1,0 +1,66 @@
+{
+  "id": "trisikkha-insight-meditation-center",
+  "name": "Trisikkha Insight Meditation Center",
+  "aka": [
+    "Trisikkha Florida",
+    "Wimutti Florida"
+  ],
+  "website": "https://trisikkha.org/en/trisikkha-florida/",
+  "location": {
+    "address": "4207 US Hwy 92 W, Plant City, FL 33563",
+    "city": "Plant City",
+    "county": "Hillsborough County",
+    "region": "Tampa Bay Area",
+    "state": "FL",
+    "lat": 28.0189,
+    "lng": -82.1701
+  },
+  "tradition": "Theravada Buddhism, Thai Insight (Vipassana) meditation",
+  "technique": "Formal sitting and walking meditation with morning and evening Pali-Thai chanting, taught step by step over a structured multi-day course under the Eight Precepts and Noble Silence",
+  "influences": [
+    "Ajarn Willie",
+    "Thai Theravada Vipassana tradition",
+    "Trisikkha Petchaburi (sister center, Thailand)"
+  ],
+  "teacherAccess": "Daily Dhamma talks by Ajarn Willie with a dedicated question period after each talk; participants are taught in small groups and have the opportunity to work one-on-one with the instructor during the retreat.",
+  "retreatOptions": "Residential meditation retreats held roughly quarterly, most around 10-12 days long (e.g., a 12-day English-language course); partial attendance is discouraged but participants are advised to at least arrive at the start if they cannot stay the full course. Sunday sessions are offered between retreats.",
+  "schedule": "03:00 wake-up; 04:00-07:00 morning chanting and sitting/walking meditation; breakfast and volunteer tasks; 09:00-11:30 Dhamma talk; lunch and volunteer tasks; 13:30-16:00 sitting/walking meditation; break; 18:00-21:00 evening chanting and meditation.",
+  "cost": "Free — retreats are run entirely on a donation (dana) basis; no course fees are charged.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Strictly donation-based. The center states there is no charge for its retreats; donations are offered voluntarily near the end of the course, so no set per-night rate is determinable.",
+    "source": "https://trisikkha.org/en/retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "partial",
+  "workNotes": "Participants are asked to volunteer for cleaning and support tasks during daily break periods; not strictly mandatory but presented as an integral part of practice.",
+  "foodNotes": "Breakfast and lunch are provided free of charge (no food after midday, per the Eight Precepts); the menu emphasizes meatless dishes, though broths and seasonings may occasionally contain animal derivatives, and participants with allergies or dietary restrictions may bring their own food.",
+  "about": "Trisikkha Insight Meditation Center is a Theravada Buddhist retreat center on about 17 acres of wooded, canal-side land in Plant City, east of Tampa, run as the U.S. sister site of Trisikkha Petchaburi in Thailand. Retreats are led by Ajarn Willie and follow a traditional Thai Vipassana course structure: participants commit to the full length of the course (typically 10-12 days), observe the Eight Precepts and Noble Silence, and follow a fixed daily schedule of chanting, sitting, and walking meditation interspersed with Dhamma talks and question periods. Men and women are housed separately in sleeping halls or in a dedicated camping area, with meditation mats, sleeping mats, and tents provided. Teachings are mostly in Thai, with dedicated English-language courses offered periodically, and the retreat is entirely donation-supported, with breakfast and lunch provided free of charge. The center also hosts drop-in Sunday sessions between its scheduled retreats.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "dana-donation",
+    "camping",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Retreat — Trisikkha Insight Meditation Center",
+      "url": "https://trisikkha.org/en/retreat/"
+    },
+    {
+      "title": "About Trisikkha Florida — Trisikkha Insight Meditation Center",
+      "url": "https://trisikkha.org/en/trisikkha-florida/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

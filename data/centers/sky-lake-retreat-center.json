@@ -1,0 +1,75 @@
+{
+  "id": "sky-lake-retreat-center",
+  "name": "Sky Lake Retreat Center",
+  "aka": [
+    "Sky Lake Shambhala Meditation Center",
+    "Sky Lake Lodge",
+    "Sky Lake Meditation and Retreat Center"
+  ],
+  "website": "https://skylake.shambhala.org/",
+  "location": {
+    "address": "22 Hillcrest Lane",
+    "city": "Rosendale",
+    "county": "Ulster County",
+    "region": "Hudson Valley",
+    "state": "NY",
+    "lat": 41.8365,
+    "lng": -74.0843
+  },
+  "tradition": "Shambhala Buddhism (Tibetan Kagyu/Nyingma)",
+  "technique": "Shamatha-vipashyana sitting and walking meditation, Shambhala/Buddhist contemplative study, plus Taoist Qigong and contemplative arts",
+  "influences": [
+    "Chögyam Trungpa Rinpoche",
+    "Sakyong Mipham",
+    "Dr. Eva Wong (Taoist Qigong)"
+  ],
+  "teacherAccess": "Visiting senior Shambhala/Buddhist teachers and specialists (e.g., Dr. Eva Wong) lead scheduled programs; Personal Retreat guests may request an optional meeting with a resident meditation instructor.",
+  "retreatOptions": "Self-guided Personal Retreats (2-night minimum, extendable per night) plus scheduled weekend to week-long programs (roughly 2-7 nights).",
+  "about": "Sky Lake Retreat Center (Sky Lake Shambhala Meditation Center) is a Shambhala Buddhist contemplative land-center on about 25 wooded acres in the Shawangunk Mountains near Rosendale, New York, in the Hudson Valley. Founded in 2001 and rooted in the teachings of Chögyam Trungpa Rinpoche, it supports practitioners in the Tibetan Kagyu, Nyingma, Bön, and Shambhala lineages, as well as Zen, Plum Village, and Taoist students. Programming includes weekend and week-long Buddhist classes, contemplative arts workshops, family programs, and an extensive Taoist Qigong curriculum. Visitors can join a scheduled program or book a self-guided Personal Retreat with a two-night minimum, using a private or shared room, two meditation halls, and a guest kitchen for self-catering. The grounds include a spring-fed pond and trails, near Mohonk Preserve and the Shawangunk 'Gunks' climbing area.",
+  "schedule": "Year-round calendar of weekend and week-long programs plus a weekly Sunday public sitting; Personal Retreats can be booked anytime, with at least two weeks' advance notice recommended.",
+  "cost": "Personal Retreats: $250 for 2 nights in a private room ($125/night average, +$75 each additional night) or $350 for 2 nights shared (+$100 each additional night); scheduled programs charge separate tuition (includes three meals/day) plus lodging from $110-$180/night.",
+  "pricePerDay": {
+    "min": 75,
+    "max": 125,
+    "unit": "night",
+    "notes": "Derived from Personal Retreat private-room pricing: $250 for the required 2-night minimum ($125/night average), dropping to $75/night for each additional night. No meals included at this rate.",
+    "source": "https://skylake.shambhala.org/personal-retreats/"
+  },
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Scheduled program tuition includes three meals a day; self-guided Personal Retreats have no meal service (guests bring/store own food, use guest kitchen, or find local restaurants).",
+  "workRequired": "no",
+  "workNotes": "No work-practice/karma-yoga requirement is described for programs or Personal Retreats.",
+  "tags": [
+    "tibetan-vajrayana",
+    "family-friendly",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Sky Lake Retreat Center - Home",
+      "url": "https://skylake.shambhala.org/"
+    },
+    {
+      "title": "About Us - Sky Lake Retreat Center",
+      "url": "https://skylake.shambhala.org/about/"
+    },
+    {
+      "title": "Personal Retreats - Sky Lake Retreat Center",
+      "url": "https://skylake.shambhala.org/personal-retreats/"
+    },
+    {
+      "title": "Lodging Options - Sky Lake Retreat Center",
+      "url": "https://skylake.shambhala.org/lodging-options/"
+    },
+    {
+      "title": "Programs - Sky Lake Retreat Center",
+      "url": "https://skylake.shambhala.org/programs/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

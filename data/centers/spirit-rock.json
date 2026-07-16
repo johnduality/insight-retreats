@@ -1,0 +1,80 @@
+{
+  "name": "Spirit Rock Meditation Center",
+  "website": "https://www.spiritrock.org",
+  "aka": [
+    "Spirit Rock",
+    "Insight Meditation West"
+  ],
+  "location": {
+    "city": "Woodacre",
+    "region": "Bay Area",
+    "state": "CA",
+    "lat": 38.0141,
+    "lng": -122.6483
+  },
+  "tradition": "Insight Meditation in the Theravāda tradition",
+  "influences": [
+    "Burmese Vipassanā movement (Mahāsī and U Ba Khin methods)",
+    "Thai Forest Sangha of Ajahn Chah and Ajahn Mun",
+    "Insight Meditation Society (IMS)",
+    "Jack Kornfield"
+  ],
+  "teacherAccess": "Daily Dharma talks plus small-group teacher meetings and interviews on residential retreats.",
+  "retreatOptions": "Daylong classes; 5–9 night silent retreats; month-long and (each spring) two-month retreats.",
+  "about": "Spirit Rock Meditation Center is a Buddhist retreat center set on more than 400 acres of oak-studded hills in Woodacre, in Marin County north of San Francisco. Founded in 1985 as Insight Meditation West by Jack Kornfield and colleagues, it teaches the Buddha's path as expressed in the Pāli Canon through the practice of Insight Meditation, or vipassanā. Its lineage draws on two streams: the Burmese Vipassanā movement (the Mahāsī and U Ba Khin methods) that gives Insight practice its retreat structure and noting technique, and the Thai Forest Sangha of Ajahn Chah, Kornfield's root teacher. Programs range from daylong classes to silent residential retreats of several nights up to a month or more, alongside mindfulness of breath, body, and lovingkindness (mettā). The center welcomes both newcomers and experienced practitioners, an estimated 40,000 visitors a year.",
+  "technique": "Silent Insight Meditation: mindfulness of breath, body, and mind plus lovingkindness (mettā), with daily Dharma talks and teacher meetings.",
+  "schedule": "Daily structure of alternating sitting and walking meditation from early morning to evening in silence, with a Dharma talk each evening and periodic teacher-led Q&A or small-group meetings.",
+  "cost": "Sliding-scale residential fees (e.g. $1,440–$5,490 for a 9-night retreat); lower commuter/off-site rates and need-based scholarships available.",
+  "pricePerDay": {
+    "min": 160,
+    "max": 610,
+    "unit": "night",
+    "notes": "9-night Spring Insight Retreat (Apr 30 – May 9, 2026), residential sliding scale $1,440–$5,490 divided by 9 nights; excludes off-site commuter and $855 scholarship rate.",
+    "source": "https://www.spiritrock.org/programs/retreats/318r26-spring-insight-retreat"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Ovo-lacto vegetarian meals (breakfast, a substantial midday lunch, and a light supper), with vegan and gluten-free options at every meal.",
+  "workRequired": "yes",
+  "workNotes": "Work meditation is part of retreat practice; at check-in retreatants choose a daily assignment such as kitchen help or cleaning common spaces.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "day-retreats",
+    "long-retreats",
+    "diet-vegetarian",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Spring Insight Retreat | 318R26 (pricing)",
+      "url": "https://www.spiritrock.org/programs/retreats/318r26-spring-insight-retreat"
+    },
+    {
+      "title": "Our Buddhist Lineage",
+      "url": "https://www.spiritrock.org/about/our-buddhist-lineage"
+    },
+    {
+      "title": "The Practice of Retreat (food & work)",
+      "url": "https://www.spiritrock.org/resources/practice-of-retreat"
+    },
+    {
+      "title": "Multi-Day Silent Meditation Retreats",
+      "url": "https://www.spiritrock.org/programs/retreats"
+    },
+    {
+      "title": "Spirit Rock Meditation Center – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spirit_Rock_Meditation_Center"
+    }
+  ],
+  "id": "spirit-rock",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

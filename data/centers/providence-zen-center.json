@@ -1,0 +1,107 @@
+{
+  "id": "providence-zen-center",
+  "name": "Providence Zen Center",
+  "aka": [
+    "PZC",
+    "Diamond Hill Zen Monastery"
+  ],
+  "website": "https://providencezen.org/",
+  "location": {
+    "address": "99 Pound Rd",
+    "city": "Cumberland",
+    "county": "Providence County",
+    "region": "Rhode Island",
+    "state": "RI",
+    "lat": 41.892857,
+    "lng": -71.456757
+  },
+  "tradition": "Kwan Um School of Zen (Korean Zen / Seon)",
+  "technique": "Zazen (sitting meditation), walking meditation, bowing, chanting, and kong-an (koan) interviews with a Zen teacher",
+  "influences": [
+    "Zen Master Seung Sahn (founder)",
+    "Kwan Um School of Zen",
+    "Jogye Order of Korean Buddhism"
+  ],
+  "teacherAccess": "Kong-an (koan) interviews and Dharma Talks with a Zen teacher offered during retreats, YMJJ, and Kyol Che.",
+  "retreatOptions": "One-day and Kido chanting retreats; 2-, 3-, and 7-day silent Yong Maeng Jong Jin (YMJJ) retreats; solo hermitage retreats (1-100 days); 4-week Summer and 3-month Winter Kyol Che.",
+  "about": "Providence Zen Center (PZC) is the Head Temple of the Americas for the Kwan Um School of Zen, founded in Providence, Rhode Island in 1972 by Korean Zen Master Seung Sahn and relocated to its current 50-acre site in Cumberland in 1979. The property is anchored by a 65-foot Peace Pagoda and includes the adjacent Diamond Hill Zen Monastery, built in 1983-84 to host the school's semi-annual Kyol Che intensives. Practice follows the Kwan Um style blending Korean and American Zen forms: bowing, chanting, sitting and walking meditation, and kong-an (koan) interviews with a Dharma Teacher. Visitors can join free daily practice, one-day and Kido chanting retreats, 2-, 3-, and 7-day silent Yong Maeng Jong Jin retreats, solo hermitage retreats, temple stays, and the traditional four-week Summer and three-month Winter Kyol Che retreats, as well as residential training. All retreats include vegetarian meals and run on a two-tier Sustainer/Benefactor fee structure, with discounts for members, students, seniors, and Dharma Teachers.",
+  "schedule": "Daily group practice year-round; short retreats and YMJJ scheduled regularly; Kyol Che held every summer (4 weeks) and winter (3 months).",
+  "cost": "Two-tier Sustainer/Benefactor retreat day-rates ($60-$180/day depending on retreat type), rising to $594-$990 for a 7-day YMJJ or Kyol Che week; discounts for members, students, seniors, and Dharma Teachers, plus possible scholarships.",
+  "pricePerDay": {
+    "min": 85,
+    "max": 141,
+    "unit": "night",
+    "notes": "7-Day YMJJ / Kyol Che Week: Sustainer $594 to Benefactor $990 for 7 days, inclusive of retreat fee, shared-bath lodging, and all meals = approx. $85-$141/night before member/student/senior/Dharma-Teacher discounts of 20-30%.",
+    "source": "https://providencezen.org/wp-content/uploads/2025/07/2025-RateSheet.pdf"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals included in all retreat fees, eaten in silence temple-style with four bowls during YMJJ/Kyol Che; no meat, fish, poultry, or alcohol permitted on site.",
+  "workRequired": "partial",
+  "workNotes": "Multi-day YMJJ retreats and Kyol Che include a daily work period (e.g. temple cleaning, kitchen, or grounds work); one-day and online retreats have no formal work period.",
+  "tags": [
+    "zen",
+    "silent",
+    "day-retreats",
+    "long-retreats",
+    "self-guided",
+    "online-hybrid",
+    "monastic-community",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Providence Zen Center - Home",
+      "url": "https://providencezen.org/"
+    },
+    {
+      "title": "Providence Zen Center - Retreats",
+      "url": "https://providencezen.org/retreats"
+    },
+    {
+      "title": "Providence Zen Center - Kyol Che Long Retreats",
+      "url": "https://providencezen.org/kyol-che"
+    },
+    {
+      "title": "Providence Zen Center - Retreat FAQs",
+      "url": "https://providencezen.org/retreat-faqs"
+    },
+    {
+      "title": "Providence Zen Center - 2025 Retreat & Guest Stay Rate Sheet (PDF)",
+      "url": "https://providencezen.org/wp-content/uploads/2025/07/2025-RateSheet.pdf"
+    },
+    {
+      "title": "Providence Zen Center - Temple Stays",
+      "url": "https://providencezen.org/guest-stay"
+    },
+    {
+      "title": "Providence Zen Center - Kyol Che Information Booklet (PDF)",
+      "url": "https://providencezen.org/wp-content/uploads/2020/03/Kyol-Che-Information-Booklet-2019CNG.pdf"
+    },
+    {
+      "title": "Providence Zen Center - About Us / History",
+      "url": "https://providencezen.org/about-us"
+    },
+    {
+      "title": "Providence Zen Center - Residency",
+      "url": "https://providencezen.org/residency"
+    },
+    {
+      "title": "Providence Zen Center - Amenities",
+      "url": "https://providencezen.org/amenities"
+    },
+    {
+      "title": "Providence Zen Center - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Providence_Zen_Center"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

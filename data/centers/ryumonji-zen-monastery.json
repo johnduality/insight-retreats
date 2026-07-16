@@ -1,0 +1,71 @@
+{
+  "id": "ryumonji-zen-monastery",
+  "name": "Ryumonji Zen Monastery",
+  "aka": [
+    "Dragon Gate Temple",
+    "Ryumonji"
+  ],
+  "website": "https://ryumonji.org/",
+  "location": {
+    "city": "Dorchester",
+    "region": "Northeast Iowa",
+    "state": "IA",
+    "lat": 43.4230837,
+    "lng": -91.5681396
+  },
+  "tradition": "Soto Zen",
+  "technique": "Shikantaza (just sitting) zazen within a traditional Japanese Soto monastic form",
+  "influences": [
+    "Dainin Katagiri Roshi",
+    "Eihei Dogen",
+    "Rev. Shoken Winecoff"
+  ],
+  "teacherAccess": "Resident Abbot Rev. Shoken Winecoff, a dharma heir of Dainin Katagiri Roshi trained at Zuioji Senmon Sodo in Japan, leads sesshin, gives dharma talks, and is available for dokusan during practice periods.",
+  "retreatOptions": "Monthly weekend sesshin (arrive Friday evening, depart Sunday noon) plus traditional Winter and Summer Ango practice periods lasting several weeks for full- or part-time residential training.",
+  "about": "Ryumonji is a Soto Zen Buddhist monastery on a 40-acre former farmstead in the rolling hills of northeast Iowa, formally registered as a temple with the Soto Zen Headquarters in Japan. Founded in 2000 by Rev. Shoken Winecoff, a disciple of Dainin Katagiri Roshi, the monastery has since built a Buddha Hall, entry gate, bell tower, and dedicated residential buildings (Kuin and Sodo/Shuryo) purpose-built for monastic training. Visitors join a living community for zazen, chanting, oryoki meals, and work practice under a traditional daily schedule. The monastery offers both accessible weekend sesshin for newcomers and longer immersive Ango practice periods for residential monastic training. All programs are offered on a dana (free-will donation) basis with dormitory-style housing provided on-site.",
+  "schedule": "Weekend sesshin held roughly monthly year-round; Winter Ango runs January 20 to March 19 and Summer Ango runs June 16 to September 17 each year.",
+  "cost": "No set fee for sesshin or ango; free-will dana offerings are customary.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Ryumonji charges no fees for sesshin or ango; participation is entirely dana (free-will donation) based with no suggested amount published.",
+    "source": "https://ryumonji.org/sesshin-ango"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Communal oryoki-style meals are taken in silence with the community; special dietary and medical needs can be accommodated with advance notice.",
+  "workRequired": "yes",
+  "workNotes": "Daily work periods (samu) are a formal, scheduled part of both sesshin and ango.",
+  "tags": [
+    "zen",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "long-retreats"
+  ],
+  "sources": [
+    {
+      "title": "Sesshin & Ango",
+      "url": "https://ryumonji.org/sesshin-ango"
+    },
+    {
+      "title": "History",
+      "url": "https://ryumonji.org/history"
+    },
+    {
+      "title": "Contact / Location",
+      "url": "https://ryumonji.org/contact-us"
+    },
+    {
+      "title": "Regular Practice",
+      "url": "https://ryumonji.org/regular-practice"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

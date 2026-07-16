@@ -1,0 +1,76 @@
+{
+  "id": "jikoji-zen-center",
+  "name": "Jikoji Zen Center",
+  "aka": [
+    "Jikoji"
+  ],
+  "website": "https://www.jikojizencenter.org/",
+  "location": {
+    "city": "Los Gatos",
+    "region": "Bay Area",
+    "state": "CA",
+    "lat": 37.275576,
+    "lng": -122.151595
+  },
+  "tradition": "Soto Zen (Kobun Chino Otogawa lineage)",
+  "influences": [
+    "Kobun Chino Otogawa Roshi",
+    "Soto Zen",
+    "Dogen Zenji"
+  ],
+  "about": "Jikoji Zen Center is a rustic Soto Zen temple founded in 1983 by Kobun Chino Otogawa Roshi, set at 2,350 feet in the Santa Cruz Mountains above Los Gatos on grounds bordered by 1,800 acres of open space. It is a lay practice community maintained by resident practitioners who uphold daily zazen and a traditional Zen schedule. The center offers daily morning and evening zazen, a weekly Sunday program with dharma talks, one-day zazenkai, and multi-day residential sesshins in the cycle of intensives Kobun established. Jikoji is also available for self-directed individual overnight retreats, with simple guest rooms, dormitories, and campsites. Newcomers and practitioners from other contemplative traditions are welcome to sit alongside the community.",
+  "technique": "Zazen (seated Soto Zen \"just sitting\") with kinhin walking meditation, sutra chanting, and dharma talks.",
+  "teacherAccess": "Dharma talks and instruction from resident teachers such as Nenzen Sensei and Koun Misha Sensei during Sunday programs and sesshins; overnight guests new to practice can request orientation from residents.",
+  "retreatOptions": "Multi-day residential sesshins (e.g. the 3-night Kobun Memorial Sesshin and Denko-e Sesshin), one-day zazenkai, and self-directed individual overnight retreats of one or more nights.",
+  "schedule": "Sesshins run as extended silent weekends of full days of zazen, kinhin, teachings, and shared meals; the community also sits daily zazen Monday-Friday at 7 am and 7 pm.",
+  "cost": "Individual self-directed retreat lodging is $40 campsite, $100 dormitory, and $150 private room per night; sesshins are registered separately, and daily and Sunday meditation are freely offered.",
+  "pricePerDay": {
+    "min": 40,
+    "max": 150,
+    "unit": "night",
+    "notes": "Individual self-directed retreat lodging per night: $40 single tent campsite, $100 men's/women's dormitory, $150 private room. Sesshins are priced separately by registration.",
+    "source": "https://www.jikojizencenter.org/reservations"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are provided during sesshins; individual retreat guests self-cater in the Community Kitchen, as no meal service is offered for them.",
+  "workRequired": "partial",
+  "workNotes": "Sesshin attendees help with duties including doan-ryo, kitchen assistance, serving meals, and cleanup; individual retreats have no required work.",
+  "tags": [
+    "zen",
+    "silent",
+    "self-guided",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "fixed-fee",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Jikoji Zen Center home page",
+      "url": "https://www.jikojizencenter.org/"
+    },
+    {
+      "title": "Retreats & Rentals (individual retreats, rates)",
+      "url": "https://www.jikojizencenter.org/reservations"
+    },
+    {
+      "title": "Kobun Memorial Sesshin (3-night sesshin)",
+      "url": "https://www.jikojizencenter.org/jikoji-events/20260723-kobun-memorial-sesshin"
+    },
+    {
+      "title": "Schedule A Visit",
+      "url": "https://www.jikojizencenter.org/visit"
+    },
+    {
+      "title": "Secure Online Booking (per-night rates)",
+      "url": "https://jikoji.checkfront.com/reserve/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

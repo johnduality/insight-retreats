@@ -1,0 +1,84 @@
+{
+  "id": "magnolia-grove-monastery",
+  "name": "Magnolia Grove Meditation Practice Center",
+  "aka": [
+    "Magnolia Grove Monastery"
+  ],
+  "website": "https://magnoliagrovemonastery.org/",
+  "location": {
+    "city": "Batesville",
+    "region": "Mississippi",
+    "state": "MS",
+    "lat": 34.3115,
+    "lng": -89.9443
+  },
+  "tradition": "Plum Village Zen Buddhism (Thich Nhat Hanh lineage)",
+  "influences": [
+    "Thich Nhat Hanh",
+    "Plum Village tradition",
+    "Zen Buddhism",
+    "Engaged Buddhism"
+  ],
+  "about": "Magnolia Grove Meditation Practice Center is a residential Buddhist monastery on 120 acres in Batesville, Mississippi, founded in 2005 by Zen Master Thich Nhat Hanh as one of three U.S. monasteries in the Plum Village tradition, alongside Deer Park Monastery in California and Blue Cliff Monastery in New York. Roughly forty monastics live on site year-round, and lay visitors join the community for Personal Retreats (a weekend, one week, one week plus a weekend, or up to two weeks) or five-day Themed Retreats built around a specific focus such as Family, Silent, or BIPOC gatherings. Days follow a shared monastic rhythm of sitting and walking meditation, working meditation, Dharma talks, and communal vegan meals, with guests lodging in shared dormitory or cabin rooms or camping on the grounds. The center emphasizes accessibility over profit, offering automatic age-based discounts and fee reductions for anyone facing financial hardship.",
+  "technique": "Mindfulness meditation (sitting and walking), working meditation, Dharma talks, mindful/communal eating",
+  "teacherAccess": "Daily Dharma talks and orientation with resident monastics, plus small-group Dharma sharing and circle sharing during retreats",
+  "retreatOptions": "Personal Retreats of a weekend, one week, one week plus a weekend, or two weeks; five-day Themed Retreats (Silent, Family, BIPOC, Wake Up, etc.); single-day Day of Mindfulness",
+  "schedule": "Fixed monastic daily rhythm: 5am wake-up, sitting and walking meditation, working meditation, Dharma talk, communal meals, evening program, 9:30pm Noble Silence",
+  "cost": "Suggested fixed nightly fee for Personal Retreats depending on lodging type, flat multi-day fee for Themed Retreats, with automatic age-based discounts and fee reductions available on request",
+  "pricePerDay": {
+    "min": 50,
+    "max": 80,
+    "unit": "night",
+    "notes": "Personal Retreat pricing: $50/night for tent/RV/commuter, $80/night for a dorm or cabin bed in a shared room. Themed Retreats (5 days) charge a flat $240 (tent/RV/commuter) or $400 (dorm/cabin), equivalent to roughly $48-80/night. Automatic discounts apply for seniors, young adults, teens, and children, and fee reductions are available on request for financial hardship.",
+    "source": "https://magnoliagrovemonastery.org/personal-retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Three vegan meals per day are included in the registration fee, with a variety of options at mealtime; guests may bring supplementary dry foods for specific dietary needs and are asked not to bring non-vegan food.",
+  "workRequired": "partial",
+  "workNotes": "Guests are encouraged to join daily 'working meditation' service periods (light tasks like kitchen prep, cleaning, or garden work); accommodations are made for physical limitations rather than it being strictly mandatory.",
+  "tags": [
+    "plum-village",
+    "day-retreats",
+    "long-retreats",
+    "family-friendly",
+    "meals-included",
+    "work-practice",
+    "camping",
+    "monastic-community",
+    "diet-vegan",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Magnolia Grove Meditation Practice Center - Home",
+      "url": "https://magnoliagrovemonastery.org/"
+    },
+    {
+      "title": "About Us - Magnolia Grove Meditation Practice Center",
+      "url": "https://magnoliagrovemonastery.org/about-us/"
+    },
+    {
+      "title": "Personal Retreats - Magnolia Grove Meditation Practice Center",
+      "url": "https://magnoliagrovemonastery.org/personal-retreats/"
+    },
+    {
+      "title": "About our Retreats - Magnolia Grove Meditation Practice Center",
+      "url": "https://magnoliagrovemonastery.org/about-our-retreats/"
+    },
+    {
+      "title": "Plan a Visit - Magnolia Grove Meditation Practice Center",
+      "url": "https://magnoliagrovemonastery.org/plan-a-visit/"
+    },
+    {
+      "title": "Register for Retreats - Magnolia Grove Meditation Practice Center",
+      "url": "https://magnoliagrovemonastery.org/magnolia-grove-registration-page/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

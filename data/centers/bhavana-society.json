@@ -1,0 +1,68 @@
+{
+  "id": "bhavana-society",
+  "name": "Bhavana Society",
+  "aka": [
+    "Bhāvanā Society",
+    "Bhavana Society Forest Monastery and Retreat Center"
+  ],
+  "website": "https://bhavanasociety.org/",
+  "location": {
+    "city": "High View",
+    "region": "Eastern Panhandle (Hampshire County)",
+    "state": "WV",
+    "lat": 39.1962,
+    "lng": -78.4158
+  },
+  "tradition": "Theravada Forest Tradition",
+  "technique": "Vipassana (insight) and metta (loving-kindness) meditation with breath and body awareness, guided meditation, and chanting",
+  "influences": [
+    "Bhante Henepola Gunaratana (Bhante G)",
+    "Theravada Forest Tradition of Sri Lanka and Burma"
+  ],
+  "teacherAccess": "Bhante Gunaratana and the resident monastic community lead and support most retreats, with daily dhamma talks and interviews during formal programs.",
+  "retreatOptions": "Formal residential retreats of roughly two to nine days held throughout the year, plus self-guided retreats and longer-term lay residency (two weeks to a year or more) for those supporting the monastery.",
+  "about": "The Bhavana Society is a Theravada Buddhist forest monastery and meditation center on over fifty wooded acres in rural Hampshire County, West Virginia. Founded in 1988 by Bhante Henepola Gunaratana (\"Bhante G\"), author of the classic manual Mindfulness in Plain English, it was created to preserve the Theravada forest meditation tradition in a Western setting. The monastic and lay community lives and trains according to the Buddha's teachings from the Pali Canon, and the center hosts formal residential retreats exploring vipassana, mindfulness, metta, and concentration practice under the guidance of Bhante G and resident monastics. Retreatants stay in individual kutis, cabins, or dormitories on the grounds and follow a semi-monastic daily schedule of sitting and walking meditation. All retreats are offered completely free of charge, supported entirely by dana (donation).",
+  "schedule": "Multiple formal retreats scheduled throughout the year, typically lasting two to nine days, alongside an ongoing daily meditation schedule for residents and self-retreatants.",
+  "cost": "Donation-based (dana) - all formal retreats are offered free of charge.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Strictly dana (donation)-based; no fee is charged or suggested for retreats.",
+    "source": "https://bhavanasociety.org/about/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are prepared for retreatants; dairy and eggs may be used, and vegan options are usually available.",
+  "workRequired": "partial",
+  "workNotes": "Short-term retreatants share light communal chores; long-term lay residents contribute more substantially to running the monastery in exchange for their stay.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Bhavana Society - About",
+      "url": "https://bhavanasociety.org/about/"
+    },
+    {
+      "title": "Bhavana Society - Retreats and Events",
+      "url": "https://bhavanasociety.org/retreats-and-events/"
+    },
+    {
+      "title": "Bhavana Society - Contact Us",
+      "url": "https://bhavanasociety.org/contact-us/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

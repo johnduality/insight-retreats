@@ -1,0 +1,80 @@
+{
+  "id": "dhamma-patapa",
+  "name": "Dhamma Patapa",
+  "aka": [
+    "Southeast Vipassana Center",
+    "Southeast Vipassana Association"
+  ],
+  "website": "https://www.patapa.dhamma.org/",
+  "location": {
+    "address": "476 Rogers Break, Jesup, GA 31546",
+    "city": "Jesup",
+    "county": "Wayne County",
+    "region": "Coastal Georgia",
+    "state": "GA",
+    "lat": 31.4685,
+    "lng": -81.9058
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana (breath awareness and body-scanning meditation)",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "Courses are led by certified assistant teachers appointed within the Goenka tradition; students receive daily group instruction and small-group check-ins, with individual meetings available on request.",
+  "retreatOptions": "Primarily 10-day residential courses for new and old students, plus old-student-only 1-day, 3-day, and Satipatthana Sutta courses, and multi-day service periods; no course exceeds about 10-11 days.",
+  "schedule": "Multiple 10-day courses run each year (separated by gender, with occasional bilingual and affinity-group courses), each following the standard Goenka daily timetable of meditation sessions from about 4am to 9pm with a nightly video discourse, held in Noble Silence until Day 10.",
+  "cost": "Strictly donation-based (dana); there is no charge for teaching, room, or board on any course, and departing students are simply invited to donate for future students according to their means.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course.",
+    "source": "https://patapa.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A simple vegetarian menu is provided free to all students: oatmeal, cold cereal, toast, and fruit at breakfast; rice, vegetables, and a protein such as tofu, lentils, or beans with salad at lunch; and a light snack of fruit and tea in the evening. Special food requests beyond medical needs cannot be accommodated.",
+  "workRequired": "no",
+  "workNotes": "New and returning course students are not required to work during a course, though everyone helps briefly with cleanup on the final morning; the center otherwise runs entirely on old-student volunteers who apply separately for dedicated service periods.",
+  "about": "Dhamma Patapa, also known as the Southeast Vipassana Center, is a residential meditation center on forty acres of pine, oak, and mixed hardwood forest in rural Wayne County, Georgia, about ten miles south of Jesup and roughly midway between Savannah and Jacksonville. The Southeast Vipassana Association purchased the land in 2005 and opened the center for courses in 2008, and it has since expanded in phases to house close to sixty students across dormitory-style residences, a meditation hall, a dining hall, and separate long-term server cabins. It offers the standard ten-day Vipassana course taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, in which students learn Anapana and Vipassana meditation under a code of discipline that includes Noble Silence for most of the course, along with periodic old-student short courses, Satipatthana Sutta courses, and courses aimed at specific communities such as Black Heritage and LGBTQ+ students. As with all centers in the Goenka network, courses are taught entirely on a volunteer and donation basis, with no fees charged for instruction, room, or board.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Patapa - official site",
+      "url": "https://www.patapa.dhamma.org/"
+    },
+    {
+      "title": "History of the Southeast Vipassana Center",
+      "url": "https://www.patapa.dhamma.org/history/"
+    },
+    {
+      "title": "What to Expect on a Course",
+      "url": "https://www.patapa.dhamma.org/what-to-expect-on-a-course/"
+    },
+    {
+      "title": "Cost of Course",
+      "url": "https://www.patapa.dhamma.org/cost-of-course/"
+    },
+    {
+      "title": "Course Checklist",
+      "url": "https://www.patapa.dhamma.org/checklist/"
+    },
+    {
+      "title": "Dhamma Patapa course schedule (dhamma.org)",
+      "url": "https://www.dhamma.org/en-US/schedules/schpatapa"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-14",
+    "reviewStatus": "unverified"
+  }
+}

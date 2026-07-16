@@ -1,0 +1,72 @@
+{
+  "name": "Cloud Mountain Retreat Center",
+  "website": "https://cloudmountain.org/",
+  "aka": [
+    "Friends of Cloud Mountain"
+  ],
+  "location": {
+    "city": "Castle Rock",
+    "region": "Southwest Washington",
+    "state": "WA",
+    "lat": 46.3205,
+    "lng": -122.8564
+  },
+  "tradition": "Non-sectarian Buddhist center hosting Insight Meditation and rotating Theravada, Zen, and Tibetan teachers",
+  "influences": [
+    "Insight Meditation",
+    "Theravada",
+    "Zen",
+    "Tibetan Buddhism"
+  ],
+  "teacherAccess": "Retreats are teacher-led with daily Dharma talks, meditation instruction, group Q&A, and private practice discussions with the teacher(s).",
+  "retreatOptions": "Year-round residential silent retreats ranging from weekend (3-night) to 6-, 9-, and 13-night formats, some open to all levels and others requiring experience.",
+  "about": "Cloud Mountain Retreat Center is a non-sectarian Buddhist center on 15 acres deep in the forests of southwest Washington, near Castle Rock. It hosts residential meditation retreats year-round, inviting qualified teachers from the Insight Meditation, Theravada, Zen, and Tibetan traditions to lead multi-day silent retreats. Its purpose is to provide simple, supportive conditions where individuals of any level of practice can hear and practice Buddhist teachings in direct contact with the natural world. Accommodations are deliberately modest single and shared rooms, small yurts, and camping sites, reflecting the center's values of simplicity and renunciation. Most retreats are held in Noble Silence, and retreatants take part in working meditations and three simple vegetarian meals daily.",
+  "technique": "Silent sitting and walking meditation, working meditation, and metta, guided by the visiting teacher's tradition.",
+  "schedule": "Retreats run in a daily rhythm of sitting and walking meditation, Dharma talks, instruction, and working meditation, mostly in Noble Silence.",
+  "cost": "Tiered fees per retreat, e.g. $830 / $630 / $530 for a 6-night retreat, with scholarships available and dana offered separately to teachers.",
+  "pricePerDay": {
+    "min": 88,
+    "max": 138,
+    "unit": "night",
+    "notes": "Derived from a 6-night retreat's tiered fees ($530 base to $830 supporter divided by 6 nights); fee covers lodging, meals, and center costs but not teacher dana.",
+    "source": "https://cloudmountain.org/all-retreats"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three simple vegetarian meals daily, mostly vegan, with lunch as the main meal and a light evening soup; non-dairy, non-wheat, and vegan options available.",
+  "workRequired": "yes",
+  "workNotes": "Retreatants take on a daily working-meditation chore (vegetable prep, dishwashing, sweeping) plus end-of-retreat room and final cleanup.",
+  "tags": [
+    "insight-vipassana",
+    "theravada",
+    "zen",
+    "tibetan-vajrayana",
+    "silent",
+    "diet-vegetarian",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Cloud Mountain Retreat Center - Home",
+      "url": "https://cloudmountain.org/"
+    },
+    {
+      "title": "Retreat Schedule",
+      "url": "https://cloudmountain.org/all-retreats"
+    },
+    {
+      "title": "During Retreats (Food, Accommodations, Working Meditations)",
+      "url": "https://cloudmountain.org/during-retreats/"
+    }
+  ],
+  "id": "cloud-mountain-retreat-center",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

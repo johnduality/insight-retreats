@@ -1,0 +1,74 @@
+{
+  "id": "dhamma-sukha",
+  "name": "Dhamma Sukha",
+  "website": "https://sukha.dhamma.org/",
+  "aka": [
+    "Central Texas Vipassana Meditation Center",
+    "Central Texas Vipassana Association",
+    "CTVA"
+  ],
+  "location": {
+    "address": "7763 Red Bird Rd, New Ulm, TX 78950",
+    "city": "New Ulm",
+    "county": "Austin County",
+    "region": "Central Texas",
+    "state": "TX",
+    "lat": 29.9371,
+    "lng": -96.4468
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka, in the tradition of Sayagyi U Ba Khin",
+  "technique": "Anapana breath awareness for the first three and a half days, followed by Vipassana body-scanning to observe sensations with equanimity, closing with metta",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "Guided by recorded audio and video instructions and discourses of S.N. Goenka, with an on-site assistant teacher available for daily group meetings and individual questions",
+  "retreatOptions": "10-day residential courses for new and old students; occasional 2-day courses; separate children's and teen Anapana courses (ages 8-17)",
+  "about": "Dhamma Sukha, also known as the Central Texas Vipassana Meditation Center, sits on 32 rural acres near New Ulm, Texas, roughly equidistant from Houston, Austin, and San Antonio. It began conducting residential courses in June 2023 after completing the first phase of construction, and offers Vipassana meditation as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin. The men's and women's residences each have single-occupancy rooms with attached bathrooms. The core offering is the 10-day residential course, during which students follow a fixed daily schedule, observe Noble Silence for most of the course, and receive instruction via recorded audio and video of Goenka along with guidance from an on-site assistant teacher. The center also periodically offers shorter 2-day courses for old students and separate Anapana meditation courses for children and teens. As with all centers in the Goenka network, courses run entirely on voluntary donations, with no fees charged for teaching, food, or lodging.",
+  "schedule": "Daily timetable from 4:00 a.m. wake-up to 9:30 p.m. lights-out, with roughly 10 hours of meditation in the hall or one's room, group sits, an evening video discourse, and Noble Silence maintained through Day 9",
+  "cost": "No fees of any kind — courses run purely on voluntary donations (dana) from past students; new students may donate at course end according to their means, with no suggested amount",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Donation-based (dana); no fixed or suggested fee.",
+    "source": "https://sukha.dhamma.org/en/course-info/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A simple, tasty vegetarian menu is provided at no charge; special diets can be accommodated with advance notice for medically diagnosed conditions or serious allergies, and no outside food is permitted on-site.",
+  "workRequired": "no",
+  "workNotes": "Students are not required to work during the 10-day course itself, aside from cleaning their own room and helping prepare the center before departure; separate voluntary Dhamma service opportunities exist for old students, including serving children's and teens' courses.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Sukha — Home",
+      "url": "https://sukha.dhamma.org/"
+    },
+    {
+      "title": "Dhamma Sukha — Course Information (timetable, cost, food, accommodations)",
+      "url": "https://sukha.dhamma.org/en/course-info/"
+    },
+    {
+      "title": "Dhamma Sukha — About the Center",
+      "url": "https://sukha.dhamma.org/en/the-centre/"
+    },
+    {
+      "title": "Dhamma Sukha — Teen and Children's Courses",
+      "url": "https://sukha.dhamma.org/en/course-info/teen-childrens-courses/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-14",
+    "reviewStatus": "unverified"
+  }
+}

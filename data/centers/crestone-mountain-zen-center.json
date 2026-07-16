@@ -1,0 +1,81 @@
+{
+  "id": "crestone-mountain-zen-center",
+  "name": "Crestone Mountain Zen Center",
+  "aka": [
+    "Dharma Sangha",
+    "CMZC"
+  ],
+  "website": "https://www.dharmasangha.org/",
+  "location": {
+    "address": "2000 East Dream Way, P.O. Box 130, Crestone, CO 81131",
+    "city": "Crestone",
+    "county": "Saguache County",
+    "region": "San Luis Valley",
+    "state": "CO",
+    "lat": 37.9997,
+    "lng": -105.6935
+  },
+  "tradition": "Soto Zen Buddhism (Suzuki Roshi / San Francisco Zen Center lineage)",
+  "technique": "Zazen (seated meditation), oryoki formal meals, sesshin and koan-informed practice, work practice",
+  "influences": [
+    "Shunryu Suzuki Roshi",
+    "Zentatsu Richard Baker Roshi (founder)",
+    "Tatsudo Nicole Baden Roshi (Abbot)",
+    "San Francisco Zen Center / Tassajara Zen Mountain Center"
+  ],
+  "teacherAccess": "Guests can attend weekly Thursday dharma talks and sit with resident teachers Abbot Tatsudo Nicole Baden Roshi and Head Teacher Zentatsu Baker Roshi (who divides his time between Crestone and Germany); closer teacher contact comes via Student Stays or Residency.",
+  "retreatOptions": "Personal retreats from 4 nights to 3 months; also weekend Zazenkai, week-long Practice/Work Practice Weeks, an annual 7-day Sesshin, and a 90-day winter Practice Period (Ango).",
+  "about": "Crestone Mountain Zen Center (Dharma Sangha) is a Soto Zen Buddhist monastic practice center on the western slope of Crestone Peak in Colorado's San Luis Valley, founded by Zentatsu Richard Baker Roshi, Dharma successor to Shunryu Suzuki Roshi of the San Francisco Zen Center and Tassajara. Led today by Abbot Tatsudo Nicole Baden Roshi, the center supports a resident monastic community following a daily schedule of zazen, oryoki meals, work practice, and study. Individual guests can book Personal Retreats of four nights to three months in a range of cabins, guest-house rooms, a yurt, or campground sites, with three vegetarian meals a day and full access to the zendo and campus trails. The center also hosts structured programs including monthly weekend Zazenkai, week-long Practice and Work Practice Weeks, an annual 7-day Sesshin, and a traditional 90-day winter Ango practice period, during which the monastery closes to unrelated guests. Longer-term options include Student Stays, a summer volunteer/work-exchange program, and year-minimum monastic Residency.",
+  "schedule": "Guest season runs roughly May-October with monthly weekend Zazenkai and periodic practice weeks; the center closes to outside guests for the 90-day winter Practice Period (Feb-Apr) and holds its annual 7-day Sesshin in November/December.",
+  "cost": "Personal retreats are priced per accommodation type with a 3-4 night minimum, from about $225 total (camping) to about $660 total (Edge Cabin) for a 3-night stay, meals included; discounts are offered for longer stays, and room/board stipends apply to longer residency tracks.",
+  "pricePerDay": {
+    "min": 75,
+    "max": 220,
+    "unit": "night",
+    "notes": "Derived from retreat.guru listed personal-retreat totals for a 3-night minimum stay (Camping $225 = $75/night; Edge Cabin $660 = $220/night); includes 3 vegetarian meals/day.",
+    "source": "https://dharmasangha.secure.retreat.guru/program/personal-retreats-winter-spring-2026/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian meals per day included for guests (carry-out style available); no meals served on Mondays.",
+  "workRequired": "no",
+  "workNotes": "No work required for Personal Retreat guests; residents, students, and summer volunteers participate in daily work periods as part of monastic life.",
+  "tags": [
+    "zen",
+    "long-retreats",
+    "meals-included",
+    "monastic-community",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Crestone Mountain Zen Center CMZC - Home",
+      "url": "https://www.dharmasangha.org/"
+    },
+    {
+      "title": "Personal Retreats at CMZC",
+      "url": "https://www.dharmasangha.org/visit-and-stay/personal-retreats"
+    },
+    {
+      "title": "Personal Retreats-2026 program page",
+      "url": "https://www.dharmasangha.org/progams/personal-retreats-2026"
+    },
+    {
+      "title": "Accommodations",
+      "url": "https://www.dharmasangha.org/about-us/accommodations"
+    },
+    {
+      "title": "Living the Monastic Life",
+      "url": "https://www.dharmasangha.org/visit-and-stay/living-the-monastic-life"
+    },
+    {
+      "title": "Personal Retreats-2026 booking/pricing (retreat.guru)",
+      "url": "https://dharmasangha.secure.retreat.guru/program/personal-retreats-winter-spring-2026/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

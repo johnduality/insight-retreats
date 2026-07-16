@@ -1,0 +1,71 @@
+{
+  "name": "Northwest Vipassana Center",
+  "website": "https://kunja.dhamma.org/",
+  "aka": [
+    "Dhamma Kuñja",
+    "NW Vipassana",
+    "Northwest Vipassana Association",
+    "Dhamma Kunja"
+  ],
+  "location": {
+    "city": "Onalaska",
+    "region": "Southwest Washington",
+    "state": "WA",
+    "lat": 46.550932,
+    "lng": -122.6824553
+  },
+  "tradition": "Vipassana as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin.",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin",
+    "Theravada Buddhism"
+  ],
+  "teacherAccess": "Courses are led via audio and video recordings of S.N. Goenka's instructions and discourses, with resident assistant teachers available for brief daily questions.",
+  "retreatOptions": "Residential 10-day introductory courses, plus Satipatthana Sutta, long courses (20/30/45-day), short old-student courses, and children's/teens' courses.",
+  "about": "Dhamma Kuñja (Pali for 'Grove of Dhamma') is the Northwest Vipassana Center, situated on 50 acres in rural Onalaska, Washington, about two hours south of Seattle and 1.5 hours north of Portland. Established in 1991, it offers training in Vipassana meditation as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin. The core offering is the residential 10-day course, in which the technique is taught step-by-step through recorded instruction. Facilities include a meditation hall, accommodations, dining facilities, and walking paths. All courses are run solely on a donation basis, funded by those who have completed a course and wish to give others the same opportunity.",
+  "technique": "Vipassana as taught by S.N. Goenka, beginning with Anapana (observation of breath) and progressing to observation of bodily sensations.",
+  "schedule": "Structured daily timetable with roughly a 4am wake-up bell and about 10.5 hours of sitting meditation, held throughout in Noble Silence.",
+  "cost": "No charge; courses are run solely on a donation (dana) basis, funded by voluntary gifts from those who have completed a course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Strictly donation-based (dana); no charge for the course, food, or lodging. Donations accepted only from students who have completed at least one course.",
+    "source": "https://www.dhamma.org/en-US/schedules/schkunja"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are provided; new students receive breakfast and lunch with only tea or fruit in the evening (no dinner).",
+  "workRequired": "no",
+  "workNotes": "No work required during courses; optional service periods and old-student House & Garden Days involve voluntary work.",
+  "tags": [
+    "goenka",
+    "theravada",
+    "silent",
+    "long-retreats",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Northwest Vipassana Center – Dhamma Kuñja (official site)",
+      "url": "https://kunja.dhamma.org/"
+    },
+    {
+      "title": "About Dhamma Kuñja",
+      "url": "https://kunja.dhamma.org/northwest-vipassana-center/"
+    },
+    {
+      "title": "Course Schedule – Dhamma Kuñja (dhamma.org)",
+      "url": "https://www.dhamma.org/en-US/schedules/schkunja"
+    }
+  ],
+  "id": "northwest-vipassana-center",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

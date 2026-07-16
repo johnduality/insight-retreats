@@ -1,0 +1,89 @@
+{
+  "id": "kadampa-retreat-center-grand-canyon",
+  "name": "International Kadampa Retreat Center Grand Canyon",
+  "aka": [
+    "IKRC",
+    "IKRC Grand Canyon",
+    "Kadampa World Peace Temple (Williams, AZ)",
+    "Meditation and Retreat Buddhist Temple"
+  ],
+  "website": "https://meditationinnorthernarizona.org/",
+  "location": {
+    "city": "Williams",
+    "region": "Northern Arizona",
+    "state": "AZ",
+    "lat": 35.2627,
+    "lng": -112.0577
+  },
+  "tradition": "New Kadampa Tradition (Mahayana Buddhism, Tibetan Gelug-derived)",
+  "technique": "Lamrim (stages-of-the-path) meditation, guided analytical and placement meditation, and Highest Yoga Tantra sadhana practice",
+  "influences": [
+    "Geshe Kelsang Gyatso",
+    "Je Tsongkhapa",
+    "Atisha",
+    "New Kadampa Tradition - International Kadampa Buddhist Union (NKT-IKBU)"
+  ],
+  "teacherAccess": "Retreats and courses are led in person by resident and visiting Kadampa teachers (e.g. Gen Kelsang Rinzin, Gen Kelsang Demo, Gen Kelsang Lekma, Kadam Morten Clausen), with regular Q&A; members can also join sessions via livestream.",
+  "retreatOptions": "Weekend introductory retreats (2-3 days, e.g. Peaceful Pines), week-long thematic retreats (e.g. Joyful Land Retreat), a multi-week annual Mountain Retreat (roughly 6 weeks each January-February), plus daily drop-in classes and self-guided/independent stays.",
+  "schedule": "Year-round calendar of weekend and week-long retreats and courses (see the published Year at a Glance), an annual Mountain Retreat each Jan-Feb, and ongoing Sunday classes and daily guided meditation.",
+  "cost": "Lodging is billed per night separate from course/teaching fees: $20-$105/night for accommodation (camping to private single room, breakfast included), plus a course fee per retreat (typically $10-$30/day); a 25% deposit is required to confirm booking.",
+  "pricePerDay": {
+    "min": 20,
+    "max": 105,
+    "unit": "night",
+    "notes": "Site-published per-person nightly lodging rates: seasonal camping $20, dormitory $30, shared 3-4 person room $50, private double room $125/room (~$62.50/person), private single room $105; breakfast included, lunch/dinner $10 each optional. Retreat teaching fees are billed separately, e.g. $105 for the 7-day Oct 2026 Joyful Land Retreat week (~$15/day) and $60 for the 3-day Jul 2026 Peaceful Pines weekend (~$20/day).",
+    "source": "https://meditationinnorthernarizona.org/accommodations/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Self-service vegetarian continental breakfast included with lodging; vegan, wheat-free, and vegan/wheat-free options available. Lunch and dinner available for $10 each. Meat, alcohol, smoking, and intoxicants are not permitted on the premises.",
+  "workRequired": "partial",
+  "workNotes": "Paying retreat and course guests are not required to work. A separate volunteer work-exchange track offers free dormitory lodging and three vegetarian meals a day in exchange for about 5 hours of daily service (2 days off/week); typical stays run 2 weeks, extendable up to 2 months.",
+  "about": "The International Kadampa Retreat Center Grand Canyon (IKRC GC) is a residential Buddhist retreat center and Temple for World Peace in Williams, Arizona, part of the New Kadampa Tradition - International Kadampa Buddhist Union founded by Geshe Kelsang Gyatso Rinpoche. Sited at about 7,000 feet between Williams and Flagstaff, its Temple - the fifth of the NKT's International Temples, modeled on the mandala of Buddha Heruka - anchors a year-round program of weekend and week-long meditation retreats, teachings on Lamrim and tantra, daily classes, and an annual multi-week Mountain Retreat each January-February. Guests can stay in dormitory, shared, or private rooms, or seasonal camping, with a vegetarian breakfast included and optional lunch and dinner; a volunteer work-exchange program also offers free room and board in exchange for daily service. Teachings are delivered in person by resident and visiting Kadampa teachers, with livestream access for members who cannot attend in person. The high-desert forest setting near historic Route 66 draws both committed Buddhist practitioners and newcomers seeking a quiet retreat.",
+  "tags": [
+    "tibetan-vajrayana",
+    "family-friendly",
+    "long-retreats",
+    "camping",
+    "diet-vegetarian",
+    "diet-vegan",
+    "fixed-fee",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "IKRC Grand Canyon - Accommodations",
+      "url": "https://meditationinnorthernarizona.org/accommodations/"
+    },
+    {
+      "title": "IKRC Grand Canyon - Year at a Glance (2026 retreat calendar)",
+      "url": "https://meditationinnorthernarizona.org/year-at-a-glance/"
+    },
+    {
+      "title": "IKRC Grand Canyon - Kadampa Buddhism & Founder",
+      "url": "https://meditationinnorthernarizona.org/kadampa-buddhism/"
+    },
+    {
+      "title": "IKRC Grand Canyon - Our Story",
+      "url": "https://meditationinnorthernarizona.org/about-us/"
+    },
+    {
+      "title": "IKRC Grand Canyon - Volunteering",
+      "url": "https://meditationinnorthernarizona.org/volunteering/"
+    },
+    {
+      "title": "IKRC Grand Canyon - Joyful Land Retreat 2026 (sample retreat pricing)",
+      "url": "https://meditationinnorthernarizona.org/events/joyful-land-retreat-2026-the-oral-instructions-of-mahamudra/"
+    },
+    {
+      "title": "IKRC Grand Canyon - Peaceful Pines: Living Lightly (sample weekend retreat pricing)",
+      "url": "https://meditationinnorthernarizona.org/events/peaceful-pines-living-lightly/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

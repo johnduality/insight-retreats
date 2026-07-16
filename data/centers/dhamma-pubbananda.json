@@ -1,0 +1,83 @@
+{
+  "id": "dhamma-pubbananda",
+  "name": "Dhamma Pubbananda",
+  "aka": [
+    "Mid-Atlantic Vipassana Association",
+    "MAVA",
+    "Pubbananda"
+  ],
+  "website": "https://pubbananda.dhamma.org/",
+  "location": {
+    "address": "2901 Green St, Claymont, DE 19703, USA",
+    "city": "Claymont",
+    "county": "New Castle County",
+    "region": "Northern Delaware",
+    "state": "DE",
+    "lat": 39.8000307,
+    "lng": -75.4691743
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka (Sayagyi U Ba Khin tradition)",
+  "technique": "Anapana (breath awareness) and Vipassana (systematic body-scanning meditation), taught via S.N. Goenka's recorded audio and video instructions.",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "Certified assistant teachers guide students through Goenka's recorded instructions, with a few in-person meetings and limited time for questions during the course.",
+  "retreatOptions": "Mainly standard 10-day residential courses, plus 1-3 day short courses, occasional 20-day old-student courses, and separate children's (8-12) and teens' (13-17) Anapana courses.",
+  "about": "Dhamma Pubbananda, meaning \"Joy of the East,\" is a Vipassana meditation center on 13 acres in a quiet residential neighborhood of Claymont, Delaware, and is notable as the first urban Vipassana center in North America. The property was purchased in 2013 by the Mid-Atlantic Vipassana Association and opened its first building in 2014, with current capacity for 60 students and 14 servers across roughly 20 ten-day courses a year, alongside old-student and youth programs. As with all centers in the Goenka tradition, it is an all-volunteer, donor-funded 501(c)(3) nonprofit that teaches the technique free of charge through Goenka's recorded instructions and evening video discourses. Accommodations are a mix of shared dormitory rooms and a growing number of single rooms with en suite bathrooms as the center's masterplan is completed in phases. Students observe Noble Silence through the ninth of the ten days while following a structured meditation schedule and eating a simple vegetarian menu prepared by volunteer servers. Its central Mid-Atlantic location gives it easy access by car, train, and bus from Philadelphia, Baltimore, Washington DC, and New York.",
+  "schedule": "Daily schedule runs roughly 4:00 a.m. to 9:00 p.m. with about 10 hours of meditation and an evening video discourse by S.N. Goenka; Noble Silence is kept through day nine of the ten-day course.",
+  "cost": "No charge for teaching, food, or lodging; courses run strictly on voluntary dana from students who have completed at least one prior course, given only after finishing a course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Strictly donation-based with no suggested amount; first-time students may give a donation only at the end of the course, based on their own means, and donations are accepted only from those who have already completed a course.",
+    "source": "https://pubbananda.dhamma.org/what-to-expect/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A simple vegetarian menu is provided to all students; no outside food or special requests are accommodated except for documented medical conditions.",
+  "workRequired": "no",
+  "workNotes": "Course students are not required to work; the center is staffed by separate volunteer \"servers,\" though old students may separately apply for dedicated service periods.",
+  "tags": [
+    "goenka",
+    "silent",
+    "long-retreats",
+    "family-friendly",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Pubbananda - Home",
+      "url": "https://pubbananda.dhamma.org/"
+    },
+    {
+      "title": "About Us (history, capacity, masterplan)",
+      "url": "https://pubbananda.dhamma.org/about-us/"
+    },
+    {
+      "title": "What to Expect on a Course (donation basis, accommodations, food)",
+      "url": "https://pubbananda.dhamma.org/what-to-expect/"
+    },
+    {
+      "title": "Getting Here (address, directions)",
+      "url": "https://pubbananda.dhamma.org/getting-here/"
+    },
+    {
+      "title": "Children's and Teens' Courses",
+      "url": "https://pubbananda.dhamma.org/childrens-teens-courses/"
+    },
+    {
+      "title": "Dhamma Pubbananda course schedule (dhamma.org), showing 20-Day old-student course",
+      "url": "https://www.dhamma.org/en-US/schedules/schpubbananda"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

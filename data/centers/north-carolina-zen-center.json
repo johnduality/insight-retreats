@@ -1,0 +1,69 @@
+{
+  "id": "north-carolina-zen-center",
+  "name": "North Carolina Zen Center",
+  "aka": [
+    "Sosen-ji"
+  ],
+  "website": "https://nczencenter.org/",
+  "location": {
+    "address": "390 Ironwood",
+    "city": "Pittsboro",
+    "region": "Research Triangle",
+    "state": "NC",
+    "lat": 35.72,
+    "lng": -79.18
+  },
+  "tradition": "Rinzai Zen Buddhism",
+  "technique": "Zazen (seated meditation), kinhin (walking meditation), chanting, teisho, dokusan, and samu (work practice)",
+  "influences": [
+    "Rinzai Zen lineage",
+    "Japanese Zen Buddhism"
+  ],
+  "teacherAccess": "One-on-one dokusan (private interviews) with the resident teacher offered during sesshins and by arrangement for residents.",
+  "retreatOptions": "Four seasonal sesshins/year, 3 nights (winter/summer, Thu-Sun) or 5 nights (spring/autumn, Tue-Sun); ongoing residential practice program; self-catered private/individual retreats.",
+  "about": "The North Carolina Zen Center (Sosen-ji) is a Rinzai Zen Buddhist practice and retreat center on 15 wooded acres in Pittsboro, North Carolina, just south of Chapel Hill in the Research Triangle. The center holds four seasonal sesshins each year: shorter three-night retreats in winter and summer (Thursday to Sunday) and longer five-night retreats in spring and autumn (Tuesday to Sunday), built around zazen, chanting, a mid-morning work period, teisho (dharma talks), and dokusan (private interviews) with the teacher. Guests stay in one of seven dormitory rooms (21 beds total) or a separate guest room, with camping also available, and all sesshin meals are vegetarian (not necessarily vegan). Beyond scheduled sesshins, NCZC offers an ongoing residential practice program for students with outside work or school who live on-site and contribute weekly caretaking and light work, as well as self-catered private/individual retreats for solitary practice. Sesshin costs $60 per night for non-members ($55 for members) when reserved at least two weeks in advance, rising to $65 per night after that deadline.",
+  "schedule": "Sesshin days run roughly 5:00am wake-up through 9:00pm, with zazen, chanting, a mid-morning work period, teisho, meals, and dokusan; weekly practice meets Wednesday evenings and Sunday mornings year-round, in person and on Zoom.",
+  "cost": "$60/night for non-members ($55/night for members) if reserved 2+ weeks ahead; $65/night if booked later; deposit of half the expected stay is due to reserve a space.",
+  "pricePerDay": {
+    "min": 55,
+    "max": 65,
+    "unit": "night",
+    "notes": "Sesshin per-night rate published on the Zen Retreats page: $55/night for members and $60/night for non-members if booked 2+ weeks ahead; $65/night after that deadline. Deposit equals half the expected stay cost.",
+    "source": "https://nczencenter.org/zen-retreats-at-sosen-ji/"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "All sesshin meals are vegetarian (eggs and dairy may be included, not necessarily vegan); guests on private/individual retreats cook for themselves.",
+  "workRequired": "partial",
+  "workNotes": "Sesshin schedule includes a mandatory mid-morning work period (samu) and residents contribute weekly caretaking/light work; guests on private/individual retreats are not required to work.",
+  "tags": [
+    "zen",
+    "silent",
+    "self-guided",
+    "camping",
+    "work-practice",
+    "fixed-fee",
+    "meals-included",
+    "diet-vegetarian",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "North Carolina Zen Center - Home",
+      "url": "https://nczencenter.org/"
+    },
+    {
+      "title": "Zen Retreats - North Carolina Zen Center",
+      "url": "https://nczencenter.org/zen-retreats-at-sosen-ji/"
+    },
+    {
+      "title": "Residential Practice - North Carolina Zen Center",
+      "url": "https://nczencenter.org/residential-practice/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-14",
+    "reviewStatus": "unverified"
+  }
+}

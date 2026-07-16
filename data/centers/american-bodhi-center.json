@@ -1,0 +1,69 @@
+{
+  "id": "american-bodhi-center",
+  "name": "American Bodhi Center",
+  "aka": [],
+  "location": {
+    "city": "Hempstead",
+    "region": "Houston area",
+    "state": "TX",
+    "lat": 30.0974,
+    "lng": -96.0783
+  },
+  "tradition": "Chinese Mahayana (Chan/Pure Land) monastic retreat center with a dedicated Insight Meditation retreat program.",
+  "technique": "Sitting and walking meditation paired with dharma talks and discussion; the Insight Meditation program emphasizes mindfulness of breath and body in the Theravada vipassana style.",
+  "influences": [
+    "Texas Buddhist Association / Jade Buddha Temple",
+    "Chan / Pure Land Mahayana lineage",
+    "Insight Meditation Houston (Theravada-trained teachers)"
+  ],
+  "teacherAccess": "Retreats and Saturday sittings led by resident monastics (e.g. Ven. Katapunno) together with visiting Insight Meditation teachers from Insight Meditation Houston.",
+  "retreatOptions": "Residential retreats of flexible length (3-day minimum recommended) in on-site gender-specific dormitories, including multi-day Insight Meditation retreats of up to 7 days.",
+  "schedule": "Daily schedule of sitting and walking meditation blocks with dharma talk and group discussion; longer retreats include periods of silence.",
+  "cost": "Roughly $30-$40 per day covering meals and dormitory lodging plus a contribution to the center and teachers; scholarships and hardship exceptions available.",
+  "pricePerDay": {
+    "min": 30,
+    "max": 40,
+    "unit": "night",
+    "notes": "Approximate daily fee historically quoted at $30-$40/day, covering vegetarian meals and dormitory lodging plus a contribution to the retreat center and teachers; 50% scholarships available for students/financial need, and no one is turned away for financial hardship.",
+    "source": "https://en.americanbodhicenter.org/programs/meditation-retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "no",
+  "workNotes": "No mandatory work period for retreatants; volunteering is invited and especially encouraged for those seeking fee assistance.",
+  "foodNotes": "Vegetarian meals are served to retreat participants and at center events, following Chinese Mahayana Buddhist dietary practice, and are included in the daily retreat fee.",
+  "about": "American Bodhi Center is a 515-acre retreat property in Waller County near Hempstead, Texas, run by the Texas Buddhist Association, the Chinese Mahayana (Chan/Pure Land) organization that also operates Jade Buddha Temple in Houston. Opened in 2009, the site includes log houses, gender-specific 40-bed dormitories, a large meditation hall, and dining and library facilities set among rolling hills, streams, and pine forest. Alongside its Chinese Buddhist programs, the center hosts a dedicated Insight Meditation program, including Saturday sittings led by resident monastics and residential retreats of flexible length (a 3-day minimum is recommended) up to 7-day retreats organized with Insight Meditation Houston. Daily fees have historically been in the range of about $30-$40 per day, covering vegetarian meals and dormitory lodging plus a contribution to the retreat center and teachers, with reduced-cost scholarships available and no one turned away for financial hardship. There is no mandatory work period, though volunteering is welcomed, particularly from those seeking fee assistance.",
+  "tags": [
+    "mahayana",
+    "insight-vipassana",
+    "long-retreats",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "en.americanbodhicenter.org — Home",
+      "url": "https://en.americanbodhicenter.org/"
+    },
+    {
+      "title": "Meditation Retreats",
+      "url": "https://en.americanbodhicenter.org/programs/meditation-retreats/"
+    },
+    {
+      "title": "Faq",
+      "url": "https://en.americanbodhicenter.org/contact-us/faq/"
+    },
+    {
+      "title": "Texas Buddhist Association",
+      "url": "https://en.wikipedia.org/wiki/Texas_Buddhist_Association"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

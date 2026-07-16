@@ -1,0 +1,75 @@
+{
+  "id": "mount-madonna-center",
+  "name": "Mount Madonna Center",
+  "website": "https://mountmadonna.org/",
+  "aka": [
+    "Mount Madonna",
+    "MMC",
+    "Mount Madonna Center for the Creative Arts and Sciences"
+  ],
+  "location": {
+    "city": "Watsonville",
+    "region": "Santa Cruz County",
+    "state": "CA",
+    "lat": 37.0166,
+    "lng": -121.7147
+  },
+  "tradition": "Hindu/Yoga (Classical Ashtanga Yoga in the lineage of Baba Hari Dass)",
+  "about": "Mount Madonna Center is a yoga and meditation retreat center and intentional community set on 380 acres of redwoods and meadows on a mountain summit overlooking Monterey Bay, founded in 1978 and inspired by the teachings of master yogi Baba Hari Dass. It offers classical Ashtanga Yoga (the eight-limbed path) rooted in the Yoga Sutras, Bhagavad Gita and other Vedic texts, alongside a College of Ayurveda and School of Yoga. Guests can join multi-day annual group retreats (spring, summer, winter/New Year's and a fall silent meditation retreat), self-guided personal overnight retreats, and a wide range of yoga and Ayurveda programs and workshops. Daily life includes pranayama, meditation, asana, kirtan, and optional devotional practice at the on-site Sankat Mochan Hanuman Temple. Three vegetarian meals a day are served in the community dining hall, and a Wellness Center offers Ayurvedic and massage therapies for an additional fee.",
+  "influences": [
+    "Baba Hari Dass",
+    "Ashtanga Yoga (Patanjali)",
+    "Vedic and classical yoga philosophy"
+  ],
+  "technique": "Classical Ashtanga (eight-limbed) Yoga: pranayama, meditation, asana, and kirtan in the Baba Hari Dass lineage.",
+  "teacherAccess": "Guided group retreats led by experienced teachers with talks and dialogue; personal retreats are self-directed with optional drop-in yoga/meditation classes.",
+  "retreatOptions": "Self-guided personal stays (min 2 nights, extended stays available) and 4-5 night annual group and silent meditation retreats.",
+  "schedule": "Optional daily rhythm of morning and afternoon yoga/meditation classes, temple arati, and communal vegetarian meals.",
+  "cost": "Personal retreats roughly $93-$303 per person per night by lodging type (meals and facilities included); group retreat packages priced separately.",
+  "pricePerDay": {
+    "min": 93,
+    "max": 303,
+    "unit": "night",
+    "notes": "Per person per night for a self-guided Personal Retreat, including lodging, three vegetarian meals, and facilities use; $93 tent/vehicle site up to $303 private queen/yurt.",
+    "source": "https://mmc.secure.retreat.guru/program/personal-retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian meals daily (Sun-Fri; brunch and dinner on Saturdays), plus a tea bar and breads/spreads between meals.",
+  "workRequired": "no",
+  "workNotes": "No work required of retreat guests; a separate rotational volunteer program exists for longer-term stays.",
+  "sources": [
+    {
+      "title": "Mount Madonna - Home",
+      "url": "https://mountmadonna.org/"
+    },
+    {
+      "title": "Personal Retreats",
+      "url": "https://mountmadonna.org/visit/personal-retreats/"
+    },
+    {
+      "title": "Annual Yoga Retreats",
+      "url": "https://mountmadonna.org/visit/annual-yoga-retreats/"
+    },
+    {
+      "title": "Personal Retreat booking and rates",
+      "url": "https://mmc.secure.retreat.guru/program/personal-retreats/"
+    }
+  ],
+  "tags": [
+    "yoga-hindu",
+    "self-guided",
+    "silent",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "family-friendly",
+    "camping",
+    "no-work-required"
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "temple-forest-monastery",
+  "name": "Temple Forest Monastery",
+  "aka": [
+    "Jetavana Monastery",
+    "Jetavana Monastic Community"
+  ],
+  "website": "https://forestmonastery.org/",
+  "location": {
+    "city": "Temple",
+    "region": "Monadnock Region NH",
+    "state": "NH",
+    "lat": 42.8188,
+    "lng": -71.8513
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition (lineage of Ajahn Chah)",
+  "technique": "Anapanasati (mindfulness of breathing), monastic meditation practice, chanting and daily puja within the Thai Forest Tradition",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Sumedho",
+    "Thai Forest Tradition",
+    "Ajahn Chah's Western monastic lineage (Amaravati/Abhayagiri network)"
+  ],
+  "teacherAccess": "Resident monks (the Sangha) lead twice-daily group meditation and chanting; guests can request a Saturday afternoon tea and Q&A with a monk, Saturday Dhamma talks, and personal guidance from the Abbot or Guest Monk.",
+  "retreatOptions": "Overnight stays for laypeople willing to follow the monastic routine, minimum three nights (first-time guests may stay up to one or two weeks), living alongside the monastic community and observing the Eight Precepts; available April through December.",
+  "about": "Temple Forest Monastery, also known as Jetavana, is a Theravada Buddhist monastery in the Thai Forest Tradition of Ajahn Chah, established in 2014 on 250 acres of farmland and forest at the foot of a mountain in Temple, New Hampshire. It is a monastery devoted to training monks rather than a retreat center, but it welcomes laypeople to stay as overnight guests and practice alongside the monastic community for a minimum of three nights. Guests follow the same daily schedule as the monks, including 5 a.m. and 7 p.m. group meditation, a single main meal offered at 11 a.m., and a morning work period, and are asked to observe the Eight Precepts for the duration of their stay. In keeping with Theravada Forest Tradition custom, there is no charge for anything at the monastery, which is supported entirely by voluntary donations of food, money, and labor.",
+  "schedule": "Daily group meditation at 5 a.m. and 7 p.m. year-round; overnight guest stays accepted April through December, with Saturday Dhamma talks and a Sunday afternoon meditation workshop.",
+  "cost": "No charge; entirely dana (voluntary donation)-based, including lodging and food.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Strictly donation-based with no set fee or suggested amount for stays; monastery is supported entirely by voluntary dana.",
+    "source": "https://forestmonastery.org/overnight-stays"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "One main meal is offered daily at 11 a.m., consisting of whatever food is donated by supporters that day, in keeping with traditional Theravada alms practice; no meals after midday.",
+  "workRequired": "yes",
+  "workNotes": "Guests are expected to participate fully in the daily routine, including a morning chore period and a longer work period each day.",
+  "tags": [
+    "theravada",
+    "monastic-community",
+    "dana-donation",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Temple Forest Monastery - Home",
+      "url": "https://forestmonastery.org/"
+    },
+    {
+      "title": "Overnight Stays",
+      "url": "https://forestmonastery.org/overnight-stays"
+    },
+    {
+      "title": "Food Offering",
+      "url": "https://forestmonastery.org/food-offering"
+    },
+    {
+      "title": "Visiting",
+      "url": "https://forestmonastery.org/visiting"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

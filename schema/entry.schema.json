@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://insight-retreats.org/schema/entry.schema.json",
+  "title": "Retreat Center Entry",
+  "description": "Canonical shape for a single retreat center entry in the Insight Retreats catalogue. One JSON file per center lives in /data/centers/<id>.json and is aggregated into /public/data/centers.json by scripts/build-data.mjs.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "location", "tradition", "about", "tags", "meta"],
+  "properties": {
+    "id": { "type": "string", "description": "URL-safe slug, unique across the catalogue.", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "name": { "type": "string", "description": "Official center name." },
+    "aka": { "type": "array", "description": "Alternate names, used for de-duplication.", "items": { "type": "string" } },
+    "website": { "type": "string", "description": "Primary official URL." },
+    "location": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["city", "state", "lat", "lng"],
+      "properties": {
+        "address": { "type": "string" },
+        "city": { "type": "string" },
+        "county": { "type": "string" },
+        "region": { "type": "string", "description": "Coarse geographic bucket for the list filter, e.g. 'Bay Area', 'Southern California'." },
+        "state": { "type": "string", "description": "Two-letter US state code." },
+        "lat": { "type": "number", "minimum": -90, "maximum": 90 },
+        "lng": { "type": "number", "minimum": -180, "maximum": 180 }
+      }
+    },
+    "tradition": { "type": "string", "description": "Short lineage/tradition label." },
+    "technique": { "type": "string", "description": "CONCISE primary practice(s), a short phrase list." },
+    "influences": { "type": "array", "description": "Founders, teachers, or lineages.", "items": { "type": "string" } },
+    "teacherAccess": { "type": "string", "description": "CONCISE one line on access to teachers during retreats (e.g. daily Dharma talks, small-group meetings, one-on-one interviews, or none)." },
+    "retreatOptions": { "type": "string", "description": "CONCISE one line on the range of retreat options / possible lengths of stay (e.g. daylongs; 5-9 night silent retreats; month-long)." },
+    "about": { "type": "string", "description": "The one and only paragraph: plain-language overview (~3-6 sentences)." },
+    "description": { "type": "string", "description": "Deprecated: keep entries concise; do not use long-form prose beyond `about`." },
+    "schedule": { "type": "string", "description": "CONCISE one-line summary of the retreat/program cadence." },
+    "cost": { "type": "string", "description": "CONCISE one-line pricing summary: capture the model (dana/donation, sliding scale, fixed fee)." },
+    "pricePerDay": {
+      "type": "object",
+      "description": "REQUIRED where determinable: a representative per-day (per-night) dollar rate for a STANDARD multi-day residential retreat (use a weeklong retreat option where possible). Base it on the ordinary published tiers (e.g. basic to standard/sustainer), dividing the total by the number of nights. IGNORE scholarship/subsidised rates, donation floors, and one-time or day-only events. Use null min/max only for centers that are strictly donation-only with no suggested amount.",
+      "additionalProperties": false,
+      "properties": {
+        "min": { "type": ["number", "null"], "description": "Low end of the per-night USD rate (e.g. the basic, non-scholarship tier)." },
+        "max": { "type": ["number", "null"], "description": "High end of the per-night USD rate (e.g. the standard/sustainer tier)." },
+        "unit": { "type": "string", "enum": ["night", "day"], "default": "night" },
+        "notes": { "type": "string", "description": "How the figure was derived, e.g. '9-night retreat: Basic $2,205 to Sustainer $3,330'." },
+        "source": { "type": "string", "description": "URL of the specific retreat/registration page the rate came from." }
+      }
+    },
+    "foodServed": { "$ref": "#/$defs/triState", "description": "Whether meals are provided to retreatants." },
+    "foodType": { "type": "string", "enum": ["vegan", "vegetarian", "omnivore", "mixed", "unknown"], "description": "Dietary style of meals served: vegan, vegetarian, omnivore (meat served), mixed, or unknown." },
+    "foodNotes": { "type": "string", "description": "SHORT detail on meals." },
+    "workRequired": { "$ref": "#/$defs/triState", "description": "Whether guests are expected to do work/service." },
+    "workNotes": { "type": "string", "description": "SHORT detail on the work expectation." },
+    "tags": { "type": "array", "description": "Controlled tags from schema/tags.json.", "items": { "type": "string" }, "uniqueItems": true },
+    "sources": {
+      "type": "array",
+      "description": "URLs the entry was written from, for verifiability.",
+      "items": { "type": "object", "required": ["url"], "properties": { "title": { "type": "string" }, "url": { "type": "string" } } }
+    },
+    "meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["generatedBy", "lastUpdated"],
+      "properties": {
+        "generatedBy": { "type": "string", "description": "e.g. 'harness/1.0 (claude)' or 'human'." },
+        "lastUpdated": { "type": "string", "format": "date", "description": "ISO date the entry was last written/verified." },
+        "reviewStatus": { "type": "string", "enum": ["unverified", "auto-verified", "human-reviewed"], "default": "unverified" }
+      }
+    }
+  },
+  "$defs": {
+    "triState": { "type": "string", "enum": ["yes", "no", "partial", "unknown"], "description": "Tri-state value so entries can say 'depends' or 'unknown'." }
+  }
+}

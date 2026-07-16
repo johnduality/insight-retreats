@@ -1,0 +1,66 @@
+{
+  "id": "sangha-house-nola",
+  "name": "Sangha House NOLA",
+  "aka": [
+    "Sangha House New Orleans"
+  ],
+  "website": "https://www.sanghahousenola.org/",
+  "location": {
+    "address": "2004 Lapeyrouse St, New Orleans, LA 70116",
+    "city": "New Orleans",
+    "region": "Greater New Orleans",
+    "state": "LA",
+    "lat": 29.972,
+    "lng": -90.0721
+  },
+  "tradition": "Buddhist meditation center rooted in the Plum Village (Thich Nhat Hanh) tradition, led by a teacher holding both Theravada and Mahayana monastic ordination",
+  "influences": [
+    "Thich Nhat Hanh / Plum Village tradition",
+    "Venerable Clear Grace Dayananda (founder/abbess)"
+  ],
+  "about": "Sangha House NOLA is a Buddhist meditation, retreat, and community temple in the Seventh Ward of New Orleans, founded by Venerable Clear Grace Dayananda, a monastic ordained as a novice in the Plum Village Vietnamese Zen tradition of Thich Nhat Hanh and later given higher Bhikkhuni ordination carrying both Theravada and Mahayana lineages. The temple offers residential contemplative stays ranging from single overnight visits and self-directed retreats of up to about 30 days, to longer residencies of one to six months, including an annual multi-month Rains Retreat modeled on the traditional monastic vassa. Retreatants share in simple vegetarian meals and a rhythm of sitting meditation, walking meditation, and Dharma study, set within the temple's regular schedule of Saturday morning silent sitting and Thursday evening Dharma/wisdom talks. All stays and retreats are offered on a sliding-scale, pay-what-you-can donation basis, with assistance available so that no one is turned away for inability to pay. The center operates as a gift-economy community space, welcoming practitioners of all backgrounds into its own temple building rather than renting outside venues.",
+  "technique": "Sitting and walking meditation, mindfulness practice, Dharma study, and community/service practice in the Plum Village style, informed by Theravada-influenced silent sitting.",
+  "teacherAccess": "Founder/abbess Venerable Clear Grace Dayananda and the Core Group of practitioners lead retreats and weekly Dharma/wisdom talks, and provide guidance during longer residential stays.",
+  "retreatOptions": "Self-directed short-term stays from a single day up to about 30 nights, themed retreats, and long-term residencies of 1-6 months, including an annual multi-month Rains Retreat.",
+  "schedule": "Regular temple hours include Saturday morning silent sitting (8-9am) and Thursday evening Dharma/wisdom talks (6-8pm) followed by a shared meal, with a Community Day of Mindfulness every third Saturday and a Core Group potluck monthly; onsite retreatants follow a self-directed daily rhythm of practice within this structure.",
+  "cost": "Sliding-scale, pay-what-you-can suggested donations for all retreats and stays; sliding-scale assistance is offered so no one is turned away for inability to pay.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals provided during retreats and stays are simple, nourishing, and vegetarian.",
+  "workRequired": "unknown",
+  "workNotes": "Retreats are described as self-directed; volunteering with temple upkeep, garden, and retreat logistics is offered as a separate way to give back rather than a stated requirement for retreatants.",
+  "tags": [
+    "plum-village",
+    "silent",
+    "long-retreats",
+    "self-guided",
+    "diet-vegetarian",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Sangha House NOLA - Home",
+      "url": "https://www.sanghahousenola.org/"
+    },
+    {
+      "title": "Sangha House NOLA | HandsOn New Orleans (agency profile, address & description)",
+      "url": "https://volunteer.handsonneworleans.org/agency/detail/?agency_id=181483"
+    },
+    {
+      "title": "Retreats & Stays - Sangha House NOLA",
+      "url": "https://www.sanghahousenola.org/retreats-stays/"
+    },
+    {
+      "title": "Rains Retreat - Sangha House NOLA (Givebutter campaign)",
+      "url": "https://givebutter.com/Rainsretreat"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

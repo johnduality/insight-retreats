@@ -1,0 +1,59 @@
+{
+  "name": "Tara Meditation Center",
+  "website": "https://www.sakya.org/resources/retreat-center/",
+  "aka": [
+    "Tara Meditation Center at Earth Sanctuary",
+    "Sakya Monastery Retreat Center",
+    "Earth Sanctuary House"
+  ],
+  "location": {
+    "city": "Langley",
+    "region": "Puget Sound",
+    "state": "WA",
+    "lat": 47.9857,
+    "lng": -122.5083
+  },
+  "tradition": "Sakya-lineage Tibetan Vajrayana Buddhism (retreat house of Sakya Monastery, Seattle).",
+  "influences": [],
+  "teacherAccess": "Self-directed: retreatants do their own approved practice; each individual retreat plan is approved and supervised remotely by the monastery, and an on-site caretaker only orients you to the house and grounds — no resident teacher.",
+  "retreatOptions": "Whole-house residential self-retreats of one night or more (single occupancy or small group); day-only group retreats for up to 25 also available.",
+  "about": "The Tara Meditation Center is the residential retreat house of Sakya Monastery of Tibetan Buddhism, set on the 72-acre Earth Sanctuary wildlife reserve near Freeland on the south end of Whidbey Island. It occupies an entire single-family home whose living/meditation room holds three shrines (including a Tara shrine and a non-denominational shrine), zafus and zabutons, prostration boards, meditation chairs, and a collection of Tibetan Buddhist art. The house has two bedrooms with single beds, a bathroom, a fully-equipped kitchen, and a wood stove, plus access to the sanctuary's ponds, forest trails, stupa, and stone circle. It is available to Sakya Monastery members (and Tibetan Buddhist practitioners from other sects) for supervised, self-directed retreats, with the expectation of a Sakya-based practice such as Ngondro or a single-deity practice. All retreat plans must be approved in advance by the monastery, and retreatants prepare their own meals and observe the sanctuary's conduct guidelines.",
+  "technique": "Tibetan Buddhist Vajrayana practice — e.g. Ngondro (Refuge, Vajrasattva, mandala offering, Guru Yoga) or single-deity meditation such as Chenrezi.",
+  "schedule": "Self-directed — retreatants keep their own practice schedule per their approved retreat plan (check-in 2 p.m., check-out noon).",
+  "cost": "$35/night or $210/week per person for overnight retreats; $25/day per person for day retreats; Sakya Monastery members receive a discount and full payment is due at reservation.",
+  "pricePerDay": {
+    "min": 35,
+    "max": 35,
+    "unit": "night",
+    "notes": "$35/night or $210/week per person; day-only retreats $25/day. Members receive a discount; additional donations encouraged.",
+    "source": "https://www.sakya.org/resources/retreat-center/"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "No meals provided — retreatants bring and prepare their own food in the fully-equipped kitchen; two supermarkets are nearby.",
+  "workRequired": "partial",
+  "workNotes": "No work-practice program, but guests are asked to help tidy and clean the house before checking out.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "silent",
+    "day-retreats",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Retreat Center – Tara Meditation Center (Sakya Monastery)",
+      "url": "https://www.sakya.org/resources/retreat-center/"
+    },
+    {
+      "title": "Earth Sanctuary Retreat Center",
+      "url": "https://earthsanctuary.org/retreat-center/"
+    }
+  ],
+  "id": "sakya-tara-meditation-center",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

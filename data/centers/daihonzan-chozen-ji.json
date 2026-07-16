@@ -1,0 +1,78 @@
+{
+  "id": "daihonzan-chozen-ji",
+  "name": "Daihonzan Chozen-ji",
+  "aka": [
+    "Chozen-ji",
+    "Chozen-ji International Zen Dojo"
+  ],
+  "website": "https://www.chozen-ji.org/",
+  "location": {
+    "city": "Honolulu",
+    "region": "Oahu, Hawaii",
+    "state": "HI",
+    "lat": 21.363763,
+    "lng": -157.843293
+  },
+  "tradition": "Rinzai Zen (Tenryu-ji line), the only daihonzan (Rinzai headquarters temple) outside Japan, combining zazen with martial and fine arts training",
+  "technique": "Zazen (seated meditation) and okyo (chanting) combined with kendo, boxing, and other martial and fine arts (calligraphy, tea ceremony, archery) as a body-centered 'moving Zen'; training is built around interrupting habitual physical and psychological patterns.",
+  "influences": [
+    "Omori Sogen Rotaishi",
+    "Tenshin Tanouye Rotaishi",
+    "Tenryu-ji line of Rinzai Zen",
+    "Yamaoka Tesshu's Taishi School of Calligraphy",
+    "Jikishinkage School of Fencing"
+  ],
+  "teacherAccess": "Close, daily contact with resident Zen priests and martial/fine-arts teachers in the Omori Sogen-Tanouye lineage during live-in training; sesshin and longer residency require an established training relationship first.",
+  "retreatOptions": "A 1-week, fully residential 'Intro to Zen' live-in program open to new students by application (zazen, chanting, boxing, kendo, and work); longer-term live-in training (3 months to 3 years) for those who complete Intro to Zen; twice-yearly 6-day sesshin restricted to students who already have an established training relationship. Chozen-ji does not offer drop-in retreats or short visits for non-residents, and does not consider itself a conventional 'retreat center.'",
+  "schedule": "Intro to Zen runs 5:00am wake-up to 10:30pm bedtime, alternating zazen, okyo, boxing or kendo training, outside work, and meals. Sesshin (for established students only) runs roughly 4:00-4:30am to midnight, with 8-10+ hours of zazen a day, martial arts, and work, and does not allow partial participation.",
+  "cost": "The 1-week Intro to Zen live-in program is a fixed $1,200 program fee covering accommodations, all meals, teaching, and some training equipment; ongoing weekly community classes are free/by donation; longer-term live-in training and sesshin are supported by dana (donation).",
+  "pricePerDay": {
+    "min": 171,
+    "max": 171,
+    "unit": "night",
+    "notes": "The 1-week (7-night) Intro to Zen live-in program has a fixed $1,200 program fee covering accommodations, all meals, and teaching, equivalent to about $171/night. Longer-term live-in training and sesshin (open only to students with an established training relationship) are dana-based with no set price.",
+    "source": "https://www.chozen-ji.org/intro-to-zen"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Meals are provided during the Intro to Zen live-in program and other residential training; the specific dietary style (vegetarian vs. other) is not published on the site.",
+  "workRequired": "yes",
+  "workNotes": "Daily schedules for the Intro to Zen program and sesshin include dedicated 'outside work' periods alongside zazen and martial/fine arts training; sesshin does not allow partial participation.",
+  "about": "Daihonzan Chozen-ji is a Rinzai Zen temple and martial arts dojo in Honolulu's Kalihi Valley, founded in 1972 by Omori Sogen and Tenshin Tanouye and designated in 1979 as the only daihonzan (Rinzai headquarters temple) outside Japan. Rather than offering conventional silent retreats, Chozen-ji trains students through a body-centered approach that pairs zazen and chanting with martial arts (kendo, boxing) and fine arts (calligraphy, tea ceremony, archery) as 'moving Zen,' serving both a local lay community that trains daily on Oahu and out-of-state students who come to live in. Newcomers can apply for the 1-week, fully residential 'Intro to Zen' program, a fixed-fee live-in stay combining zazen, chanting, martial arts, and work; graduates of that program may apply for longer-term live-in training lasting months to years. Twice-yearly 6-day sesshin are also held but are restricted to students who already have an established training relationship - Chozen-ji does not accept drop-in participants for sesshin or run short public retreats in the usual sense. The community is deeply rooted in Hawaii's local culture, does not offer online training, and asks newcomers to approach training with humility as guests in the islands.",
+  "tags": [
+    "zen",
+    "long-retreats",
+    "monastic-community",
+    "work-practice",
+    "meals-included",
+    "dana-donation",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Chozen-ji - Unlike Any Other Zen Temple (About)",
+      "url": "https://www.chozen-ji.org/about"
+    },
+    {
+      "title": "Chozen-ji - Zen Training",
+      "url": "https://www.chozen-ji.org/training"
+    },
+    {
+      "title": "Chozen-ji - 1-Week Intro to Zen Program",
+      "url": "https://www.chozen-ji.org/intro-to-zen"
+    },
+    {
+      "title": "Chozen-ji - Sesshin",
+      "url": "https://www.chozen-ji.org/sesshin"
+    },
+    {
+      "title": "Daihonzan Chozen-ji - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Daihonzan_Chozen-ji"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

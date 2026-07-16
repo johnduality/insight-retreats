@@ -1,0 +1,63 @@
+{
+  "id": "connecticut-buddhist-vihara-meditation-center",
+  "name": "Connecticut Buddhist Vihara & Meditation Center",
+  "aka": [
+    "CTBV",
+    "Connecticut Meditation Center"
+  ],
+  "website": "https://ctbv.org/",
+  "location": {
+    "city": "Andover",
+    "region": "Eastern Connecticut",
+    "state": "CT",
+    "lat": 41.755,
+    "lng": -72.3985
+  },
+  "tradition": "Theravada Buddhism (Sri Lankan)",
+  "technique": "Samatha and Vipassana (Insight) meditation, Buddhist chanting",
+  "influences": [
+    "Rev. Karunegoda Piyatissa Maha Thero",
+    "Ven. Babarenda Sumedha Thero",
+    "Ven. Hennbunne Kondañña Thero"
+  ],
+  "teacherAccess": "Resident and visiting Sri Lankan Theravada monks lead meditation instruction and are present throughout weekly sessions and annual retreats.",
+  "retreatOptions": "Prescheduled 3-day and 5-day meditation camping retreats held annually on the temple grounds, alongside free weekly meditation sessions and a children's meditation retreat.",
+  "about": "Connecticut Buddhist Vihara & Meditation Center is a Sri Lankan Theravada Buddhist temple in Andover, Connecticut, founded by monastics connected to the New York Buddhist Vihara lineage. The center acquired its own permanent property in Andover in 2021 after years of borrowing space from neighboring Lao and Burmese temples. Its mission centers on teaching Samatha and Vipassana meditation alongside traditional Theravada rituals, Dhamma school for children, and community service, serving both Sri Lankan Buddhist families and the wider public. Once a year the temple hosts multi-day camping retreats on its own grounds, in addition to ongoing free weekly meditation programs. The community is grassroots and volunteer-run, with an active fundraising effort underway to construct a permanent temple building on the site.",
+  "schedule": "Three free weekly meditation sessions; prescheduled 3-day and 5-day camping retreats held annually (dates vary by year).",
+  "cost": "Donation-based; no fixed fee structure published for retreats or classes.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No suggested amount published on the temple site.",
+    "source": "https://ctbv.org/about-us/"
+  },
+  "foodServed": "unknown",
+  "workRequired": "unknown",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "camping",
+    "dana-donation",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Connecticut Buddhist Vihara & Meditation Center - Home",
+      "url": "https://ctbv.org/"
+    },
+    {
+      "title": "About Us",
+      "url": "https://ctbv.org/about-us/"
+    },
+    {
+      "title": "Meditation",
+      "url": "https://ctbv.org/meditation/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

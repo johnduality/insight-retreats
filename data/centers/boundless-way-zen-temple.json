@@ -1,0 +1,85 @@
+{
+  "id": "boundless-way-zen-temple",
+  "name": "Boundless Way Zen Temple",
+  "aka": [
+    "Mugendo-ji",
+    "Worcester Zen Center",
+    "Boundless Way Zen"
+  ],
+  "website": "https://boundlessway.org/",
+  "location": {
+    "address": "1030 Pleasant Street, Worcester, MA 01602",
+    "city": "Worcester",
+    "county": "Worcester County",
+    "region": "Central Massachusetts",
+    "state": "MA",
+    "lat": 42.2786,
+    "lng": -71.8458
+  },
+  "tradition": "Zen (Soto/Rinzai-lineage, Boundless Way Zen)",
+  "technique": "Zazen (shikantaza and koan introspection) within a formal sesshin schedule",
+  "influences": [
+    "James Myōun Ford, Rōshi",
+    "Melissa Myōzen Blacker, Rōshi",
+    "David Dae An Rynick, Rōshi",
+    "Harada-Yasutani lineage",
+    "Korean Linji lineage of Seung Sahn (via Zen Master George Bowman)"
+  ],
+  "teacherAccess": "Daily dokusan (private teacher interviews) during sesshin, led in person by resident transmitted teachers including Melissa Blacker Roshi and David Rynick Roshi.",
+  "retreatOptions": "2-day outdoor retreats, 3-day and 7-day residential sesshin, and a 7-14 day Summer Residency program (weeks can be combined for up to 3 weeks).",
+  "about": "Boundless Way Zen Temple (Mugendo-ji) is a Zen Buddhist temple in Worcester, Massachusetts, offering residential training in a Soto/Rinzai-influenced lineage founded by James Ford, Melissa Blacker, and David Rynick. The temple hosts several week-long residential sesshin each year, an annual multi-week Summer Residency leading into Summer Sesshin, and shorter outdoor practice retreats offsite. Residential days combine zazen, kinhin, teisho (dharma talks), dokusan, samu (work practice), and formal oryoki-style meals, largely in silence. The community also runs extensive weekly and online practice, but its core intensive offerings are on-site, multi-day residential retreats at the Worcester temple.",
+  "schedule": "Roughly six residential week-long sesshin plus jukai ceremonies annually, a 7-14 day Summer Residency in July-August, and 2-day outdoor retreats each spring and fall, alongside daily/weekly practice.",
+  "cost": "Suggested-donation registration fees scaled by retreat length and membership status, with pay-what-you-can accommodation if the suggested fee is a barrier.",
+  "pricePerDay": {
+    "min": 107,
+    "max": 120,
+    "unit": "night",
+    "notes": "Derived from suggested residential sesshin registration fees: 7-day $750 (member) to $840 (non-member) and 3-day $325 (member) to $360 (non-member), divided by nights.",
+    "source": "https://boundlessway.org/sesshin-registration/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are lacto-vegetarian and served formally (oryoki-style during sesshin); allergies and dietary needs accommodated on request.",
+  "workRequired": "yes",
+  "workNotes": "Daily samu (work practice) and meal cleanup are built into the residential sesshin schedule.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "meals-included",
+    "work-practice",
+    "diet-vegetarian",
+    "sliding-scale"
+  ],
+  "sources": [
+    {
+      "title": "Boundless Way Zen Temple - Home",
+      "url": "https://boundlessway.org/"
+    },
+    {
+      "title": "About Sesshin",
+      "url": "https://boundlessway.org/about-sesshin/"
+    },
+    {
+      "title": "Sesshin and Retreat Registration",
+      "url": "https://boundlessway.org/sesshin-registration/"
+    },
+    {
+      "title": "Residential Retreat (Summer Residency & Sesshin) event page",
+      "url": "https://boundlessway.org/events/residential-retreat/"
+    },
+    {
+      "title": "History and Lineage",
+      "url": "https://boundlessway.org/history-and-lineage/"
+    },
+    {
+      "title": "Directions",
+      "url": "https://boundlessway.org/directions/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

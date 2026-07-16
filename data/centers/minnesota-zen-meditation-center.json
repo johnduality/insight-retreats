@@ -1,0 +1,74 @@
+{
+  "id": "minnesota-zen-meditation-center",
+  "name": "Minnesota Zen Meditation Center",
+  "website": "https://www.mnzencenter.org/",
+  "aka": [
+    "MZMC"
+  ],
+  "location": {
+    "address": "3343 E Calhoun Pkwy, Minneapolis, MN 55408",
+    "city": "Minneapolis",
+    "region": "Twin Cities",
+    "state": "MN",
+    "lat": 44.941895,
+    "lng": -93.30326
+  },
+  "tradition": "Soto Zen Buddhism",
+  "influences": [
+    "Dainin Katagiri Roshi",
+    "Shunryu Suzuki Roshi",
+    "Soto Zen"
+  ],
+  "teacherAccess": "Daily Dharma talks and one-to-one meetings (dokusan) with the guiding or visiting teacher during retreats and sesshins.",
+  "retreatOptions": "Half-day and one-day retreats; weekend sesshins (2 nights, on-site); week-long Rohatsu Sesshin in late fall; occasional off-site multi-day retreat at Hokyoji.",
+  "about": "Minnesota Zen Meditation Center was founded in 1972 in Minneapolis when Dainin Katagiri Roshi was invited from California to teach Zen Buddhism, and it has operated continuously from its own building on the shore of Lake Calhoun/Bde Maka Ska ever since. MZMC offers both traditional sesshins, which include Soto Zen liturgy and formal oryoki meals, and less-ritualized contemporary retreats, with all overnight retreats held on-site (guests bring a sleeping bag) except for an annual retreat hosted at the affiliated Hokyoji Zen Practice Community in rural southeastern Minnesota. Its published annual calendar includes half-day sesshins, weekend sesshins running Friday evening through Sunday, and the week-long Rohatsu Sesshin around early December, plus regular daily and weekly sittings, classes, and priest training. The center is entirely donation ('dana')-supported, publishing suggested amounts for each program rather than fixed prices, and is led today by guiding teacher Ben Connelly.",
+  "technique": "Zazen (seated meditation) and kinhin (walking meditation) in the Soto Zen tradition, alternating traditional sesshins (liturgy, oryoki meals, work practice) with more contemporary, less-ritualized retreats.",
+  "schedule": "Published annual calendar of half-day sesshins, weekend (Friday-Sunday) sesshins, and a week-long Rohatsu Sesshin in late November/early December, alongside daily and weekly meditation sittings; retreats are held in person (some hybrid online) at the center's own Minneapolis zendo.",
+  "cost": "Donation-based; suggested amounts are posted per retreat, e.g. $130 suggested for a full Friday-Sunday weekend sesshin ($70 Saturday, $55 Sunday), with no one turned away for inability to pay.",
+  "pricePerDay": {
+    "min": 65,
+    "max": 65,
+    "unit": "night",
+    "notes": "Based on the suggested donation for the 2-night on-site Weekend Sesshin: $130 total suggested donation divided by 2 nights. MZMC operates on a donation-only, suggested-amount basis rather than a fixed fee.",
+    "source": "https://www.mnzencenter.org/store/p152/Weekend_Sesshin%2C_May.html"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Formal vegetarian meals are served using oryoki bowls during on-site sesshins and retreats.",
+  "workRequired": "partial",
+  "workNotes": "Work practice (samu) is one of the traditional elements included in the daily sesshin schedule; less formal contemporary retreats may not include it.",
+  "tags": [
+    "zen",
+    "silent",
+    "work-practice",
+    "dana-donation",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Minnesota Zen Meditation Center (Home)",
+      "url": "https://www.mnzencenter.org/"
+    },
+    {
+      "title": "About MZMC",
+      "url": "https://www.mnzencenter.org/about-mzmc.html"
+    },
+    {
+      "title": "Retreats and Workshops",
+      "url": "https://www.mnzencenter.org/retreats-and-workshops.html"
+    },
+    {
+      "title": "Retreat Information",
+      "url": "https://www.mnzencenter.org/retreat-information.html"
+    },
+    {
+      "title": "Weekend Sesshin, May (pricing)",
+      "url": "https://www.mnzencenter.org/store/p152/Weekend_Sesshin%2C_May.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

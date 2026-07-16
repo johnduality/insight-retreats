@@ -1,0 +1,83 @@
+{
+  "id": "milarepa-center",
+  "name": "Milarepa Center",
+  "aka": [
+    "Milarepa Center for the Preservation of the Mahayana Tradition"
+  ],
+  "website": "https://www.milarepacenter.org/",
+  "location": {
+    "city": "Barnet",
+    "region": "Northeast Kingdom, Vermont",
+    "state": "VT",
+    "lat": 44.301,
+    "lng": -72.048
+  },
+  "tradition": "Tibetan Buddhist, Gelug school (FPMT)",
+  "technique": "Lam-rim study, deity practice/sadhana, and solitary meditation retreat",
+  "influences": [
+    "Lama Thubten Yeshe",
+    "Lama Zopa Rinpoche",
+    "FPMT (Foundation for the Preservation of the Mahayana Tradition)",
+    "Je Tsongkhapa"
+  ],
+  "teacherAccess": "Private retreatants practice largely independently, checking in with the center director as needed; public programs are led by visiting FPMT-registered teachers or the resident teacher",
+  "retreatOptions": "Private solitary or small-group retreats of days to months in dedicated cabins (Marpa, Ensapa) or remote self-catering huts, plus periodic public Silent Retreat Weekends (capped at 8 people)",
+  "schedule": "Private retreats accepted year-round by application/interview; public programs (Silent Retreat Weekend, open houses, daylongs) offered periodically with 2026 dates still being announced",
+  "cost": "Silent Retreat Weekend runs $125-$350/person depending on accommodation (meals included); private cabin/hut rental fees are quoted individually; the center also relies on annual-fund donations since program fees don't cover full operating costs",
+  "pricePerDay": {
+    "min": 62.5,
+    "max": 175,
+    "unit": "night",
+    "notes": "Derived from the published Silent Retreat Weekend fee of $125-$350/person (meals included), assuming a standard 2-night Friday-Sunday weekend format; exact 2026 dates and private cabin rental rates were not published on the site and are quoted on inquiry.",
+    "source": "https://www.milarepacenter.org/programs-events"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Cabins near the main house are served by the main kitchen (meals included for group/weekend programs, typically vegetarian/vegan); two more remote retreat huts have their own kitchen for self-catering during longer private retreats.",
+  "workRequired": "no",
+  "workNotes": "No formal work practice is required of retreatants; the center separately recruits volunteers and occasional residential/staff positions that may include work in exchange for stay.",
+  "about": "Milarepa Center is a Tibetan Buddhist retreat center in the Gelug tradition, founded in 1981 by students of Lama Thubten Yeshe and Lama Zopa Rinpoche and affiliated with the Foundation for the Preservation of the Mahayana Tradition (FPMT). Set on 276 acres of woods and fields overlooking the Connecticut River valley in Barnet, Vermont, the center today operates primarily as a private retreat facility, offering solitary and small-group retreats ranging from a few days to several months in dedicated cabins (Marpa and Ensapa) and more remote self-catering huts. It also hosts periodic public programs, including a Silent Retreat Weekend capped at eight participants, occasional daylongs, and donation-based community events such as an annual open house. Because the center prioritizes protecting the retreat environment, visits are by appointment or through registered programs only, and prospective private retreatants must complete an application and phone interview, with preference given to students who have an established relationship with a qualified teacher. A resident director and small staff/volunteer team maintain the property under the spiritual direction of Lama Zopa Rinpoche.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "long-retreats",
+    "meals-included",
+    "fixed-fee",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Milarepa Center - Home",
+      "url": "https://www.milarepacenter.org/"
+    },
+    {
+      "title": "Milarepa Center - Private Retreat",
+      "url": "https://www.milarepacenter.org/private-retreat"
+    },
+    {
+      "title": "Milarepa Center - Programs/Events",
+      "url": "https://www.milarepacenter.org/programs-events"
+    },
+    {
+      "title": "Milarepa Center - Staying Here",
+      "url": "https://www.milarepacenter.org/staying-here"
+    },
+    {
+      "title": "Milarepa Center - Employment/Volunteer",
+      "url": "https://www.milarepacenter.org/employment-volunteer"
+    },
+    {
+      "title": "Milarepa Center - History",
+      "url": "https://www.milarepacenter.org/history"
+    },
+    {
+      "title": "Milarepa Center - Donations FAQ",
+      "url": "https://www.milarepacenter.org/donations-faq"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

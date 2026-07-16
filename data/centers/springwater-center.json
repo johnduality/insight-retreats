@@ -1,0 +1,79 @@
+{
+  "id": "springwater-center",
+  "name": "Springwater Center",
+  "aka": [
+    "Genesee Valley Zen Center (former name)"
+  ],
+  "website": "https://www.springwatercenter.org/",
+  "location": {
+    "address": "7179 Mill St. Ext, Springwater, NY 14560",
+    "city": "Springwater",
+    "county": "Livingston County",
+    "region": "Finger Lakes",
+    "state": "NY",
+    "lat": 42.6405506,
+    "lng": -77.6162181
+  },
+  "tradition": "Secular meditative inquiry (Zen-derived, non-sectarian)",
+  "technique": "Silent sitting and walking meditation with open inquiry and group dialogue",
+  "influences": [
+    "Toni Packer"
+  ],
+  "teacherAccess": "Private meetings with facilitating teachers are offered daily during retreats and open to all participants.",
+  "retreatOptions": "Saturday all-day sittings, 3- and 4-day and 7-day silent residential retreats, plus Quiet Weeks and flexible guest stays.",
+  "about": "Springwater Center is a secular, non-sectarian meditation retreat center on 200 acres in the Finger Lakes region of western New York, founded in 1981 by Toni Packer after she moved away from formal Zen forms (the center was originally named the Genesee Valley Zen Center). Retreats retain the silence and sustained inquiry of the Zen sesshin tradition but drop rituals, robes, and assigned practices, offering sitting, walking, talks, private teacher meetings, and group dialogue as resources rather than requirements. The center holds 4- and 7-day silent retreats several times a year alongside shorter Saturday sittings, Quiet Weeks, and open guest stays. Participants share a daily hour of communal work and vegan-leaning meals. The 12,000-square-foot retreat building has 14 shared guest rooms, a meditation hall for up to 45, and miles of trails, streams, and a pond on the surrounding land.",
+  "schedule": "4- and 7-day silent retreats are scheduled periodically throughout the year (typically beginning Saturday evening), alongside weekly Saturday all-day sittings and periodic Quiet Weeks.",
+  "cost": "Fixed nightly fee (higher for non-members, discounted for members) covering room and meals; single room and studio/cabin supplements available; up to half the fee may be covered by the Retreat Assistance Fund.",
+  "pricePerDay": {
+    "min": 102,
+    "max": 124,
+    "unit": "night",
+    "notes": "2026 shared-room retreat rate: $102/night for members, $124/night for non-members (7-day: $714 member/$868 non-member; 4-day: $408 member/$496 non-member), meals included. Single-room and studio apartment supplements extra.",
+    "source": "https://www.springwatercenter.org/retreats/practical-financial-info/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Meals are vegan with optional egg and dairy add-ins, using organic and locally sourced ingredients where possible; special dietary needs can be accommodated.",
+  "workRequired": "yes",
+  "workNotes": "Participants are asked to contribute a one-hour daily work period (assigned communal job) alongside participation in silence.",
+  "tags": [
+    "silent",
+    "long-retreats",
+    "meals-included",
+    "work-practice",
+    "diet-vegan",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Springwater Center - Home",
+      "url": "https://www.springwatercenter.org/"
+    },
+    {
+      "title": "Retreats - Springwater Center",
+      "url": "https://www.springwatercenter.org/retreats/"
+    },
+    {
+      "title": "Silent Retreats - Springwater Center",
+      "url": "https://www.springwatercenter.org/retreats/silent-retreats/"
+    },
+    {
+      "title": "Fees and Practical Info - Springwater Center",
+      "url": "https://www.springwatercenter.org/retreats/practical-financial-info/"
+    },
+    {
+      "title": "About - Springwater Center",
+      "url": "https://www.springwatercenter.org/about/"
+    },
+    {
+      "title": "Springwater Center - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Springwater_Center"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

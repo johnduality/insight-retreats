@@ -1,0 +1,71 @@
+{
+  "id": "windhorse-zen-community",
+  "name": "Windhorse Zen Community",
+  "aka": [],
+  "website": "https://windhorsezen.org/",
+  "location": {
+    "city": "Alexander",
+    "county": "Buncombe County",
+    "region": "Asheville area",
+    "state": "NC",
+    "lat": 35.6748,
+    "lng": -82.6398
+  },
+  "tradition": "Zen Buddhism, Rochester Zen Center lineage (blending Rinzai and Soto schools)",
+  "technique": "Zazen, koan inquiry, dokusan (teacher interviews), sesshin intensives, work practice",
+  "influences": [
+    "Philip Kapleau Roshi",
+    "Rochester Zen Center lineage",
+    "Sunya Kjolhede and Lawson Sachter (founding teachers)"
+  ],
+  "teacherAccess": "Daily dokusan (private interviews) and teisho (dharma talks) with resident teachers Sunya Kjolhede and Lawson Sachter during sesshin; dokusan outside sesshin is offered to formal members and to newcomers in their first six months.",
+  "retreatOptions": "Multi-day sesshins of 4-7 days at the center's own retreat lodge; non-sesshin residential stays of varying length arranged directly with the center; longer-term paths through formal membership, student status, and ordination.",
+  "schedule": "Several sesshins held per year, including two annual 7-day sesshins (e.g. a Fall sesshin and a December Rohatsu sesshin); weekly Sunday morning, Wednesday, and Thursday evening sittings; residential workday runs about 8:30am-3:30pm with a 12:30 communal meal.",
+  "cost": "Sesshin costs $70/day for dues-paying members ($490 for 7 days) and $90/day for non-members ($630 for 7 days), including room and board; teacher dana and an optional 'benefactor' add-on are separate. Non-sesshin residential stays are arranged by donation, discussed directly with the center.",
+  "pricePerDay": {
+    "min": 70,
+    "max": 90,
+    "unit": "day",
+    "notes": "7-day sesshin fee: $490 total for dues-paying members ($70/day) to $630 total for non-members ($90/day); covers room and board for the sesshin but excludes teacher dana and optional benefactor contributions.",
+    "source": "https://windhorsezen.org/programs/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Organic communal vegetarian meals (mostly vegan, with gluten-free options); no meat, fish, alcohol, or smoking permitted on the property.",
+  "workRequired": "yes",
+  "workNotes": "Guests and residents join the daily work period (about 8:30am-3:30pm: cooking, housekeeping, building and grounds maintenance) unless other arrangements are made with the teachers.",
+  "about": "Windhorse Zen Community is a lay Zen Buddhist training center in Alexander, NC, just outside Asheville, founded in the late 1990s by Sunya Kjolhede and Lawson Sachter after they left the Rochester Zen Center to teach on their own, relocating the community to its current site in 2003. The 16-acre wooded property includes the founders' original house, used as the main center and zendo, and a separate retreat lodge with both private and dormitory-style rooms (plus tent sites in good weather) that houses sesshin participants and other guests. Practice blends the Rinzai and Soto Zen schools through zazen, koan inquiry, and dokusan, most intensively during sesshins of 4 to 7 days that include daily teisho and private interviews with the resident teachers. Visitors join the community's daily work period and take communal organic vegetarian meals as part of residential life. Beyond sesshin, the center supports longer-term training through trial and formal membership, student status, Jukai, and a multi-year ordination path.",
+  "tags": [
+    "zen",
+    "silent",
+    "meals-included",
+    "work-practice",
+    "fixed-fee",
+    "scholarships",
+    "camping",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Windhorse Zen Community - Home",
+      "url": "https://windhorsezen.org/"
+    },
+    {
+      "title": "About Windhorse",
+      "url": "https://windhorsezen.org/about/"
+    },
+    {
+      "title": "Visiting Windhorse",
+      "url": "https://windhorsezen.org/visiting/"
+    },
+    {
+      "title": "Programs - Sesshin Cost and Dates",
+      "url": "https://windhorsezen.org/programs/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-14",
+    "reviewStatus": "unverified"
+  }
+}

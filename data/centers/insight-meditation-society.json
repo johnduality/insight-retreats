@@ -1,0 +1,88 @@
+{
+  "id": "insight-meditation-society",
+  "name": "Insight Meditation Society",
+  "aka": [
+    "IMS",
+    "IMS Barre",
+    "IMS Retreat Center",
+    "The Forest Refuge"
+  ],
+  "website": "https://www.dharma.org/",
+  "location": {
+    "address": "1230 Pleasant Street",
+    "city": "Barre",
+    "county": "Worcester County",
+    "region": "Central Massachusetts",
+    "state": "MA",
+    "lat": 42.4084,
+    "lng": -72.109
+  },
+  "tradition": "Theravada Buddhist / Insight Meditation lineage",
+  "technique": "Insight Meditation (vipassana) and metta (lovingkindness) practice, taught through silent sitting and walking meditation",
+  "influences": [
+    "Sharon Salzberg",
+    "Jack Kornfield",
+    "Joseph Goldstein",
+    "Theravada Buddhist teachers worldwide"
+  ],
+  "teacherAccess": "Daily group or individual interviews with resident and visiting teachers during retreats, plus regular dharma talks.",
+  "retreatOptions": "Retreat Center offers courses from a weekend up to a Three-Month Retreat; the Forest Refuge offers self-directed residential practice periods from about one week up to several months.",
+  "about": "Founded in 1976 by Sharon Salzberg, Jack Kornfield, and Joseph Goldstein, the Insight Meditation Society is one of the most influential Insight Meditation centers in the West. Its Retreat Center in Barre, Massachusetts offers a year-round schedule of silent, teacher-led residential retreats ranging from a weekend to the renowned Three-Month Retreat, drawing well-known Theravada and insight teachers from around the world. Adjacent to the Retreat Center, the Forest Refuge provides a more monastic, self-structured setting for experienced practitioners to deepen sustained personal practice for periods of a week to several months. Both facilities share simple single-room dormitory accommodations and a shared commitment to silence, vegetarian meals, and a dana (generosity) based approach to supporting teachers.",
+  "schedule": "Retreat Center runs a full annual calendar of scheduled courses (weekend, week-long, and longer retreats, including the Three-Month Retreat); the Forest Refuge operates on a rolling basis with participants applying for open-ended stays within published date ranges.",
+  "cost": "Sliding-scale (dana-informed) fee structure with published Benefactor, Sustaining, Mid, and Supported rates; fees cover room, board, and operations only, with teacher dana offered separately at retreat's end.",
+  "pricePerDay": {
+    "min": 110,
+    "max": 210,
+    "unit": "night",
+    "notes": "Forest Refuge 2026 published sliding-scale nightly rates for a stay of 7-30 nights: Supported $110/night (min) to Sustaining $210/night (max, representing actual program cost); Benefactor ($345) and Scholarship/lowest floor rates excluded.",
+    "source": "https://www.dharma.org/retreats/forest-refuge/fees/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Buffet-style vegetarian meals (often including dairy and eggs) served at set mealtimes; gluten-free and dairy-free options available; retreatants may bring supplemental food for allergies.",
+  "workRequired": "partial",
+  "workNotes": "Retreat Center schedule includes a daily one-hour 'work-as-practice' period; dedicated service/work retreats are also offered at reduced or no cost.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "sliding-scale",
+    "meals-included",
+    "work-practice",
+    "accessible",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Insight Meditation Society - Home",
+      "url": "https://www.dharma.org/"
+    },
+    {
+      "title": "Retreat Center - IMS",
+      "url": "https://www.dharma.org/retreats/retreat-center/"
+    },
+    {
+      "title": "Forest Refuge - IMS",
+      "url": "https://www.dharma.org/retreats/forest-refuge/"
+    },
+    {
+      "title": "Residential Fees - IMS",
+      "url": "https://www.dharma.org/retreats/retreat-center/fees/"
+    },
+    {
+      "title": "Forest Refuge Fees - IMS",
+      "url": "https://www.dharma.org/retreats/forest-refuge/fees/"
+    },
+    {
+      "title": "Food and Accommodations - IMS",
+      "url": "https://www.dharma.org/retreats/food-and-accommodations/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

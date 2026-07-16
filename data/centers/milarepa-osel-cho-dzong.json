@@ -1,0 +1,67 @@
+{
+  "id": "milarepa-osel-cho-dzong",
+  "name": "Milarepa Ösel Chö Dzong",
+  "aka": [
+    "Milarepa Retreat Center",
+    "MOCD",
+    "Milarepa Osel Cho Dzong"
+  ],
+  "website": "https://www.mocd.org/",
+  "location": {
+    "address": "6231 Paul Boone Rd, Tallassee, TN 37878",
+    "city": "Tallassee",
+    "county": "Blount County",
+    "region": "Great Smoky Mountains",
+    "state": "TN",
+    "lat": 35.6117,
+    "lng": -83.9426
+  },
+  "tradition": "Tibetan Buddhism, Karma Kagyu and Shangpa Kagyu lineages (Palpung), with Nyingma/Dzogchen programs",
+  "technique": "Shamatha (calm-abiding) and vipashyana (insight) meditation in the Mahāmudrā and Dzogchen traditions, plus sadhana, yogic movement, and Vajra Dance practice",
+  "influences": [
+    "Lama Norlha Rinpoche",
+    "Chamgön Kenting Tai Situpa",
+    "Jamgön Kongtrul Lodrö Thayé",
+    "Chögyal Namkhai Norbu Rinpoche",
+    "International Dzogchen Community"
+  ],
+  "teacherAccess": "Resident spiritual director Lama Karma and visiting lamas (including Lama Norlha Rinpoche's successors and teachers from partner sanghas) lead retreat sessions and teachings in person.",
+  "retreatOptions": "Annual multi-night residential Spring Retreat (roughly a week or more) plus periodic shorter weekend/long-weekend workshop retreats (e.g. a 3-day instrument retreat); on-site camping or a limited private room; solitary retreat by arrangement.",
+  "schedule": "No fixed weekly residential program; an annual Spring Retreat and occasional teacher-led weekend retreats are scheduled through the year and posted on the center's events calendar.",
+  "cost": "Retreat fees are structured as a base program/operating fee separate from any dana for the teaching -- e.g. the recurring Spring Retreat has published a $200 camping/shared base fee or $400 for a limited private room, with no one turned away for lack of funds; some shorter workshop retreats (e.g. a 3-day instrument retreat) have charged a flat ~$375 including two meals a day.",
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Meal provision varies by event: some workshop retreats include meals in the fee, while at least one larger teaching event explicitly did not provide meals and asked attendees to bring their own food, with a shared refrigerator and kitchen available.",
+  "workRequired": "unknown",
+  "workNotes": "No formal work/service requirement for retreat attendees is described on the official site.",
+  "about": "Milarepa Ösel Chö Dzong (MOCD) is a Tibetan Buddhist retreat center on land at the eastern gate of Great Smoky Mountains National Park in Happy Valley, near Tallassee, Tennessee. Founded in 2007 by Lama Norlha Rinpoche, it is part of the global Palpung community under Chamgön Kenting Tai Situpa and is affiliated with Palpung Thubten Chöling Monastery in New York, with a focus on Karma Kagyu and Shangpa Kagyu Mahāmudrā practice; it has also hosted programs of the International Dzogchen Community since 2015. The center offers solitary and group meditation retreats centered on shamatha and vipashyana practice, an annual multi-night Spring Retreat exploring calm-abiding and insight meditation, and periodic teacher-led weekend workshops, alongside empowerments and public talks from visiting Vajrayana masters. Lodging is modest -- guests typically camp on site, with a limited private room available by request -- and the land also holds a stupa under construction as part of the center's ecological and pilgrimage projects. As a small volunteer-run nonprofit serving Buddhist practitioners across East Tennessee, MOCD keeps its published retreat fees low and states that no one is turned away for lack of funds.",
+  "tags": [
+    "tibetan-vajrayana",
+    "camping",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Milarepa Retreat Center - Home",
+      "url": "https://www.mocd.org/"
+    },
+    {
+      "title": "About | Milarepa Retreat Center",
+      "url": "https://www.mocd.org/index.php/about/"
+    },
+    {
+      "title": "Spring Retreat | Milarepa Retreat Center",
+      "url": "https://www.mocd.org/index.php/events/spring-retreat/"
+    },
+    {
+      "title": "The Magic of the Charango at Milarepa Center (event listing)",
+      "url": "https://allevents.in/tallassee/the-magic-of-the-charango-at-milarepa-center/200028002598149"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

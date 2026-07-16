@@ -1,0 +1,84 @@
+{
+  "id": "dhamma-pasava",
+  "name": "Dhamma Pasava",
+  "aka": [
+    "Intermountain Vipassana Center",
+    "Intermountain Vipassana Association",
+    "IVA",
+    "Pasava"
+  ],
+  "website": "https://pasava.dhamma.org/",
+  "location": {
+    "address": "8414 S Blaser Hwy, Lava Hot Springs, ID 83246",
+    "city": "Lava Hot Springs",
+    "county": "Bannock County",
+    "region": "Southeast Idaho",
+    "state": "ID",
+    "lat": 42.6383826,
+    "lng": -112.0037394
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka (Sayagyi U Ba Khin tradition)",
+  "technique": "Anapana (breath awareness) and Vipassana (systematic body-scanning meditation), taught via S.N. Goenka's recorded instructions.",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "Certified assistant teachers guide students through S.N. Goenka's recorded instructions, with small-group check-ins and private interviews available for questions.",
+  "retreatOptions": "Mainly standard 10-day residential courses, plus occasional longer old-student courses (up to 20 days) and 2-3 day teen/children's courses (ages 8-17).",
+  "about": "Dhamma Pasava, also known as the Intermountain Vipassana Center, is a Vipassana meditation center on 256 acres in a mountain valley just outside Lava Hot Springs, Idaho. The property was purchased in 2016 and held its first 10-day course in 2017; it now runs more than a dozen 10-day courses a year along with occasional longer old-student courses and youth programs. As with all centers in the Goenka tradition, it is an all-volunteer, donor-funded 501(c)(3) nonprofit offering the technique free of charge, taught through S.N. Goenka's recorded instructions and evening video discourses. Current capacity is 59 students in colder months, rising to 72 with tenting available from May through October, with accommodations ranging from shared dorm rooms to double rooms with private baths and, seasonally, single-occupancy canvas wall tents. Students observe Noble Silence for the first nine of the ten days while following a structured meditation schedule and eating simple vegetarian meals provided by the center.",
+  "schedule": "Daily schedule runs 4:00 a.m. to 9:00 p.m. with about 10 hours of meditation and a 7:00 p.m. video discourse by S.N. Goenka; Noble Silence is kept for the first nine of the ten days.",
+  "cost": "No charge for teaching, food, or lodging; the course runs strictly on voluntary dana, with donations invited only after the course is complete.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Strictly donation-based with no suggested amount; students are asked to give only at the end of the course, based on their own means, not before or during it.",
+    "source": "https://pasava.dhamma.org/courses/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Simple vegetarian meals are provided to all students; special diets for documented medical needs may be accommodated with advance notice.",
+  "workRequired": "no",
+  "workNotes": "Course students are not required to work; the center runs on separate volunteer \"servers\" (old students) who staff courses, not on labor from participants.",
+  "tags": [
+    "goenka",
+    "silent",
+    "long-retreats",
+    "family-friendly",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Pasava - Home",
+      "url": "https://pasava.dhamma.org/"
+    },
+    {
+      "title": "The Center (about, capacity, gallery, directions)",
+      "url": "https://pasava.dhamma.org/the-center/"
+    },
+    {
+      "title": "Information About Courses (how to apply, what to expect, FAQ, fees)",
+      "url": "https://pasava.dhamma.org/courses/"
+    },
+    {
+      "title": "Information about Vipassana",
+      "url": "https://pasava.dhamma.org/vipassana/"
+    },
+    {
+      "title": "Dhamma Pasava course schedule (dhamma.org)",
+      "url": "https://www.dhamma.org/en-US/schedules/schpasava"
+    },
+    {
+      "title": "Diversity",
+      "url": "https://pasava.dhamma.org/diversity/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

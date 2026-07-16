@@ -1,0 +1,69 @@
+{
+  "id": "city-of-ten-thousand-buddhas",
+  "name": "City of Ten Thousand Buddhas",
+  "aka": [
+    "CTTB",
+    "Sagely City of Ten Thousand Buddhas",
+    "City of 10,000 Buddhas"
+  ],
+  "website": "https://www.cttbusa.org/",
+  "location": {
+    "city": "Talmage",
+    "region": "North Coast",
+    "state": "CA",
+    "lat": 39.1305,
+    "lng": -123.1683
+  },
+  "tradition": "Chinese Mahayana Buddhism (Chan and Pure Land)",
+  "influences": [
+    "Venerable Master Hsuan Hua",
+    "Dharma Realm Buddhist Association",
+    "Chan (Zen) meditation",
+    "Pure Land buddha-recitation"
+  ],
+  "about": "The City of Ten Thousand Buddhas is a large Chinese Mahayana Buddhist monastery and community founded by the Venerable Master Hsuan Hua and run by the Dharma Realm Buddhist Association, set on a former hospital campus in Talmage, near Ukiah in Mendocino County. Practice blends the Chan (Chinese Zen) meditation and Pure Land buddha-recitation traditions, alongside sutra study, bowing, and daily ceremonies in the monastic Buddha Halls. Lay visitors can join week-long Dharma Sessions, such as Chan meditation sessions and buddha- or bodhisattva-recitation sessions, staying overnight in simple dormitories and eating in the communal dining hall. Life on campus follows monastic norms: men and women are separated, all food is pure (vegan) vegetarian, and residents rise early and keep a quiet, disciplined schedule. Casual overnight tourism is not offered; lodging is reserved for registered session participants, special events, and volunteers.",
+  "technique": "Chan (seated Zen meditation) combined with Pure Land buddha- and bodhisattva-recitation, plus bowing, sutra recitation, and study.",
+  "teacherAccess": "Practice is led by the resident Dharma Realm Buddhist Association Sangha (monks and nuns); the founder, Master Hsuan Hua, passed in 1995.",
+  "retreatOptions": "Week-long residential Dharma Sessions (Chan meditation sessions and recitation sessions) plus longer volunteer stays; day visits also welcome.",
+  "schedule": "Sessions run roughly Saturday to Saturday within the monastic daily schedule of early-morning ceremonies, meditation, recitation, meals, and lights-out by 10:30 PM.",
+  "cost": "Full-session room and board is about $200 per week ($150 for seniors and students); day visits are free.",
+  "pricePerDay": {
+    "min": 21,
+    "max": 29,
+    "unit": "night",
+    "notes": "Session room and board is $200/week ($150/week seniors and students); per-night figures are the weekly rate divided by 7 nights. Extra days before/after are pro-rated.",
+    "source": "https://www.cttbusa.org/cttb/sessions.asp.html"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "All food is pure Mahayana vegetarian (no meat, seafood, eggs, or pungent roots), and vegan for those who choose; meals are taken in the communal dining hall.",
+  "workRequired": "yes",
+  "workNotes": "Full-paying session participants (except the elderly or frail) contribute seven hours per week of community service assigned by the Guest Prefect team.",
+  "tags": [
+    "mahayana",
+    "silent",
+    "diet-vegan",
+    "meals-included",
+    "monastic-community",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Attending a Dharma Session at CTTB",
+      "url": "https://www.cttbusa.org/cttb/sessions.asp.html"
+    },
+    {
+      "title": "Visiting the City of Ten Thousand Buddhas",
+      "url": "https://www.cttbusa.org/visit_cttb/cttb.asp.html"
+    },
+    {
+      "title": "CTTB Home",
+      "url": "https://www.cttbusa.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "southern-california-vipassana-center",
+  "name": "Southern California Vipassana Center — Dhamma Vaddhana",
+  "website": "https://vaddhana.dhamma.org",
+  "aka": [
+    "Dhamma Vaddhana",
+    "SCVC",
+    "Southern California Vipassana Center"
+  ],
+  "location": {
+    "city": "Twentynine Palms",
+    "county": "San Bernardino County",
+    "region": "Southern California",
+    "state": "CA",
+    "lat": 34.1358,
+    "lng": -116.0541
+  },
+  "tradition": "Vipassana in the tradition of S.N. Goenka (Sayagyi U Ba Khin lineage)",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin",
+    "Theravada Buddhism"
+  ],
+  "teacherAccess": "Assistant teachers of S.N. Goenka lead group sittings and give brief daily guidance; students may ask short 1:1 meditation questions, with instruction delivered via Goenka's recorded audio/video discourses.",
+  "retreatOptions": "Standard 10-day residential courses for new and old students, plus shorter old-student courses (e.g. 1-day and 3-day), children's/teens' courses, and Dhamma service periods.",
+  "technique": "Vipassana meditation, beginning with Anapana (observation of natural breath) and progressing to Vipassana, the systematic observation of bodily sensations to develop equanimity and insight.",
+  "schedule": "Rigorous daily timetable from about 4:30 am to 9:00 pm with roughly 10-11 hours of meditation, three group sittings, recorded evening discourses, and Noble Silence maintained throughout.",
+  "cost": "Run entirely on a donation basis; there is no charge for courses, which are funded by voluntary donations from students who have completed a previous course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "100% donation-based; no charge — courses funded by voluntary donations from old students, given only after completing a course.",
+    "source": "https://vaddhana.dhamma.org/socal-about.htm"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Simple vegetarian meals; new students receive a light evening meal (fruit/tea) around 5 pm while old students take only tea/lemon water, in keeping with the course discipline.",
+  "workRequired": "no",
+  "workNotes": "No work or service is required of students on a standard 10-day course; old students may optionally sign up for separate Dhamma service periods to support courses.",
+  "tags": [
+    "goenka",
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "no-work-required"
+  ],
+  "about": "The Southern California Vipassana Center, known as Dhamma Vaddhana, sits just north of Joshua Tree National Park in Twentynine Palms, about a 2.5-hour drive from Los Angeles and San Diego. It teaches Vipassana meditation in the tradition of S.N. Goenka through standard 10-day residential courses that guide students from Anapana breath awareness into the observation of bodily sensations. Days follow a rigorous timetable of roughly ten hours of seated meditation under Noble Silence, with instruction delivered through Goenka's recorded discourses and assistant teachers leading group sittings and answering brief questions. Simple vegetarian meals are provided, with new students receiving a light evening snack and old students taking only tea. All courses are offered free of charge on a purely donation basis, sustained by contributions from those who have already completed a course and wish to give others the same opportunity.",
+  "sources": [
+    {
+      "title": "Southern California Vipassana Center (SCVC) — Dhamma Vaddhana (official site)",
+      "url": "https://vaddhana.dhamma.org/"
+    },
+    {
+      "title": "About the Center / Course Planning — Dhamma Vaddhana",
+      "url": "https://vaddhana.dhamma.org/socal-about.htm"
+    },
+    {
+      "title": "Course Schedule — Dhamma Vaddhana",
+      "url": "https://www.dhamma.org/en/schedules/schvaddhana"
+    },
+    {
+      "title": "Code of Discipline and course timetable — Dhamma.org",
+      "url": "https://www.dhamma.org/en/code"
+    },
+    {
+      "title": "The Course Time Table — Vipassana Research Institute",
+      "url": "https://www.vridhamma.org/The-Course-Time-Table"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

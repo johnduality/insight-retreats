@@ -1,0 +1,78 @@
+{
+  "id": "vajra-vidya-retreat-center",
+  "name": "Vajra Vidya Retreat Center",
+  "aka": [
+    "Thrangu Vajra Vidya Retreat Center"
+  ],
+  "website": "https://www.vajravidya.com/",
+  "location": {
+    "address": "3203 Camino Baca Grande, Crestone, CO 81131",
+    "city": "Crestone",
+    "county": "Saguache County",
+    "region": "San Luis Valley",
+    "state": "CO",
+    "lat": 38.0075,
+    "lng": -105.6845
+  },
+  "tradition": "Tibetan Vajrayana, Karma Kagyu",
+  "technique": "Traditional Tibetan Buddhist meditation, chanting, and silent sitting practice; site of the traditional Three Year Retreat",
+  "influences": [
+    "Thrangu Rinpoche",
+    "Karma Kagyu lineage",
+    "Marpa"
+  ],
+  "teacherAccess": "Resident monastics and long-term practitioners are on site; teacher access varies by scheduled program rather than continuous one-on-one guidance.",
+  "retreatOptions": "Private self-guided retreats of 2 nights up to multi-month/long-term stays, plus periodic scheduled group retreats and programs.",
+  "about": "Vajra Vidya Retreat Center is a Tibetan Buddhist retreat center and monastery built by the Venerable Thrangu Rinpoche at the foothills of the Sangre de Cristo Mountains in Crestone, Colorado, near the Karmapa Tashi Gomang and Tulku Urgyen stupas. Constructed in traditional Tibetan architectural style around a central consecrated shrine room, it houses resident monastics alongside visiting retreatants. The center was established to support intensive practice, including the traditional Three Year Retreat (first completed in 2016), and now also welcomes shorter individual and group retreats. Guests stay in simple single or double rooms with shared or private baths, take three vegetarian meals a day in a communal dining room, and join daily morning meditation and prayers. The grounds sit at roughly 8,200 feet in the high desert of the San Luis Valley, a setting the center regards as auspicious for contemplative practice.",
+  "schedule": "Daily morning meditation and prayers at 9-10am with the shrine room open 8am-6pm; private retreats are self-scheduled year-round alongside periodic organized group retreats and online programs.",
+  "cost": "Fixed nightly rate based on room type, billed per day with a 50% deposit at booking; standard rooms run $85-$105/night depending on room type (reduced extended-stay rates apply after two months).",
+  "pricePerDay": {
+    "min": 85,
+    "max": 105,
+    "unit": "night",
+    "notes": "Standard daily rates for a 2+ night residential retreat stay: $85/night double room with shared bath, $95/night single room with shared bath, $105/night single room with private bath. Rate includes three meals daily. Reduced extended-stay rates (not used here) apply only after two continuous months.",
+    "source": "https://vajravidya.com/rates"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three organic vegetarian meals included daily (breakfast 7:30am, lunch 12:30pm, dinner 6pm); special diets often accommodated with advance notice.",
+  "workRequired": "yes",
+  "workNotes": "Guests are asked to contribute about one hour of physical service (karma yoga) daily after lunch to help maintain the center and keep rates low.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "silent",
+    "meals-included",
+    "work-practice",
+    "fixed-fee",
+    "monastic-community",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Vajra Vidya Retreat Center - Home",
+      "url": "https://www.vajravidya.com/"
+    },
+    {
+      "title": "Retreat Room Rates",
+      "url": "https://vajravidya.com/rates"
+    },
+    {
+      "title": "FAQ - Practical Details",
+      "url": "https://vajravidya.com/practical-details"
+    },
+    {
+      "title": "Our Retreat Center - About",
+      "url": "https://vajravidya.com/about-retreat-center"
+    },
+    {
+      "title": "Upcoming Retreats",
+      "url": "https://vajravidya.com/retreats"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

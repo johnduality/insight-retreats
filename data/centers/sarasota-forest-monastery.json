@@ -1,0 +1,82 @@
+{
+  "id": "sarasota-forest-monastery",
+  "name": "Sarasota Forest Monastery",
+  "aka": [
+    "SFM",
+    "Wat Pa Sarasota",
+    "Buddhist Association of Central Florida (former name)"
+  ],
+  "website": "https://sarasotaforestmonastery.org/",
+  "location": {
+    "address": "520 Lewis Street, Englewood, FL 34223",
+    "city": "Englewood",
+    "county": "Sarasota County",
+    "region": "Southwest Florida",
+    "state": "FL",
+    "lat": 26.9578,
+    "lng": -82.3512
+  },
+  "tradition": "Theravada Buddhism, Thai Forest (Dhammayut) Tradition",
+  "technique": "Anapanasati (mindfulness of breathing) and walking meditation within the ascetic (dhutanga) practice of the Thai Forest Tradition",
+  "influences": [
+    "Thai Forest Tradition (Kammatthana)",
+    "Dhammayut Order",
+    "Phra Ajaan Keng Khemako",
+    "Luang Pu Uthai Siritharo",
+    "Ajaan Chichung Dhammaṭṭho"
+  ],
+  "teacherAccess": "Overnight guests may speak informally with the abbot after morning or afternoon chores; day visitors can typically meet the monks around 11:30 a.m. after the almsround meal. There are no scheduled individual interviews or daily Dhamma talks outside the weekly Sunday program.",
+  "retreatOptions": "First-time overnight guests are limited to 3 days/2 nights; longer personal stays are possible on a return visit by request.",
+  "schedule": "Daily monastic routine centered on an early-morning almsround, shared morning chores (about 30 minutes), one communal meal offered around 10:30 a.m., a free afternoon for personal practice, and occasional announced chores; formal group chanting and meditation are held only on Sundays.",
+  "cost": "Free — no charge for lodging, food, books, or teaching; the monastery is supported entirely by dana (donation).",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Strictly donation-based. The monastery states there is no charge for board, lodging, books, or teachings and does not publish a suggested amount.",
+    "source": "https://sarasotaforestmonastery.org/day-and-overnight-visitors"
+  },
+  "foodServed": "yes",
+  "foodType": "omnivore",
+  "workRequired": "yes",
+  "workNotes": "Overnight guests join daily chores (roughly 30 minutes) plus any additional tasks announced before the midday meal, and help with kitchen food preparation and cleanup.",
+  "foodNotes": "One communal meal is offered to the monks around 10:30 a.m. and shared potluck-style with lay guests; the monastery cannot accommodate strict vegetarian or other special diets, though guests may bring and eat their own food before noon.",
+  "about": "Sarasota Forest Monastery is a Thai Forest Theravada Buddhist monastery on roughly 9 acres of woodland in Englewood, on Florida's Gulf Coast, founded in 2015 and affiliated with the Dhammayut Order. It grew out of a series of 'Winter Pilgrimage' visits by monks from a Michigan forest monastery starting in 2005, which led local supporters to form a nonprofit and eventually purchase land to establish a permanent forest monastery. The monastery keeps a small resident community of monks who observe strict Vinaya discipline and ascetic (dhutanga) practices, and welcomes lay visitors for day visits or overnight stays of up to three days and two nights (longer by arrangement) to share in the monastic routine of almsround, chores, and meditation. Guests sleep in a simple screened meditation hut or on a tent platform in the forest, without electricity or piped water, and observe the Eight Precepts for the duration of their stay. Everything — lodging, food, and teaching — is offered free of charge, sustained entirely by the generosity of donors.",
+  "tags": [
+    "theravada",
+    "self-guided",
+    "monastic-community",
+    "dana-donation",
+    "camping",
+    "work-practice",
+    "diet-omnivore",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Day and Overnight Visitors — Sarasota Forest Monastery",
+      "url": "https://sarasotaforestmonastery.org/day-and-overnight-visitors"
+    },
+    {
+      "title": "The Daily Schedule — Sarasota Forest Monastery",
+      "url": "https://sarasotaforestmonastery.org/the-daily-schedule"
+    },
+    {
+      "title": "The Monastery — Sarasota Forest Monastery",
+      "url": "https://sarasotaforestmonastery.org/the-monastery"
+    },
+    {
+      "title": "History — Sarasota Forest Monastery",
+      "url": "https://sarasotaforestmonastery.org/history"
+    },
+    {
+      "title": "Leadership — Sarasota Forest Monastery",
+      "url": "https://sarasotaforestmonastery.org/leadership"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "one-river-zen",
+  "name": "One River Zen",
+  "aka": [],
+  "location": {
+    "city": "Ottawa",
+    "region": "Illinois River Valley",
+    "state": "IL",
+    "lat": 41.3456,
+    "lng": -88.842
+  },
+  "tradition": "Soto Zen, White Plum Lineage",
+  "technique": "Zazen (shikantaza-style seated meditation), chanting, and samu work practice",
+  "influences": [
+    "Dainin Katagiri Roshi",
+    "White Plum Lineage",
+    "Sensei Michael Brunner",
+    "Sojun Diane Martin Roshi",
+    "Zen Peacemakers International"
+  ],
+  "teacherAccess": "Guiding teacher Sensei Michael Brunner (Dharma transmission in the Katagiri lineage via Sojun Diane Martin, Roshi) and Hoshi Vanessa Roddam lead retreats on-site, plus offer one-on-one practice conversations by appointment.",
+  "retreatOptions": "Weekend meditation retreats (Friday evening to Sunday afternoon) offered several times a year, plus periodic 7-day meditation retreats; each can be joined as residential, commuter, or online.",
+  "schedule": "Structured retreat day: pre-dawn and evening zazen, Buddhist service and chanting, Dharma talk, samu (work practice) in the early afternoon, yoga, and communal meals.",
+  "cost": "$179 residential (includes room & meals) for a weekend retreat; $99 commuter (meals, no room); $69 online-only participation; weeklong retreats are priced separately.",
+  "pricePerDay": {
+    "min": 89.5,
+    "max": 89.5,
+    "unit": "night",
+    "notes": "$179 residential rate (room & meals included) for a 2-night weekend retreat (Fri evening-Sun afternoon) = $89.50/night. Weeklong retreats are priced separately (no clear per-night figure published).",
+    "source": "https://oneriverzen.org/summer-radiance"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "yes",
+  "workNotes": "Samu (work practice) is built into the weekend retreat schedule, roughly 2.5 hours on Saturday afternoon, framed as an integral part of practice rather than an optional chore.",
+  "foodNotes": "Vegetarian meals (breakfast, lunch, dinner) are prepared and shared communally and are included in residential and commuter retreat fees.",
+  "about": "One River Zen is a Soto Zen temple in the White Plum Lineage, founded in 2021 and housed in a restored 1890 Queen Anne Victorian residence on the Illinois River in Ottawa, near Starved Rock State Park. Guided by Sensei Michael Brunner in the lineage of Dainin Katagiri Roshi, the temple is an affiliate of Zen Peacemakers International and offers weekend and weeklong meditation retreats alongside regular classes and daily sitting. Retreatants stay dormitory-style within the historic home itself, following a schedule of zazen, chanting, Dharma talks, samu work practice, and shared vegetarian meals. As a newer organization it is still small in scale, but it has an active in-person and online sangha and states it welcomes participants regardless of ability to pay.",
+  "tags": [
+    "zen",
+    "mahayana",
+    "long-retreats",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "One River Zen - Home",
+      "url": "https://oneriverzen.org/"
+    },
+    {
+      "title": "One River Zen - About Us",
+      "url": "https://oneriverzen.org/about-us"
+    },
+    {
+      "title": "One River Zen - Weekend Retreat Schedule",
+      "url": "https://oneriverzen.org/weekend-retreat-schedule"
+    },
+    {
+      "title": "One River Zen - Summer Radiance Weekend Meditation Retreat (pricing, lodging, food)",
+      "url": "https://oneriverzen.org/summer-radiance"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "ananda-meditation-retreat",
+  "name": "Ananda Meditation Retreat",
+  "aka": [
+    "The Seclusion Retreat",
+    "Ananda Seclusion Retreat",
+    "Meditation Retreat"
+  ],
+  "website": "https://meditationretreat.org/the-seclusion-retreat/",
+  "location": {
+    "city": "Nevada City",
+    "region": "Sierra Foothills",
+    "state": "CA",
+    "lat": 39.2795,
+    "lng": -121.0985
+  },
+  "tradition": "Meditation and Kriya Yoga in the Paramhansa Yogananda lineage (Ananda)",
+  "influences": [
+    "Paramhansa Yogananda",
+    "Swami Kriyananda"
+  ],
+  "about": "The Ananda Meditation Retreat, also known as The Seclusion Retreat, sits on 72 acres of meditation gardens and wild forest in the Sierra foothills near Nevada City, on the original Ananda land that has been a place of deep meditation for over fifty years. It is a quiet, off-the-grid forest sanctuary purpose-built for silence, seclusion, and self-directed personal retreats, distinct from Ananda's nearby Expanding Light campus. Guests settle into their own private cabin, garden or secluded bungalow, or a simple tent or RV site tucked under the pines, and shape the day themselves with reading, hiking to the view from Bald Mountain, journaling, and rest. Optional group meditations are offered three times daily and personalized guidance in Yogananda's meditation techniques, Energization Exercises, and Ananda Yoga is available, but there are no required activities. It is first and foremost a spiritual ashram, welcoming beginners and experienced meditators alike for stays of two nights or more.",
+  "technique": "Kriya Yoga meditation, Yogananda's Energization Exercises, and Ananda Yoga, with optional group meditations three times daily.",
+  "teacherAccess": "Resident teacher-hosts (Nayaswamis and certified Ananda instructors) offer optional personalized guidance and a Guided Personal Retreat option on request.",
+  "retreatOptions": "Self-directed Secluded Personal Retreats and Guided Personal Retreats, plus scheduled guided group and silent retreats; year-round with flexible dates, two-night minimum.",
+  "schedule": "Self-paced; optional group meditations are held three times daily and yoga/meditation sessions Tuesday-Saturday, with no other required activities for personal retreatants.",
+  "cost": "All-inclusive per-person nightly rate by lodging type, from $72 (tent) to $202+ (full-kitchen cabin), including three vegetarian meals and program participation.",
+  "pricePerDay": {
+    "min": 72,
+    "max": 202,
+    "unit": "night",
+    "notes": "All-inclusive rate per person per night including three vegetarian meals and full program participation; minimum two-night stay. Tent $72, RV $82, secluded bungalow $115, garden bungalow $124, cabin (kitchenette + shared bath) from $131, cabin (kitchenette + private bath) from $177, cabin (full kitchen + private bath) from $202. Extra charge for additional people.",
+    "source": "https://meditationretreat.org/yoga-and-meditation-retreats/secluded-personal-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian meals a day are included and served in the dining hall (breakfast, lunch, dinner); some non-dairy, non-wheat, and egg-free needs can be accommodated. Guests in cabins with kitchens may also self-cater.",
+  "workRequired": "no",
+  "workNotes": "No work or karma yoga is required for personal-retreat guests; a separate voluntary Karma Yoga Ashram service program exists but is optional and distinct.",
+  "tags": [
+    "yoga-hindu",
+    "self-guided",
+    "fixed-fee",
+    "camping",
+    "diet-vegetarian",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Ananda Meditation Retreat — Ananda.org",
+      "url": "https://www.ananda.org/location/ananda-meditation-retreat/"
+    },
+    {
+      "title": "The Seclusion Retreat Campus",
+      "url": "https://meditationretreat.org/the-seclusion-retreat/"
+    },
+    {
+      "title": "Secluded Personal Retreat (accommodations, rates, FAQ)",
+      "url": "https://meditationretreat.org/yoga-and-meditation-retreats/secluded-personal-retreat/"
+    },
+    {
+      "title": "Personal Retreat / Seclusion",
+      "url": "https://meditationretreat.org/personal-retreat-seclusion/"
+    },
+    {
+      "title": "Retreat FAQ",
+      "url": "https://meditationretreat.org/retreat-faq/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "gateless-meditation-center",
+  "name": "Gateless Meditation Center",
+  "aka": [
+    "Nirvana Retreat Center",
+    "GMC",
+    "Mountain View Cabins"
+  ],
+  "website": "https://www.gateless-meditation.com/",
+  "location": {
+    "city": "Augusta",
+    "region": "Eastern Panhandle (Hampshire County)",
+    "state": "WV",
+    "lat": 39.3095,
+    "lng": -78.5002
+  },
+  "tradition": "Buddhist meditation (Chan/Zen and Tibetan Karma Kagyu teachers)",
+  "technique": "Chan/Zen sitting meditation and retreat practice, with periodic teachings and precepts ceremonies from visiting Tibetan Karma Kagyu teachers",
+  "influences": [
+    "Gilbert Gutierrez (Chan dharma heir of Chan Master Sheng Yen)",
+    "Venerable Guo Xing (Dharma Drum Mountain)",
+    "Venerable Guo Goang (Dharma Drum Mountain)",
+    "Khenpo Karma Tenkyong (Karma Triyana Dharmachakra)"
+  ],
+  "teacherAccess": "A rotating roster of visiting monastic and lay teachers - primarily Chan/Zen teachers in the Dharma Drum Mountain and Sheng Yen lineage, plus occasional Tibetan Karma Kagyu teachers from KTD - lead multi-day retreats on site several times a year.",
+  "retreatOptions": "Multi-day guided retreats (commonly 2-3 day weekend retreats up to 7-9 day intensive Chan retreats) with a visiting teacher, plus self-guided stays in the property's mountain cabins between scheduled programs.",
+  "about": "Gateless Meditation Center is a small 501(c) nonprofit Buddhist meditation retreat center on wooded mountain acreage in Augusta, West Virginia, in the state's Eastern Panhandle. A lay practitioner began acquiring the land in 2006, hosted the site's first meditation retreat (led by a Chan master) in 2015, and went on to build a dedicated Chan meditation hall and several cabins and dormitory buildings for retreatants. The center hosts guided residential retreats several times a year led by visiting teachers, mainly Chan/Zen monastics in the Dharma Drum Mountain lineage of the late Chan Master Sheng Yen (including dharma heir Gilbert Gutierrez), with occasional programs led by Tibetan Karma Kagyu teachers connected to Karma Triyana Dharmachakra. Outside of scheduled retreats, the mountain cabins can also be booked for self-guided personal meditation retreats. Vegetarian meals are provided during group retreats, and participants are asked to bring their own bedding.",
+  "schedule": "Several multi-day retreats per year (recent examples include 7-9 day Chan retreats and 2-3 day weekend/holiday retreats), announced on the center's website; cabins available for self-guided retreats between programs.",
+  "cost": "Group retreats are free to register with donations (dana) requested; self-guided cabin stays are booked separately at nightly rates.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Cabin rates for the separate self-guided option are not publicly listed.",
+    "source": "https://www.gateless-meditation.com/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian (not vegan) meals are served during group retreats; participants can flag dietary restrictions at registration.",
+  "workRequired": "unknown",
+  "workNotes": "Not specified on the official retreat registration materials reviewed.",
+  "tags": [
+    "zen",
+    "tibetan-vajrayana",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Gateless Meditation Center - official site",
+      "url": "https://www.gateless-meditation.com/"
+    },
+    {
+      "title": "Nirvana Retreat Center (cabins) - official site",
+      "url": "https://www.nirvana-retreat-center.com/"
+    },
+    {
+      "title": "Buddha Birthday Celebration Weekend Retreat - registration form",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeCjw8mo4Ke6y91FQma3pktcd4QuKdNymu7xAnWwY2ySAoX1g/viewform"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}

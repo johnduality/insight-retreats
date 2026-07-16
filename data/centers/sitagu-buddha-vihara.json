@@ -1,0 +1,69 @@
+{
+  "id": "sitagu-buddha-vihara",
+  "name": "Sitagu Buddha Vihara",
+  "aka": [
+    "Sitagu Buddhist Vihara",
+    "Theravada Dhamma Society of America"
+  ],
+  "location": {
+    "city": "Austin",
+    "region": "Austin / Hill Country",
+    "state": "TX",
+    "lat": 30.202,
+    "lng": -97.928
+  },
+  "tradition": "Theravada Buddhism, Burmese monastic tradition",
+  "technique": "Self-directed sitting and walking meditation (mindfulness of breathing / vipassana) in the Burmese Theravada style, alongside the monastery's own chanting and communal practice",
+  "influences": [
+    "Sitagu Sayadaw (Ashin Nyanissara)",
+    "Sitagu Association of Myanmar",
+    "Theravada Dhamma Society of America"
+  ],
+  "teacherAccess": "Resident Burmese monastics live on site and are available to answer questions and give guidance on request, but they do not run or lead structured retreat instruction for lay visitors",
+  "retreatOptions": "Self-guided residential retreats by arrangement rather than a fixed public course calendar; visitors design their own schedule of sitting and walking meditation and may stay from a few days up to a week for first-time visitors (longer stays, including week-to-month arrangements for returning practitioners, are possible with advance approval); the monastery has also hosted separately-organized long-term retreat programs led by outside teachers for their own former students",
+  "schedule": "No imposed retreat timetable for individual guests; the monastery follows its own daily monastic rhythm (morning chanting around 5:30-6:15am, a communal meal offering to the monks around 11:15-11:40am, and evening chanting) which guests are welcome, but not required, to join around their own practice",
+  "cost": "No charge for staying as a guest; the monastery is supported entirely through community dana (donations of money, food, and labor), and guests are encouraged, but not billed, to contribute",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Strictly donation-based (dana); no fee is charged for teaching, room, or board. No suggested amount is published; some externally-arranged long-term retreat programs hosted at the vihara mention that a minimum operating-cost figure is available on request.",
+    "source": "https://sitagu.org/austin/Attractions/residence/housing.html"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "workRequired": "partial",
+  "workNotes": "Guests share in the routine of the monastic community; roughly an hour of daily chores (mindful sweeping and general upkeep) is part of community life, and long-term resident-yogi arrangements include daily assigned cleaning periods, though short first-time visits are described more as voluntary contribution than a strict requirement.",
+  "foodNotes": "The lay community brings food daily for a communal meal offering to the monks around 11:15-11:40am (monks eat their last meal before noon per monastic rule); guests are welcome to join this potluck-style meal, which is not confirmed to be strictly vegetarian, and may want to bring something to contribute; provision of other meals for guests is not clearly documented.",
+  "about": "Sitagu Buddha Vihara is a 16.1-acre Theravada Buddhist monastery in the Oak Hill area of southwest Austin, founded in 1996 under the Theravada Dhamma Society of America and affiliated with the Sitagu Sayadaw (Ashin Nyanissara) lineage from Myanmar. Rather than running a scheduled program of public courses, it functions as a live-in monastic community that welcomes lay visitors for self-directed practice: guests design their own sitting and walking meditation schedule, with resident monks available to answer questions but not leading formal instruction. Housing consists of simple single-person cabins (fourteen for women, fourteen for men, eight for the sangha), most without private plumbing, plus a 10-unit guesthouse mainly used by non-practicing visitors and volunteers; a central bathhouse serves the cabins. Stays are free, supported entirely by community dana, though first-time visits are generally capped at about a week unless longer arrangements are approved in advance, and returning practitioners have stayed for weeks or months, including through separately organized long-term retreat programs hosted at the site. Guests are expected to take on monastic etiquette and often the Eight Precepts, join in daily chores, limit phone/computer use, and participate in the community's daily chanting and meal-offering routine even while otherwise practicing independently.",
+  "tags": [
+    "theravada",
+    "self-guided",
+    "dana-donation",
+    "monastic-community",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Austin",
+      "url": "https://sitagu.org/austin/"
+    },
+    {
+      "title": "Housing.Html",
+      "url": "https://sitagu.org/austin/Attractions/residence/housing.html"
+    },
+    {
+      "title": "Newbies.Html",
+      "url": "https://sitagu.org/austin/newbies/newbies.html"
+    },
+    {
+      "title": "Sitagu Buddhist Vihara",
+      "url": "https://hwpi.harvard.edu/pluralismarchive/sitagu-buddhist-vihara"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-15",
+    "reviewStatus": "unverified"
+  }
+}
