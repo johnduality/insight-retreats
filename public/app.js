@@ -139,7 +139,7 @@ function renderCatalogue() {
   $("#resultCount").textContent = `${items.length} center${items.length === 1 ? "" : "s"} in ${scope}`;
   const supportedEl = $("#supportedStates");
   if (supportedEl) {
-    const allCodes = [...Object.keys(STATE_NAMES), "NV", "OH", "UT", "SD", "ND", "AK", "WY", "OK", "AL"].sort();
+    const allCodes = [...Object.keys(STATE_NAMES), "NV", "OH", "UT", "SD", "ND", "AK", "WY", "OK", "AL", "DC"].sort();
     supportedEl.textContent = `Supported states: ${allCodes.join(", ")}`;
   }
   if (state.view === "list") renderCards(items);
