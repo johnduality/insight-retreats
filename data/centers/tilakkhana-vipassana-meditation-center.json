@@ -1,0 +1,76 @@
+{
+  "name": "Tilakkhana Vipassana Meditation Center",
+  "aka": [
+    "Tilakkhana",
+    "Centro de Meditacao Tilakkhana"
+  ],
+  "website": "https://vipassana-tilakkhana.com/en/home-2/",
+  "location": {
+    "address": "Monte Agudo, Santo Estevao, 8800-509 Tavira",
+    "city": "Tavira",
+    "county": "Faro",
+    "region": "Algarve, Portugal",
+    "country": "Portugal",
+    "state": "PT",
+    "lat": 37.141,
+    "lng": -7.731
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Vipassana (Mahasi Sayadaw method as taught by Ven. Ajahn Tong Sirimangalo)",
+  "technique": "Intensive Mahasi-style Vipassana: mindful prostration, walking meditation, and sitting meditation based on the Four Foundations of Mindfulness (Satipatthana), with individual daily reporting to a teacher",
+  "influences": [
+    "Ven. Phra Ajarn Tong Sirimangalo (Phra Promm Mongkol Vi)",
+    "Khun Thanat Chindaporn",
+    "Wat Phradhatu Sri Chomtong Voravihara, northern Thailand",
+    "Mahasi Sayadaw tradition"
+  ],
+  "teacherAccess": "Daily individual meditation instruction and reporting with a teacher throughout each course; the center's founder-teacher supervises practice directly",
+  "retreatOptions": "15-day basic introductory course; 10-day retreat course for those who have completed the basic course; shorter stays of a few days also possible; the center runs several set course periods through the year and can also be joined at any time based on availability",
+  "about": "Tilakkhana Vipassana is a small residential meditation center in the hills of Monte Agudo, near Tavira in the eastern Algarve, teaching an intensive Mahasi Sayadaw-style Vipassana technique as passed down through Ven. Ajahn Tong Sirimangalo of Wat Phradhatu Sri Chomtong Voravihara in northern Thailand. The center was founded after a search for land in southern Portugal beginning in 2014, and in 2015 Ajahn Tong gave it the name 'Tilakkhana,' referring to the Three Marks of Existence (impermanence, suffering, and non-self) central to Vipassana insight. Courses run in fixed monthly blocks, with a 15-day basic course for newcomers and a 10-day retreat for those who have completed it, combining walking meditation, sitting meditation, and mindful prostration under noble silence with daily individual reporting to a teacher. Guests stay in double rooms, follow the Eight Buddhist Precepts (including not eating after midday), and support the center through voluntary dana rather than fixed fees, alongside modest contributions toward food and accommodation costs. Adherence to Buddhism is not required to attend.",
+  "schedule": "Monthly course blocks (roughly seven times per year): 15-day basic courses and 10-day retreat courses for returning students; daily individual teacher reporting; noble silence observed throughout each course",
+  "cost": "Donation-based (dana) for the teaching itself; separate suggested contributions of EUR 20/day for food and EUR 15/day for accommodation/utilities; a refundable EUR 100 registration deposit is required for first-time basic-course bookings",
+  "pricePerDay": {
+    "min": 35,
+    "max": 35,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Suggested (not fixed) contribution toward food (EUR 20/day) and accommodation/utilities (EUR 15/day) = EUR 35/day; teacher dana is separate and fully voluntary.",
+    "source": "https://vipassana-tilakkhana.com/en/meditation-courses/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian breakfast (6:30am) and lunch (11:00am), plus an evening snack, with water and tea available all day; no dinner is served, in line with the Eight Precepts followed during courses.",
+  "workRequired": "no",
+  "workNotes": "No formal work practice is required of course participants; the day is structured around meditation sessions rather than chores.",
+  "tags": [
+    "theravada",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "diet-vegetarian",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Tilakkhana Vipassana - Home",
+      "url": "https://vipassana-tilakkhana.com/en/home-2/"
+    },
+    {
+      "title": "Vipassana - technique and lineage",
+      "url": "https://vipassana-tilakkhana.com/en/vipassana-2/"
+    },
+    {
+      "title": "Meditation Courses - schedule, fees, and rules",
+      "url": "https://vipassana-tilakkhana.com/en/meditation-courses/"
+    },
+    {
+      "title": "Contact",
+      "url": "https://vipassana-tilakkhana.com/en/contact-2/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  },
+  "id": "tilakkhana-vipassana-meditation-center"
+}

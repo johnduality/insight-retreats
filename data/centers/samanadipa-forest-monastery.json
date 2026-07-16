@@ -1,0 +1,84 @@
+{
+  "id": "samanadipa-forest-monastery",
+  "name": "Samanadipa Forest Buddhist Monastery",
+  "aka": [
+    "Samanadipa Hermitage",
+    "Goljek Hermitage",
+    "Gozdni budisticni samostan Samanadipa"
+  ],
+  "website": "https://samanadipa.org",
+  "location": {
+    "address": "Goljek 3, 8210 Trebnje, Slovenia",
+    "city": "Goljek",
+    "region": "Trebnje, Lower Carniola, Slovenia",
+    "country": "Slovenia",
+    "state": "SI",
+    "lat": 45.96012,
+    "lng": 14.980188
+  },
+  "tradition": "Theravada Buddhism, forest tradition (Hillside Hermitage interpretation of early Buddhism and the Vinaya)",
+  "technique": "Anapanasati (mindfulness of breathing) and contemplative reflection per the early Pali suttas; observance of the Eight Precepts; silence, seclusion, and manual work practice (kitchen, forest, garden) rather than group ritual",
+  "influences": [
+    "Ajahn Nyanamoli Thero",
+    "Ajahn Hiriko (Primoz Korelc), founding monk",
+    "Hillside Hermitage lineage",
+    "early Pali Nikayas and Vinaya"
+  ],
+  "teacherAccess": "No formal group pujas or scheduled dharma talks; resident monks (addressed as \"bhante\") are available most mornings until noon for informal conversation and questions with guests and visitors.",
+  "retreatOptions": "Open-ended, self-guided residential stays for lay visitors of essentially any multi-night length by advance arrangement (typically several nights to a few weeks), lodging in the on-site Nirodha guesthouse; no fixed group-retreat calendar or courses, since the format is personal retreat within the monastic community's daily rhythm.",
+  "about": "Samanadipa Forest Buddhist Monastery is a small Theravada monastic sanctuary near the village of Goljek in Lower Carniola, established in Slovenia in 2016 by Ajahn Hiriko (Primoz Korelc) and now guided by Ajahn Nyanamoli Thero in the Hillside Hermitage interpretation of early Buddhism. The hermitage comprises three adjoining properties: a main house that serves as the community's central gathering place, an open-air sala used for public activities in warmer months, the Nirodha guesthouse for overnight lay visitors, and a secluded cluster of monastic dwellings (Viveka) reserved for the resident monks. Visitors are welcome to stay overnight for multi-night personal retreats, living alongside the monastic community, observing the Eight Precepts, and taking part in silence, work practice, and simple communal meals taken only before midday. There are no scheduled courses or group pujas; instead the monastery emphasises seclusion, individual contemplative practice, and informal access to resident monks for questions on Dhamma. Everything is offered freely, in the dana tradition of the Theravada forest lineage, funded entirely by the generosity of lay supporters.",
+  "schedule": "No fixed course schedule; overnight guests follow the monastery's daily rhythm of pre-dawn/morning meditation, a single main meal taken before midday (nothing eaten afterward, per the Eight Precepts), afternoon periods of communal work (kitchen, forest, or garden), and personal silent practice, with no group chanting or pujas.",
+  "cost": "No fees of any kind for room or teachings; entirely dana (voluntary donation)-based, in keeping with Theravada forest-tradition custom.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Strictly dana-based; the monastery does not charge for lodging or teachings and gives no suggested donation amount.",
+    "source": "https://samanadipa.org/visiting/staying/"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "One meal is offered to monks and overnight guests each day, taken before midday only (nothing eaten afterward, per the Eight Precepts); the food served is whatever lay supporters offer, so it is not guaranteed vegetarian, though special dietary needs can be arranged with the guest monk in advance.",
+  "workRequired": "yes",
+  "workNotes": "Overnight guests are expected to help with kitchen work, forest work, or gardening as part of daily communal life alongside their personal meditation practice.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "work-practice",
+    "self-guided",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Samanadipa Buddhist Monastery - Slovenia - Forest Hermitage (home)",
+      "url": "https://samanadipa.org/"
+    },
+    {
+      "title": "About the Monastery",
+      "url": "https://samanadipa.org/hermitage/about/"
+    },
+    {
+      "title": "Staying as a Guest",
+      "url": "https://samanadipa.org/visiting/staying/"
+    },
+    {
+      "title": "General Information for Visitors and Guests",
+      "url": "https://samanadipa.org/visiting/general-guidance/"
+    },
+    {
+      "title": "How to get to Goljek Hermitage (Directions)",
+      "url": "https://samanadipa.org/visiting/directions/"
+    },
+    {
+      "title": "Precepts & Observances",
+      "url": "https://samanadipa.org/visiting/precepts/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

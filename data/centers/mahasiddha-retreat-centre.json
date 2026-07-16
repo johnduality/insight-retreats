@@ -1,0 +1,63 @@
+{
+  "id": "mahasiddha-retreat-centre",
+  "name": "Mahasiddha Retreat Centre",
+  "aka": [
+    "MRC",
+    "MRC Lodge and Cabins",
+    "MRC Lodge & Cabins"
+  ],
+  "website": "https://mrclodgeandcabins.com",
+  "location": {
+    "address": "3483 BC-95, Parson, BC V0A 1L0, Canada",
+    "city": "Parson",
+    "region": "Columbia Valley, British Columbia, Canada",
+    "country": "Canada",
+    "state": "BC",
+    "lat": 51.146,
+    "lng": -116.849
+  },
+  "tradition": "Tibetan Buddhism (Karma Kagyu / Nyingma), Nalandabodhi lineage under Dzogchen Ponlop Rinpoche",
+  "technique": "Individual meditation and contemplative retreat in the Nalandabodhi/Karma Kagyu-Nyingma tradition, including walking meditation on the mountain paths; periodic on-site programs offer guided instruction",
+  "influences": [
+    "Dzogchen Ponlop Rinpoche",
+    "Khenchen Tsultrim Gyamtso Rinpoche",
+    "Nalandabodhi"
+  ],
+  "teacherAccess": "No resident teacher; guided instruction is available only during periodic on-site or online meditation programs offered by Nalandabodhi teachers, which guests may join if their stay coincides.",
+  "retreatOptions": "Private, self-guided personal retreat stays of any length in individual cabins (1-5 person capacity), the central lodge, or a separate apartment; periodic on-site group meditation programs led by Nalandabodhi teachers.",
+  "about": "Mahasiddha Retreat Centre (MRC), operating day-to-day as MRC Lodge & Cabins, is a Tibetan Buddhist retreat property in the Columbia River Valley at Parson, BC, about 34 km south of Golden, surrounded by Yoho, Banff, Kootenay and Glacier National Parks. Established in 2018 by the Nalandabodhi Foundation of Canada under the guidance of Dzogchen Ponlop Rinpoche, the centre pays homage to Khenchen Tsultrim Gyamtso Rinpoche and exists to give practitioners a genuine place for meditation, personal retreat and pilgrimage near the sites associated with his teaching. Accommodation includes several private cabins (sleeping one to five), a central lodge with six rooms, and a separate three-bedroom apartment, with two dedicated shrine rooms for practice; individuals and small self-organized groups can book private, self-guided retreat stays of any length, and the centre periodically hosts its own on-site meditation programs led by Nalandabodhi teachers. As of mid-2026, MRC has announced it is in the process of relocating its operations to Alberta with no confirmed date, so its status as a British Columbia retreat property should be treated as transitional.",
+  "schedule": "No fixed group schedule for private retreats; guests arrange their own daily rhythm of meditation and walking practice, with meals arranged individually. Group programs, when offered, follow a schedule set by the visiting teacher.",
+  "cost": "No published nightly rate; personal retreat stays are booked directly by email, with accommodation and a meal plan arranged individually for each guest.",
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Guests arrange their meal plan individually with MRC when booking; cabins have a mini-kitchen for self-catering and meals can also be taken in the lodge dining room.",
+  "workRequired": "no",
+  "workNotes": "Private retreat stays have no work requirement described on the centre's website.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided"
+  ],
+  "sources": [
+    {
+      "title": "Our Story - MRC Lodge & Cabins",
+      "url": "https://mrclodgeandcabins.com/about-mrc/our-story/"
+    },
+    {
+      "title": "Retreat Booking - MRC Lodge & Cabins",
+      "url": "https://mrclodgeandcabins.com/retreat-booking/"
+    },
+    {
+      "title": "Cabins Page - MRC Lodge & Cabins",
+      "url": "https://mrclodgeandcabins.com/cabins-page/"
+    },
+    {
+      "title": "Nalandabodhi Mahasiddha Retreat Centre - Nalandabodhi Canada",
+      "url": "https://canada.nalandabodhi.ca/locations/nalandabodhi-mahasidda/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

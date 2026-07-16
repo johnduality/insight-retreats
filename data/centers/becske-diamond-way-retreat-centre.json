@@ -1,0 +1,82 @@
+{
+  "id": "becske-diamond-way-retreat-centre",
+  "name": "Becske Diamond Way Retreat Centre",
+  "aka": [
+    "Becske Meditációs és Elvonulási Központ",
+    "Becske National Retreat Centre",
+    "Becskei Országos Elvonulási Központ",
+    "Gyémánt Út Buddhista Közösség Becske"
+  ],
+  "website": "https://sztupa.hu",
+  "location": {
+    "address": "Petőfi Sándor utca, 2693 Becske, Hungary",
+    "city": "Becske",
+    "region": "Nógrád County, Hungary",
+    "country": "Hungary",
+    "state": "HU",
+    "lat": 47.918729,
+    "lng": 19.382093
+  },
+  "tradition": "Diamond Way Buddhism (Karma Kagyu lineage of Tibetan Buddhism), under Lama Ole Nydahl and the 17th Karmapa Thaye Dorje",
+  "technique": "16th Karmapa Guru Yoga meditation practised together in the gompa, plus the four Ngöndro foundational practices (prostrations, Diamond Mind/Vajrasattva purification, mandala offering, guru yoga) with explanations from visiting teachers; larger courses add empowerments and dharma talks from visiting lamas and Rinpoches",
+  "influences": [
+    "Lama Ole Nydahl",
+    "17th Karmapa Thaye Dorje",
+    "Lopön Tsechu Rinpoche",
+    "Sherab Gyaltsen Rinpoche",
+    "16th Karmapa Rangjung Rigpe Dorje",
+    "Lama Jigme Rinpoche"
+  ],
+  "teacherAccess": "No permanent resident teacher; a caretaker couple lives on site year-round. Visiting lamas and Rinpoches (e.g. Lama Jigme Rinpoche, Sherab Gyaltsen Rinpoche) give periodic teachings, Q&A and empowerments during multi-day courses, and travelling teachers (utazótanítók) lead daily practice and give talks throughout each course.",
+  "retreatOptions": "Monthly Ngöndro practice weekend (third weekend of the month) in the Marpa House gompa; multi-day (3-4 night, Thursday-Sunday) courses with visiting lamas/Rinpoches several times a year; week-long international summer courses that have drawn thousands of participants since 1998; individual open or closed retreats of varying length in the on-site Lama Houses, available to practitioners authorised by Lama Ole Nydahl",
+  "about": "Becske is the national retreat and meditation centre of Diamond Way Buddhism in Hungary, on nearly 50 hectares of countryside in Nógrád County that the Diamond Way Buddhist Community began purchasing in 1997. The property centres on the Marpa House, a gompa that seats around 200 practitioners, and the nine-metre Enlightenment Stupa built on neighbouring Snail Hill in 2008 under the guidance of Sherab Gyaltsen Rinpoche, which is open to visitors year-round. Since 1998 the community has run international Buddhist courses here every summer, drawing hundreds to thousands of participants to teachings and empowerments given by figures including the 17th Karmapa Thaye Dorje, Lama Ole Nydahl, Lopön Tsechu Rinpoche and Sherab Gyaltsen Rinpoche, alongside a standing monthly Ngöndro practice weekend. Three dedicated retreat houses (\"Lama Houses\") on site support individual open or closed retreats for practitioners authorised by Lama Ole Nydahl, while larger group courses are typically supported by on-site tent camping plus self-booked lodging in Becske village and its surroundings. The centre is run almost entirely by volunteers from Hungary's national network of Diamond Way centres, with help from neighbouring countries during the big summer courses.",
+  "schedule": "Multi-day course rhythm (e.g. the 2026 Lama Jigme Rinpoche course): arrival with dinner and an evening teaching plus group 16th Karmapa meditation; full days of morning meditation blocks, teachings/empowerments in the afternoon and evening, and a closing morning teaching before departure. The monthly Ngöndro weekend at the Marpa House follows a similar practice-focused format on a smaller scale.",
+  "cost": "No single retreat package; multi-day courses are priced à la carte — a 2026 Thursday-Sunday course with a visiting Rinpoche cost roughly 53,200 HUF (~EUR150) for the full teaching/empowerment programme, with meals purchased separately (breakfast ~1,400 HUF, lunch/dinner ~2,500 HUF each); on-site tent camping during courses is free, while indoor lodging is self-booked in the village or arranged individually for authorised retreatants in the Lama Houses.",
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Meals are available for purchase at the course café during multi-day courses (breakfast and lunch/dinner priced separately per meal) but are not automatically included in the course fee; participants who skip the meal plan are advised to bring their own food since on-site purchase without pre-registration isn't guaranteed.",
+  "workRequired": "no",
+  "workNotes": "Courses are organised and run by an all-volunteer team; visitors with spare time can sign up for a few hours of help via the on-site \"Job Center,\" but this is optional and not expected of ordinary participants.",
+  "tags": [
+    "tibetan-vajrayana",
+    "camping",
+    "family-friendly",
+    "no-work-required",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Becske Diamond Way Retreat Center — karmapa.org centre listing",
+      "url": "https://www.karmapa.org/centers/becske/becske-diamond-way-retreat-centre/"
+    },
+    {
+      "title": "Becske meditation and retreat center — home (EN)",
+      "url": "https://sztupa.hu/en/home-english/"
+    },
+    {
+      "title": "Retreat — Becske sztúpa (EN)",
+      "url": "https://sztupa.hu/en/retreat/"
+    },
+    {
+      "title": "Programs — Becske sztúpa (EN)",
+      "url": "https://sztupa.hu/en/programs/"
+    },
+    {
+      "title": "Contact / how to get to Becske (EN)",
+      "url": "https://sztupa.hu/en/contact/"
+    },
+    {
+      "title": "Láma Dzsigme rinpocse Becskén — buddhizmusma.hu event page",
+      "url": "https://www.buddhizmusma.hu/becske2026"
+    },
+    {
+      "title": "Láma Dzsigme Rinpocse Becskén 2026 — full programme, logistics and ticket prices",
+      "url": "https://sanghacloud.buddhizmusma.hu/jigmela2026becske/hu.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

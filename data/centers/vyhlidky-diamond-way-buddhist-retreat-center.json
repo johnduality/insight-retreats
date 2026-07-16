@@ -1,0 +1,56 @@
+{
+  "name": "Vyhlídky Diamond Way Buddhist Retreat Center",
+  "aka": [
+    "Vyhlidky Retreat Center",
+    "BDC Vyhlídky",
+    "České Budějovice Diamond Way Buddhist Retreat Center"
+  ],
+  "website": "https://vyhlidky.bdc.cz/en/",
+  "location": {
+    "address": "Vyhlídky 19, 373 71 Jivno, Czech Republic",
+    "city": "Jivno (Vyhlídky)",
+    "region": "České Budějovice Region (South Bohemia), Czech Republic",
+    "country": "Czech Republic",
+    "state": "CZ",
+    "lat": 48.9849,
+    "lng": 14.5787
+  },
+  "tradition": "Diamond Way Buddhism (Karma Kagyu, lay Tibetan Vajrayana)",
+  "technique": "Guru yoga and meditation on the 16th Karmapa, phowa and other Diamond Way practices; statue-filling (consecration) courses and study programs are also held on-site",
+  "influences": [
+    "Lama Ole Nydahl",
+    "16th Gyalwa Karmapa, Rangjung Rigpe Dorje",
+    "Sherab Gyaltsen Rinpoche",
+    "Karma Kagyu lineage"
+  ],
+  "teacherAccess": "No resident teacher; visiting Diamond Way lamas and traveling lay teachers lead scheduled weekend courses, study programs and intensive retreats.",
+  "retreatOptions": "Weekend meditation courses, study programs and statue-filling courses, plus intensive group and individual meditation retreats held regularly at the center.",
+  "about": "Vyhlídky Diamond Way Buddhist Retreat Center occupies a former farmhouse in the hamlet of Vyhlídky, part of the village of Jivno, about 8km east of České Budějovice in South Bohemia. A group of Buddhist friends bought the building in 1999 and, over years of volunteer labor, money and time, converted it into a meditation retreat center practicing in the Karma Kagyu lineage under Lama Ole Nydahl; both Nydahl and the Nepalese teacher Sherab Gyaltsen Rinpoche have visited. Today the center hosts a wide range of activities, including regular weekend meditation courses, study programs, statue-filling (consecration) courses, and intensive group and individual meditation retreats. As with other Diamond Way centers, there is no resident teacher; visiting lay teachers lead scheduled courses while the property is maintained day-to-day by resident and volunteer practitioners.",
+  "schedule": "Weekend courses, study programs and intensive meditation retreats scheduled regularly through the year; see the center's program calendar for current dates.",
+  "cost": "No fees are published on the center's English-language pages; costs for individual courses and retreat stays are announced via the center's program calendar.",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "Not specified on the center's website.",
+  "workRequired": "unknown",
+  "workNotes": "Not specified; as with other Diamond Way centers, day-to-day upkeep is generally handled by resident and volunteer practitioners.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided"
+  ],
+  "sources": [
+    {
+      "title": "Vyhlidky Retreat Center - Home",
+      "url": "https://vyhlidky.bdc.cz/en/"
+    },
+    {
+      "title": "Vyhlidky Diamond Way Buddhist Retreat Center - karmapa.org",
+      "url": "https://www.karmapa.org/centers/ceske-budejovice/vyhlidky-diamond-way-buddhist-retreat-center/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  },
+  "id": "vyhlidky-diamond-way-buddhist-retreat-center"
+}

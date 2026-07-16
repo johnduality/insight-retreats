@@ -1,0 +1,82 @@
+{
+  "name": "Wu Bong Sa",
+  "aka": [
+    "Warsaw Zen Center",
+    "Warszawski Ośrodek Zen",
+    "Kwan Um School of Zen - Main Temple in Europe"
+  ],
+  "website": "https://zen.pl/",
+  "location": {
+    "address": "ul. Małowiejska 22/24, 04-962 Warszawa (Falenica), Poland",
+    "city": "Warsaw",
+    "region": "Falenica, Warsaw, Poland",
+    "country": "Poland",
+    "state": "PL",
+    "lat": 52.1628,
+    "lng": 21.1978
+  },
+  "tradition": "Korean Zen (Kwan Um School of Zen)",
+  "technique": "Zen sitting meditation, chanting and bowing practice, walking meditation (kinhin), formal Oryoki meals, koan interviews, and work practice (samu)",
+  "influences": [
+    "Zen Master Seung Sahn",
+    "Zen Master Wu Bong"
+  ],
+  "teacherAccess": "Daily practice alongside resident teachers and the guiding teacher; individual interviews (mondo) with a Zen teacher during retreats and by arrangement.",
+  "retreatOptions": "Weekend to roughly two-week Yong Maeng Jong Jin silent retreats; a 3-4 week summer Kyol Che and a 90-day winter Kyol Che intensive retreat each year; also flexible guest and resident stays of any length.",
+  "about": "Wu Bong Sa is the main European temple of the Kwan Um School of Zen, founded by Zen Master Seung Sahn, occupying a house and garden in the Falenica district on Warsaw's southern edge. The Polish sangha has practiced here since 1982, making it one of the longest-running Zen communities in the country, and the temple hosts the school's flagship European retreats: a 90-day Kyol Che each winter and a 3-4 week Kyol Che each summer, alongside shorter Yong Maeng Jong Jin retreats that run from a weekend up to about two weeks. Days follow a traditional Korean Zen temple schedule of pre-dawn bows, chanting, multiple rounds of sitting and walking meditation, formal Oryoki meals, and work practice, with the option for retreatants to meet individually with a teacher. The temple is entirely vegetarian and alcohol- and smoking-free, and also takes short- and long-term guests and residents outside of scheduled retreats.",
+  "schedule": "Daily morning (5:45am, Mon-Sat) and evening (Mon-Fri) practice plus occasional Sunday public sittings, with scheduled multi-day Yong Maeng Jong Jin retreats through the year and the annual winter (90-day) and summer (3-4 week) Kyol Che intensives.",
+  "cost": "Daily practice is free/by donation; overnight guest and retreat accommodation is charged per night, with a discount for school members.",
+  "pricePerDay": {
+    "min": 50,
+    "max": 80,
+    "unit": "night",
+    "currency": "PLN",
+    "notes": "Guest accommodation: short-term guest 80 PLN/night (60 PLN for Kwan Um School members); long-term stay of over a week roughly 350 PLN/week (about 50 PLN/night), 250 PLN/week for members. Separate registration fees may apply for structured retreats such as Kyol Che.",
+    "source": "https://zen.pl/zostan-gosciem/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "The temple kitchen is entirely vegetarian and alcohol/smoking-free; retreat participants share communal meals (including formal Oryoki) as part of the daily schedule, while guests outside of retreats generally self-cater in the shared kitchen.",
+  "workRequired": "yes",
+  "workNotes": "Work practice (samu) is a scheduled part of each retreat day; guests staying at the temple outside of retreats are also asked to help with chores and zen work.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "work-practice",
+    "diet-vegetarian",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Szkoła Zen Kwan Um w Polsce",
+      "url": "https://zen.pl/"
+    },
+    {
+      "title": "Ośrodki i grupy zen",
+      "url": "https://zen.pl/osrodki-i-grupy-zen/"
+    },
+    {
+      "title": "Zostań gościem (Become a Guest)",
+      "url": "https://zen.pl/zostan-gosciem/"
+    },
+    {
+      "title": "Typy odosobnień zen i wydarzeń (Types of Zen Retreats)",
+      "url": "https://zen.pl/typy-odosobnien-zen-i-wydarzen/"
+    },
+    {
+      "title": "Godziny praktyki (Practice Schedule)",
+      "url": "https://zen.pl/godziny-praktyki/"
+    },
+    {
+      "title": "Warsaw Zen Center: Wu Bong Sa - Kwan Um School of Zen Europe",
+      "url": "https://www.kwanumeurope.org/locations/warsaw-zen-center-wu-bong-sa/"
+    }
+  ],
+  "id": "wu-bong-sa",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

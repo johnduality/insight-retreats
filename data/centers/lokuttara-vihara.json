@@ -1,0 +1,77 @@
+{
+  "name": "Lokuttara Vihara",
+  "aka": [
+    "Skiptvet Buddhist Monastery",
+    "Skiptvet buddhistkloster",
+    "Skogskloster",
+    "Skogskloster buddhistsamfunn"
+  ],
+  "website": "https://www.skogskloster.no/",
+  "location": {
+    "address": "Lundsveien 196, 1816 Skiptvet, Norway",
+    "city": "Skiptvet",
+    "region": "Østfold, Norway",
+    "country": "Norway",
+    "state": "NO",
+    "lat": 59.4775,
+    "lng": 11.1617
+  },
+  "tradition": "Theravada Buddhism, Thai Forest tradition (lineage of Ajahn Chah)",
+  "technique": "Samatha meditation, chanting and reflection through morning and evening puja, mindful daily work practice",
+  "influences": [
+    "Ajahn Chah",
+    "Norwegian Forest Monastery Foundation"
+  ],
+  "teacherAccess": "No formal one-on-one teaching program; resident monks live and practice alongside guests and are available for informal questions and guidance during the day.",
+  "retreatOptions": "First-time visitors may stay up to three days; longer stays can be arranged by request for overseas travellers; day visits and food offerings are also welcome.",
+  "about": "Lokuttara Vihara, also known as Skiptvet Buddhist Monastery, is a Theravada Buddhist monastery in the Thai Forest tradition of the late Ajahn Chah, established in July 2015 when Western monks from his lineage took up residence at the invitation of the Norwegian Forest Monastery Foundation. It was the first monastery of its kind in the Nordic countries and sits on about 37 hectares of farmland and forest in the countryside of Østfold, roughly an hour south of Oslo. Guests are welcome to stay and join the resident monastics in their daily routine of morning and evening puja, meditation and a communal work period, with first-time visitors generally able to stay up to three days and longer stays possible for overseas travellers by arrangement. In keeping with the dana (generosity) culture of the tradition, accommodation, food and teachings are all offered freely, funded entirely by donations and gifts of food from supporters, and guests are asked to observe the Eight Precepts, including taking no solid food after midday. There is no formal one-on-one teaching program, but resident monks are available for informal guidance, and visitors can also support the community by volunteering, cooking, or joining the monks on alms rounds in nearby Skiptvet or Askim.",
+  "schedule": "Daily monastic schedule: 5:00-6:30am morning puja, 7:00am breakfast, 8:00-10:30am work period, 11:00am main (final) meal of the day, 5:00pm tea, 7:00pm evening puja; guests are expected to join the community's daily activities.",
+  "cost": "Entirely dana (donation) based; there is no charge for accommodation, food or teachings, all of which are offered freely thanks to supporters' generosity.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "NOK",
+    "notes": "No fees of any kind; stays are free, sustained purely by donations and gifts of food from supporters in the dana tradition.",
+    "source": "https://www.skogskloster.no/food"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Monks eat only what is offered by lay supporters; guests share the community's main meal at 11am (the day's last solid food, per the Eight Precepts) and breakfast; diet depends on what is donated.",
+  "workRequired": "yes",
+  "workNotes": "Guests are expected to join the community's daily work period (about 8:00-10:30am) and participate in the monastery's daily activities, such as kitchen, gardening and light maintenance tasks.",
+  "tags": [
+    "theravada",
+    "monastic-community",
+    "work-practice",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Skiptvet Buddhist Monastery - Home",
+      "url": "https://www.skogskloster.no/"
+    },
+    {
+      "title": "Stay overnight - Skiptvet buddhistkloster",
+      "url": "https://www.skogskloster.no/staying"
+    },
+    {
+      "title": "Food - Skiptvet buddhistkloster",
+      "url": "https://www.skogskloster.no/food"
+    },
+    {
+      "title": "Directions - Skiptvet buddhistkloster",
+      "url": "https://www.skogskloster.no/directions"
+    },
+    {
+      "title": "Skogskloster buddhistsamfunn - Buddhistforbundet",
+      "url": "https://buddhistforbundet.no/medlemsorganisasjoner/skogkloster-buddhistsamfunn/"
+    }
+  ],
+  "id": "lokuttara-vihara",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

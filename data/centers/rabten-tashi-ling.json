@@ -1,0 +1,59 @@
+{
+  "id": "rabten-tashi-ling",
+  "name": "Rabten Tashi Ling",
+  "aka": [
+    "Rabten Tashi-Ling Tibeti Kulturális Központ",
+    "Hungarian Tibetan Cultural Centre",
+    "Buddhist Retreat Centre Balatonkeresztúr"
+  ],
+  "website": "https://www.rabten.eu",
+  "location": {
+    "address": "8648 Balatonkeresztúr, Szőlőhegy, Hungary",
+    "city": "Balatonkeresztúr",
+    "region": "Somogy County, Hungary",
+    "country": "Hungary",
+    "state": "HU",
+    "lat": 46.7,
+    "lng": 17.3833
+  },
+  "tradition": "Tibetan Buddhism, Gelug school, in the lineage of Rabten Choeling (founded by Geshe Rabten) under the guidance of Gonsar Rinpoche",
+  "technique": "Twice-daily prayer and meditation ceremonies in the temple, open guided introductions to Buddhist meditation, and periodic weekend teaching seminars with visiting Gelug teachers",
+  "influences": [
+    "Gonsar Rinpoche",
+    "Geshe Rabten",
+    "Rabten Choeling Monastery, Switzerland",
+    "Kőrösi Csoma Sándor (Alexander Csoma de Körös)"
+  ],
+  "teacherAccess": "Multilingual resident monks lead the twice-daily ceremonies and are available to introduce visitors to Buddhist meditation during the open season; visiting Gelug teachers lead two weekend seminars a year (offered in Hungarian and German) with direct teaching access.",
+  "retreatOptions": "Self-guided residential stays of any length (within the March 15-October 15 open season) in one of eight vineyard guesthouses; two multi-day weekend teaching seminars per year with visiting masters",
+  "about": "Rabten Tashi Ling is a Tibetan Buddhist retreat and cultural centre on a former vineyard on the south shore of Lake Balaton, in Balatonkeresztúr, Somogy County. Founded in 2000 under the guidance of Gonsar Rinpoche of the Swiss Gelug monastery Rabten Choeling, the centre was established to build a connection between Hungary and Tibetan Buddhism in honour of Alexander Csoma de Körös, the 19th-century Hungarian scholar renowned as one of the first Westerners to master Tibetan. The nine-building site includes a temple where resident monks hold prayer ceremonies twice daily and eight self-catering vineyard guesthouses (sleeping roughly 2-9 people each) where visitors can stay for holidays or dedicated meditation retreats amid the vineyards overlooking Lake Balaton. The centre is open to the public between 15 March and 15 October each year, and twice a year hosts weekend teaching seminars, given in Hungarian and German, that offer visitors direct access to Buddhist teachings from visiting masters.",
+  "schedule": "Twice-daily prayer/meditation ceremonies in the temple year-round during the open season; self-guided stays follow no fixed daily program beyond the ceremonies, while the twice-yearly weekend seminars add structured teaching sessions around the ceremony times.",
+  "cost": "Guest accommodation is charged as a self-catering nightly house rate rather than an all-inclusive retreat package; third-party Hungarian tourism listings cite roughly EUR22/night per vineyard house plus a EUR2/person/night surcharge, but this figure could not be independently confirmed on the official site at time of writing.",
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "Guesthouses are self-catering, with most of the eight vineyard houses equipped with their own kitchen and a separate shared kitchen house available for larger groups; no communal meal service is offered.",
+  "workRequired": "unknown",
+  "tags": [
+    "self-guided",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Buddhist Retreat Centre — Rabten Tashi Ling visitor information (EN)",
+      "url": "https://www.rabten.eu/visitHungary_en.htm"
+    },
+    {
+      "title": "Rabten Tashi Ling — Tibeti kulturális központ (HU)",
+      "url": "https://www.rabten.eu/visitHungary_hu.htm"
+    },
+    {
+      "title": "Rabten Tashi Ling temple profile — Dorje Shugden temple directory",
+      "url": "https://www.dorjeshugden.org/temples/rabten-tashi-ling"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

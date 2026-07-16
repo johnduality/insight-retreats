@@ -1,0 +1,71 @@
+{
+  "name": "Karma Shedrup Ling",
+  "aka": [
+    "KSL",
+    "Karma Shedrup Ling retreatsenter",
+    "Karma Tashi Ling Buddhist Community Retreat Center"
+  ],
+  "website": "https://www.ktl.no/sentre/ksl/",
+  "location": {
+    "address": "Bokbindergrenda 55, 1425 Ski, Norway",
+    "city": "Ski",
+    "region": "Nordre Follo, Akershus, Norway",
+    "country": "Norway",
+    "state": "NO",
+    "lat": 59.719,
+    "lng": 10.836
+  },
+  "tradition": "Tibetan Vajrayana Buddhism (Karma Kagyu)",
+  "technique": "Shamatha (calm-abiding) meditation, ngöndro preliminary practices, guru yoga and deity practice (Chenrezig, Guru Rinpoche, Amitabha, Tara, Milarepa pujas), Nyungne fasting retreat",
+  "influences": [
+    "H.H. 17th Gyalwa Karmapa, Ogyen Trinley Dorje",
+    "Jetsun Khandro Rinpoche",
+    "Lama Changchub Tsering",
+    "Karma Kagyu lineage"
+  ],
+  "teacherAccess": "Resident lama Lama Changchub Tsering leads scheduled group retreats with a daily teaching session; visiting nun Ani Chökyi lives in retreat at KSL much of the year and leads the daily practice program, which visitors and retreatants in residence are welcome to join.",
+  "retreatOptions": "Self-guided individual retreats of flexible length in simple cabins or the main house; scheduled group retreats such as an 8-day intensive silent shamatha retreat, a 3-night Nyungne fasting retreat on the thousand-armed Chenrezig, and weekend ngöndro practice and teaching retreats.",
+  "about": "Karma Shedrup Ling (KSL) is the residential retreat center of Karma Tashi Ling Buddhist Community (KTLBS), Norway's oldest Tibetan Buddhist organisation, set in a quiet forest area of Nordre Follo municipality outside Ski, about half an hour from Oslo. The property, in the Karma Kagyu lineage under the spiritual guidance of the 17th Karmapa, Ogyen Trinley Dorje, has a main house with a meditation room and nine beds across three bedrooms, plus a handful of simple cabins used for individual retreat. A resident nun, Ani Chökyi, lives in retreat at KSL for much of the year, following a fixed daily program of meditation, self-study and translation work, karma yoga (practical work) and silent forest walking, and visiting retreatants are welcome to join her practice sessions. The center also hosts scheduled group retreats led by KTLBS's resident lama, Lama Changchub Tsering, including an annual multi-day silent shamatha retreat and a Nyungne fasting retreat centred on the thousand-armed Chenrezig, as well as weekend courses and ngöndro practice weekends. Every Sunday, KSL holds a puja dedicated to Guru Rinpoche, Amitabha, Milarepa or Tara followed by a shared potluck lunch open to all visitors, and the center can also be booked by individuals for self-guided personal retreat time.",
+  "schedule": "Daily program (led by the resident nun when in retreat): 5:00-6:30am morning meditation, 6:30am breakfast, 7:00-10:00am self-study/translation, 10:30am-12:00pm karma yoga (practical work), 12:00pm lunch, 1:30-3:00pm silent forest walk, 4:00-5:00pm Chenrezig/protector practice, 5:00-7:00pm self-study, 7:00-8:30pm guru yoga and silent meditation, followed by noble silence until the next morning; Sunday puja and shared lunch open to all; scheduled group retreats (multi-day silent retreat, Nyungne, weekend courses) run periodically through the year.",
+  "cost": "Scheduled group retreats and courses have published per-event registration fees (booked via the center's online registration system); individual self-guided retreat stays and venue rental are arranged directly with KTLBS; operations are funded by course/retreat fees, membership dues and donations.",
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Sunday puja is followed by a shared contribution ('spleiselunsj') potluck lunch; some scheduled retreats (e.g. the Nyungne fasting retreat) include an evening meal on arrival; individual retreatants staying in the cabins are generally self-catering.",
+  "workRequired": "partial",
+  "workNotes": "The resident retreatant follows a daily karma yoga (practical work) period as part of the program, and periodic volunteer work days (dugnad) are held at the center; participants in scheduled group courses/retreats are not required to do formal work practice.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "self-guided",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Karma Shedrup Ling retreatsenter - KTLBS",
+      "url": "https://www.ktl.no/sentre/ksl/"
+    },
+    {
+      "title": "KTLBS - Om KTLBS/About KTLBS",
+      "url": "https://www.ktl.no/om-oss/om-ktlbs/"
+    },
+    {
+      "title": "Stille retreat m/Lama Changchub 10.-18. juli - KTLBS",
+      "url": "https://www.ktl.no/kurs/stille-retreat-mlama-changchub-10-18-juli/"
+    },
+    {
+      "title": "Nyungne - Meditasjonsretreat med faste - KTLBS",
+      "url": "https://www.ktl.no/kurs/nyungne-meditasjonsretreat-med-faste/"
+    },
+    {
+      "title": "Karma Tashi Ling buddhistsamfunn - Buddhistforbundet",
+      "url": "https://buddhistforbundet.no/medlemsorganisasjoner/karma-tashi-ling-buddhistsamfunn/"
+    }
+  ],
+  "id": "karma-shedrup-ling",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

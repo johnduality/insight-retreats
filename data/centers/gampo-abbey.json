@@ -1,0 +1,84 @@
+{
+  "id": "gampo-abbey",
+  "name": "Gampo Abbey",
+  "aka": [
+    "Gampo Abbey Karma Kagyu Buddhist Monastery"
+  ],
+  "website": "https://gampoabbey.org",
+  "location": {
+    "address": "1533 Pleasant Bay Road, Pleasant Bay, Nova Scotia B0E 2P0, Canada",
+    "city": "Pleasant Bay",
+    "region": "Nova Scotia, Canada",
+    "country": "Canada",
+    "state": "NS",
+    "lat": 46.8192,
+    "lng": -60.8095
+  },
+  "tradition": "Tibetan Buddhism, Karma Kagyü lineage (Shambhala Buddhist monastery)",
+  "technique": "Shamatha-vipashyana sitting meditation within a Karma Kagyü monastic schedule; retreatants join daily group practice sessions and are each assigned a meditation instructor for the length of their stay",
+  "influences": [
+    "Chögyam Trungpa Rinpoche (founder)",
+    "Bhikshuni Pema Chödrön (principal teacher)",
+    "Khenchen Thrangu Rinpoche (abbot)",
+    "Sakyong Mipham Rinpoche"
+  ],
+  "teacherAccess": "Each Group Retreat participant is assigned a meditation instructor; retreatants join the monastic community's full teaching and practice schedule and have access to an extensive library of dharma talks, particularly by principal teacher Pema Chödrön.",
+  "retreatOptions": "Periodic one-week (7-night) Group Retreats; longer Solitary Retreats and Individual Abbey Immersion Retreats by arrangement; a month-long Yarne Winter Retreat; and the multi-year Sopa Chöling Three-Year Retreat for advanced practitioners.",
+  "about": "Gampo Abbey is a Karma Kagyü Buddhist monastery of the Shambhala lineage on Cape Breton Island, perched on cliffs above the ocean near Pleasant Bay, Nova Scotia. Founded in 1983 by Chögyam Trungpa Rinpoche, it is guided today by abbot Khenchen Thrangu Rinpoche and principal teacher Bhikshuni Pema Chödrön, with a resident community of monastics and lay residents living on its 200-acre property. The Abbey hosts periodic one-week Group Retreats in which visitors join the monastic schedule of roughly four hours of daily practice alongside service work in the kitchen, garden, or grounds, plus longer Solitary Retreats and Individual Abbey Immersion Retreats for those with an established practice. It is also home to the Sopa Chöling Three-Year Retreat, a traditional intensive retreat facility for advanced practitioners. All retreatants keep the Five Precepts and follow the Shambhala Code of Conduct, and meals are strictly vegetarian in keeping with monastic rule (no meat, garlic, onions, or alcohol).",
+  "schedule": "Group Retreat days include about four hours of formal group practice, assigned work service (kitchen, garden, grounds, or housekeeping), and time for reflection; all guests keep the Five Precepts and the Shambhala Code of Conduct for the duration of their stay.",
+  "cost": "Group Retreat: Standard Rate $840 CAD, or a Patron Rate of $1,140 CAD that helps subsidize other participants; both include all education, food, and accommodation for the 7-night retreat (transportation not included).",
+  "pricePerDay": {
+    "min": 120,
+    "max": 163,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "Derived from the 7-night Group Retreat fee: $840 CAD Standard Rate ÷ 7 nights ≈ $120/night, up to $1,140 CAD Patron Rate ÷ 7 ≈ $163/night; a $200 CAD deposit secures a spot.",
+    "source": "https://gampoabbey.org/fees-for-in-house-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Strictly vegetarian meals in keeping with monastic rule; no meat, garlic, onions, or alcohol are permitted (medical exceptions require prior approval), and solitary retreatants are given vegetarian food supplies to cook for themselves.",
+  "workRequired": "yes",
+  "workNotes": "Group Retreat participants are expected to help with kitchen, garden, grounds, or housekeeping tasks as service alongside the resident community, in addition to daily formal practice.",
+  "tags": [
+    "tibetan-vajrayana",
+    "monastic-community",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "self-guided",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Home - Gampo Abbey",
+      "url": "https://gampoabbey.org/"
+    },
+    {
+      "title": "Group Retreats - Gampo Abbey",
+      "url": "https://gampoabbey.org/in-house-retreats/"
+    },
+    {
+      "title": "Fees for In-House Retreat - Gampo Abbey",
+      "url": "https://gampoabbey.org/fees-for-in-house-retreat/"
+    },
+    {
+      "title": "Solitary Retreats - Gampo Abbey",
+      "url": "https://gampoabbey.org/solitary-retreats/"
+    },
+    {
+      "title": "Our Location - Gampo Abbey",
+      "url": "https://gampoabbey.org/location/"
+    },
+    {
+      "title": "Gampo Abbey - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gampo_Abbey"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

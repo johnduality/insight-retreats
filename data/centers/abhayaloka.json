@@ -1,0 +1,80 @@
+{
+  "name": "Abhayaloka",
+  "aka": [
+    "Retriittikeskus Abhayaloka",
+    "Abhayalokan retriittikeskus",
+    "Triratna Retreat Centre Abhayaloka"
+  ],
+  "website": "https://triratna.fi/",
+  "location": {
+    "address": "Järventaustantie 816, 12600 Läyliäinen, Finland",
+    "city": "Läyliäinen (Loppi)",
+    "region": "Kanta-Häme, Finland",
+    "country": "Finland",
+    "state": "FI",
+    "lat": 60.6491,
+    "lng": 24.4442
+  },
+  "tradition": "Triratna Buddhist Community (formerly Friends of the Western Buddhist Order): an eclectic, lay-led Western Buddhist community drawing on Theravada, Zen and Tibetan/Vajrayana sources under the synthesis taught by founder Sangharakshita",
+  "technique": "Mindfulness of breathing and mettā bhāvanā (loving-kindness) meditation, paired with Dharma talks, group reflection and puja (ritual)",
+  "influences": [
+    "Sangharakshita",
+    "Triratna Buddhist Community",
+    "Buddhalainen keskus Triratna Helsinki (Helsinki Triratna Buddhist Centre)"
+  ],
+  "teacherAccess": "Retreats are led by Triratna Order members and experienced Mitras from the Helsinki Triratna Buddhist Centre, who give talks, guide meditation, and lead group discussion throughout each retreat.",
+  "retreatOptions": "Retreats of roughly 3-8 nights through the year, ranging from retreats open to complete newcomers to ones restricted to Mitras and Order members, plus periodic young-adults' retreats and a donation-based work retreat (talkoot) to help maintain the center.",
+  "about": "Abhayaloka is the residential retreat centre of Buddhalainen keskus Triratna Helsinki (Helsinki Triratna Buddhist Centre), part of the international Triratna Buddhist Community founded by Sangharakshita. It occupies a former village school on the shore of Loppijärvi lake in Läyliäinen, Loppi, about 70 km north of Helsinki, with simple dormitory-style accommodation for up to 25 people in shared rooms (mostly 2-6 beds). Retreats typically run from Friday evening to the following Friday afternoon and combine mindfulness-of-breathing and mettā bhāvanā (loving-kindness) meditation with Dharma talks, group discussion, puja (ritual), and free time for forest walks or the lakeside sauna. Programs range from retreats open to complete beginners through to ones restricted to Mitras and Order members, along with a periodic donation-based work retreat (talkoot) to help maintain the property. All food served is vegan and prepared collectively by participants, with cheese offered as a topping and gluten-free options available.",
+  "schedule": "Retreats run Friday evening (arrival, start around 18:00) to the following Friday afternoon (finish around 15:00), with a typical day of two meditation/teaching sessions, meals prepared together, free time, and an evening puja.",
+  "cost": "Fixed retreat fee on a three-tier sliding scale (e.g. a 2026 weeklong retreat was EUR 290 for unemployed/students, EUR 350 standard rate, EUR 450 supporter rate), with a EUR 50 deposit at registration; the annual work retreat (talkoot) is free.",
+  "pricePerDay": {
+    "min": 41,
+    "max": 64,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "7-night retreat (10-17 July 2026): EUR 290 (low/unemployed-student) to EUR 350 (standard) to EUR 450 (supporter) for the week, i.e. roughly EUR 41-64/night on the standard-to-supporter range.",
+    "source": "https://triratna.fi/retriitit/palatsin-muurien-ulkopuolella--nelja-nakya"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "All retreat meals are vegan and cooked together by participants; cheese is offered as an optional topping, and gluten-free crispbread and rice cakes are provided (guests are asked to bring their own fresh gluten-free bread if needed).",
+  "workRequired": "partial",
+  "workNotes": "Meals are prepared collectively by retreat participants as part of the daily program, and a separate annual donation-based work retreat (talkoot) focuses specifically on maintaining the center.",
+  "tags": [
+    "mahayana",
+    "long-retreats",
+    "fixed-fee",
+    "sliding-scale",
+    "diet-vegan",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Buddhalainen keskus Triratna Helsinki - home page",
+      "url": "https://triratna.fi/"
+    },
+    {
+      "title": "Retriitit at Abhayalokan retriittikeskus",
+      "url": "https://triratna.fi/retriitit"
+    },
+    {
+      "title": "Palatsin muurien ulkopuolella - Neljä näkyä (retreat details, pricing, FAQ)",
+      "url": "https://triratna.fi/retriitit/palatsin-muurien-ulkopuolella--nelja-nakya"
+    },
+    {
+      "title": "Talkoot Abhayalokassa 2026",
+      "url": "https://triratna.fi/retriitit/talkoot-abhayalokassa-2026"
+    },
+    {
+      "title": "Going On Retreat - Abhayaloka",
+      "url": "https://www.goingonretreat.com/centre/abhayaloka"
+    }
+  ],
+  "id": "abhayaloka",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

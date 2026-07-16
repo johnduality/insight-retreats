@@ -1,0 +1,69 @@
+{
+  "id": "montreal-zen-centre",
+  "name": "Montreal Zen Centre",
+  "aka": [
+    "Centre Zen de Montréal",
+    "Association Zen de Montréal"
+  ],
+  "website": "https://zenmontreal.org",
+  "location": {
+    "address": "824 Avenue du Parc-Stanley, Montreal, Quebec, Canada (also accessible via 10851 Rue Saint-Hubert)",
+    "city": "Montreal",
+    "region": "Quebec, Canada",
+    "country": "Canada",
+    "state": "QC",
+    "lat": 45.562,
+    "lng": -73.657
+  },
+  "tradition": "Zen Buddhism (Rinzai and Soto lineages, as taught by Albert Low)",
+  "technique": "Zazen (seated wall-facing meditation) in 30-minute periods interspersed with kinhin (walking meditation), recorded teisho (dharma talks), sutra chanting, and one-on-one meetings with a monitor during retreats",
+  "influences": [
+    "Albert Low (founding teacher, 1979-2016)",
+    "Jean-Luc Foisy",
+    "Louis Bricault"
+  ],
+  "teacherAccess": "Intensive retreats are led by senior monitors (Jean-Luc Foisy in October and March, Louis Bricault in December and May) who have studied under Albert Low for many years; retreat days include a recorded teisho or dharma word plus scheduled individual meetings.",
+  "retreatOptions": "Four five-day intensive silent retreats held annually at the Centre (October, December, March, May), preceded by monthly one-day sittings recommended before a first retreat; open only to Centre members.",
+  "about": "The Montreal Zen Centre is a lay Zen Buddhist community on the shore of the Rivière des Prairies in Montreal, practicing in the Rinzai and Soto traditions as taught by its founding teacher Albert Low from 1979 until 2016. The Centre is self-run by its resident and non-resident members, who maintain the grounds and buildings and lead the twice-daily zazen schedule, and it hosts four five-day intensive silent retreats on-site each year, in addition to regular evening sittings, monthly one-day sittings, and affiliate zendos in Quebec City and Granby. Retreats follow a demanding daily schedule from a 5:30am wake-up bell through zazen periods, a work period, chanting, and meals, with a recorded teisho or dharma word drawn from Albert Low's extensive archive each morning. Retreats are reserved for members, who must first attend an introductory workshop; overnight stays at the Centre are also available to affiliate-zendo members attending Sunday sittings by advance arrangement.",
+  "schedule": "Daily retreat schedule: 5:30 wake-up, 6:00 zazen, 7:10 breakfast, 7:30 work period, 9:30 zazen, 10:07 teisho, 11:17 zazen, 12:25 lunch, 13:30 zazen, 15:20 chanting, 16:25 zazen, 17:00 supper, 19:00 zazen, with an optional 23:00 night sitting; silence is maintained throughout and eyes are kept lowered at all times.",
+  "cost": "Retreat fee is $65 CAD per day ($32 CAD per day for students), covering meals and lodging for the duration of the five-day intensive retreat.",
+  "pricePerDay": {
+    "min": 32,
+    "max": 65,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "Published daily retreat rate: $65 CAD/day standard, $32 CAD/day for students, for the Centre's five-day intensive retreats (arrival the evening before through departure at the end of the final day).",
+    "source": "https://zenmontreal.org/retreat.html"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Breakfast, lunch, and supper are provided each day of a retreat as part of the fixed daily schedule; the specific diet (vegetarian or otherwise) is not published on the official site.",
+  "workRequired": "yes",
+  "workNotes": "Each retreat day includes a formal one-hour work period as part of practice, alongside the zazen and chanting schedule.",
+  "tags": [
+    "zen",
+    "silent",
+    "meals-included",
+    "fixed-fee",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Retreat - Montreal Zen Center",
+      "url": "https://zenmontreal.org/retreat.html"
+    },
+    {
+      "title": "About us - Montreal Zen Center",
+      "url": "https://zenmontreal.org/about.html"
+    },
+    {
+      "title": "Welcome - Montreal Zen Center",
+      "url": "https://zenmontreal.org/welcome.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

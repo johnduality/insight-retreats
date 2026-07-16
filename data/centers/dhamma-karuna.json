@@ -1,0 +1,80 @@
+{
+  "id": "dhamma-karuna",
+  "name": "Dhamma Karuṇā",
+  "aka": [
+    "Alberta Vipassana Meditation Centre",
+    "Alberta Vipassana Centre",
+    "AVMC",
+    "Alberta Vipassana Foundation"
+  ],
+  "website": "https://karuna.dhamma.org",
+  "location": {
+    "address": "30003 Range Road 93, Youngstown, AB T0J 3P0, Canada",
+    "city": "Youngstown",
+    "region": "Alberta, Canada",
+    "country": "Canada",
+    "state": "AB",
+    "lat": 51.53367,
+    "lng": -111.199564
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions and give interviews during the rest period.",
+  "retreatOptions": "Ten-day residential Vipassana courses roughly six times a year (the centre's standard and primary offering), plus 1- to 3-day refresher courses, longer old-student courses (10-day Satipatthana, 20-day and longer, and a 14-day Gratitude course) for qualified students, and one-day children's and teenagers' Anapana courses (ages 8-17).",
+  "about": "Dhamma Karuṇā, formally the Alberta Vipassana Meditation Centre (AVMC), is the Goenka-tradition Vipassana centre for Alberta, set on 8.5 acres on the outskirts of Youngstown, a small farming village in the Canadian Badlands roughly three to five hours by car from Edmonton, Calgary, Regina, and Saskatoon. The property, a former special-needs school known as the Youngstown Home, was purchased in July 2014 by the nonprofit Alberta Vipassana Foundation as the centre's permanent site. The main building holds a meditation hall for about 80 students, a kitchen, offices, and teacher quarters, while a separate two-storey residence building provides double and single rooms for up to 80 students and servers with eight shared bath areas; additional long-term server housing has been added in a converted garage and a renovated trailer, each with small kitchens and private bathrooms. The centre offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin roughly six times a year, interspersed with old-student service periods, alongside shorter refresher courses, longer courses for experienced students, and one-day courses for children and teens. Students live on site for the full course, observe Noble Silence, and follow the standard Goenka daily schedule; as at every centre in the Goenka network, there are no fees of any kind - courses, food, and lodging are offered purely on a dana (voluntary donation) basis by past students.",
+  "schedule": "Standard Goenka ten-day course schedule: arrival and registration from 2-4pm on the start day, followed by ten full days of silent sitting meditation (roughly 4am-9:30pm) with recorded evening discourses, and course close around 7am on the final day followed by breakfast and departure by mid-morning; Noble Silence is observed by all students until the morning of the last full day.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food, and accommodation are offered freely, funded by donations from past students who have completed at least one prior course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students, none of whom - including teachers and organizers - receive any payment for their service.",
+    "source": "https://karuna.dhamma.org/about-vipassana/code"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; simple vegetarian meals throughout, with old students keeping the no-eating-after-midday precept while new students may have tea with milk and fruit at the evening break.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses as Dhamma volunteers or join dedicated old-student work periods for centre maintenance and gardening; new students are not required to work during their first course.",
+  "tags": [
+    "goenka",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Karuṇā - Vipassana Meditation as Taught by S.N. Goenka",
+      "url": "https://karuna.dhamma.org/"
+    },
+    {
+      "title": "The Centre - Overview - Dhamma Karuṇā",
+      "url": "https://karuna.dhamma.org/the-centre/overview/"
+    },
+    {
+      "title": "Meditation Courses - Basic Information - Dhamma Karuṇā",
+      "url": "https://karuna.dhamma.org/meditation-courses/basic-information/"
+    },
+    {
+      "title": "About Vipassana - The Code of Discipline - Dhamma Karuṇā",
+      "url": "https://karuna.dhamma.org/about-vipassana/code"
+    },
+    {
+      "title": "Course Schedule for Dhamma Karuṇā - dhamma.org",
+      "url": "https://www.dhamma.org/en/schedules/schkaruna"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

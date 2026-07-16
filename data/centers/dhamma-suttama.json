@@ -1,0 +1,74 @@
+{
+  "id": "dhamma-suttama",
+  "name": "Dhamma Suttama",
+  "aka": [
+    "Quebec Vipassana Centre",
+    "Quebec Vipassana Meditation Centre",
+    "Eastern Canada Vipassana Foundation"
+  ],
+  "website": "https://suttama.dhamma.org",
+  "location": {
+    "address": "810 Côte Azélie, Notre-Dame-de-Bonsecours, Montebello, Quebec J0V 1L0, Canada",
+    "city": "Montebello",
+    "region": "Quebec, Canada",
+    "country": "Canada",
+    "state": "QC",
+    "lat": 45.682,
+    "lng": -74.933
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions.",
+  "retreatOptions": "Ten-day residential Vipassana courses offered nearly year-round (two per month, the centre's standard and primary offering), plus periodic longer courses for qualified old students and dedicated children's and teenagers' courses.",
+  "about": "Dhamma Suttama, also known as the Quebec Vipassana Centre, is the Goenka-tradition Vipassana centre for Quebec, set on a secluded 600-acre property in its own valley about 5 km north of Montebello, halfway between Montreal and Gatineau/Ottawa. Courses were first offered in eastern Canada from rented sites starting in 1979; students purchased a permanent centre in Sutton in 1999, then this larger, nearly turnkey property - a former private co-educational high school - in 2011 once the Sutton site outgrew demand. The main building holds dining rooms and a professional kitchen, and two meditation halls in the former gymnasium each seat about 75 students, alongside attached dormitory-style residences with double and private bedrooms. Owned and operated by the nonprofit Eastern Canada Vipassana Foundation, the centre offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, nearly twice a month year-round, accepting up to about 130 students per course. Students live on site for the full course, observe Noble Silence, and follow the standard Goenka daily schedule; as at every centre in the Goenka network, there are no fees of any kind - courses, food and lodging are offered purely on a dana (voluntary donation) basis by past students.",
+  "schedule": "Standard Goenka ten-day course schedule: arrival evening begins the course, followed by ten full days of silent sitting meditation (roughly 4am-9pm) with recorded evening discourses, and departure the following morning; Noble Silence is observed by all new students for most of the course.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food and accommodation are offered freely, funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students.",
+    "source": "https://suttama.dhamma.org/vipassana-in-quebec/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; vegetarian meals included throughout, with tea and a light snack available at teatime for first-time students.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses or take part in maintenance work as Dhamma service; new students are not required to work during their first course.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Vipassana in Quebec - Dhamma Suttama",
+      "url": "https://suttama.dhamma.org/vipassana-in-quebec/"
+    },
+    {
+      "title": "The Centre near Montebello - Dhamma Suttama",
+      "url": "https://suttama.dhamma.org/the-centre-near-montebello/"
+    },
+    {
+      "title": "Children's and Teenagers' Courses - Dhamma Suttama",
+      "url": "https://suttama.dhamma.org/childrens-and-teenagers-courses/"
+    },
+    {
+      "title": "Quebec Vipassana Meditation Centre - Dhamma Wiki",
+      "url": "https://www.dhammawiki.com/index.php/Quebec_Vipassana_Meditation_Centre"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

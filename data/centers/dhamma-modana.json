@@ -1,0 +1,76 @@
+{
+  "id": "dhamma-modana",
+  "name": "Dhamma Modana",
+  "aka": [
+    "Vancouver Island Vipassana Association",
+    "Vipassana Island Meditation Center"
+  ],
+  "website": "https://modana.dhamma.org",
+  "location": {
+    "address": "2359 Calais Rd, Duncan, BC V9L 5V5, Canada",
+    "city": "Duncan",
+    "region": "Vancouver Island, British Columbia, Canada",
+    "country": "Canada",
+    "state": "BC",
+    "lat": 48.85,
+    "lng": -123.83
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site for meditation-related questions.",
+  "retreatOptions": "Ten-day residential Vipassana courses (the centre's standard offering), following the Goenka network's published annual schedule; day sittings and shorter courses have also been held on the land.",
+  "about": "Dhamma Modana ('Land of Joy') is the Vancouver Island Vipassana Association's dedicated Goenka-tradition meditation centre, on rural land in Duncan, BC, about 50 km north of Victoria among small farms and forest conservation areas. The 137-acre property was purchased in 2006, after the local Vipassana community had spent two decades running courses at rented church camps following the first Canadian Goenka course taught on Vancouver Island in 1982, and has since been built out with a meditation hall, residence house, and supporting infrastructure through years of volunteer effort. The centre offers residential ten-day Vipassana courses as taught by the late S.N. Goenka in the Sayagyi U Ba Khin tradition, following the standard fixed daily schedule, Noble Silence, and Code of Discipline used across the worldwide Dhamma network. Like all Goenka centres, Dhamma Modana charges no fees; courses, meals and lodging are offered entirely on a dana basis, and the centre is run by a rotating group of volunteer old students.",
+  "schedule": "Standard Goenka ten-day course schedule: arrival evening begins the course, followed by ten full days of silent sitting meditation with recorded evening discourses, and departure the following morning; Noble Silence is observed by all new students for most of the course.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food and accommodation are offered freely, funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students.",
+    "source": "https://modana.dhamma.org/courses/what-to-expect/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; vegetarian meals included throughout.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses or volunteer on maintenance/build projects; new students are not required to work during their first course.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Modana - Vipassana Meditation (home)",
+      "url": "https://modana.dhamma.org/"
+    },
+    {
+      "title": "About the Center - Dhamma Modana",
+      "url": "https://modana.dhamma.org/vipassana/about-the-center/"
+    },
+    {
+      "title": "What to Expect - Dhamma Modana",
+      "url": "https://modana.dhamma.org/courses/what-to-expect/"
+    },
+    {
+      "title": "Getting Here - Dhamma Modana",
+      "url": "https://modana.dhamma.org/getting-here/"
+    },
+    {
+      "title": "Contact - Dhamma Modana",
+      "url": "https://modana.dhamma.org/contact/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

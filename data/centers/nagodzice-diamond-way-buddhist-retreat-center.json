@@ -1,0 +1,61 @@
+{
+  "name": "Nagodzice Diamond Way Buddhist Retreat Center",
+  "aka": [
+    "Buddyjski Ośrodek Odosobnieniowy w Nagodzicach"
+  ],
+  "website": "https://nagodzice.buddyzm.pl/",
+  "location": {
+    "address": "Różanka 108, 57-530 Międzylesie, Poland",
+    "city": "Nagodzice",
+    "region": "Dolnośląskie (Sudetes / Bystrzyckie Mountains), Poland",
+    "country": "Poland",
+    "state": "PL",
+    "lat": 50.164821,
+    "lng": 16.635439
+  },
+  "tradition": "Tibetan Buddhism, Karma Kagyu lineage (Diamond Way Buddhism)",
+  "technique": "Diamond Way guru-yoga and phowa meditations combined with teachings from visiting Karma Kagyu lamas; a devotional, lay-oriented approach rather than silent retreat practice.",
+  "influences": [
+    "Lama Ole Nydahl",
+    "16th Karmapa Rangjung Rigpe Dorje",
+    "17th Karmapa Thaye Dorje"
+  ],
+  "teacherAccess": "Courses are led by visiting Polish and Czech Diamond Way teachers; daily group meditation and teaching sessions during organized multi-day courses.",
+  "retreatOptions": "Multi-day residential courses of roughly 5-6 nights held periodically through the year (for example, an annual autumn course); casual stays for Diamond Way (Lama Ole) students possible year-round by arrangement, including tent and camper pitches.",
+  "about": "Nagodzice is a Diamond Way Buddhist retreat property set on 52 hectares of mountain meadow at 550-600m elevation in the Bystrzyckie/Orlickie Mountains near Międzylesie, close to the Czech border in Lower Silesia. It is one of Poland's handful of dedicated Diamond Way retreat centers of the Karma Kagyu lineage, operating under the spiritual guidance of the 17th Karmapa Thaye Dorje, and periodically hosts multi-day meditation courses led by Polish and Czech teachers. Visitors staying at the center between courses are expected to be committed students of Lama Ole and are asked to pitch in with household work; meals are prepared for all residents and guests, who are asked not to bring their own food. The space is not set up to host families with children, though a limited tent/camper option exists on-site.",
+  "schedule": "Periodic multi-day meditation courses through the year, such as a several-day course each November; casual stays for Diamond Way students possible year-round by arrangement.",
+  "cost": "No published fixed course fees; costs and any accommodation arrangements are coordinated directly with organizers via the center's contact page.",
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Meals are prepared for all residents and guests during stays and courses; guests are explicitly asked not to bring their own food, but the specific diet served is not published.",
+  "workRequired": "partial",
+  "workNotes": "Guests staying at the center outside of organized retreats are asked to help with household chores/work; specific work expectations during scheduled courses are not detailed online.",
+  "tags": [
+    "tibetan-vajrayana",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Center – Buddyjski Ośrodek Odosobnieniowy w Nagodzicach",
+      "url": "https://nagodzice.buddyzm.pl/about-us/center/"
+    },
+    {
+      "title": "Stay – Buddyjski Ośrodek Odosobnieniowy w Nagodzicach",
+      "url": "https://nagodzice.buddyzm.pl/stay/"
+    },
+    {
+      "title": "Buddyjski Ośrodek Odosobnieniowy w Nagodzicach - buddyzm.pl",
+      "url": "https://www.buddyzm.pl/osrodki/nagodzice"
+    },
+    {
+      "title": "Nagodzice Diamond Way Buddhist Retreat Center - karmapa.org",
+      "url": "https://www.karmapa.org/centers/nagodzice/nagodzice-diamond-way-buddhist-retreat-center/"
+    }
+  ],
+  "id": "nagodzice-diamond-way-buddhist-retreat-center",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

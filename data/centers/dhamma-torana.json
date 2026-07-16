@@ -1,0 +1,76 @@
+{
+  "id": "dhamma-torana",
+  "name": "Dhamma Torana",
+  "aka": [
+    "Ontario Vipassana Centre",
+    "Ontario Vipassana Foundation"
+  ],
+  "website": "https://torana.dhamma.org",
+  "location": {
+    "address": "6486 Simcoe County Road 56, Egbert, Ontario, L0L 1N0, Canada",
+    "city": "Egbert",
+    "region": "Ontario, Canada",
+    "country": "Canada",
+    "state": "ON",
+    "lat": 44.235589,
+    "lng": -79.795729
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions.",
+  "retreatOptions": "Ten-day residential Vipassana courses offered year-round (the centre's standard and primary offering), plus periodic longer courses and teen/children's courses for those who qualify.",
+  "about": "Dhamma Torana, also known as the Ontario Vipassana Centre, is the Goenka-tradition Vipassana centre for Ontario, set on roughly 145 forested acres of ravines and hardwood bush near Egbert, about an hour north of Toronto. Established in 2003 and owned and operated by the nonprofit Ontario Vipassana Foundation, it offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, the same technique and structure used at more than 180 Dhamma centres worldwide. Students live on site for the full course, observe Noble Silence, and follow the standard Goenka daily schedule, staying in separate men's and women's residences that together accommodate around 45 students. As with every centre in the Goenka network, there are no fees of any kind - courses, food and lodging are offered purely on a dana (voluntary donation) basis by past students, and the centre is run largely by volunteers.",
+  "schedule": "Standard Goenka ten-day course schedule: arrival evening begins the course, followed by ten full days of silent sitting meditation (roughly 4am-9pm) with recorded evening discourses, and departure the following morning; Noble Silence is observed by all new students for most of the course.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food and accommodation are offered freely, funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students.",
+    "source": "https://torana.dhamma.org/course-info/how-to-apply-for-a-course/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; vegetarian meals included throughout.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses or take part in maintenance work as Dhamma service; new students are not required to work during their first course.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Torana - Ontario Vipassana Meditation Centre (home)",
+      "url": "https://torana.dhamma.org/"
+    },
+    {
+      "title": "What to Expect on a Course - Dhamma Torana",
+      "url": "https://torana.dhamma.org/course-info/what-to-expect-on-a-course/"
+    },
+    {
+      "title": "How to Apply for a Course - Dhamma Torana",
+      "url": "https://torana.dhamma.org/course-info/how-to-apply-for-a-course/"
+    },
+    {
+      "title": "Frequently Asked Questions - Dhamma Torana",
+      "url": "https://torana.dhamma.org/course-info/frequently-asked-questions/"
+    },
+    {
+      "title": "Ontario Vipassana Centre - Dhamma Wiki",
+      "url": "https://www.dhammawiki.com/index.php/Ontario_Vipassana_Centre"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

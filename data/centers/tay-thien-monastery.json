@@ -1,0 +1,85 @@
+{
+  "id": "tay-thien-monastery",
+  "name": "Tây Thiên Monastery",
+  "aka": [
+    "Westlock Meditation Centre",
+    "Trúc Lâm Tây Thiên",
+    "Tu Viện Tây Thiên",
+    "Edmonton Buddhist Research Institute"
+  ],
+  "website": "https://www.truclam.ca/taythien",
+  "location": {
+    "address": "58012 Range Road 270, Busby, AB T0G 0H0, Canada",
+    "city": "Busby",
+    "region": "Alberta, Canada",
+    "country": "Canada",
+    "state": "AB",
+    "lat": 53.9839,
+    "lng": -113.8713
+  },
+  "tradition": "Vietnamese Thiền (Zen) Buddhism combined with Amitabha Pure Land practice",
+  "technique": "Sitting meditation (30-60 minute periods), walking meditation, chanting, tea meditation, and prostrations, following the Vietnamese Thiền/Pure Land style transmitted by the Edmonton Buddhist Research Institute, with monastics maintaining close ties to Thích Nhất Hạnh's Plum Village tradition",
+  "influences": [
+    "Most Venerable Thích Thiện Tâm (founder)",
+    "Thích Pháp Hòa (abbot)",
+    "Thích Nhất Hạnh / Plum Village"
+  ],
+  "teacherAccess": "Retreats include daily Dharma talks and Dharma sharing sessions with resident monastics; Abbot Thích Pháp Hòa and other monastics lead or take part in major seasonal retreats.",
+  "retreatOptions": "Seasonal residential retreats (Spring, Summer, Autumn, Winter) of several days, including a Young Adults retreat and a Family retreat each around 4-5 days, plus the flagship 10-day Short-Term Monastic Retreat held during the traditional summer Vassa rains retreat; a monthly single-day Mindfulness Day is held at the sister site in Edmonton rather than at Westlock.",
+  "about": "Tây Thiên Monastery, known day-to-day as the Westlock Meditation Centre, is a Vietnamese Thiền Buddhist monastery on a large rural property near Busby, Alberta, about a one-hour drive northwest of Edmonton. It was founded by the Most Venerable Thích Thiện Tâm, who established the Edmonton Buddhist Research Institute in 1989 after arriving in Canada from a Thai refugee camp, and has been led as abbot since 2007 by Thích Pháp Hòa, who trained and received full ordination at Thích Nhất Hạnh's Plum Village in France. The campus can accommodate several hundred guests across a two-level Main Hall (an upper meditation hall and a lower dormitory sleeping up to about 197), a Monastic Residence, a separate Nuns' Residence, and a Dharma (Lotus) Hall with two attached guest-accommodation wings holding roughly 240 bunk-bed beds, plus dedicated retreatant residences used during the annual Short-Term Monastic Retreat. The centre hosts seasonal residential retreats throughout the year - Spring, Summer, Autumn, and Winter - including Young Adults and Family retreats and the flagship 10-day Short-Term Monastic Retreat held during the traditional summer Vassa, in which lay participants may take on monastic precepts and live as monastics. Practice centres on sitting and walking meditation, chanting, and Dharma talks in the Vietnamese Thiền and Amitabha Pure Land style, with vegetarian meals included and retreatants expected to fulfill assigned daily duties; there is no set fee, with the centre run on donations from visitors and practitioners.",
+  "schedule": "Daily retreat rhythm includes periods of sitting meditation (30-60 minutes), walking meditation, chanting, prostrations, and Dharma talks or sharing circles, with 15-20 minutes of silent eating at the start of lunch and dinner and breakfast typically taken in silence; exact retreat schedules vary by program, with adult retreats more practice-focused and youth retreats blending workshops with practice.",
+  "cost": "No fee for retreats; the monastery is supported by voluntary donations from visitors and practitioners, which go toward maintaining and developing the campus, grounds, and facilities.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "Official retreat FAQ states plainly \"there is no fee\"; donations are welcomed but no suggested per-night amount is published.",
+    "source": "https://www.truclam.ca/retreatfaq"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared on-site are vegetarian (may contain dairy, egg, wheat, nuts, legumes, or soy, so not confirmed vegan); meals are taken together, with the start of lunch and dinner eaten in silence and breakfast usually silent throughout.",
+  "workRequired": "yes",
+  "workNotes": "Retreatants are expected to fulfill assigned duties (e.g. kitchen, dining hall, or cleaning tasks) as part of the published \"Compulsory Observances\" for retreat guests; a separate optional volunteering track (cooking, cleaning, gardening, retreat support) is also offered in exchange for meals, accommodation, and practice time.",
+  "tags": [
+    "zen",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Edmonton Buddhist Research Institute | Tu Viện Trúc Lâm & Tây Thiên | Canada",
+      "url": "https://www.truclam.ca/"
+    },
+    {
+      "title": "Westlock Meditation Centre (Tây Thiên Monastery) - Facilities",
+      "url": "https://www.truclam.ca/taythien"
+    },
+    {
+      "title": "Venerable Abbot - Thích Pháp Hòa",
+      "url": "https://www.truclam.ca/abbot"
+    },
+    {
+      "title": "Venerable Master - Thích Thiện Tâm",
+      "url": "https://www.truclam.ca/master"
+    },
+    {
+      "title": "Retreats",
+      "url": "https://www.truclam.ca/retreats"
+    },
+    {
+      "title": "Retreats: Frequently Asked Questions",
+      "url": "https://www.truclam.ca/retreatfaq"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

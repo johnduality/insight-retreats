@@ -1,0 +1,67 @@
+{
+  "name": "Kangyur Rinpoche Retreat Center",
+  "aka": [
+    "Kangyur Rinpoche Foundation Portugal",
+    "Fundacao Kangyur Rinpoche",
+    "KRF Portugal",
+    "Covao da Aguia Retreat Center",
+    "Kangyur Rinpoche - Fundacao para a Preservacao da Cultura Tibetana"
+  ],
+  "website": "https://krfportugal.org/",
+  "location": {
+    "address": "Covao de Aguia, 8550-261 Monchique",
+    "city": "Monchique",
+    "county": "Faro",
+    "region": "Algarve, Portugal",
+    "country": "Portugal",
+    "state": "PT",
+    "lat": 37.3234,
+    "lng": -8.5789
+  },
+  "tradition": "Tibetan Buddhism, Nyingma and Kagyu lineages (Rime/non-sectarian), following Kyabje Kangyur Rinpoche",
+  "technique": "Shamatha (calm-abiding) meditation and Tibetan mind-training (lojong), plus traditional Vajrayana practice and drupchen ceremonies",
+  "influences": [
+    "Kyabje Kangyur Rinpoche (Longchen Yeshe Dorje)",
+    "Jetsun Jampa Chokyi (Ama-la)",
+    "Jigme Khyentse Rinpoche",
+    "Pema Wangyal Rinpoche",
+    "Rangdrol Rinpoche"
+  ],
+  "teacherAccess": "Retreats are taught directly by Jigme Khyentse Rinpoche, Pema Wangyal Rinpoche, and Rangdrol Rinpoche (sons of Kangyur Rinpoche and Ama-la), who guide all KRF retreats and teachings",
+  "retreatOptions": "Regular Shamatha and Mind Training retreats of 2-5 days held on site at Monchique several times a year, open to all for the introductory Shamatha retreat; longer Parallel Retreats (a structured daily practice commitment as an alternative to the traditional three-year retreat) for committed students",
+  "about": "The Kangyur Rinpoche Retreat Center sits in the hills above Monchique in Portugal's Algarve, on land where Ama-la (Jetsun Jampa Chokyi), the wife of the Tibetan master Kangyur Rinpoche, spent her final years until her death in 2004. Run by the Kangyur Rinpoche Foundation, a Nyingma/Kagyu Tibetan Buddhist charity founded in Portugal in 2003 by Kangyur Rinpoche's son Pema Wangyal Rinpoche, the center currently consists of Ama-la's former home (now a temple and practice room) and a retreat house with 12 individual rooms, with a larger 400-person temple and 30-apartment retreat building under construction on an adjoining site (Covao da Aguia) since 2025. Retreats, taught in person by Jigme Khyentse Rinpoche, Pema Wangyal Rinpoche, and Rangdrol Rinpoche, follow a structured curriculum starting with open Shamatha retreats (2-5 days) and progressing to Mind Training retreats restricted to previous participants. The Foundation also runs Parallel Retreats, a long-term structured practice commitment for dedicated students, and holds weekly public Shamatha and prayer sessions at a separate location in Lisbon. The site was consecrated by His Holiness the 41st Sakya Trichen in 2019 and has been visited by senior Nyingma masters including Trulshik Rinpoche and Dzongsar Khyentse Rinpoche.",
+  "schedule": "Seasonal retreat weekends (e.g. Spring Retreats: paired Shamatha, then Mind Training 1 and 2 sessions over consecutive weekends in April); periodic Drupchen ceremonies; weekly Sunday sessions at the Lisbon center (not the Monchique retreat land)",
+  "cost": "Retreat teachings are offered on a registration basis; during peak events the on-site retreat house cannot house all participants and attendees are directed to book accommodation in the surrounding Monchique area",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "workRequired": "no",
+  "workNotes": "No work requirement is described for retreat participants; the Foundation relies on donations and sponsorship to fund construction and operations rather than guest labor.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats"
+  ],
+  "sources": [
+    {
+      "title": "About the Kangyur Rinpoche Foundation",
+      "url": "https://krfportugal.org/about/"
+    },
+    {
+      "title": "Retreat Center (Centro de Retiros)",
+      "url": "https://www.krfportugal.org/centroderetiros?lang=en"
+    },
+    {
+      "title": "Regular Activities / Regular Retreats",
+      "url": "https://krfportugal.org/regular-activities/"
+    },
+    {
+      "title": "Spring Retreats 2026",
+      "url": "https://krfportugal.org/event/spring-retreats-2026-2/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  },
+  "id": "kangyur-rinpoche-retreat-center"
+}

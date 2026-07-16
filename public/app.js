@@ -19,7 +19,9 @@ const el = (tag, props = {}, ...kids) => {
 };
 
 // Full names for the state codes used in entries (extend as the catalogue grows).
-const STATE_NAMES = { CA: "California", OR: "Oregon", WA: "Washington", NY: "New York", MA: "Massachusetts", CO: "Colorado", TX: "Texas", IL: "Illinois", NM: "New Mexico", NC: "North Carolina", FL: "Florida", GA: "Georgia", VA: "Virginia", PA: "Pennsylvania", WI: "Wisconsin", MS: "Mississippi", AZ: "Arizona", MD: "Maryland", MI: "Michigan", VT: "Vermont", HI: "Hawaii", MT: "Montana", MN: "Minnesota", TN: "Tennessee", ME: "Maine", NJ: "New Jersey", CT: "Connecticut", WV: "West Virginia", KY: "Kentucky", NH: "New Hampshire", IA: "Iowa", MO: "Missouri", IN: "Indiana", ID: "Idaho", RI: "Rhode Island", DE: "Delaware", KS: "Kansas", NE: "Nebraska", AR: "Arkansas", LA: "Louisiana", SC: "South Carolina" };
+const STATE_NAMES = { CA: "California", OR: "Oregon", WA: "Washington", NY: "New York", MA: "Massachusetts", CO: "Colorado", TX: "Texas", IL: "Illinois", NM: "New Mexico", NC: "North Carolina", FL: "Florida", GA: "Georgia", VA: "Virginia", PA: "Pennsylvania", WI: "Wisconsin", MS: "Mississippi", AZ: "Arizona", MD: "Maryland", MI: "Michigan", VT: "Vermont", HI: "Hawaii", MT: "Montana", MN: "Minnesota", TN: "Tennessee", ME: "Maine", NJ: "New Jersey", CT: "Connecticut", WV: "West Virginia", KY: "Kentucky", NH: "New Hampshire", IA: "Iowa", MO: "Missouri", IN: "Indiana", ID: "Idaho", RI: "Rhode Island", DE: "Delaware", KS: "Kansas", NE: "Nebraska", AR: "Arkansas", LA: "Louisiana", SC: "South Carolina",
+  // Canadian provinces/territories (distinct codes from the US list above -- do NOT reuse "CA" for Canada, it collides with California)
+  BC: "British Columbia", ON: "Ontario", QC: "Quebec", AB: "Alberta", MB: "Manitoba", NB: "New Brunswick", NS: "Nova Scotia", SK: "Saskatchewan", NL: "Newfoundland and Labrador", PE: "Prince Edward Island", YT: "Yukon", NT: "Northwest Territories", NU: "Nunavut" };
 
 // ---------- Regions ----------
 // Preferred display order for the region selector; anything else falls to the end.
@@ -96,9 +98,11 @@ function buildStateFilter() {
   const sel = $("#stateFilter");
   const region = state.filters.region;
   const places = new Map(); // value -> label
+  // US and Canada both list by state/province code; every other region lists by country.
+  const byStateCode = region === "United States" || region === "Canada";
   for (const c of state.centers) {
     if (region && regionOf(c) !== region) continue;
-    if (regionOf(c) === "United States") {
+    if (byStateCode) {
       const code = c.location.state;
       if (code) places.set(code, STATE_NAMES[code] || code);
     } else if (c.location.country) {
@@ -106,7 +110,10 @@ function buildStateFilter() {
     }
   }
   const sorted = [...places.entries()].sort((a, b) => a[1].localeCompare(b[1]));
-  const allLabel = region === "United States" ? "All states" : region ? "All countries" : "All subregions";
+  const allLabel =
+    region === "United States" ? "All states" :
+    region === "Canada" ? "All provinces" :
+    region ? "All countries" : "All subregions";
   sel.innerHTML = "";
   sel.append(el("option", { value: "", textContent: allLabel }));
   for (const [value, label] of sorted) sel.append(el("option", { value, textContent: label }));
@@ -166,26 +173,26 @@ function wireControls() {
     state.filters.stateCode = e.target.value;
     renderCatalogue();
   });
-  const readPrice = (id) => {
-    const v = parseFloat($(id).value);
+  $("#tabList").addEventListener("click", () => setView("list"));
+  $("#tabMap").addEventListener("click", () => setView("map"));
+
+  // Min/max price-per-night filter. Blank inputs mean "no bound".
+  const readPrice = (sel) => {
+    const v = parseFloat($(sel).value);
     return Number.isFinite(v) && v >= 0 ? v : null;
   };
-  const onPriceInput = () => {
+  const onPrice = () => {
     state.filters.priceMin = readPrice("#priceMin");
     state.filters.priceMax = readPrice("#priceMax");
     renderCatalogue();
   };
-  $("#priceMin").addEventListener("input", onPriceInput);
-  $("#priceMax").addEventListener("input", onPriceInput);
-  $("#priceClear").addEventListener("click", () => {
+  $("#priceMin")?.addEventListener("input", onPrice);
+  $("#priceMax")?.addEventListener("input", onPrice);
+  $("#priceClear")?.addEventListener("click", () => {
     $("#priceMin").value = "";
     $("#priceMax").value = "";
-    state.filters.priceMin = null;
-    state.filters.priceMax = null;
-    renderCatalogue();
+    onPrice();
   });
-  $("#tabList").addEventListener("click", () => setView("list"));
-  $("#tabMap").addEventListener("click", () => setView("map"));
 }
 
 function setView(view) {
@@ -200,10 +207,11 @@ function setView(view) {
 
 // ---------- Filtering ----------
 function filtered() {
-  const { search, region, stateCode, tags, exclude, priceMin, priceMax } = state.filters;
+  const { search, region, stateCode, tags, exclude } = state.filters;
   return state.centers.filter((c) => {
     if (region && regionOf(c) !== region) return false;
     if (stateCode && c.location.state !== stateCode && c.location.country !== stateCode) return false;
+    const { priceMin, priceMax } = state.filters;
     if ((priceMin != null || priceMax != null) && !priceInRange(c, priceMin, priceMax)) return false;
     if (tags.size && ![...tags].every((t) => (c.tags || []).includes(t))) return false;
     if (exclude.size && (c.tags || []).some((t) => exclude.has(t))) return false;
@@ -431,18 +439,17 @@ function formatDate(iso) { try { const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso)
 function cap(s = "") { return s.charAt(0).toUpperCase() + s.slice(1); }
 
 // ---------- cost helpers ----------
-// True when a center's listed nightly price overlaps the [min, max] range.
-// Currency-agnostic: the raw listed numbers are compared as-is, whatever the
-// currency. min/max may be null (open-ended). Donation-based and price-unknown
-// centers do not qualify while a bound is set.
+// True when a center's listed nightly price overlaps the [min, max] window (a null
+// bound means "no limit" on that side, using the center's own min/max). Donation-based
+// and price-unknown centers do not qualify.
 function priceInRange(c, min, max) {
   const p = c.pricePerDay;
   if (!p) return false;
   const lo = p.min != null ? p.min : (p.max != null ? p.max : null);
   const hi = p.max != null ? p.max : (p.min != null ? p.min : null);
   if (lo == null || hi == null) return false;
-  if (min != null && hi < min) return false;
-  if (max != null && lo > max) return false;
+  if (min != null && hi < min) return false; // priciest option still below the min
+  if (max != null && lo > max) return false; // cheapest option still above the max
   return true;
 }
 function cardPrice(p) {

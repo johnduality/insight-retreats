@@ -1,0 +1,74 @@
+{
+  "name": "Vrážné Zen Center (Seon Mun Sa)",
+  "aka": [
+    "Seon Mun Sa",
+    "Zenové centrum Vrážné",
+    "Kwan Um School of Zen - Czech Republic"
+  ],
+  "website": "https://vraznezen.org/en/",
+  "location": {
+    "address": "Vrážné 3, 569 43 Vrážné, Czech Republic",
+    "city": "Vrážné",
+    "region": "Moravia (Svitavy District), Czech Republic",
+    "country": "Czech Republic",
+    "state": "CZ",
+    "lat": 49.6749,
+    "lng": 16.7785
+  },
+  "tradition": "Korean Zen (Kwan Um School of Zen)",
+  "technique": "Zen sitting meditation, chanting and bowing practice, walking meditation, formal temple-style meals, kong-an (koan) interviews with a teacher, and work practice",
+  "influences": [
+    "Zen Master Seung Sahn",
+    "Jiří (George) Hazlbauer JDPSN, abbot and Guiding Teacher for the Czech Republic"
+  ],
+  "teacherAccess": "Retreat teachers give weekly Dharma talks and hold regular kong-an (koan) interviews during Kyol Che; the center's resident abbot, Jiří (George) Hazlbauer JDPSN, lives on-site year-round.",
+  "retreatOptions": "Weekend Yong Maeng Jong Jin and work-practice retreats through the year, plus a roughly eleven-week (January-March) winter Kyol Che intensive retreat that can be joined for anywhere from one week up to the full three months.",
+  "about": "Vrážné Zen Center (Seon Mun Sa) is the head temple of the Kwan Um School of Zen in the Czech Republic and the school's only residential Zen center in the country, occupying a former farm converted into a Zen temple in the small Moravian village of Vrážné. It is led by resident abbot Jiří (George) Hazlbauer JDPSN, the Kwan Um School's Guiding Teacher for the Czech Republic, who trained at Providence Zen Center in the US before returning to lead the Vrážné community. The center's flagship program is an annual winter Kyol Che, a traditional Korean Zen meditation intensive running roughly eleven weeks each January to March that can be joined for a minimum of one week up to the full retreat; days are held largely in silence with sitting, chanting, walking and bowing meditation, work practice, weekly Dharma talks and kong-an (koan) interviews with visiting teachers. The center also hosts shorter weekend retreats and volunteer work weekends through the rest of the year, and all meals served during retreats are vegetarian.",
+  "schedule": "Annual winter Kyol Che retreat runs from early January to late March, with weekly entry points and a minimum one-week stay; periodic weekend retreats and work weekends held through the rest of the year.",
+  "cost": "Kyol Che retreat fee is charged per week on a sliding scale (non-member / member / Dharma Teacher rate), with discounts for longer stays, students and the whole retreat; scholarships are available.",
+  "pricePerDay": {
+    "min": 643,
+    "max": 857,
+    "unit": "night",
+    "currency": "CZK",
+    "notes": "Winter Kyol Che one-week contribution: 6,000 CZK (non-members), 4,500 CZK (members) or 4,000 CZK (Dharma Teachers/DTIT), i.e. roughly 643-857 CZK/night for member vs. non-member rates; further discounts of 10-20% apply for month-long, two-month or full-retreat stays and for students.",
+    "source": "https://vraznezen.org/event/kyol-che-in-vrazne/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals served during Kyol Che and other retreats are vegetarian, eaten in silent traditional temple style; participants are asked to note food allergies at registration.",
+  "workRequired": "yes",
+  "workNotes": "Work practice (samu) is a scheduled part of the daily Kyol Che retreat routine; the center also hosts separate volunteer work weekends outside of retreat periods.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "work-practice",
+    "diet-vegetarian",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Vrážné Zen Center - Home",
+      "url": "https://vraznezen.org/en/"
+    },
+    {
+      "title": "O nás (About us) - Vrážné Zen Center",
+      "url": "https://vraznezen.org/o-nas/"
+    },
+    {
+      "title": "Kyol Che in Vrážné",
+      "url": "https://vraznezen.org/event/kyol-che-in-vrazne/"
+    },
+    {
+      "title": "Vrážné Zen Center - Kwan Um School of Zen Europe",
+      "url": "https://www.kwanumeurope.org/locations/vrazne-zen-center-seon-mun-sa/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  },
+  "id": "vrazne-zen-center-seon-mun-sa"
+}

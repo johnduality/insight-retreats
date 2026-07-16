@@ -1,0 +1,62 @@
+{
+  "name": "Kuchary Diamond Way Buddhist Retreat Center",
+  "aka": [
+    "Buddyjski Ośrodek Odosobnieniowy w Kucharach",
+    "Kuchary Diamond Way Buddhist Centre"
+  ],
+  "website": "https://kuchary.pl/",
+  "location": {
+    "address": "Kuchary 57, 09-210 Drobin, Poland",
+    "city": "Kuchary",
+    "region": "Mazowieckie (Płock County), Poland",
+    "country": "Poland",
+    "state": "PL",
+    "lat": 52.762865,
+    "lng": 20.004214
+  },
+  "tradition": "Tibetan Buddhism, Karma Kagyu lineage (Diamond Way Buddhism)",
+  "technique": "Diamond Way guru-yoga and phowa meditations combined with teachings from visiting Karma Kagyu lamas; a devotional, lay-oriented approach rather than silent retreat practice.",
+  "influences": [
+    "Lama Ole Nydahl",
+    "16th Karmapa Rangjung Rigpe Dorje",
+    "17th Karmapa Thaye Dorje"
+  ],
+  "teacherAccess": "Courses are led by visiting Karma Kagyu teachers, including periodic courses led by or centered on teachings of the Karmapa; daily group meditation and teaching sessions during organized courses.",
+  "retreatOptions": "Multi-day residential courses of roughly 3-6 nights held through the year, plus a well-known two-week summer course each August that has run since 1987; outside course dates the property is generally reserved for committed students of Lama Ole.",
+  "about": "Kuchary is the oldest Diamond Way Buddhist retreat property in Poland, a derelict manor estate that Lama Ole Nydahl bought with his own money in 1985 after a Buddhist talk in nearby Płock was broken up by the authorities. It became the first Karma Kagyu retreat center owned by the Polish sangha and is now marked by two large Buddhist stupas built on the grounds. Over four decades the center has hosted major Karma Kagyu teachers and organized dozens of meditation courses, and it is best known for its annual two-week summer course, which has drawn thousands of Lama Ole's students each August since 1987. The property is run by volunteers of the Buddhist Union Diamond Way Karma Kagyu Lineage, registered as a religious association in Poland since 1984.",
+  "schedule": "Periodic multi-day meditation courses through the year, plus a flagship two-week summer course each August; the property is otherwise reserved for committed Diamond Way (Lama Ole) students between courses.",
+  "cost": "No published fixed course fees; costs and any accommodation arrangements are coordinated directly with organizers via the center's contact page.",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "Meals are organized for participants during courses (the summer course alone draws thousands), but specific catering details are not published online.",
+  "workRequired": "unknown",
+  "workNotes": "The wider Diamond Way organization in Poland is run on the volunteer work of its members, but no specific work expectation for retreat guests is published.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats"
+  ],
+  "sources": [
+    {
+      "title": "Kuchary - Buddyjski Ośrodek Odosobnieniowy w Kucharach",
+      "url": "https://kuchary.pl/"
+    },
+    {
+      "title": "O nas - Buddyjski Ośrodek Odosobnieniowy w Kucharach",
+      "url": "https://kuchary.pl/o-nas/"
+    },
+    {
+      "title": "Buddyjski Ośrodek Odosobnieniowy w Kucharach - buddyzm.pl",
+      "url": "https://www.buddyzm.pl/osrodki/kuchary"
+    },
+    {
+      "title": "Kuchary Diamond Way Buddhist Centre - karmapa.org",
+      "url": "https://www.karmapa.org/centers/kuchary/kuchary-diamond-way-buddhist-centre/"
+    }
+  ],
+  "id": "kuchary-diamond-way-buddhist-retreat-center",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

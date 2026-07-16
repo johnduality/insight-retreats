@@ -1,0 +1,77 @@
+{
+  "name": "Manjushri Buddha Retreat Center",
+  "aka": [
+    "Buddha Center Karma Shedrup Choeling",
+    "Karma Shedrup Choeling",
+    "Manjushri Buddha Retreat Center Denmark"
+  ],
+  "website": "https://www.manjushri-retreat-center.dk/",
+  "location": {
+    "address": "Korsholmvej 178, Vesterbølle, DK-9631 Gedsted, Denmark",
+    "city": "Gedsted",
+    "region": "Himmerland, Denmark",
+    "country": "Denmark",
+    "state": "DK",
+    "lat": 56.712,
+    "lng": 9.362
+  },
+  "tradition": "Diamond Way Buddhism (Karma Kagyu, Tibetan Vajrayana)",
+  "technique": "16th Karmapa meditation, daily Mahakala practice, walking meditation on the kora peace path",
+  "influences": [
+    "Lama Ole Nydahl",
+    "Hannah Nydahl",
+    "Shamar Rinpoche",
+    "Shangpa Rinpoche",
+    "Dupseng Rinpoche"
+  ],
+  "teacherAccess": "Spiritual guidance from resident teachers under Ven. Shangpa Rinpoche and Ven. Dupseng Rinpoche; visiting lamas give courses and empowerments through the year; personal retreats can include a meeting with Rinpoche by arrangement.",
+  "retreatOptions": "Two self-guided retreat formats: an 'open retreat' where guests join community meals and about an hour of daily karma-yoga work, and a 'closed retreat' with no work expected and meals brought to the room; longer retreats are held every summer.",
+  "about": "Manjushri Buddha Retreat Center (Buddha Center Karma Shedrup Choeling) is a Diamond Way Buddhist center in the Himmerland countryside near Gedsted in northern Jutland, overlooking the Limfjord. The center's teaching history dates to 1989 with Lama Ole and Hannah Nydahl, and it has since hosted Karma Kagyu masters including Khenpo Chodrag Rinpoche, Shamar Rinpoche and Lama Jigme Rinpoche; it is now guided by Ven. Shangpa Rinpoche and Ven. Dupseng Rinpoche, who inaugurated a Buddha Park with eight peace stupas along a 726-metre kora walking path in 2024. Visitors can book a self-guided 'open retreat,' joining the resident community for meals and about an hour of daily karma-yoga work, or a 'closed retreat' with no work expected and meals brought to their room, staying in a dormitory, cabin or their own tent. Guests follow their own morning meditation and join a shared evening Mahakala practice, and the center also runs continuous Dharma courses and longer retreats each summer. Organic vegetarian meals are grown on the center's own land and served three times a day.",
+  "schedule": "Continuous Dharma programs and courses throughout the year; own morning practice plus a shared evening Mahakala practice; longer retreats each summer.",
+  "cost": "Open retreat: DKK 200/night including accommodation, 3 meals and coffee/tea; closed retreat: DKK 225/night on the same basis; winter heating surcharge applies for cabins.",
+  "pricePerDay": {
+    "min": 200,
+    "max": 225,
+    "unit": "night",
+    "currency": "DKK",
+    "notes": "Open retreat (incl. ~1 hr/day karma yoga): DKK 200/night with accommodation, 3 meals, coffee/tea. Closed retreat (no work expected, meals brought to you): DKK 225/night. Add DKK 25/night for cabins Oct-Apr (dorm stays exempt).",
+    "source": "https://www.manjushri-retreat-center.dk/retreat"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Organic vegetarian meals grown on the center's own land are served three times daily; the center cannot always accommodate vegan, diabetic or gluten-free needs.",
+  "workRequired": "partial",
+  "workNotes": "The 'open retreat' includes about 1 hour of daily karma-yoga work (dishes, cleaning, gardening); the 'closed retreat' expects no work, though guests are encouraged to help briefly before or after.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Manjushri Buddha Retreat Center Denmark - Home",
+      "url": "https://www.manjushri-retreat-center.dk/"
+    },
+    {
+      "title": "Manjushri Buddha Retreat Center - Retreat",
+      "url": "https://www.manjushri-retreat-center.dk/retreat"
+    },
+    {
+      "title": "Manjushri Buddha Retreat Center - Registration & Practical Info",
+      "url": "https://www.manjushri-retreat-center.dk/practicalinfo"
+    },
+    {
+      "title": "Buddha Center Karma Shedrup Choeling - Karmapa.org center listing",
+      "url": "https://www.karmapa.org/centers/gedsted/buddha-center-karma-shedrup-choeling/"
+    }
+  ],
+  "id": "manjushri-buddha-retreat-center",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Dhamma Sobhana",
+  "aka": [
+    "Nordic Vipassana Centre",
+    "Vipassana Meditation Center Dhamma Sobhana",
+    "Swedish Vipassana Foundation"
+  ],
+  "website": "https://sobhana.dhamma.org/",
+  "location": {
+    "address": "Holmen 1, S-599 93 Ödeshög, Sweden",
+    "city": "Ödeshög",
+    "region": "Östergötland, Sweden",
+    "country": "Sweden",
+    "state": "SE",
+    "lat": 58.3244,
+    "lng": 14.7265
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential 10-day courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded evening discourses and are available for brief questions.",
+  "retreatOptions": "Standard 10-day residential courses for men and women (held separately), roughly twice a month, plus periodic courses for children and young people.",
+  "about": "Dhamma Sobhana is the first Vipassana meditation centre established in the Nordic countries, opened in February 2007 on a rural property in central Sweden roughly halfway between Stockholm and Gothenburg, near Lake Vättern and the Tåkern bird sanctuary. The building was originally a village school and later a rehabilitation centre and youth hostel before being converted into a purpose-built meditation centre with capacity for about 100 students. It teaches Vipassana Meditation exactly as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, centred on the standard 10-day residential course during which new students learn Anapana breath awareness followed by Vipassana body-scan meditation under a fixed daily timetable and Noble Silence. Courses are conducted bilingually in English and Swedish, with some courses offered in Danish, Norwegian or Finnish, and the centre primarily serves students from across the Nordic region though people travel from further afield. Administered by the non-profit Swedish Vipassana Foundation, the centre runs entirely on voluntary donations from students who have completed a course.",
+  "schedule": "10-day courses run on a fixed published schedule roughly twice a month year-round, each following the standard Goenka-tradition daily timetable (approx. 4:00am wake, alternating sits and breaks, evening discourse, Noble Silence until near the end of the course).",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with teaching, food and lodging given freely and funded solely by donations from students who have completed a prior course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course run purely on dana.",
+    "source": "https://sobhana.dhamma.org/the-centre-in-sweden/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; vegetarian meals in keeping with standard Goenka-tradition practice.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) are typically asked to contribute some work service (dhamma seva) during their stay; new students are generally not required to work.",
+  "tags": [
+    "goenka",
+    "insight-vipassana",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "The centre in Sweden - Dhamma Sobhana",
+      "url": "https://sobhana.dhamma.org/the-centre-in-sweden/"
+    },
+    {
+      "title": "Courses - Dhamma Sobhana",
+      "url": "https://sobhana.dhamma.org/courses/"
+    },
+    {
+      "title": "Travel information - Dhamma Sobhana",
+      "url": "https://sobhana.dhamma.org/travel-information/"
+    },
+    {
+      "title": "Dhamma Sobhana course schedule - dhamma.org",
+      "url": "https://www.dhamma.org/en/schedules/schsobhana"
+    }
+  ],
+  "id": "dhamma-sobhana",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

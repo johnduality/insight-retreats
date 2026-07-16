@@ -179,7 +179,8 @@ EUROPE
     retreats at rented outside venues); Dhammazentrum Nyanaponika (apartment-based
     group, no onsite capacity); Yun Hwa Sangha (retreats at rented outside venues);
     Karma Berchen Ling (actually in Greece, not Austria); Panditarama Lumbini (actually
-    in Nepal); a second "Hinterbucheck" Diamond Way site in Scharnstein could not be
+    in Nepal); Karma Berchen Ling (actually in Greece, not Austria — now ingested there,
+    see item 21); a second "Hinterbucheck" Diamond Way site in Scharnstein could not be
     independently distinguished from Gomde Austria's own listing; AlpenRetreat
     Fernpass/Nassereith (genuine ongoing Vipassana series but markets itself as a
     general yoga resort, borderline excluded per yoga-venue scope rule); Haus der
@@ -203,36 +204,380 @@ EUROPE
     (weekly sittings only); Radhadesh (ISKCON/Hare Krishna devotional-bhakti and
     yoga-asana community, not meditation-centred); Karma Migyur Ling (actually in
     France, not Belgium).]
-14. Portugal
-15. Poland
-16. Sweden
-17. Denmark
-18. Norway
-19. Finland
-20. Czech Republic
-21. Greece
-22. Hungary
-23. Romania
-24. Slovenia
-25. Croatia
-26. Bulgaria
-27. Iceland   [PARTIAL: one center, Zen in Iceland (Natthagi), was already drafted and is
-    now ingested — no full discover/research pass has been run for Iceland yet.]
+14. Portugal   [DONE 2026-07-16: 5 centers — Mosteiro Budista Sumedharama (Ericeira,
+    Theravada Thai Forest/Ajahn Chah), Tilakkhana Vipassana Meditation Center (Tavira,
+    Algarve, Theravada/Mahasi-style via Ajahn Tong lineage), Centro de Meditação Kadampa
+    Deuachen (Sintra, New Kadampa/Gelug), Thubten Phuntsog Gephel Ling/Guhya Mantrika
+    (Alcácer do Sal, Nyingma/Kagyu), Kangyur Rinpoche Retreat Center (Monchique,
+    Nyingma/Kagyu). Considered and rejected: Vipassana Association Portugal/Dhamma
+    Rogil (Goenka — 2026 courses now actually held at Dhamma Sacca in Spain, no current
+    on-site Portugal residence); Bodhi Bhavan and Karuna Retreat Center (Monchique —
+    rentable wellness venues / unguided since founder's death, no active in-house
+    lineage program); Centro Budista do Porto (no own physical space, online/rented
+    rooms only); Monte da Orada, Serra Vida, Monte Velho Retreat Centre, Cave of the
+    Heart/Hridaya (secular wellness or yoga-asana venues, not meditation-first); Diamond
+    Way Buddhism Lisbon (city meditation room only, no residential land); Kadampa
+    Meditation Center Porto (satellite of the Sintra temple, folded into that entry).]
+
+
+RECOVERY NOTE (2026-07-16): this file was found truncated mid-sentence at item 15
+(Poland), the same silent mid-write truncation bug documented in CLAUDE.md. Items
+16-27 plus the Canada/Oceania/Mexico outline had been dropped entirely. The outline
+below was restored from git commit b5cfc9a (last commit that touched this file), and
+items 15-21 were reconstructed by cross-checking data/centers/ directly rather than
+re-running discovery -- the original "considered and rejected" candidate notes for
+those seven countries were lost in the truncation and are NOT being fabricated here.
+Stale data/_staging/ duplicates and two duplicate-id data/centers/ files (karma-dechen-
+sel-ling.json, zeng-rden.json) turned up during this reconciliation and were logged to
+deletions.txt rather than deleted outright.
+
+15. Poland   [DONE 2026-07-16: 6 centers -- Dhamma Pallava (Dziadowice, Goenka), Chamma
+    Ling Poland (Wilga, Tibetan Bon/Yungdrung Bon), Kuchary Diamond Way Buddhist Retreat
+    Center (Kuchary, Karma Kagyu/Diamond Way), Nagodzice Diamond Way Buddhist Retreat
+    Center (Nagodzice, Karma Kagyu/Diamond Way), Turza Zen Meditation Center (Turza,
+    Soto Zen), Wu Bong Sa (Warsaw, Korean Zen/Kwan Um School). See RECOVERY NOTE above --
+    reject-notes for this country were lost to truncation and are not reconstructed.]
+16. Sweden   [DONE 2026-07-16: 4 centers -- Dhamma Sobhana (Odeshog, Goenka), Karma
+    Dechen Osel Ling (Fellingsbro, Karma Kagyu), Yoga Monastery (Gullringen, Ananda
+    Marga/Rajadhiraja Yoga meditation), Zengarden (Fellingsbro, Zen/Kapleau lineage).
+    Reject-notes lost to the same truncation, not reconstructed.]
+17. Denmark   [DONE 2026-07-16: 4 centers -- Gomde Denmark (Knebel, Nyingma/Kagyu),
+    Lolland Buddhist Retreat Center (Sollested, Diamond Way/Karma Kagyu), Manjushri
+    Buddha Retreat Center (Gedsted, Diamond Way/Karma Kagyu), Vrads Sande Retreat
+    Centre (Bryrup, Sahaj Marg/Heartfulness Raja Yoga meditation). Reject-notes lost to
+    the same truncation, not reconstructed.]
+18. Norway   [DONE 2026-07-16: 3 centers -- Heggedal Retreat Center (Heggedal, Diamond
+    Way/Karma Kagyu), Karma Shedrup Ling (Ski, Karma Kagyu), Lokuttara Vihara
+    (Skiptvet, Theravada Thai Forest/Ajahn Chah). Reject-notes lost to the same
+    truncation, not reconstructed.]
+19. Finland   [DONE 2026-07-16: 4 centers -- Abhayaloka (Layliainen/Loppi, Triratna),
+    Danakosha Ling (Jokioinen, Nyingma/Dzogchen), Lammi Retreat Center (Lammi/
+    Hameenlinna, Zen/Ordinary Mind School), Sanneji (Karjaa/Raasepori, Zen/Kapleau-
+    Harada-Yasutani lineage). Reject-notes lost to the same truncation, not
+    reconstructed.]
+20. Czech Republic   [DONE 2026-07-16: 3 centers -- Tenovice Diamond Way Buddhist
+    Retreat Center (Tenovice, Diamond Way/Karma Kagyu), Vrazne Zen Center/Seon Mun Sa
+    (Vrazne, Korean Zen/Kwan Um), Vyhlidky Diamond Way Buddhist Retreat Center
+    (Jivno/Vyhlidky, Diamond Way/Karma Kagyu). Reject-notes lost to the same
+    truncation, not reconstructed.]
+21. Greece   [DONE 2026-07-16: 4 centers -- Dhagpo Rigdrol Ling (Arnaia, Karma Kagyu),
+    Karma Berchen Ling (Xylokastro, Diamond Way/Karma Kagyu -- see item 12 Austria
+    note, originally miscatalogued as Austrian), Karma Palsang Dondrub Ling (Palaios
+    Panteleimonas, Diamond Way/Karma Kagyu), Zen Center Athens (Serifos, Soto Zen/
+    Hosshin-ji lineage). Reject-notes lost to the same truncation, not reconstructed.]
+22. Hungary   [DONE 2026-07-16: 3 centers -- Becske Diamond Way Retreat Centre (Becske,
+    Nograd County, Diamond Way/Karma Kagyu -- national Diamond Way property since 1997,
+    ~50ha, gompa + three Lama Houses for individual retreats), Karma Ratna Dargye Ling
+    (Tar, Nograd County, Karma Kagyu -- Hungarian Karma Kagyupa Buddhist Community's
+    dedicated 9ha retreat property since 1991, distinct from its two day-only Budapest
+    centers), Rabten Tashi Ling (Balatonkeresztur, Somogy County, Gelug/Rabten
+    lineage -- former-vineyard site, temple + eight guesthouses for residential stays).
+    Considered and rejected: Vipassana Meditation Hungary/dhamma.org (runs courses at
+    rented venues, no dedicated property -- listed by dhamma.org itself as a
+    "noncenter"); Zalaszanto Peace Stupa (day-visit pilgrimage monument, no retreat
+    programme or lodging); Harom Kincs Volgye/Three Treasures Valley (Hungarian Taoist
+    Church martial-arts/QiGong training camps, movement-focused not meditation-focused);
+    New Kadampa Tradition Hungary (no dedicated Hungarian retreat property found);
+    Manjushri Retreat Center (actually in Pathum Thani, Thailand, not Hungary); Dharma
+    Gate Buddhist College, Karmapa House, Karma Dorje Ling (Budapest urban day-centres,
+    no onsite residential accommodation of their own).]
+23. Romania   [DONE 2026-07-16: 1 center -- Zagon Diamond Way Retreat Center (Zagon,
+    Covasna County, Transylvania, Diamond Way/Karma Kagyu) -- national Diamond Way
+    property, a 23-hectare purchased plot ("Kerekerdo") hosting multi-night courses
+    (tent camping, onsite cafeteria) led by visiting lamas, distinct from Romania's
+    other Diamond Way locations which are confirmed urban meeting groups with no
+    lodging. Considered and rejected: Vipassana Romania/dhamma.org (courses explicitly
+    run at rented venues, no permanent property); Center of White Mahakala/Land of the
+    White Stupa, Tranisu (retreat cabins still under construction, current activity is
+    urban classes in Cluj-Napoca); Kadampa Meditation Center Romania Cluj-Napoca (urban
+    teaching center, no retreat property); Ananda Marga Romania/Morningstar Center
+    Bucharest (weekly urban classes, no residential property); Eqylife Center, Magura
+    (single-teacher proprietary method inconsistently rebranded across listings, reads
+    as general wellness venue); Akasha Retreat, Pestera (yoga/asana-focused, meditation
+    secondary); Mandala Retreat, Rachitele (general rentable event venue, no dedicated
+    meditation tradition); Oradea Diamond Way "Retreat Center" (name notwithstanding,
+    only twice-weekly urban meetings, no onsite lodging); Bucharest/Miercurea Ciuc/
+    Targu Secuiesc/Marghita/Satu Mare/Timisoara Diamond Way groups (urban meeting
+    groups, no accommodation); no Kwan Um, Rigpa/Nyingma, or Sakya presence found in
+    Romania.]
+24. Slovenia   [DONE 2026-07-16: 1 center -- Samanadipa Forest Buddhist Monastery
+    (Goljek, near Trebnje, Theravada forest tradition / Hillside Hermitage
+    interpretation under Ajahn Nyanamoli Thero, founded 2016) -- owns its property
+    (main house, sala, Nirodha guesthouse, monastic dwellings), hosts genuine
+    multi-night residential lay stays, dana-based with work-practice/silence emphasis.
+    Considered and rejected: Vipassana Foundation Slovenia/si.dhamma.org (no permanent
+    center, courses run at rented/temporary venues); Ljubljana Diamond Way Buddhist
+    Center (urban address, twice-weekly evenings, no retreat land); Kadampa Meditation
+    Centre Slovenija/Maitreja (urban NKT center, no onsite lodging); Chan Retreat
+    Center Hartovski Vrh (actually in Croatia, geographically misplaced); Veduna
+    Retreats (general wellness venue hosting rotating outside practitioners, not a
+    dedicated meditation lineage); Pachamama Center, Kunova (eco-community/permaculture
+    project where meditation is one activity among several, not the central practice);
+    Hillside Hermitage Slovenia (Samanadipa's sister hermitage, monastics only, no
+    public retreat option); no Ananda Marga, Heartfulness, or Plum Village presence
+    found in Slovenia.]
+25. Croatia   [DONE 2026-07-16: 1 center -- Chan Retreat Center Hartovski Vrh
+    (Kostanjevac, Zumberak-Samoborsko gorje Nature Park, Zagreb County, Chan/Chinese
+    Zen, Dharma Drum Mountain lineage via Sheng Yen -> Zarko Andricevic) -- purpose-
+    built residential property (opened 2019, five buildings incl. Chan hall and two
+    dormitories) run by Dharmaloka, Croatia's only registered Buddhist religious
+    community; regular calendar of 1/3/7/9-day silent retreats, onsite vegetarian
+    meals. (Originally mis-surfaced during the Slovenia pass; confirmed here as
+    Croatian.) Considered and rejected: Vipassana Croatia/dhamma.org (permanent center
+    page "under construction," courses run at rented non-center venues); Diamond Way
+    Buddhism (no Croatian retreat center found in official directories); Kadampa/NKT
+    (Split study group is urban-only, no retreat property); Ananda Marga and
+    Heartfulness/Sahaj Marg (no Croatian retreat center in official directories); no
+    Theravada monastery found in Croatia; Hrvatsko Budisticko Drustvo "Padmasana"
+    (Zagreb, owns the "Tarini Dvori" estate but its documented multi-night retreats
+    were held at a separately rented tourist facility, and no retreat activity is
+    documented since 2015); Shechen Croatia/Thegchog Choling (Opatija, urban address,
+    no owned retreat property); Mandala Society (Rijeka, Shingon, urban group only).]
+26. Bulgaria   [DONE 2026-07-16: 1 center -- Vinitsa Diamond Way Buddhist Retreat
+    Center (Varna/Vinitsa district, Diamond Way/Karma Kagyu) -- founded 1996 by Lama
+    Ole Nydahl on a plateau above the Black Sea, owns a house and gompa (solar power,
+    well water); Bulgaria's only Diamond Way property with documented onsite overnight
+    accommodation, at-least-monthly residential meditation weekends plus periodic
+    multi-day courses. Considered and rejected: Vipassana Bulgaria Foundation/dhamma.org
+    (confirmed "non-center," courses at rented venues); Retreat Center Plana near Sofia
+    (Bulgarian Stupa of Enlightenment, weekly evening meditation, but a day-trip
+    pilgrimage site with no documented overnight accommodation); Palyul Center Bulgaria
+    (Nyingma, Sofia -- most active Tibetan center in the country but urban city-center
+    address, no retreat land); Sakya Choling/Dechen Bulgaria (effectively defunct,
+    disciples left the country); "Bodhichitta Foundation"/Khampagar Monastery branch
+    near Kazanlak (single unverifiable source, no confirmable property); Dzogchen
+    Community (Bulgarian practitioners folded into Merigar East, Romania -- no Gar in
+    Bulgaria); Kadampa/NKT, FPMT/Gelug, Ananda Marga, Heartfulness/Sahaj Marg (no
+    Bulgarian retreat center in any official directory); Mokusho Zen House Bulgaria
+    (weekly urban zazen at a rented venue); Diamond Way urban centers in Sofia, Rousse,
+    Shumen, Plovdiv, Varna city (ordinary weekly meeting addresses, not retreat
+    properties); Rila and other Orthodox monasteries (out of scope); RisingSoul, Rila
+    View Lodge, Tranquil Times, Calla Retreat, Shanti Mountain, A Mindful Escape, etc.
+    (yoga/wellness operators, asana- or wellness-centered, not meditation-focused).]
+27. Iceland   [DONE 2026-07-16: 1 center (unchanged) -- Zen in Iceland - Night Pasture
+    (Natthagi, Reykjavik, Soto Zen). Full discover/research pass now completed: zero
+    new qualifying centers found. Considered and rejected: Reykjavik Diamond Way
+    Buddhist Center (confirmed rented urban space since 2016, no owned property or
+    onsite retreat capability); Wat Thai Iceland, Kopavogur (Thai cultural/ceremonial
+    temple for the immigrant community, not a meditation retreat center); Buddhist
+    Meditation Society of Iceland, Hafnarfjordur (local class group, no owned
+    premises); Ananda Marga Iceland (weekly sessions, no confirmed owned retreat
+    property in-country); Hadegismoar Temple (planned/not yet built); no dhamma.org
+    Goenka center, Kadampa/NKT branch, Shambhala/Rigpa center, or Heartfulness/Sahaj
+    Marg presence found in Iceland at all. Numerous geothermal spa/wellness/yoga
+    operators (Knarrarberg, The Ashram Iceland, Armonia Retreats, Iceland Yoga Retreat,
+    MYND Retreats, Sagrada Wellness, various BookRetreats.com listings) excluded per
+    the wellness/yoga-asana scope rule. EUROPE SECTION NOW COMPLETE (items 1-27).]
 
 
 CANADA (by province / territory)
 --------------------------------
-1.  British Columbia
-2.  Ontario
-3.  Nova Scotia        (Gampo Abbey, strong Shambhala presence)
-4.  Quebec
-5.  Alberta
-6.  Manitoba
-7.  New Brunswick
-8.  Saskatchewan
-9.  Newfoundland and Labrador
-10. Prince Edward Island
-    (Territories — Yukon, Northwest Territories, Nunavut — likely none; check last.)
+1.  British Columbia   [DONE 2026-07-16: 8 centers -- Dhamma Surabhi (Merritt, Goenka),
+    Dhamma Modana (Duncan/Vancouver Island, Goenka, 137-acre property built out since
+    2006), Birken Forest Buddhist Monastery/Sitavana (Knutsford, Theravada Thai
+    Forest -- Canada's first Thai Forest monastery), Samaggi Dhamma (Hornby Island,
+    Insight/Thai Forest, Ajahn Tong Sirimangalo lineage, annual July/August residential
+    retreats), Sea to Sky Retreat Centre (Whistler, Tibetan Vajrayana/Siddhartha's
+    Intent, Dzongsar Khyentse Rinpoche), Zenwest Buddhist Society/Kokizanji (Sooke,
+    Rinzai Zen), Mahasiddha Retreat Centre (Parson, Nalandabodhi/Dzogchen Ponlop
+    Rinpoche -- note: operations noted as transitioning to Alberta, still active in BC),
+    Mountain Rain Zen Community/Bright Stream Temple-Koryuji (Vancouver, Soto Zen, on
+    the property gifted by the closed Vancouver Zen Centre in 2023). Considered and
+    rejected: Yasodhara Ashram (yoga/asana-primary lineage); Hermitage on Denman
+    Island/Dharma Fellowship (land sold amid 2024-2026 leadership dispute, not
+    operating); BCIMS (residential retreats held at a rented Nanaimo venue, not owned
+    property); Kadampa Meditation Centres Fraser Valley/Vancouver/Victoria (retreats at
+    rented venues, no owned land); Kootenay Shambhala/Senge Ling Nelson (only a single
+    members-only prerequisite-gated solitary cabin, too thin to confirm as a general
+    offering); Thrangu Monastery Richmond (no confirmed lay overnight accommodation,
+    day-visit only); Johnson's Landing Retreat Centre (general multi-modality retreat
+    house, not a dedicated meditation organization); Clear Sky Meditation Center Fort
+    Steele (eclectic Vajrayana/Integral Theory/astrology blend, meditation not clearly
+    the exclusive practice); Diamond Way Buddhism BC (urban meeting groups only, no
+    retreat land); Zen Centre of Vancouver (closed 2022, property now Mountain Rain
+    Zen Community above).]
+2.  Ontario   [DONE 2026-07-16: 4 centers -- Dhamma Torana (Egbert, Goenka, ~145
+    forested acres, Ontario Vipassana Foundation), Tisarana Buddhist Monastery (Perth,
+    Theravada Thai Forest, Ajahn Viradhammo/Ajahn Chah lineage), Arrow River Forest
+    Hermitage (Neebing near Thunder Bay, Theravada Thai Forest, Ajahn Punnadhammo,
+    92-acre off-grid property), The Dharma Centre of Canada (Kinmount, non-sectarian
+    multi-tradition -- Zen/Tibetan Vajrayana/Insight -- founded 1966 by Namgyal
+    Rinpoche, 400-acre property with year-round Solo Retreat program). Considered and
+    rejected: Sati Saraniya Hermitage (Perth bhikkhuni monastery, not currently hosting
+    general short-term guests); Orgyan Osal Cho Dzong/Palyul Canada (Madoc, 15-room
+    retreat house but no current publicly bookable program, active retreat runs at a
+    sister centre in New York); White Wind Zen Community/Dainen-ji (Ottawa, residential
+    training restricted to committed lineage students, urban); Karma Tekchen Zabsal
+    Ling (Aurora, "Retreat House" is an unbuilt fundraising project); Palpung Yeshe
+    Chokhor (Kitchener, too sparse/stale to confirm a current operating property);
+    Toronto Zen Buddhist Temple (urban row-house temple, live-in city practice not
+    retreat land); Mahamevnawa Buddhist Meditation Centre (Markham/Toronto, explicitly
+    non-residential); Ananda Marga Canada/Camp Bradford (no owned Ontario property,
+    retreats run at Ananda Kanak, Quebec); Kadampa Meditation Centre Ottawa/Toronto,
+    Avalokiteshvara KBC Guelph (urban centres, no owned retreat land); True North
+    Insight (rents outside venues, e.g. Galilee Centre); Galilee Retreat Centre
+    (Catholic/Oblate-origin rented venue, not itself a meditation-lineage program).]
+3.  Nova Scotia   [DONE 2026-07-16: 4 centers -- Gampo Abbey (Pleasant Bay, Cape
+    Breton, Karma Kagyu/Shambhala monastery founded by Chogyam Trungpa Rinpoche 1983,
+    200 acres, week-long Group Retreats plus Solitary Retreats and the Sopa Choling
+    Three-Year Retreat), Dorje Denma Ling (The Falls near Tatamagouche, Shambhala
+    Buddhism, Canada's only Shambhala residential retreat centre, 288 acres),
+    Milk Lake Shambhala Retreat Centre (Middlewood/South Shore, Shambhala Buddhism,
+    52 acres, three self-catering cabins for self-guided solitary retreats),
+    Buddhayana Forest Retreat (River John, Cobequid Highlands, non-sectarian ascetic
+    forest tradition, off-grid cabins, free self-guided retreats of any length).
+    Considered and rejected: Atlantic Canada Vipassana Meditation/Camp Kidston
+    (Middle Musquodoboit -- genuine Goenka group but explicitly a rented summer camp
+    since 2024, no owned premises); Karma Changchub Ling (Halifax, urban house with
+    small resident monastic community, no public multi-night retreat booking program
+    found); Mountain Serenity Retreat/Pure Meditation Centre Nova Scotia (Wentworth --
+    blends meditation with Hatha yoga and energy healing, reads as wellness/spa);
+    Mahone Bay Meditation Centre (secular day-only, meets at a community centre);
+    St. Margaret's Bay Shambhala Centre and Halifax Shambhala Centre (urban/suburban
+    centres, no owned rural retreat land of their own -- that's Dorje Denma
+    Ling/Milk Lake/Gampo Abbey above); Atlantic Theravada Buddhist Cultural and
+    Meditation Society (Halifax, urban temple, day programs only); White Wind Zen
+    Community/Wolfville Zazenkai (branch practice group, no onsite accommodation,
+    residential training at the main Ottawa centre); Thousand Harbours Zen (Halifax,
+    hybrid sangha, no onsite residential lodging); Sidanna Retreat "Zen Oceanfront
+    Chalet" (an Airbnb vacation rental branded "Zen," not a meditation centre); no
+    dedicated NKT/Kadampa retreat property found in Nova Scotia.]
+4.  Quebec   [DONE 2026-07-16: 4 centers -- Dhamma Suttama (Montebello, Goenka,
+    600-acre former private-school property, Eastern Canada Vipassana Foundation),
+    Centre Paramita (Leclercville, Gelug/Lamrim, founded by Lama Samten 2003, 2-21 day
+    retreats incl. silent ones), Ananda Kanak (Saint-Andre-Avellin, Ananda Marga
+    Tantra Yoga/Rajadhiraja Yoga meditation, 72-acre Master Unit with resident monk --
+    distinct from the already-catalogued "Ananda Kanan" in Missouri, different name/
+    country/property), Montreal Zen Centre (Montreal, Rinzai/Soto blend taught by the
+    late Albert Low, four 5-day intensive silent retreats/year). Considered and
+    rejected: Sivananda Ashram Yoga Camp Val-Morin (yoga-asana primary, meditation
+    secondary); Le Monastere des Augustines, Sentiers du Silence, Centre de
+    Spiritualite des Ursulines (Catholic contemplative, out of scope); Tsongkhapa
+    Meditation Center/Gaden Shedrup Ling Sainte-Sophie (no confirmed onsite lodging,
+    refers visitors to nearby commercial hotels); Enpuku-ji Montreal (urban Rinzai
+    centre, no onsite overnight accommodation); Orgyen Khamdroling/OKL Canada
+    Ste-Anne-de-Bellevue (urban group, no owned retreat property); Kadampa Meditation
+    Centre Montreal/Centre de Meditation Kadampa Quebec (retreats held at outside
+    rented venues); La Terre du Retour en SOI (glamping/wellness, not lineage-tied);
+    Le Temple Quebec City (yoga retreats/workshops, not a dedicated meditation
+    center).]
+5.  Alberta   [DONE 2026-07-16: 2 centers -- Dhamma Karuna/Alberta Vipassana
+    Meditation Centre (Youngstown, Goenka, 8.5 acres, ~6 residential 10-day courses/
+    year), Tay Thien Monastery/Westlock Meditation Centre (Busby, Vietnamese
+    Thien/Zen + Pure Land under Abbot Thich Phap Hoa, Plum-Village-trained, large
+    monastic campus, seasonal multi-day residential retreats incl. a 10-day
+    Short-Term Monastic Retreat). Confirmed Mahasiddha Retreat Centre (Nalandabodhi/
+    Dzogchen Ponlop Rinpoche) remains sited in Parson, BC -- not duplicated here; no
+    separate Alberta property found for that lineage. Considered and rejected: Clear
+    Sky Meditation Center (actually in BC near Cranbrook); Gaden Samten Ling/Alberta
+    Centre for Peace and Meditation Edmonton (urban temple, day/online only); Wild
+    Rose Sangha Calgary (no owned property, retreats at a rented Christian camp);
+    Alberta Insight Meditation Centre/Alberta Buddhist Vihara Association Spruce Grove
+    (day/online programs only, past residential retreat was off-site); Calgary Insight
+    Meditation Society and Edmonton Insight Meditation (no property, retreats rented
+    at Catholic facilities); Akshobya Kadampa Buddhist Centre/Kadampa Calgary (urban,
+    no owned land); Diamond Way Buddhist Center Calgary and Edmonton (urban meeting
+    spaces only); Zenwest Buddhist Society (already catalogued in BC); Kwan Um School
+    of Zen (no Alberta/Canadian centres); Calgary Shambhala Meditation Group (small
+    urban group, no retreat land); Edmonton Shambhala Centre (defunct since 2020);
+    Drala Mountain Center (actually in Colorado); Ananda Marga and Heartfulness (no
+    Alberta property); no Thai Forest/Ajahn Chah branch monastery found in Alberta;
+    Pine Creek Retreat (generic bookable venue, no lineage); Martha Retreat Centre
+    Lethbridge (Christian contemplative, out of scope); Sanctum Retreat (generic
+    wellness venue).]
+6.  Manitoba   [DONE 2026-07-16: 0 qualifying centers -- genuinely thin province.
+    Considered and rejected: Mahamevnawa Buddhist Monastery Winnipeg/Buddha Meditation
+    Centre Winnipeg (day-long retreats only, no overnight); Manitoba Buddhist Vihara
+    (day programs only, mid-acquisition of a new property with no retreat program yet);
+    Kadampa Meditation Centre Winnipeg (physical location closed, online-only now);
+    Winnipeg Insight Meditation Group (no owned property, single-day retreat at a
+    rented outside venue); River & Bridge Dharma Group (private home address, its one
+    "Residential Retreat" is on Denman Island, BC); Winnipeg Zen (apartment zendo, no
+    retreats); Chanh Dao Vietnamese Buddhist Association (urban temple, no retreat
+    land); Manitoba Buddhist Church (Jodo Shinshu/Shin Pure Land, faith-based day
+    services, not a meditation-retreat tradition); Vipassana Manitoba/dhamma.org (no
+    dedicated centre, courses at rented non-center sites); Light of the Prairies
+    Retreat Centre (Lorette -- general-purpose rentable venue-for-hire, not a
+    meditation organization itself); The Dharma Centre of Winnipeg/Rural Dharma Centre
+    (Namgyal-lineage, genuinely owns 60 rural acres east of Winnipeg, but no verifiable
+    current retreat schedule/accommodation info on its sparse official site -- worth a
+    manual follow-up later); Dakshong Gonpa/Canadian Tibetan Buddhist Society of
+    Manitoba (Nyingma, owns rural land at Lac du Bonnet, but official site is a stub
+    with no working subpages and its donation listing shows inactive -- also worth a
+    manual follow-up later); no Diamond Way, Ananda Marga, Heartfulness, Shambhala,
+    Rigpa, Chan, Nichiren, or Won Buddhism presence found in Manitoba.]
+7.  New Brunswick   [DONE 2026-07-16: 0 qualifying centers -- confirmed via BuddhaNet's
+    complete NB directory (all 7 known groups) plus dhamma.org, no established center
+    with its own land and onsite lodging. Considered and rejected: Fredericton
+    Shambhala Center and Saint John Shambhala Meditation Group (urban/rented meeting
+    space, no residential facility); Moncton Buddhist Centre (converted basement
+    office, no residential facility); Zen Centre of Edmundston/AZI (small local group,
+    its only retreat land is La Gendronniere in France); Buddhist Community of
+    Miramichi/"River Buddha" (explicitly still fundraising to build a permanent
+    monastery, no physical premises yet); Buddhist Bon Meditation Group Bathurst
+    (small local group, no property); The Buddhist Library Fredericton (resource
+    listing, not a retreat center); Atlantic Canada Vipassana Meditation/dhamma.org
+    (explicit "non-center," courses at rented venues); Villa Madonna Retreat House
+    (Catholic/Franciscan, out of scope); Creekside RNR "Zen Centre" Cocagne
+    (glamping/spa wellness business, not a meditation lineage); Zenful Counselling &
+    Yoga Lakeville Corner (secular wellness business); "Centre Haseya" (actually in
+    Sutton, Quebec, geo-mismatch).]
+8.  Saskatchewan   [DONE 2026-07-16: 0 qualifying centers. Considered and rejected:
+    Mahamevnawa Buddhist Temple/Saskatoon Buddha Meditation Centre (housed in a
+    private residence, informal/by-arrangement, no dedicated retreat premises);
+    Saskatoon Community of Mindful Living (weekly sits at a rented Unitarian Church,
+    residential retreats at rented outside venues); Saskatoon Insight Meditation
+    Community (residential retreats held at Queen's House and a rented Catholic
+    wilderness camp, no own property); Clear Way Zen/Regina Zen Sangha (meets at a
+    rented United Church, no owned property); Dhammanjali Meditation Centre Regina
+    (urban storefront; its one documented retreat was actually in Richmond Hill,
+    Ontario); Avalokitesvara Buddhist Temple Saskatoon (urban temple, retreats
+    arranged off-site, no residential facility); a Vietnamese Pure Land temple listing
+    in Saskatoon (directory entry only, no program info); Akshobya Kadampa Buddhist
+    Centre and Diamond Way Buddhism (nearest locations are Calgary, AB, no SK
+    presence); Shambhala and Rigpa (no SK centres); Saskatchewan Kammatthana/Thai
+    Forest contact group (single-contact study group, no physical monastery found);
+    Wild Spirit Prairie Sanctuary (eclectic interfaith wellness retreat, meditation
+    not central); Queen's House of Retreats and Qu'Appelle House of Prayer (Catholic
+    contemplative, out of scope); Shekinah Retreat Centre Waldheim (general outdoor
+    camp, not meditation-focused); no Ananda Marga, Heartfulness/Sahaj Marg, or SRCM
+    presence found in Saskatchewan.]
+9.  Newfoundland and Labrador   [DONE 2026-07-16: 0 qualifying centers. Considered
+    and rejected: St. John's Shambhala Meditation Group (urban sangha, rented/shared
+    space, no owned land); Kadampa Buddhism in Newfoundland (satellite classes of
+    Kadampa Meditation Centre Ottawa, held in a rented community-centre room);
+    Sri Chinmoy Centre St. John's (uses the public East Coast Trail, no facility);
+    Andrew Safer/Safer Mindfulness (individual teacher/workshops, not a retreat
+    center); Atlantic Canada Vipassana Meditation/dhamma.org (regional coordinating
+    body, courses at rented non-center sites, typically in Nova Scotia); BookRetreats.
+    com "Newfoundland" listings (all actually located elsewhere -- Thailand, Sri
+    Lanka -- mistagged by the aggregator). Nova Scotia/Ontario centres that sometimes
+    get miscategorized as NL in search (Gampo Abbey, Dorje Denma Ling, Dharma Centre
+    of Canada, Buddhayana Forest Retreat) confirmed NOT in Newfoundland, already
+    catalogued elsewhere.]
+10. Prince Edward Island   [DONE 2026-07-16: 0 qualifying centers. Considered and
+    rejected: Great Enlightenment Buddhist Institute Society/GEBIS (Little Sands/
+    Heatherdale, ~600 resident monks -- large physical campuses but no bookable public
+    residential retreat program found, only a non-residential 4-week evening course;
+    primarily a monastic training institute); Great Wisdom Buddhist Institute/GWBI
+    (Brudenell/Vernon Bridge, ~600 nuns -- same issue, monastic translator-training
+    institute, no bookable lay residential retreat program); GEBIS Charlottetown
+    (separate urban storefront, non-residential); Nature Space Resort & Retreat Centre
+    St. Peters Harbour (yoga/wellness resort, meditation not central); PEI Shambhala
+    Meditation Group (no own property, meets at a rented Stratford venue); no
+    Vipassana/Goenka, Zen, Diamond Way, Kadampa, or Ananda Marga/Heartfulness presence
+    found on PEI.]
+
+    (Territories — Yukon, Northwest Territories, Nunavut — checked 2026-07-16: ZERO
+    qualifying centers. Yukon has an informal Tibetan Nyingma/Kagyu sangha in
+    Whitehorse (Rigdrol Dechen Ling/Vajra North) but no dedicated retreat property,
+    uses borrowed/rented space; Northwest Territories and Nunavut have no Buddhist or
+    meditation retreat center found at all.)
+
+CANADA SECTION NOW COMPLETE: 22 centers across 5 provinces (BC 8, Ontario 4, Nova
+Scotia 4, Quebec 4, Alberta 2); Manitoba, New Brunswick, Saskatchewan, Newfoundland
+and Labrador, PEI, and all three territories confirmed to have zero qualifying
+centers as of 2026-07-16.
 
 
 OCEANIA

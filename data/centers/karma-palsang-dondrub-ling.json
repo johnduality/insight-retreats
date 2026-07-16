@@ -1,0 +1,55 @@
+{
+  "name": "Karma Palsang Döndrub Ling",
+  "aka": [
+    "KPDL",
+    "Olympus Retreat Center",
+    "Karma Palsang Doendrub Ling"
+  ],
+  "website": "https://www.diamondway-buddhism.gr/en/centers/olympus/",
+  "location": {
+    "address": "Palaios Panteleimonas, Vromoneria, 60065, Greece",
+    "city": "Palaios Panteleimonas",
+    "region": "Pieria, Central Macedonia, Greece",
+    "country": "Greece",
+    "state": "GR",
+    "lat": 39.9925,
+    "lng": 22.5707
+  },
+  "tradition": "Diamond Way Buddhism, a lay Buddhist movement within the Karma Kagyu school of Tibetan Vajrayana Buddhism",
+  "technique": "Guru yoga meditation on the 16th Karmapa; Ngöndro foundational practices; guided meditation and Buddhist philosophy lectures",
+  "influences": [
+    "Lama Ole Nydahl",
+    "17th Karmapa Thaye Dorje",
+    "Karma Kagyu lineage"
+  ],
+  "teacherAccess": "No resident teacher; traveling Diamond Way lamas and senior students lead seminars, lectures and guided meditation during organized courses",
+  "retreatOptions": "Short group or individual retreats with a minimum stay of two nights; seminars, lectures and courses held through the year, with dormitory accommodation for up to 17 guests (up to 25 during peak courses)",
+  "about": "Karma Palsang Döndrub Ling (KPDL), meaning 'Radiant Place where Everything is Accomplished', is a Diamond Way Buddhist retreat center of the Karma Kagyu lineage on the lower slopes of Mount Olympus, near the traditional village of Palaios Panteleimonas and about an hour from Thessaloniki. It was inaugurated in 2018 by Lama Ole Nydahl under the spiritual direction of the 17th Karmapa, Thaye Dorje, and occupies a traditional three-storey stone building set among chestnut and arbutus woods with views over the Gulf of Thermaikos, holding a meditation hall (gompa), a communal kitchen and dining hall, and a dormitory wing. Activities center on lay guru-yoga meditation and Ngöndro practice, with seminars, lectures and short group or individual retreats organized through the year; the minimum stay is two nights. Meals are provided only during organized courses, and all guests are expected to help with shopping, cooking, cleaning and other tasks needed to run the center. There are no on-site camping facilities, though the surrounding area has campsites, hotels and guesthouses.",
+  "schedule": "Daily program during courses includes lectures on Buddhist teachings, guided meditation and personal practice; specific course dates vary through the year and are announced via the center and the Diamond Way registration system",
+  "cost": "No public price list; meals are provided only during organized courses; registration required via the Diamond Way network (registration.dwbn.org)",
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Meals are offered only during organized courses; outside course periods guests bring and prepare their own food, in consultation with other guests on site.",
+  "workRequired": "yes",
+  "workNotes": "All guests take part in work essential to the center's function - purchasing goods, meal preparation, cleaning and maintenance - and are expected to leave the center ready for the next use.",
+  "tags": [
+    "tibetan-vajrayana",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Olympus - Diamond Way Buddhism Greece",
+      "url": "https://www.diamondway-buddhism.gr/en/centers/olympus/"
+    },
+    {
+      "title": "Karma Palsang Döndrub Ling Diamond Way Buddhist Retreat Center - karmapa.org",
+      "url": "https://www.karmapa.org/centers/palaios-panteleimon-mount-olympus/karma-palsang-dondrub-ling-diamond-way-buddhist-retreat-center/"
+    }
+  ],
+  "id": "karma-palsang-dondrub-ling",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

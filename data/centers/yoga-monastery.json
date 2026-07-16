@@ -1,0 +1,75 @@
+{
+  "name": "Yoga Monastery",
+  "aka": [
+    "Yoga Monastery Sweden",
+    "Ananda Marga Training Center Ydrefors",
+    "Whole Timer Training Center Ydrefors"
+  ],
+  "website": "https://yogamonastery.org/",
+  "location": {
+    "address": "Grönkulla 1, Ydrefors, 598 73 Gullringen, Sweden",
+    "city": "Gullringen",
+    "region": "Kalmar County, Sweden",
+    "country": "Sweden",
+    "state": "SE",
+    "lat": 57.793,
+    "lng": 15.545
+  },
+  "tradition": "Ananda Marga (Tantra Yoga / Rajadhiraja Yoga meditation)",
+  "technique": "Personal mantra meditation instruction, kiirtan (devotional chanting), asanas (yoga postures), and periodic fasting as part of a combined meditation-and-yoga sadhana",
+  "influences": [
+    "Shrii Shrii Anandamurti (founder of Ananda Marga)",
+    "Dada Savitananda (founder of the training centre)"
+  ],
+  "teacherAccess": "Retreats and residential training are led directly by Ananda Marga monks (\"Dadas\") and nuns (\"Didis\"), including personal one-on-one meditation lessons.",
+  "retreatOptions": "Multi-day residential retreats (roughly a week, e.g. 6-night programmes split into shorter warm-up and main segments), open to beginners and experienced practitioners, plus longer full-time monastic training for those who wish to become monks or nuns.",
+  "about": "The Yoga Monastery is a Ananda Marga training centre in the forest near Ydrefors, Gullringen, in southern Sweden, founded in 1976 when Dada Savitananda converted an abandoned village dance hall into the first overseas whole-timer training centre for Ananda Marga monastics, at a time when the movement was banned in India. Over nearly 50 years more than 500 monks and nuns have completed their training here, and the centre continued as a men's monastic training site after women's training moved to the Philippines. Closed to outside visitors for some years, since 2020 it has reopened to the public, hosting six to eight retreats annually that combine personal meditation instruction, kiirtan chanting, yoga asanas, and periods of fasting, taught directly by resident Dadas and Didis. Retreats such as the multi-day \"Colors of Meditation\" programme are held on-site amid pine forest and lakes, with guests housed in the training centre and given mainly vegan meals. The organisation is part of the wider Ananda Marga (\"Path of Bliss\") movement founded by Shrii Shrii Anandamurti in 1955, whose stated aim combines meditation-based self-realisation with social service.",
+  "schedule": "Roughly 6-8 residential retreats per year, typically structured as a multi-day \"warm-up\" segment followed by a \"main\" segment (e.g. a 6-night retreat split 3+3 nights), plus periodic events such as a midsummer retreat.",
+  "cost": "Retreats are priced as a suggested contribution per programme segment (e.g. a discounted early-registration contribution), covering accommodation, meals and all activities; framed as a contribution to the monastery rather than a commercial fee.",
+  "pricePerDay": {
+    "min": 55,
+    "max": 65,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Example: \"Colors of Meditation\" retreat, 6-12 March, full 6-night programme: EUR 380 early-registration contribution (~EUR 63/night), covering meals, lodging and all activities; separate discounted rates apply for children.",
+    "source": "https://meditation-eu.tilda.ws/retreat-colors-of-meditation"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Retreat meals are described as mainly vegan, plant-based food included in the retreat contribution; on-site kitchens are also available for guests who want to cook extra food themselves.",
+  "workRequired": "unknown",
+  "workNotes": "Separate volunteering track exists for initiated Ananda Marga practitioners (drivers, gardeners, carpenters) in exchange for food and lodging, but no work requirement is stated for standard retreat guests.",
+  "tags": [
+    "yoga-hindu",
+    "silent",
+    "family-friendly",
+    "diet-vegan",
+    "meals-included",
+    "sliding-scale",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "The Yoga Monastery | Meditation & Yoga Retreats",
+      "url": "https://yogamonastery.org/"
+    },
+    {
+      "title": "About Yoga Monastery — History, Mission, Spiritual Path",
+      "url": "https://yogamonastery.org/about"
+    },
+    {
+      "title": "Yoga Monastery - Spring Meditation Retreat, Colors of Meditation",
+      "url": "https://meditation-eu.tilda.ws/retreat-colors-of-meditation"
+    },
+    {
+      "title": "Yoga Monastery - Volunteering",
+      "url": "https://yogamonastery.org/volunteering"
+    }
+  ],
+  "id": "yoga-monastery",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

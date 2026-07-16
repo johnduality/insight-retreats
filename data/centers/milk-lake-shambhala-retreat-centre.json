@@ -1,0 +1,68 @@
+{
+  "id": "milk-lake-shambhala-retreat-centre",
+  "name": "Milk Lake Shambhala Retreat Centre",
+  "aka": [],
+  "website": "https://milklake.shambhala.org",
+  "location": {
+    "address": "73 Wilfred Road, Middlewood, Nova Scotia B4V 6J3, Canada",
+    "city": "Middlewood",
+    "region": "Nova Scotia, Canada",
+    "country": "Canada",
+    "state": "NS",
+    "lat": 44.2206,
+    "lng": -64.5701
+  },
+  "tradition": "Shambhala Buddhism",
+  "technique": "Self-guided shamatha-vipashyana sitting meditation and personal retreat practice; retreatants design and follow their own practice schedule during a private stay in one of three self-catering cabins",
+  "influences": [
+    "Chögyam Trungpa Rinpoche",
+    "Shambhala International"
+  ],
+  "teacherAccess": "Self-guided personal retreat centre with no on-site teacher or program staff; retreatants practice independently, following their own schedule.",
+  "retreatOptions": "Self-guided solitary retreats of any length, booked directly by the retreatant, in one of three private self-catering cabins (Buddhalocana, Mamaki, Samayatara); a walking trail leads to the Mother Lineage Shrine on the property.",
+  "about": "Milk Lake Shambhala Retreat Centre is a self-guided personal retreat property on Nova Scotia's South Shore, set on 52 acres of meadow and forest around Dragon Lake near Middlewood, about an hour and twenty minutes southwest of Halifax. It offers three fully equipped, self-catering cabins - Buddhalocana, Mamaki, and Samayatara - for retreatants of the Shambhala Buddhist tradition and others to book for a private, unstructured solitary retreat of their own design. There is no on-site teacher or programming; retreatants set their own meditation schedule, cook their own meals in the cabin's kitchen, and can walk a trail along the lake to the property's Mother Lineage Shrine. A modest nightly rate applies per cabin, with a scholarship fund available to guests facing financial difficulty.",
+  "schedule": "No fixed schedule; retreatants set their own daily meditation practice during a private, self-catering stay in one of the three cabins.",
+  "cost": "Solitary retreat in any of the three cabins: $70 CAD/night for the first 10 nights, dropping to $60 CAD/night from the 11th night on; wood heat is included, with electric baseboard heat available for an additional $10/day.",
+  "pricePerDay": {
+    "min": 60,
+    "max": 70,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "Standard solitary-retreat cabin rate is $70/night for up to 10 nights, reduced to $60/night from the 11th night onward; a 50% deposit is required to confirm a booking, and a scholarship fund can help offset costs.",
+    "source": "https://milklake.shambhala.org/cabin-rates/"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "No meals are provided; each cabin has a fully equipped kitchen and retreatants are expected to bring or shop for their own groceries during their stay, with local markets and shops nearby.",
+  "workRequired": "no",
+  "workNotes": "No work or service is required of retreatants during a self-guided stay at Milk Lake.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "no-work-required",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Home - Milk Lake Shambhala Retreat Centre",
+      "url": "https://milklake.shambhala.org/"
+    },
+    {
+      "title": "Cabin Rates & Payments - Milk Lake Shambhala Retreat Centre",
+      "url": "https://milklake.shambhala.org/cabin-rates/"
+    },
+    {
+      "title": "Scheduling Your Retreat & Availability - Milk Lake Shambhala Retreat Centre",
+      "url": "https://milklake.shambhala.org/scheduling-your-retreat/"
+    },
+    {
+      "title": "Milklake | Meditation Retreat near Halifax | Shambhala",
+      "url": "https://shambhala.org/centres/practice-and-retreat-centres/milk-lake-shambhala-retreat-centre/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

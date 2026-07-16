@@ -1,0 +1,61 @@
+{
+  "id": "ananda-kanak",
+  "name": "Ananda Kanak",
+  "aka": [
+    "Ananda Kanak Master Unit",
+    "Ananda Marga Canada"
+  ],
+  "website": "https://anandamarga.ca/",
+  "location": {
+    "address": "323 Rang St. Louis, Saint-André-Avellin, Quebec J0V 1W0, Canada",
+    "city": "Saint-André-Avellin",
+    "region": "Quebec, Canada",
+    "country": "Canada",
+    "state": "QC",
+    "lat": 45.7882,
+    "lng": -75.0869
+  },
+  "tradition": "Ananda Marga Tantra Yoga (Hindu/tantric meditation lineage)",
+  "technique": "Personally-instructed mantra meditation (Rajadhiraja Yoga) as the central practice, alongside kiirtan chanting and yoga asanas",
+  "influences": [
+    "Shrii Shrii Anandamurti (founder of Ananda Marga)",
+    "Ananda Marga Tantra Yoga lineage"
+  ],
+  "teacherAccess": "A resident Ananda Marga monk (acharya) lives on site, receives guests, and organizes and leads meditation retreats and personal meditation instruction; visiting acharyas also teach at organized retreats.",
+  "retreatOptions": "Small weekend and multi-day meditation and yoga retreats (e.g. an annual spring 'Intuition' retreat) hosted directly on the Ananda Kanak property for groups of 5-12; the annual summer conference and other larger events are held at a nearby rented camp facility rather than on-site. Personal visits can also be arranged directly with the resident monk.",
+  "about": "Ananda Kanak is a 72-acre rural property in Saint-André-Avellin, in Quebec's Outaouais region, owned and run by Ananda Marga as one of its self-sustaining 'Master Unit' communities. A dedicated resident monk cares for the land, does organic farming, and receives guests for meditation retreats and personal visits at the more-than-150-year-old log house, which can accommodate small groups of 5 to 12 people for weekend and multi-day programs, such as the annual spring 'Intuition' meditation retreat. Ananda Marga's core spiritual practice is mantra meditation (Rajadhiraja Yoga), given through personal instruction, alongside kiirtan chanting and yoga asana classes. Larger annual gatherings, such as the summer conference, outgrow the property and are held instead at a rented camp nearby; during the coldest winter months (November to April) organized activities shift to Ottawa and Gatineau. Small retreats held at Ananda Kanak itself are typically offered free or by voluntary donation.",
+  "schedule": "Weekend retreats typically run Friday evening through Sunday, combining group meditation sittings, kiirtan, asana classes, and discussion of Ananda Marga spiritual philosophy; the resident monk otherwise keeps a daily practice and farming routine on site.",
+  "cost": "Small retreats held directly at Ananda Kanak (such as the spring Intuition retreat) are offered free and open to all, with donations welcomed; the larger, off-site summer conference has a separate recommended fee that does not apply to stays at Ananda Kanak itself.",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "Not specified on the official site for retreats held at Ananda Kanak itself; the property's organic garden supplies produce, but whether communal meals are served or guests self-cater is not published - confirm directly with the centre.",
+  "workRequired": "no",
+  "workNotes": "No work practice is required to attend organized retreats or personal visits; the property is maintained by the resident monk and Ananda Marga volunteers.",
+  "tags": [
+    "yoga-hindu",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Ananda Kanak Master Unit - Ananda Marga USA",
+      "url": "https://anandamarga.us/projects/canada/"
+    },
+    {
+      "title": "Ananda Marga Canada - official site",
+      "url": "https://anandamarga.ca/"
+    },
+    {
+      "title": "Retreat details - Ananda Marga Canada",
+      "url": "https://anandamarga.ca/index.php/retreat-details/"
+    },
+    {
+      "title": "Intuition Meditation Retreat at Ananda Kanak - Ananda Marga Canada",
+      "url": "https://anandamarga.ca/index.php/elementor-page-1274/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

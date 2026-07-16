@@ -1,0 +1,77 @@
+{
+  "id": "dharma-centre-of-canada",
+  "name": "The Dharma Centre of Canada",
+  "aka": [
+    "DCC",
+    "Dharma Centre of Canada",
+    "Kinmount Retreat Centre"
+  ],
+  "website": "https://www.dharmacentre.org",
+  "location": {
+    "address": "1267 Galway Road, RR 1, Kinmount, Ontario K0M 2A0, Canada",
+    "city": "Kinmount",
+    "region": "Ontario, Canada",
+    "country": "Canada",
+    "state": "ON",
+    "lat": 44.7745317,
+    "lng": -78.5275879
+  },
+  "tradition": "Non-sectarian Buddhist meditation centre (Theravada Insight, Zen, and Tibetan Vajrayana) in the tradition of founder Namgyal Rinpoche",
+  "technique": "Varies by visiting teacher and retreat - includes Insight/mindfulness meditation, Zen sesshin-style sitting, and Tibetan Vajrayana practices such as Dream Yoga and the Six Yogas of Naropa; the Solo Retreat program supports self-guided practice developed with a personal or Core Teacher.",
+  "influences": [
+    "Namgyal Rinpoche (Ven. Ananda Bodhi, founder)",
+    "Sayadaw U Thila Wunta",
+    "H.H. the 16th Gyalwa Karmapa",
+    "Karma Thinley Rinpoche"
+  ],
+  "teacherAccess": "Group retreats are led by visiting Core and guest Teachers with Dharma talks, group practice and interview opportunities; Solo Retreat participants have periodic guidance from a Core Teacher as set out in a signed agreement for their stay.",
+  "retreatOptions": "Group retreats of a weekend to about a week led by visiting teachers across traditions (Zen sesshin, Tibetan Vajrayana, Insight-rooted silent retreats and workshops); a year-round Solo Retreat program for experienced meditators, from two nights up to a month or longer; online programs.",
+  "about": "The Dharma Centre of Canada is one of the oldest meditation centres in North America, founded in Toronto in 1966 by the Venerable Ananda Bodhi - later enthroned as Karma Tenzin Dorje Namgyal Rinpoche in the Karma Kagyu lineage - who had first trained in Theravada Insight meditation in Burma, Thailand and Sri Lanka before re-ordaining as a Tibetan Buddhist teacher. Its 400-acre forested property near Kinmount, in the Kawartha Highlands about two hours northeast of Toronto, holds a Tibetan stupa, a Burmese pagoda and a Sri Lankan dagoba built by students of the different traditions the founder studied under, reflecting the centre's non-sectarian, cross-lineage approach to Buddhist practice. Visiting teachers lead group retreats of varying lengths and traditions throughout the year - including Zen sesshin, Tibetan Vajrayana practice and Insight-rooted silent retreats - while the centre's Solo Retreat program lets experienced meditators book a private cabin for self-guided practice ranging from a weekend up to a year or more, supported by periodic guidance from the Core Teachers. Retreatants stay in simple single rooms or off-grid cabins across roughly 100 developed acres, take three home-cooked meals a day, contribute up to an hour of daily 'generosity yoga' (volunteer work), and are asked to keep the Five (or optionally Eight) Precepts for the duration of their stay.",
+  "schedule": "Varies by retreat and teacher; solo retreatants follow a practice structure set out in a Memorandum of Understanding with a Core Teacher, including a daily one-hour work-as-practice period (\"generosity yoga\") and, for longer stays, periodic check-ins to review progress.",
+  "cost": "Group retreats charge a course fee (amount set per retreat) that covers room and board; a separate voluntary dana offering is customary for the visiting teacher, with the suggested guideline being roughly what one would pay per hour for one's own work.",
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Three whole-food, home-made meals a day are included in the course fee, with meat or fish served every other day; vegetarian and gluten-free diets can be accommodated with advance notice.",
+  "workRequired": "yes",
+  "workNotes": "Retreatants are expected to contribute up to one hour of daily volunteer work ('generosity yoga'), typically clean-up after meals or common-area tidying, to help keep retreat fees down.",
+  "tags": [
+    "tibetan-vajrayana",
+    "insight-vipassana",
+    "silent",
+    "self-guided",
+    "long-retreats",
+    "work-practice",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "The Dharma Centre of Canada (home)",
+      "url": "https://www.dharmacentre.org/"
+    },
+    {
+      "title": "Our Story - The Dharma Centre of Canada",
+      "url": "https://www.dharmacentre.org/our-story"
+    },
+    {
+      "title": "Accommodation - The Dharma Centre of Canada",
+      "url": "https://www.dharmacentre.org/accommodation"
+    },
+    {
+      "title": "Solo Retreat - The Dharma Centre of Canada",
+      "url": "https://www.dharmacentre.org/practice-guidelines-solo-retreat"
+    },
+    {
+      "title": "F.A.Q. - The Dharma Centre of Canada",
+      "url": "https://www.dharmacentre.org/faq"
+    },
+    {
+      "title": "Retreats at a Glance - The Dharma Centre of Canada",
+      "url": "https://www.dharmacentre.org/retreats-at-a-glance"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

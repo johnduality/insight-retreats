@@ -1,0 +1,81 @@
+{
+  "name": "Sanneji",
+  "aka": [
+    "Sanneji Zen",
+    "Sanneji Zen ry"
+  ],
+  "website": "https://zazen.fi/en/zen-centers/sanneji/",
+  "location": {
+    "address": "Sannäsintie 418, 10300 Raasepori, Finland",
+    "city": "Karjaa (Raasepori)",
+    "region": "Uusimaa, Finland",
+    "country": "Finland",
+    "state": "FI",
+    "lat": 60.0953,
+    "lng": 23.7459
+  },
+  "tradition": "Zen Buddhism (Harada-Yasutani lineage via Philip Kapleau and the Rochester Zen Center)",
+  "technique": "Zazen (seated meditation), kinhin walking meditation, sutra chanting, dokusan (private teacher interviews) and samu work practice",
+  "influences": [
+    "Philip Kapleau",
+    "Rochester Zen Center",
+    "Swedish Zen Buddhist Society (Zenbuddhistiska Samfundet)",
+    "Sante Poromaa Roshi",
+    "Sangen Salo Sensei"
+  ],
+  "teacherAccess": "Resident teacher Sangen Salo Sensei offers dokusan (private interviews) regularly during weeks the center is open, with extra dokusan available on request; teisho (Dharma talks) are also given.",
+  "retreatOptions": "Year-round practice center open for stays from a single day up to a full week; four one-week sesshins are held per year (including a winter Rohatsu sesshin) plus shorter 2-5 night sesshins and Buddhist ceremonies.",
+  "about": "Sanneji is a year-round Zen practice center on a rural property in Karjaa (Raasepori), about an hour west of Helsinki, run by the Finnish association Sanneji Zen ry (formerly Helsinki Zen Center ry). Its practice descends from Philip Kapleau's Harada-Yasutani lineage, brought to Finland via the Swedish Zen Buddhist Society, and is led on-site by resident teacher Sangen Salo Sensei, who received full teaching authorization in 2022. Visitors can stay for a single day, a weekend, or up to a full week, following a fixed daily schedule of pre-dawn zazen, chanting, formal silent meals, a work period, and further zazen blocks, with dokusan offered regularly. Four one-week sesshins are held each year, including a December Rohatsu sesshin, alongside shorter 2-5 night sesshins and ceremonies such as Jukai. Accommodation is simple, in one large dormitory and several smaller rooms, and the center runs on dana (voluntary donation), with no fixed price for a stay.",
+  "schedule": "Daily program of pre-dawn zazen and chanting, breakfast, a morning work period, midday zazen, and an evening zazen block; four weeklong sesshins per year (including Rohatsu) plus shorter 2-5 night sesshins, each with about 9 hours of guided zazen daily.",
+  "cost": "No fixed fee; dana (voluntary donation)-based, with a typical gift of roughly EUR 10-35 per night of stay; association members receive a discount on retreat fees.",
+  "pricePerDay": {
+    "min": 10,
+    "max": 35,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "No fixed price for visiting; the usual dana (donation) given has been roughly EUR 10-35 per night.",
+    "source": "https://zazen.fi/en/zen-centers/sanneji/schedule-and-visiting/"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Breakfast and lunch are formal, silent meals opened with a chant; dinner is informal, mainly leftovers from lunch; diet style is not specified on the website.",
+  "workRequired": "yes",
+  "workNotes": "Samu (work practice) - cleaning, cooking and yard work - is a scheduled part of every day at Sanneji, including during sesshins.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "day-retreats",
+    "dana-donation",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Sanneji - home page",
+      "url": "https://zazen.fi/en/homepage/"
+    },
+    {
+      "title": "Sanneji - Zen Centers",
+      "url": "https://zazen.fi/en/zen-centers/sanneji/"
+    },
+    {
+      "title": "Schedule and Visiting - Sanneji",
+      "url": "https://zazen.fi/en/zen-centers/sanneji/schedule-and-visiting/"
+    },
+    {
+      "title": "Our Tradition - Sanneji",
+      "url": "https://zazen.fi/en/about-us/our-tradition/"
+    },
+    {
+      "title": "Frequently Asked Questions - Sanneji",
+      "url": "https://zazen.fi/en/practice/faq/"
+    }
+  ],
+  "id": "sanneji",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

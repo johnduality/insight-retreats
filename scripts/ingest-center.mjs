@@ -25,8 +25,24 @@ const tagSet = new Set(tags.groups.flatMap((g) => g.tags.map((t) => t.id)));
 
 const EXCLUDE = []; // no auto-exclusions (Goenka / dhamma.org centers are now included)
 
+// Manual transliteration for characters NFKD decomposition doesn't strip
+// (Nordic/Slavic letters etc.) so international names produce readable slugs
+// instead of silently dropping letters (e.g. "Zengarden" -> "zeng-rden" bug).
+const TRANSLIT = {
+  "ø": "o", "Ø": "O", "å": "a", "Å": "A", "æ": "ae", "Æ": "AE",
+  "ł": "l", "Ł": "L", "đ": "d", "Đ": "D", "ß": "ss",
+  "ð": "d", "Ð": "D", "þ": "th", "Þ": "Th",
+};
+const TRANSLIT_RE = /[øØåÅæÆłŁđĐßðÐþÞ]/g;
 const slugify = (s) =>
-  s.toLowerCase().replace(/&/g, "and").replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+  s
+    .replace(TRANSLIT_RE, (c) => TRANSLIT[c] || c)
+    .normalize("NFKD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase()
+    .replace(/&/g, "and")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
 
 function registerProposedTags(proposed) {
   const added = [];
@@ -73,7 +89,7 @@ for (const file of files) {
 
   const hay = `${entry.name} ${entry.website} ${entry.tradition}`;
   if (EXCLUDE.some((re) => re.test(hay))) {
-    console.log(`✗ ${label}: excluded (Goenka / out of scope) — skipped`);
+    console.log(`skipped ${label}: excluded (Goenka / out of scope)`);
     continue;
   }
 
@@ -92,13 +108,15 @@ for (const file of files) {
 
   const problems = validate(entry);
   if (problems.length) {
-    console.log(`✗ ${label}: INVALID — ${problems.join("; ")}`);
+    console.log(`INVALID ${label}: ${problems.join("; ")}`);
     continue;
   }
 
   writeFileSync(join(root, "data", "centers", `${entry.id}.json`), JSON.stringify(entry, null, 2) + "\n");
-  console.log(`✓ ${label} -> data/centers/${entry.id}.json`);
-  if (args.length === 0) rmSync(file); // clear staged file once ingested
+  console.log(`ok ${label} -> data/centers/${entry.id}.json`);
+  if (args.length === 0) {
+    try { rmSync(file); } catch { /* mount may return EPERM on unlink; log to deletions.txt by hand */ }
+  }
   written++;
 }
 

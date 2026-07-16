@@ -1,0 +1,71 @@
+{
+  "name": "Heggedal Retreat Center",
+  "aka": [
+    "Buddhistisk Senter Heggedal",
+    "Diamond Way Buddhist Center Heggedal"
+  ],
+  "website": "https://heggedal.buddhisme.no/",
+  "location": {
+    "address": "Røykenveien 387, Heggedal, Norway",
+    "city": "Heggedal",
+    "region": "Asker, Akershus, Norway",
+    "country": "Norway",
+    "state": "NO",
+    "lat": 59.7767,
+    "lng": 10.4398
+  },
+  "tradition": "Diamond Way Buddhism (Karma Kagyu, lay Tibetan Vajrayana)",
+  "technique": "Guru yoga and meditation on the 16th Karmapa, phowa and other Diamond Way meditation practices taught by traveling lay teachers",
+  "influences": [
+    "Lama Ole Nydahl",
+    "16th Gyalwa Karmapa, Rangjung Rigpe Dorje",
+    "Karma Kagyu lineage"
+  ],
+  "teacherAccess": "No resident teacher; traveling Diamond Way teachers visit for weekend courses and lectures through the year, and the center is otherwise run day-to-day by resident volunteer practitioners.",
+  "retreatOptions": "Weekend courses and lecture weekends with visiting teachers; open, self-guided retreat stays of flexible length booked directly with the center in the main house (dedicated retreat huts for secluded practice are planned but not yet built).",
+  "about": "Heggedal Retreat Center is a Diamond Way Buddhist meditation property on the outskirts of Heggedal in Asker municipality, about 30 km (a 30-40 minute drive or train ride) from Oslo, practicing in the Karma Kagyu lineage under the guidance of Lama Ole Nydahl. The property was acquired in 2013 by former traveling teacher Martin Borg, inaugurated by Lama Ole Nydahl that same year as a national meeting point for Diamond Way Buddhism in Norway, and became the property of Norway's Diamond Way organisation in 2020 following a donation from the Borg family; four resident volunteers now live on site. The center hosts lectures, weekend courses and gatherings with visiting Diamond Way teachers throughout the year, and also offers simple self-guided retreat stays: guests can book a room in the main house on a per-night basis, with meals available separately, to do an open, individual retreat overlooking the surrounding Grodalen Forest. There are no dedicated retreat huts yet, though building them for secluded meditation retreat is part of the center's long-term plan, so in the meantime all group and individual practice takes place in the shared main house. As with other Diamond Way centers, Heggedal is run entirely by volunteer lay practitioners rather than resident teachers or monastics.",
+  "schedule": "Periodic weekend courses and lecture evenings with visiting Diamond Way teachers through the year; open, self-guided retreat accommodation in the main house is available year-round by arrangement.",
+  "cost": "Simple published per-night accommodation fee plus optional a-la-carte meals for self-guided stays; course fees for weekend programs with visiting teachers vary by event; the center is otherwise supported by membership dues and donations.",
+  "pricePerDay": {
+    "min": 180,
+    "max": 180,
+    "unit": "night",
+    "currency": "NOK",
+    "notes": "Room in the main house is 180 NOK/night; meals are priced separately (breakfast 50 NOK, lunch 60 NOK, dinner 80 NOK), or a full day of room plus three meals for 350 NOK.",
+    "source": "https://heggedal.buddhisme.no/accomodation/"
+  },
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Meals are offered a la carte alongside room bookings (breakfast, lunch, dinner priced separately); diet style is not specified on the center's website.",
+  "workRequired": "unknown",
+  "workNotes": "No published work/service requirement for guests; the center is maintained by resident and visiting volunteer practitioners.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Heggedal Retreat Center - Home",
+      "url": "https://heggedal.buddhisme.no/"
+    },
+    {
+      "title": "The Place's History - Heggedal Retreat Center",
+      "url": "https://heggedal.buddhisme.no/the-places-history/"
+    },
+    {
+      "title": "Accomodation & Prices - Heggedal Retreat Center",
+      "url": "https://heggedal.buddhisme.no/accomodation/"
+    },
+    {
+      "title": "Arrival - Heggedal Retreat Center",
+      "url": "https://heggedal.buddhisme.no/arrival/"
+    }
+  ],
+  "id": "heggedal-retreat-center",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

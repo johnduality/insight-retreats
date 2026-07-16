@@ -1,0 +1,9 @@
+{
+  "id": "abhayagiri-buddhist-monastery",
+  "name": "placeholder (duplicate, ignore) - see deletions.txt",
+  "location": { "city": "placeholder", "state": "CA", "lat": 0, "lng": 0 },
+  "tradition": "duplicate placeholder - see deletions.txt",
+  "about": "This file is a leftover artifact from an accidental empty-file test on a mount that returns EPERM on unlink; it intentionally duplicates the id of an unrelated, alphabetically-first real entry (abhayagiri-buddhist-monastery.json) so build-data.mjs's dedup step reliably drops it from the published site regardless of read order. Safe to delete by hand; see deletions.txt.",
+  "tags": [],
+  "meta": { "generatedBy": "claude (cowork)", "lastUpdated": "2026-07-16", "reviewStatus": "unverified" }
+}

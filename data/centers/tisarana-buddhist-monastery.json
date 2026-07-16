@@ -1,0 +1,74 @@
+{
+  "id": "tisarana-buddhist-monastery",
+  "name": "Tisarana Buddhist Monastery",
+  "aka": [],
+  "website": "https://tisarana.ca",
+  "location": {
+    "address": "1356 Powers Road, RR #3, Perth, Ontario K7H 3C5, Canada",
+    "city": "Perth",
+    "region": "Ontario, Canada",
+    "country": "Canada",
+    "state": "ON",
+    "lat": 44.8,
+    "lng": -76.4
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition",
+  "technique": "Anapanasati (mindfulness of breathing) and general mental cultivation following the monastery's daily schedule of chanting and sitting meditation (Pūjā); visitors join the monastic routine rather than following a separate guided curriculum.",
+  "influences": [
+    "Ajahn Viradhammo (abbot)",
+    "Thai Forest Tradition",
+    "Ajahn Chah and Ajahn Sumedho lineage"
+  ],
+  "teacherAccess": "Twice-daily group chanting and meditation (Pūjā) with the resident monastics, with a Dhamma talk on Lunar Observance Days; a new-visitor orientation is scheduled with the Guest Monk at the start of each stay.",
+  "retreatOptions": "Overnight stays as a monastery guest for a minimum of three nights up to two weeks (longer possible for returning visitors), accepted April to December; day visits and a Sunday public meditation with Dhamma talk are also offered.",
+  "about": "Tisarana Buddhist Monastery is a Theravada monastery in the Thai Forest Tradition of Ajahn Chah and Ajahn Sumedho, set in the countryside about 15 km from Perth, Ontario and just over an hour southwest of Ottawa. Founded in 2006 by Ajahn Viradhammo, who continues as abbot alongside a small resident community of monks and nuns in training, the monastery serves as both a training centre for monastics and a retreat destination for lay visitors interested in Buddhist practice and a contemplative lifestyle. From April to December, overnight visitors are welcome to stay for a minimum of three nights up to two weeks (longer by arrangement), living alongside the monastic community: joining the daily schedule of pre-dawn and evening Pūjā, a single main meal before noon, and assigned work periods, while observing the Eight Precepts. As is customary in the Thai Forest tradition, everything at Tisarana - teachings, accommodation and food - is offered free of charge, supported entirely by voluntary dana from the lay community.",
+  "schedule": "Typical day: 5:00am morning Pūjā (chanting and meditation), 6:30am chores, 7:15am light breakfast, 8:00am work period, 11:00am main meal (the last meal of the day, eaten in silence), 7:00pm evening Pūjā, with an extended sitting until midnight on the monthly Lunar Observance Day.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the Thai Forest monastic tradition - all teachings, accommodation and meals are offered free of charge, supported by donations of money, food and labour.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "No suggested donation amount is published; visitors give as they are able toward the monastery's operating costs.",
+    "source": "https://tisarana.ca/visiting/"
+  },
+  "foodServed": "partial",
+  "foodType": "mixed",
+  "foodNotes": "One light breakfast and one main meal are served before noon each day (nothing eaten afterward, per the Eight Precepts); food is offered as dana by lay supporters, so special diets and allergies cannot be accommodated.",
+  "workRequired": "yes",
+  "workNotes": "Overnight visitors are expected to participate in the full monastery schedule, including a morning chore period and a general work period before the main meal.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Tisarana Buddhist Monastery (home)",
+      "url": "https://tisarana.ca/"
+    },
+    {
+      "title": "About - Tisarana Buddhist Monastery",
+      "url": "https://tisarana.ca/about/"
+    },
+    {
+      "title": "Visiting - Tisarana Buddhist Monastery",
+      "url": "https://tisarana.ca/visiting/"
+    },
+    {
+      "title": "Contact - Tisarana Buddhist Monastery",
+      "url": "https://tisarana.ca/contact/"
+    },
+    {
+      "title": "Tisarana - Forest Sangha",
+      "url": "https://www.forestsangha.org/monasteries/tisarana"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

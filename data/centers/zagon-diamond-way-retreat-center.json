@@ -1,0 +1,73 @@
+{
+  "id": "zagon-diamond-way-retreat-center",
+  "name": "Zágon Diamond Way Retreat Center",
+  "aka": [
+    "Centrul National de Retragere Meditativa Calea de Diamant",
+    "Zágon Meditation Retreat Center",
+    "Zagon Retreat Center",
+    "Gyémánt Út Buddhista Közösség Zágon"
+  ],
+  "website": "https://www.budism.org/en/romaniai-kozpontok",
+  "location": {
+    "address": "Zágon - Kerekerdő, 527185 Zagon, Jud. Covasna, Romania",
+    "city": "Zagon",
+    "region": "Covasna County, Romania",
+    "country": "Romania",
+    "state": "RO",
+    "lat": 45.770733,
+    "lng": 26.066611
+  },
+  "tradition": "Diamond Way Buddhism (Karma Kagyu lineage of Tibetan Buddhism), under Lama Ole Nydahl and the 17th Karmapa Thaye Dorje",
+  "technique": "16th Karmapa Guru Yoga meditation practised together in group sessions, plus Ngöndro foundational practices, with dharma talks, Q&A and (for larger courses) empowerments from visiting lamas and Rinpoches",
+  "influences": [
+    "Lama Ole Nydahl",
+    "17th Karmapa Thaye Dorje",
+    "16th Karmapa Rangjung Rigpe Dorje",
+    "Kunzig Shamar Rinpoche",
+    "Lopön Tsechu Rinpoche"
+  ],
+  "teacherAccess": "No permanent resident teacher; the center is run by volunteer caretakers from Romania's national Diamond Way network. Visiting lamas (e.g. Lama Ole Nydahl for the center's inaugural Mahamudra course) give teachings, guided meditation and Q&A during multi-day courses; day-to-day the center has no on-site teacher.",
+  "retreatOptions": "Multi-day (typically 3-4 night, Thursday/Friday-Sunday) residential courses held periodically, especially in summer, built around teachings from a visiting lama or Rinpoche; participants camp on site in their own tents for the duration of the course.",
+  "about": "Zágon Retreat Center is Romania's national Diamond Way Buddhist retreat property, a 23-hectare plot of countryside known locally as \"Kerekerdő\" (Round Forest) on a hilltop above Zagon village in Covasna County, Transylvania, purchased by the Romanian Diamond Way Buddhist community in December 2008. Unlike Romania's other Diamond Way locations, which are urban meditation groups meeting weekly in rented rooms or members' apartments, Zágon exists specifically to host multi-day residential courses led by visiting lamas, with Lama Ole Nydahl teaching a Mahamudra course there in its early years. The center has no permanent buildings for lodging; retreatants bring their own tents and camp on the land for the duration of each course, with a course-time cafeteria offering vegetarian and non-vegetarian meals. As with all Diamond Way centers, it is organized and run entirely by unpaid volunteers from the Karma Kagyu lay community, under the spiritual guidance of the 17th Karmapa Thaye Dorje.",
+  "schedule": "Course rhythm centers on a multi-day teaching visit: arrival and settling into tent camping, then a run of group 16th Karmapa meditation sessions interspersed with lectures, teachings and Q&A from the visiting lama across the following days, closing before departure on the final day.",
+  "cost": "Priced per course rather than per night; a multi-day course with a visiting teacher has historically cost in the range of 35-76 EUR depending on advance registration and whether meals are included, with reduced fees for students, seniors, teens and parents attending with children, and no charge for children under 14.",
+  "foodServed": "partial",
+  "foodType": "mixed",
+  "foodNotes": "A course-time cafeteria offers both vegetarian and non-vegetarian meals for a per-meal fee on top of the course registration; participants who don't pre-register for meals are not guaranteed food on site.",
+  "workRequired": "no",
+  "workNotes": "The center and its courses are organized entirely by volunteers from Romania's Diamond Way community; there is no indication that ordinary retreat participants are expected to work during a course.",
+  "tags": [
+    "tibetan-vajrayana",
+    "camping",
+    "family-friendly",
+    "no-work-required",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Romanian Centers — Budism Calea De Diamant România (current center listing, incl. Zágon Retreat Center)",
+      "url": "https://www.budism.org/en/romaniai-kozpontok"
+    },
+    {
+      "title": "Diamond Way Buddhism in Zagon — 2013 Mahamudra course programme, logistics and fees",
+      "url": "http://www.zagon.budism-caleadediamant.ro/websites/zagon.budism-caleadediamant.ro/program-en.html"
+    },
+    {
+      "title": "Romania Diamond Way Buddhist Centers — diamondway-buddhism.org country listing",
+      "url": "https://www.diamondway-buddhism.org/diamondway-buddhist-centers/country/romania/"
+    },
+    {
+      "title": "Centrul National de Retragere Meditativa Calea de Diamant — Societatea Teologica listing",
+      "url": "https://www.societateamuzicala.ro/societateateologica/centru-national-de-retragere-meditativa-calea-de-diamant"
+    },
+    {
+      "title": "Zagon Retreat Center — Placedigger business listing",
+      "url": "https://ro.placedigger.com/zagon-retreat-center578958099.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

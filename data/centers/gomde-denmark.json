@@ -1,0 +1,81 @@
+{
+  "name": "Gomde Denmark",
+  "aka": [
+    "Rangjung Yeshe Gomde",
+    "Rangjung Yeshe Gomde Denmark",
+    "Gomde"
+  ],
+  "website": "https://gomde.dk/",
+  "location": {
+    "address": "Smedehalden 3, 8420 Knebel, Denmark",
+    "city": "Knebel",
+    "region": "Helgenæs, Jutland, Denmark",
+    "country": "Denmark",
+    "state": "DK",
+    "lat": 56.214,
+    "lng": 10.489
+  },
+  "tradition": "Tibetan Vajrayana (Nyingma/Kagyu, Rangjung Yeshe lineage)",
+  "technique": "Dzogchen and Mahamudra meditation, shamatha, ngöndro and sadhana practice",
+  "influences": [
+    "Chökyi Nyima Rinpoche",
+    "Tulku Urgyen Rinpoche",
+    "Erik Pema Kunsang",
+    "Phakchok Rinpoche",
+    "Tsoknyi Rinpoche"
+  ],
+  "teacherAccess": "Resident teacher Erik Pema Kunsang offers personal retreat guidance and is often available at Gomde; visiting Rinpoches from the Rangjung Yeshe lineage lead seminars and empowerments; the temple is open 24/7 with daily group practice sessions.",
+  "retreatOptions": "Individual self-guided retreats of any length booked directly with the center; scheduled group seminars and courses through the year; a multi-year Bodhi Training study/practice program.",
+  "about": "Gomde Denmark is a Tibetan Buddhist retreat center on the Helgenæs peninsula near Knebel in Jutland, part of the Rangjung Yeshe Gomde network founded under Chökyi Nyima Rinpoche and rooted in the Dzogchen and Mahamudra teachings of Tulku Urgyen Rinpoche. Now marking around 30 years of practice, the center is led by Danish-born resident teacher Erik Pema Kunsang alongside visiting Rinpoches including Phakchok Rinpoche and Tsoknyi Rinpoche, and welcomes both Buddhists and newcomers. Guests can book self-guided individual retreats -- which include a room, three daily organic vegan meals and 2.5 hours of daily work in exchange for open time for personal practice -- or attend scheduled group seminars, empowerments and the multi-year Bodhi Training program. The temple is open around the clock for meditation, and the grounds include ocean views, orchards and a beach a short walk away. Gomde is run substantially by volunteers and describes itself as open to people of any background, not only committed Buddhists.",
+  "schedule": "Daily temple practice sessions per the published Daily Temple Calendar; a running calendar of seminars, workshops and empowerments; individual retreats bookable year-round.",
+  "cost": "Individual retreat fee of 250 DKK (~€35) per day covers room and meals and includes 2.5 hours of daily work; group seminar fees vary and include accommodation, meals and a customary donation to the visiting teacher.",
+  "pricePerDay": {
+    "min": 250,
+    "max": 250,
+    "unit": "night",
+    "currency": "DKK",
+    "notes": "Individual retreat fee is 250 DKK (about €35) per day, covering a room and three daily organic plant-based meals; includes 2.5 hours of daily work.",
+    "source": "https://gomde.dk/individual-retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Three daily organic, plant-based (vegan) meals are served buffet-style; guests with additional dietary needs are asked to bring their own supplies.",
+  "workRequired": "yes",
+  "workNotes": "Individual retreats include about 2.5 hours of daily work; guests attending seminars/group retreats are also given a small daily service task during check-in.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "work-practice",
+    "meals-included",
+    "diet-vegan",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Gomde Denmark - Home",
+      "url": "https://gomde.dk/"
+    },
+    {
+      "title": "Gomde - About",
+      "url": "https://gomde.dk/about/"
+    },
+    {
+      "title": "Gomde - Individual Retreats",
+      "url": "https://gomde.dk/individual-retreats/"
+    },
+    {
+      "title": "Gomde - Your Visit",
+      "url": "https://gomde.dk/your-visit/"
+    },
+    {
+      "title": "Gomde - How to get here",
+      "url": "https://gomde.dk/how-to-get-here/"
+    }
+  ],
+  "id": "gomde-denmark",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

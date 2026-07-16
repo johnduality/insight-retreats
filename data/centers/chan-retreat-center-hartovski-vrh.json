@@ -1,0 +1,96 @@
+{
+  "id": "chan-retreat-center-hartovski-vrh",
+  "name": "Chan Retreat Center Hartovski Vrh",
+  "aka": [
+    "Chan centar Hartovski vrh",
+    "Chan Center Hartovski Vrh",
+    "Dharmaloka Buddhist Community"
+  ],
+  "website": "https://chan.hr/en/chan-retreat-center-croatia/",
+  "location": {
+    "address": "Hartje bb, 10455 Kostanjevac, Croatia",
+    "city": "Kostanjevac",
+    "region": "Žumberak – Samoborsko gorje Nature Park, Zagreb County, Croatia",
+    "country": "Croatia",
+    "state": "HR",
+    "lat": 45.749533,
+    "lng": 15.452269
+  },
+  "tradition": "Chan (Chinese Zen) Buddhism, in the lineage of Chan Master Sheng Yen of Dharma Drum Mountain, taught by his Western Dharma heir Žarko Andričević",
+  "technique": "Silent Illumination (mochao) and Huatou Chan meditation methods, built on a foundation of breath and body-awareness practice taught in the introductory \"Tranquility and Insight\" course; retreats combine sitting and walking meditation, work practice, and dharma talks within a demanding monastic-style daily schedule under full (including digital) silence",
+  "influences": [
+    "Chan Master Sheng Yen (Dharma Drum Mountain)",
+    "Chan Master Žarko Andričević",
+    "Dharmaloka Buddhist Community"
+  ],
+  "teacherAccess": "Žarko Andričević — founder of the Dharmaloka Buddhist Community and a recognised Dharma heir of Chan Master Sheng Yen since 2001 — is the Center's resident teaching master; he leads or oversees the Center's major retreats and gives monthly public talks. On solitary retreats, students are supported remotely through recorded video dharma talks and an interview with the teacher on request.",
+  "retreatOptions": "One-day, three-day, seven-day and nine-day group Chan meditation retreats held at the Center throughout the year, with the seven-day retreat considered the core initiatory experience (nine-day follows the same structure with two extra days); three-to-seven-day solitary retreats for experienced students by arrangement with the teacher, self-sufficient and supported by recorded teachings; a prerequisite foundational weekend course, \"Tranquility and Insight,\" held three times a year for beginners.",
+  "about": "Chan Retreat Center Hartovski Vrh is the residential retreat property of the Dharmaloka Buddhist Community, Croatia's oldest Buddhist community (founded 1977) and its only officially registered Buddhist religious community. Founder Žarko Andričević led the group into the Chan (Chinese Zen) tradition after meeting Chan Master Sheng Yen of Dharma Drum Mountain in 1996, receiving Dharma transmission from him in 2001 and becoming an internationally active Chan teacher in his own right. After a fundraising campaign built on Žarko's international retreats, the community bought 26,000 m2 of meadow and forest in the Žumberak – Samoborsko gorje Nature Park in 2005, and following four years of volunteer-supported construction opened the Chan Center Hartovski Vrh in May 2019 near the village of Hartje — the first residential center of its kind purpose-built for meditation retreats in Croatia. The property comprises five buildings: a multi-purpose Chan hall for meditation and teaching, a dining room and kitchen, a house for the resident caretaker and visiting teachers, and two dormitory buildings with shared bunk rooms and bathrooms for retreatants. The Center runs a full ladder of group retreats — one-day, three-day, seven-day and nine-day — centred on Silent Illumination and Huatou Chan methods, plus solitary retreats for experienced students, all under strict silence (including no phones) with mandatory communal work practice and locally sourced vegetarian meals. It also hosts a prerequisite \"Tranquility and Insight\" weekend course, monthly public talks by Žarko Andričević, Zenyoga (moving meditation) classes, and an internationally recognised Dharma and Chan teacher training school.",
+  "schedule": "Multi-day retreats begin around 4:30–5:00pm on the first day and conclude by early-to-mid afternoon on the final day. Within the retreat, days follow a strict schedule with 5am wake-up and 10pm rest, alternating blocks of sitting meditation, walking meditation, communal work (kitchen, cleaning, gardening/maintenance), meals, and dharma talks, all conducted under full noble silence including a ban on phones and other devices; the daily rhythm cannot be altered for individual participants.",
+  "cost": "Retreats are run on a tiered suggested/recommended donation basis that varies by membership status rather than a flat fee or pure dana; for example the seven-day retreat (7 nights) carries suggested donations of 370 EUR for patrons, 395 EUR for full members, 420 EUR for associate members, and 470 EUR for non-members. This covers accommodation, four daily vegetarian meals, use of all facilities, and organisational costs; the teaching itself is considered priceless and is not included, with a separate dana (donation) to the teacher invited on top.",
+  "pricePerDay": {
+    "min": 53,
+    "max": 67,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Derived from the seven-day (7-night) retreat's tiered suggested donations of 370–470 EUR depending on membership status (patron/full member/associate member/non-member), divided across 7 nights; shorter one- and three-day retreats are priced separately per program.",
+    "source": "https://chan.hr/en/program/seven-day-chan-retreat-october-2026/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are included in the retreat donation: four balanced vegetarian meals across a typical retreat transition (e.g. lunch and dinner on arrival day, breakfast and lunch on departure day, with full board on days in between); the Center makes an active effort to source ingredients locally and organically.",
+  "workRequired": "yes",
+  "workNotes": "Participants are expected to contribute communal work during retreats — cleaning, kitchen help, gardening, or maintenance — framed as an extension of mindfulness practice (\"all for one, one for all\"); separate volunteer work days (mainly gardening) are also offered outside retreat periods.",
+  "tags": [
+    "zen",
+    "silent",
+    "day-retreats",
+    "work-practice",
+    "sliding-scale",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Welcome to Chan Meditation Retreat Center in Croatia — chan.hr (EN home)",
+      "url": "https://chan.hr/en/chan-retreat-center-croatia/"
+    },
+    {
+      "title": "About us — Chan Retreat Center Hartovski Vrh",
+      "url": "https://chan.hr/en/about-us/"
+    },
+    {
+      "title": "Our History — Chan Retreat Center in Croatia",
+      "url": "https://chan.hr/en/about-us/history/"
+    },
+    {
+      "title": "Chan master Žarko Andričević — Teacher page",
+      "url": "https://chan.hr/en/about-us/teacher/"
+    },
+    {
+      "title": "Meditation Retreats — Chan centar Hartovski vrh (program formats)",
+      "url": "https://chan.hr/en/programs/meditation-retreats/"
+    },
+    {
+      "title": "FAQ — Chan centar Hartovski vrh (accommodation, food, work, cost, rules)",
+      "url": "https://chan.hr/en/faq/"
+    },
+    {
+      "title": "Getting here — Chan centar Hartovski vrh (address, coordinates)",
+      "url": "https://chan.hr/en/about-us/getting-here/"
+    },
+    {
+      "title": "Seven-Day Chan Meditation Retreat, October 2026 — event page with suggested donation pricing",
+      "url": "https://chan.hr/en/program/seven-day-chan-retreat-october-2026/"
+    },
+    {
+      "title": "Dharmaloka Buddhist Community (Croatia) — European Buddhist Union member profile",
+      "url": "https://europeanbuddhistunion.org/dharmaloka-buddhist-community-croatia"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

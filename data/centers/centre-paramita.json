@@ -1,0 +1,72 @@
+{
+  "id": "centre-paramita",
+  "name": "Centre Paramita",
+  "aka": [
+    "Centre Paramita de Bouddhisme Tibétain de Québec",
+    "Paramita Québec"
+  ],
+  "website": "https://www.centreparamita.org",
+  "location": {
+    "address": "943 Rue Saint-Jean-Baptiste, Leclercville, Quebec G0S 2K0, Canada",
+    "city": "Leclercville",
+    "region": "Quebec, Canada",
+    "country": "Canada",
+    "state": "QC",
+    "lat": 46.5619,
+    "lng": -71.9887
+  },
+  "tradition": "Tibetan Buddhism, Gelug lineage (Lamrim tradition of Lama Tsongkhapa)",
+  "technique": "Calm-abiding (shamatha) and higher-insight (vipashyana) meditation grounded in the Lamrim graduated path, taught through multi-day silent and guided retreats alongside Lamrim study, ngondro preliminary practices, and mind training",
+  "influences": [
+    "Lama Tsongkhapa",
+    "His Holiness the Dalai Lama",
+    "Geshe Lobsang Samten (founder)",
+    "Geshe Tcheu Dordjé"
+  ],
+  "teacherAccess": "Retreats are led by a named teacher (typically Lama Samten or another resident or visiting Geshe/instructor) who gives daily teaching sessions to a capped, small group, giving retreatants regular direct contact with the teacher.",
+  "retreatOptions": "Weekend (2-day) and 3-day retreats several times a year; 5-day retreats on calm abiding, higher insight, and Lamrim; and periodic 8- to 21-day retreats for more experienced students, several of which are held in Noble Silence.",
+  "about": "Centre Paramita is a registered charitable Tibetan Buddhist teaching and retreat centre following the Gelug lineage founded by Lama Tsongkhapa, whose teachings are transmitted today through His Holiness the Dalai Lama's line of disciples. Founded in 2003 by Lama Samten, the centre runs its own retreat property in Leclercville, on the south shore of the St. Lawrence River midway between Trois-Rivières and Quebec City (the exact address is shared with registered retreatants). The centre organizes weekend, 3-day, 5-day, and longer 8- to 21-day residential retreats on themes such as calm-abiding meditation, higher insight, Lamrim, mind training, and transcending death, several of which are held in silence. Retreatants stay in private or shared rooms or camp on-site, bringing their own bedding and towels, and follow a schedule of four to five teaching-and-meditation sessions a day with free time for walking and reading between them. Vegetarian meals, teachings, and lodging are all included in the retreat fee, and no one is turned away for lack of means.",
+  "schedule": "Retreatants arrive the evening before (around 7pm) for orientation, then follow four to five 1- to 1.5-hour teaching-and-meditation sessions a day with breaks for walking, reading, and rest; departure is early-to-mid afternoon on the final day, with lunch provided before leaving.",
+  "cost": "Residential retreat fees (including teachings, lodging, and vegetarian food) range from $150 CAD for a 2-day camping spot to $950 CAD for a 10-day private room, with 3-, 5-, and 8-day options in between at private, shared, or camping rates.",
+  "pricePerDay": {
+    "min": 70,
+    "max": 100,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "Derived from the 5-day retreat fee (arrival the evening before through departure on day 5, i.e. 5 nights): $350 CAD camping / 5 = $70/night, $440 CAD shared room / 5 = $88/night, up to $500 CAD private room / 5 = $100/night (2025 published rates).",
+    "source": "https://www.centreparamita.org/retraites-meditation"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are included in every retreat fee; retreats require a minimum of five or six registrants to run, and volunteer cooks (who must keep silence in the kitchen) are sometimes sought for 5-day-plus retreats.",
+  "workRequired": "no",
+  "workNotes": "No work practice is required of retreatants; the centre occasionally seeks volunteer cooks for longer retreats, but this is optional rather than mandatory.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "meals-included",
+    "diet-vegetarian",
+    "camping",
+    "fixed-fee",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Retraites de méditation - Centre Paramita",
+      "url": "https://www.centreparamita.org/retraites-meditation"
+    },
+    {
+      "title": "Notre centre - Centre Paramita",
+      "url": "https://www.centreparamita.org/notre-centre"
+    },
+    {
+      "title": "Centre Paramita - official site",
+      "url": "https://www.centreparamita.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

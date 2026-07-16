@@ -1,0 +1,77 @@
+{
+  "id": "birken-forest-buddhist-monastery",
+  "name": "Birken Forest Buddhist Monastery",
+  "aka": [
+    "Sitavana",
+    "Sītavana"
+  ],
+  "website": "https://birken.ca",
+  "location": {
+    "address": "7000 Smith Lake Forest Srv Rd, Knutsford, BC V0E 2A0, Canada",
+    "city": "Knutsford",
+    "region": "British Columbia, Canada",
+    "country": "Canada",
+    "state": "BC",
+    "lat": 50.572527,
+    "lng": -120.274401
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition",
+  "technique": "Anapanasati (mindfulness of breathing) and general mental cultivation within the monastery's daily monastic schedule; guests set their own practice schedule during Personal Retreats, with occasional teatime Dhamma talks from the abbot during Scheduled Retreats",
+  "influences": [
+    "Ajahn Sona (abbot)",
+    "Thai Forest Tradition",
+    "Ajahn Chah lineage"
+  ],
+  "teacherAccess": "No formal teaching during self-guided Personal Retreats beyond an arrival orientation; guests have occasional opportunities to join Ajahn Sona for teatime Dhamma talks. Scheduled Retreats led by Ajahn Sona and visiting monastics include formal guided instruction.",
+  "retreatOptions": "Personal Retreats (self-guided, overnight stays of varying duration, typically one week Saturday-to-Friday with a two-night minimum) offered May-October outside of scheduled closures and winter retreat; periodic Scheduled Retreats led by Ajahn Sona and visiting monastics for beginners and experienced meditators.",
+  "about": "Birken Forest Buddhist Monastery, known by its Pali name Sitavana ('cool forest grove'), is a Theravada monastery in the Thai Forest Tradition in a secluded forest setting south of Kamloops, BC, under the guidance of abbot Ajahn Sona. Established in 1994 near Pemberton as the first Thai Forest Tradition monastery in Canada and relocated to its current Knutsford property in 2001, it serves as a training centre for resident monastics as well as a retreat facility for lay visitors. From May to October, guests can book week-long Personal Retreats (Saturday to Friday, two-night minimum) to live alongside the monastic community: in contrast to formal guided retreats, the schedule is open for visitors to shape around their own practice, with occasional teatime Dhamma talks from Ajahn Sona. Guests stay in the main guest house or, occasionally, an off-grid kuti, observe the Eight Precepts, and are expected to help with light chores; as with the wider Thai Forest tradition, all teachings, accommodation and meals are offered free of charge on a dana basis.",
+  "schedule": "Personal Retreat guests arrive Saturday 1-4pm for a teatime orientation with Ajahn Sona and follow the monastery's own daily rhythm of pre-dawn and midday meditation, a single main meal before noon, and assigned yogi duties (2-3 hours/day); guests have no internet or phone access on site for the duration of their stay.",
+  "cost": "No fees of any kind; entirely dana-based - all teachings, accommodation and meals during Personal Retreats and Scheduled Retreats are offered free of charge, supported by donations.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "No suggested donation amount is published; guests give as they are able toward the monastery's operating costs.",
+    "source": "https://birken.ca/visit/"
+  },
+  "foodServed": "partial",
+  "foodType": "mixed",
+  "foodNotes": "One main meal is offered before noon each day (nothing eaten afterward, per the Eight Precepts); food is whatever lay supporters offer as dana, so it is not guaranteed vegetarian.",
+  "workRequired": "yes",
+  "workNotes": "It is customary for all guests to help out with light chores throughout their stay; guests on Personal Retreats are assigned 'yogi duties' to assist the resident stewards in running the monastery.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Birken Forest Buddhist Monastery (Sitavana) - home",
+      "url": "https://birken.ca/"
+    },
+    {
+      "title": "About the Monastery",
+      "url": "https://birken.ca/about/"
+    },
+    {
+      "title": "Visit - Personal Retreats, Day Visits, Scheduled Retreats",
+      "url": "https://birken.ca/visit/"
+    },
+    {
+      "title": "Getting Here",
+      "url": "https://birken.ca/getting-here/"
+    },
+    {
+      "title": "Contact",
+      "url": "https://birken.ca/contact/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

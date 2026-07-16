@@ -1,0 +1,71 @@
+{
+  "name": "Lolland Buddhist Retreat Center",
+  "aka": [
+    "Buddhistisk Center Lolland",
+    "Karma Chö Phel Ling",
+    "Lolland Diamond Way Buddhist Centre"
+  ],
+  "website": "https://buddha-lolland.dk/",
+  "location": {
+    "address": "Korterupvej 21, 4920 Søllested, Denmark",
+    "city": "Søllested",
+    "region": "Lolland, Denmark",
+    "country": "Denmark",
+    "state": "DK",
+    "lat": 54.8102,
+    "lng": 11.2712
+  },
+  "tradition": "Diamond Way Buddhism (Karma Kagyu, Tibetan Vajrayana)",
+  "technique": "16th Karmapa meditation (guru yoga), Diamond Way meditations on light and energy",
+  "influences": [
+    "Lama Ole Nydahl",
+    "16th Karmapa Rangjung Rigpe Dorje",
+    "17th Karmapa Trinley Thaye Dorje",
+    "Shamar Rinpoche"
+  ],
+  "teacherAccess": "Nightly 16th Karmapa meditation led by resident practitioners; visiting lamas and Diamond Way teachers give periodic empowerments, courses and the annual summer course.",
+  "retreatOptions": "Open year-round for self-directed meditation stays of any length; annual multi-day summer meditation course each July led by Lama Ole Nydahl draws around 2,000 participants.",
+  "about": "Lolland Buddhist Retreat Center is a Diamond Way Buddhist meditation retreat run by volunteers on the island of Lolland in southern Denmark, housed in a large farmhouse with an enlightenment stupa in the courtyard. Named Karma Chö Phel Ling ('the garden where the teachings grow') by the 16th Karmapa, who inaugurated it in 1977, the center has hosted Karma Kagyu lamas including Shamar Rinpoche, Jamgon Kongtrul Rinpoche and the 17th Karmapa Trinley Thaye Dorje. It is open year-round to Diamond Way practitioners for self-directed meditation stays in rooms, huts or tent/dorm accommodation, centered on a nightly group practice of the 16th Karmapa meditation given to Lama Ole Nydahl. Each July the center hosts an annual multi-day summer meditation course led by Lama Ole Nydahl that draws around 2,000 participants, alongside periodic courses and empowerments from visiting teachers. Simple accommodation and meals are available for a modest nightly fee, paid in cash or Mobilepay.",
+  "schedule": "Nightly group meditation on the 16th Karmapa; periodic weekend courses and empowerments by visiting teachers; week-long summer course each July.",
+  "cost": "Fixed per-night fees for lectures, accommodation and meals, payable in cash (EUR or DKK) or Mobilepay; no credit cards accepted; discounted rate for stays of 4+ nights.",
+  "pricePerDay": {
+    "min": 210,
+    "max": 225,
+    "unit": "night",
+    "currency": "DKK",
+    "notes": "Full board (accommodation + 3 meals): DKK 210/night in tent or dorm, DKK 225/night in a private room/hut (add DKK 15/night for hut heating Sept-Mar). Accommodation-only and meal-only rates are also available separately.",
+    "source": "https://buddha-lolland.dk/prices/"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Breakfast, lunch and dinner are available a la carte or bundled with accommodation; specific dietary style (vegetarian/omnivore) is not stated on the website.",
+  "workRequired": "unknown",
+  "workNotes": "The center is run by volunteers, but no work requirement for retreat guests is described on the website.",
+  "tags": [
+    "tibetan-vajrayana",
+    "fixed-fee",
+    "meals-included",
+    "camping",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "About Lolland Buddhist Retreat Center",
+      "url": "https://buddha-lolland.dk/about/"
+    },
+    {
+      "title": "Lolland Buddhist Retreat Center - Prices",
+      "url": "https://buddha-lolland.dk/prices/"
+    },
+    {
+      "title": "Lolland Buddhist Retreat Center - Home",
+      "url": "https://buddha-lolland.dk/"
+    }
+  ],
+  "id": "lolland-buddhist-retreat-center",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

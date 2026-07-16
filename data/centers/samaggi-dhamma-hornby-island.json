@@ -1,0 +1,71 @@
+{
+  "id": "samaggi-dhamma-hornby-island",
+  "name": "Samaggi Dhamma",
+  "aka": [
+    "Samaggi Dhamma Vipassana Meditation Centre",
+    "Insight Meditation Hornby Island"
+  ],
+  "website": "https://samaggi-dhamma-vipassana.ca",
+  "location": {
+    "address": "Rural property, Hornby Island, BC, Canada",
+    "city": "Hornby Island",
+    "region": "British Columbia, Canada",
+    "country": "Canada",
+    "state": "BC",
+    "lat": 49.5183,
+    "lng": -124.6667
+  },
+  "tradition": "Insight Meditation (Vipassana Kammatthana), Thai Forest Tradition",
+  "technique": "Continuous mindfulness practice based on the Four Foundations of Mindfulness (Satipatthana): noting of bodily positions, feelings, mind states and mind objects as they arise in the present moment",
+  "influences": [
+    "Ajahn Tong Sirimangalo"
+  ],
+  "teacherAccess": "Resident teachers Jodi Snijders and Edward Kooij, practising and teaching in this tradition since 2000, lead the annual courses in person; no permanent on-site teacher is present outside of the summer retreat period.",
+  "retreatOptions": "Annual 15-day basic course for new meditators each July (minimum 5-day stay option); annual 10-day retreat for experienced meditators each August; individual retreat stays in the on-site kuti available year-round since its completion.",
+  "about": "Samaggi Dhamma is a small, volunteer-run Insight Meditation centre on a rural forested property on Hornby Island, BC, teaching Vipassana Kammatthana as instructed by the late Ajahn Tong Sirimangalo, a Thai Forest Tradition meditation master from Northern Thailand, in the lineage carried on by resident teachers Jodi Snijders and Edward Kooij since 2019. Practice centres on the Four Foundations of Mindfulness (Satipatthana), applied through continuous noting of physical and mental phenomena in the present moment. Each July the centre runs its main event, a 15-day residential course for new and experienced meditators (with a five-day minimum stay option), followed by a ten-day retreat for experienced meditators in August; since completing its first kuti, the property can also host individual retreats for meditation practice year-round. Accommodation is simple and rustic - camping-style with tents and outdoor hot showers during the summer retreat, and a wood-heated kuti with electricity and running water the rest of the year - and, in keeping with the dana tradition, there are no course fees; meals are vegetarian.",
+  "schedule": "Summer course schedule follows a residential retreat format of sitting and walking meditation through the day with periodic instruction from the resident teachers; outside the July-August retreat season, individual practitioners can arrange a self-guided stay in the on-site kuti.",
+  "cost": "No fees for teachings, facilities or meals; the retreat is offered entirely free, in keeping with the Theravada dana tradition.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "No suggested donation amount is published on the centre's website.",
+    "source": "https://samaggi-dhamma-vipassana.ca/meditation-retreat-hornby-island/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are vegetarian and provided as part of the retreat at no charge.",
+  "workRequired": "unknown",
+  "workNotes": "No work requirement is described on the centre's website; small volunteer-run retreats of this kind often invite optional help with camp chores, but this is not documented.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "dana-donation",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Samaggi Dhamma - Vipassana Meditation on Hornby Island, BC (home)",
+      "url": "https://samaggi-dhamma-vipassana.ca/"
+    },
+    {
+      "title": "Meditation Retreat Hornby Island",
+      "url": "https://samaggi-dhamma-vipassana.ca/meditation-retreat-hornby-island/"
+    },
+    {
+      "title": "About Us",
+      "url": "https://samaggi-dhamma-vipassana.ca/about-us/"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://samaggi-dhamma-vipassana.ca/contact/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

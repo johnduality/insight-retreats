@@ -1,0 +1,69 @@
+{
+  "name": "Centro de Meditacao Kadampa Deuachen",
+  "aka": [
+    "CMK Deuachen",
+    "Kadampa Temple for World Peace, Sintra",
+    "Templo Kadampa de Sintra",
+    "Fourth Kadampa Temple for World Peace"
+  ],
+  "website": "https://kadampa.pt/wp/",
+  "location": {
+    "address": "Rua Moinho do Gato 5, Varzea de Sintra, 2710-661 Sintra",
+    "city": "Sintra",
+    "county": "Lisbon",
+    "region": "Greater Lisbon, Portugal",
+    "country": "Portugal",
+    "state": "PT",
+    "lat": 38.8159,
+    "lng": -9.3923
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU), Gelug-derived Modern Kadampa Buddhism",
+  "technique": "Lamrim-based analytical and placement meditation on lovingkindness, compassion, and emptiness, plus tantric practice and silent retreat, following the teachings of Geshe Kelsang Gyatso",
+  "influences": [
+    "Geshe Kelsang Gyatso Rinpoche",
+    "Je Tsongkhapa",
+    "Atisha",
+    "New Kadampa Tradition - International Kadampa Buddhist Union (NKT-IKBU)"
+  ],
+  "teacherAccess": "Resident teacher Gen Kelsang Rigden gives regular classes, weekend courses, and retreat teachings; visiting NKT teachers lead festivals and special retreats",
+  "retreatOptions": "Weekend and multi-day residential retreats held regularly at the temple (including periodic silent retreats and a post-Summer-Festival meditation retreat), with onsite overnight accommodation for one or more nights; day courses and weekly classes also offered",
+  "about": "Centro de Meditacao Kadampa Deuachen, also known as the Kadampa Temple for World Peace, is a Tibetan Buddhist temple in the Sintra hills west of Lisbon, part of the New Kadampa Tradition - International Kadampa Buddhist Union founded by Geshe Kelsang Gyatso Rinpoche. The temple was consecrated by Geshe Kelsang Gyatso in 2013 and today functions as both a public visitor site, with gardens, a cafe, and a shop open most days, and a residential Dharma center running weekly classes, courses, festivals, and retreats, including periodic weekend and multi-day residential meditation and silence retreats with onsite overnight accommodation. Teachings follow Geshe Kelsang Gyatso's Lamrim (stages of the path) and lojong mind-training texts through the center's General Program, Foundation Program, and Teacher Training Program, led by resident teacher Gen Kelsang Rigden. The community runs largely on volunteers, including a working-guest program offering free room, board, and classes in exchange for daily help around the temple. Meals for volunteers and some retreat guests are ovo-lacto vegetarian, and all proceeds from courses, retreats, and festivals support the NKT's International Temples Project.",
+  "schedule": "Weekly classes and weekend courses year-round; periodic multi-day residential retreats (e.g. a week-long post-Summer-Festival meditation retreat and dedicated silent retreats); guided temple visits Tuesdays and Thursdays",
+  "cost": "Pay-per-activity fees for classes, courses, and retreats, plus optional monthly membership cards giving discounted access; accommodation, meals, and transport are priced separately and are not covered by membership cards",
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "The temple cafe serves food to day visitors; working guests and volunteers receive free ovo-lacto vegetarian meals; food arrangements for paying retreat participants vary by program and are booked separately from the teaching fee.",
+  "workRequired": "no",
+  "workNotes": "Retreat and course participants are not required to work. A separate voluntary working-guest program is available (about 6 hours/day, 5 days a week) in exchange for free lodging, vegetarian meals, and access to classes.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "day-retreats",
+    "fixed-fee",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "CMK Deuachen - O Centro (home)",
+      "url": "https://kadampa.pt/wp/o-centro/"
+    },
+    {
+      "title": "Atividades (classes, courses, retreats)",
+      "url": "https://kadampa.pt/wp/atividades/"
+    },
+    {
+      "title": "Retiro de Meditacao: Pos Festival de Verao",
+      "url": "https://www.kadampa.pt/retiro-posfestival/"
+    },
+    {
+      "title": "Fourth Kadampa Temple for World Peace, Sintra, Portugal - Kadampa Buddhism",
+      "url": "https://kadampa.org/temple/temple-for-world-peace-sintra-portugal"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  },
+  "id": "centro-de-meditacao-kadampa-deuachen"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Turza Zen Meditation Center",
+  "aka": [
+    "Ogólnopolski Ośrodek Medytacji Zen w Turzy",
+    "Sangha Dogen Zenji"
+  ],
+  "website": "https://zazen.pl/",
+  "location": {
+    "address": "Turza 248, Gmina Rzepiennik Strzyżewski, Poland",
+    "city": "Turza",
+    "region": "Małopolskie (Pogórze Ciężkowickie Landscape Park), Poland",
+    "country": "Poland",
+    "state": "PL",
+    "lat": 49.76746,
+    "lng": 21.05997
+  },
+  "tradition": "Soto Zen Buddhism (European lineage under Master Sando Kaisen)",
+  "technique": "Wall-facing zazen (seated meditation), walking meditation (kinhin), sutra chanting, formal Oryoki meals, brush calligraphy, and work practice (samu), practiced together in multi-day sesshin retreats.",
+  "influences": [
+    "Master Sando Kaisen",
+    "Sangha Dogen Zenji"
+  ],
+  "teacherAccess": "Sesshins are led by monastics authorized by Master Kaisen; practitioners can address questions to the sesshin leader during the retreat, with occasional direct mondo with Master Kaisen.",
+  "retreatOptions": "Multi-day sesshin retreats, typically Thursday evening through Sunday afternoon (about 3 nights), held several times a year on-site; the sangha also runs longer retreats at its sister monastery in France.",
+  "about": "Sangha Dogen Zenji is a Polish Zen Buddhist community following Master Sando Kaisen in a European Soto Zen lineage, which after 30 years of running retreats in rented venues purchased a 1.17-hectare farmstead in the village of Turza, within the Pogórze Ciężkowickie Landscape Park in Małopolska, in autumn 2020 to build a permanent center. Since then the community has been renovating the old farmhouse and barn on-site, converting them into a meditation hall, guest and resident bedrooms, bathrooms, and a workshop, while continuing to plant a permaculture garden. The center already hosts regular multi-day sesshin retreats combining silent wall-facing zazen, walking meditation, ceremonial chanting, formal Oryoki meals, work practice, and brush calligraphy, even as construction continues. The sangha is registered in Poland as a religious association (no. 170).",
+  "schedule": "Several multi-day sesshin retreats are scheduled per year at Turza (recent listings include August, September, October, November, and December sesshins running Thursday evening to Sunday afternoon), alongside ongoing renovation of the site.",
+  "cost": "No published course fees found; contact the sangha directly for retreat costs and donation details.",
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Communal meals, including the formal Oryoki meal, are prepared on-site during sesshins, increasingly from the center's own permaculture garden; the specific diet served is not stated.",
+  "workRequired": "yes",
+  "workNotes": "Work practice (samu) — cleaning, kitchen, and garden work — is a scheduled part of each sesshin day.",
+  "tags": [
+    "zen",
+    "silent",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Ogólnopolski Ośrodek Medytacji Zen w Turzy",
+      "url": "https://zazen.pl/osrodek-w-turzy/"
+    },
+    {
+      "title": "Odosobnienia medytacyjne (sesshin)",
+      "url": "https://zazen.pl/zen/praktyka-sesshin/"
+    },
+    {
+      "title": "Wydarzenia (Events)",
+      "url": "https://zazen.pl/wydarzenia/"
+    }
+  ],
+  "id": "turza-zen-meditation-center",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

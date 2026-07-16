@@ -1,0 +1,85 @@
+{
+  "name": "Lammi Retreat Center",
+  "aka": [
+    "Tavallinen Mieli Zendo",
+    "Ordinary Mind Zendo Finland",
+    "Lammin retriittikeskus"
+  ],
+  "website": "https://lammiretreat.com/",
+  "location": {
+    "address": "Kataloistentie 683, Hämeenlinna, Finland",
+    "city": "Lammi (Hämeenlinna)",
+    "region": "Kanta-Häme, Finland",
+    "country": "Finland",
+    "state": "FI",
+    "lat": 61.0833,
+    "lng": 25.0167
+  },
+  "tradition": "Zen Buddhism (Ordinary Mind Zen School)",
+  "technique": "Zazen (seated meditation), chanting, dokusan-style teacher meetings, and samu work practice in the tradition of Charlotte Joko Beck",
+  "influences": [
+    "Charlotte Joko Beck",
+    "Barry Magid",
+    "Karen Terzano",
+    "Ordinary Mind Zen School"
+  ],
+  "teacherAccess": "Major sesshins are led by guiding teacher Karen Terzano (Ordinary Mind lineage), with additional sesshins led by Finnish denkai-level teachers Ismo Puhakka and Jani Henttonen; teacher meetings are available during retreats.",
+  "retreatOptions": "Several weeklong sesshins per year (roughly 4-8 nights), including a summer sesshin, a work sesshin, a Jukai (precepts) sesshin, and a December Rohatsu sesshin; the building is also rented out for other groups' retreats and workshops.",
+  "about": "Lammi Retreat Center is the residential home of Tavallinen Mieli Zendo (Ordinary Mind Zendo Finland), the Finnish branch of the international Ordinary Mind Zen School founded by Charlotte Joko Beck. Housed in a converted early-20th-century village school in the rural Kataloinen area near Lammi (part of Hämeenlinna), the building was bought by the sangha in 2013 after years of renting outside venues for retreats, and now sleeps up to 40 people in dorm-style rooms with a large shared kitchen and a former gymnasium used as the zendo. Several weeklong sesshins are held here each year - including a summer sesshin, a Rohatsu sesshin in December, and a Jukai (precepts) sesshin - most led by the sangha's guiding teacher, American Zen teacher Karen Terzano, with additional sesshins led by Finnish teachers Ismo Puhakka and Jani Henttonen. A sesshin day combines silent zazen, chanting, work practice (samu) and simple vegetarian meals. Outside of sesshin weeks, the center is also rented out to other groups for workshops and retreats.",
+  "schedule": "Several weeklong sesshins per year (roughly 4-8 nights each, e.g. summer sesshin, work sesshin, Jukai sesshin, December Rohatsu sesshin), each following a Zen daily program of zazen, chanting, work periods and meals.",
+  "cost": "Fixed retreat fee per sesshin (e.g. a 7-night summer sesshin was EUR 330 for non-members / EUR 290 for members, inclusive of a EUR 70 reservation fee); reduced pricing or extended payment terms available in cases of economic hardship.",
+  "pricePerDay": {
+    "min": 41,
+    "max": 47,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "7-night Summer Sesshin 2026: EUR 290 (members) to EUR 330 (non-members) for the full sesshin, i.e. roughly EUR 41-47/night.",
+    "source": "https://www.ordinarymind.eu/upcoming-sesshins/2026/finland-summer-sesshin"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Simple vegetarian food is served during sesshins, prepared on-site in the center's large fully-equipped kitchen.",
+  "workRequired": "yes",
+  "workNotes": "Work periods (samu) are part of the daily sesshin schedule, and a dedicated 'work sesshin' focused on maintaining the property is held annually.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "work-practice",
+    "fixed-fee",
+    "diet-vegetarian",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Lammi Retreat Center - About",
+      "url": "https://lammiretreat.com/about"
+    },
+    {
+      "title": "Lammi Retreat Center - Contact",
+      "url": "https://lammiretreat.com/contact"
+    },
+    {
+      "title": "OMZ europe - Ordinary Mind Zendo Europe",
+      "url": "https://www.ordinarymind.eu/"
+    },
+    {
+      "title": "Finland, Lammi - Summer Sesshin with Karen Terzano",
+      "url": "https://www.ordinarymind.eu/upcoming-sesshins/2026/finland-summer-sesshin"
+    },
+    {
+      "title": "Tavallinen Mieli Zendo - home page",
+      "url": "https://www.tavallinenmieli.fi/"
+    },
+    {
+      "title": "Lammi, Kesäsesshin - Tavallinen Mieli Zendo",
+      "url": "https://www.tavallinenmieli.fi/sesshin/2025/kesasesshin-spxww"
+    }
+  ],
+  "id": "lammi-retreat-center",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

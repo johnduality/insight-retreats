@@ -1,0 +1,60 @@
+{
+  "name": "Dhagpo Rigdrol Ling",
+  "aka": [
+    "Karma Rigdrol Puntsok Tashi Ling",
+    "Halkidiki Dhagpo Buddhist Retreat Center Rigdrol Ling",
+    "Rigdrol Ling"
+  ],
+  "website": "http://www.rigdrolling.org/",
+  "location": {
+    "address": "Post Office Arnea, 63074 Arnea, Halkidiki, Greece",
+    "city": "Arnaia",
+    "region": "Halkidiki, Central Macedonia, Greece",
+    "country": "Greece",
+    "state": "GR",
+    "lat": 40.4865,
+    "lng": 23.5954
+  },
+  "tradition": "Karma Kagyu school of Tibetan Vajrayana Buddhism, in the Dhagpo lineage of the late Lama Gendün Rinpoche",
+  "technique": "Guru yoga and guided meditation on the nature of mind; nyungne (fasting and purification) practice; drubcho group ritual retreats",
+  "influences": [
+    "Lama Gendün Rinpoche",
+    "17th Karmapa Thaye Dorje",
+    "Jigme Rinpoche",
+    "Beru Khyentse Rinpoche",
+    "Karma Kagyu lineage"
+  ],
+  "teacherAccess": "No resident teacher; the center is guided by elder disciples of the late Lama Gendün Rinpoche, with periodic visits from senior Karma Kagyu masters; specific access varies by event",
+  "retreatOptions": "Open retreat center for individuals or groups hosting seminars, drubchos (group ritual retreats) and nyungne (fasting/purification) practice; specific lengths and dates are arranged directly with the center",
+  "about": "Dhagpo Rigdrol Ling, formally Karma Rigdrol Puntsok Tashi Ling ('The Excellent and Auspicious Place where Awareness is Liberation'), is a Karma Kagyu Buddhist retreat center on its own land at roughly 1,000 meters in the mountains of the Halkidiki peninsula in northern Greece, near the village of Arnaia. It was built between 1990 and 1995 under the direction of the late Lama Gendün Rinpoche, and from 1995 to 1998 served as an intensive retreat site where a group of Greek practitioners undertook deep transmissions of the Karma Kagyu lineage. The center has been visited by senior Kagyu masters, including Beru Khyentse Rinpoche, Jigme Rinpoche and, in 2005, the 17th Karmapa Thaye Dorje, and is officially recognized as a Buddhist Congregation by the Hellenic State. It currently operates as an open retreat center for groups or individuals, hosting seminars, drubchos and nyungne practice under the Karmapa's guidance and the care of elder disciples of Lama Gendün Rinpoche. Practical details such as pricing and current accommodation capacity are not published online; prospective visitors are asked to contact the center directly by phone or email.",
+  "schedule": "Program of seminars, drubchos and nyungne practice varies by event and is not published in detail online; contact the center directly for current dates",
+  "cost": "Not published online; contact the center directly for course fees or donation arrangements",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "Not published online.",
+  "workRequired": "unknown",
+  "workNotes": "Not published online.",
+  "tags": [
+    "tibetan-vajrayana"
+  ],
+  "sources": [
+    {
+      "title": "Halkidiki Dhagpo Buddhist Retreat Center Rigdrol Ling - karmapa.org",
+      "url": "https://www.karmapa.org/centers/taxiarhis-halkidiki/halkidiki-dhagpo-buddhist-retreat-center-rigdrol-ling/"
+    },
+    {
+      "title": "Dhagpo Rigdrol Ling - home page",
+      "url": "http://www.rigdrolling.org/"
+    },
+    {
+      "title": "Dhagpo Rigdrol Ling - Contact",
+      "url": "http://www.rigdrolling.org/p/blog-page_9036.html"
+    }
+  ],
+  "id": "dhagpo-rigdrol-ling",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

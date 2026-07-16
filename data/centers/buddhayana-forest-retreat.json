@@ -1,0 +1,66 @@
+{
+  "id": "buddhayana-forest-retreat",
+  "name": "Buddhayana Forest Retreat",
+  "aka": [],
+  "website": "http://buddhayana.ns.ca/",
+  "location": {
+    "address": "James Murray Road, West Branch, River John, Nova Scotia, Canada",
+    "city": "River John",
+    "region": "Nova Scotia, Canada",
+    "country": "Canada",
+    "state": "NS",
+    "lat": 45.62,
+    "lng": -63.03
+  },
+  "tradition": "Non-sectarian Buddhist meditation, ascetic forest tradition",
+  "technique": "Self-directed, self-guided solitary meditation practice in the Buddhist ascetic forest tradition; retreatants bring and follow their own particular meditation method (sitting, walking, etc.) while keeping the Ten Buddhist Precepts, including Noble Silence",
+  "influences": [
+    "Shakyamuni Buddha",
+    "Thai Forest Tradition monks",
+    "Tibetan mountain yogis",
+    "Zen and Taoist hermits"
+  ],
+  "teacherAccess": "None; Buddhayana is explicitly a practice retreat center, not a teaching center, with no on-site teacher, program staff, or services of any kind.",
+  "retreatOptions": "Self-guided solitary retreats of any length, entered and left at the retreatant's own discretion, in one of several simple, off-grid one-room cabins in the forest.",
+  "about": "Buddhayana Forest Retreat is a free, non-sectarian Buddhist meditation retreat center set in the mixed hardwood forest of Nova Scotia's Cobequid Highlands, near West Branch, River John. Registered as a charitable retreat society, it offers a handful of simple, off-grid cabins for entirely self-directed, solitary meditation practice in the ascetic forest tradition shared by Thai Forest monks, Tibetan mountain yogis, and Zen and Taoist hermits. Retreatants bring their own meditation method and agree to keep the traditional Ten Buddhist Precepts, including Noble Silence, for the length of their stay; there is no teacher, program, or services of any kind on site, and guests cook their own food on propane hot plates, fetch their own well water, and use outdoor pit privies. Cabins have no electricity, running water, or cell reception, and retreatants may stay as long as they wish, arranging in advance to be met and shown in by the retreat manager. In keeping with the Buddhist tradition of dana, all cabins are offered completely free of charge, sustained only by voluntary, anonymous donations.",
+  "schedule": "No fixed schedule; retreatants keep the Ten Buddhist Precepts (including Noble Silence, no eating after midday, and abstaining from intoxication and entertainment) and design their own daily meditation practice for the length of their stay.",
+  "cost": "No charge of any kind for the retreat cabins; entirely free, sustained solely by anonymous voluntary donations, in keeping with the Buddhist tradition of dana.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "Cabins are offered free rather than by suggested-donation amount; anonymous donations toward upkeep are welcomed, but the retreat itself carries no fee and is not a registered charity able to issue tax receipts.",
+    "source": "http://buddhayana.ns.ca/"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "No food is provided; retreatants must bring in all their own groceries and cook for themselves on a propane hot plate in their cabin, with no refrigeration, running water, or shopping service on site.",
+  "workRequired": "no",
+  "workNotes": "No work or service is required; retreatants are expected to be fully self-sufficient, doing their own cooking, water-fetching, and cabin upkeep throughout their stay.",
+  "tags": [
+    "self-guided",
+    "silent",
+    "dana-donation",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Buddhayana Forest Retreat (home)",
+      "url": "http://buddhayana.ns.ca/"
+    },
+    {
+      "title": "Buddhayana Forest Retreat - Theravada Buddhism Web Directory",
+      "url": "https://www.dhamma.ru/sadhu/749-buddhayana-forest-retreat"
+    },
+    {
+      "title": "Buddhayana Forest Retreat - Sumeru Books directory",
+      "url": "https://directory.sumeru-books.com/2012/03/buddhayana-forest-retreat/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

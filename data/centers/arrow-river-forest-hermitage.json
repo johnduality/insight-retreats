@@ -1,0 +1,78 @@
+{
+  "id": "arrow-river-forest-hermitage",
+  "name": "Arrow River Forest Hermitage",
+  "aka": [
+    "Arrow River Community Center",
+    "ARFH"
+  ],
+  "website": "https://www.arrowriver.ca",
+  "location": {
+    "address": "925-A Highway 593, Neebing, Ontario P7L 0A2, Canada",
+    "city": "Neebing",
+    "region": "Ontario, Canada",
+    "country": "Canada",
+    "state": "ON",
+    "lat": 48.1833,
+    "lng": -89.4667
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition",
+  "technique": "Individually tailored insight and mindfulness-of-breathing practice in the Thai Forest lineage of Ajahn Chah, with roots in the Burmese Insight (Mahasi Sayadaw) method taught by the hermitage's lay founder; retreats are mostly solitary with periodic teacher check-ins.",
+  "influences": [
+    "Ajahn Punnadhammo (resident teacher)",
+    "Kema Ananda (founder)",
+    "Ajahn Chah / Wat Pah Nanachat lineage",
+    "Mahasi Sayadaw"
+  ],
+  "teacherAccess": "Individual retreats include daily instruction and interviews with the resident teacher, Ajahn Punnadhammo; most retreat time is spent in solitary practice rather than group instruction.",
+  "retreatOptions": "Short or long-term retreats arranged individually, typically three days up to three months (longer by the abbot's permission); occasional group retreats are also held.",
+  "about": "The Arrow River Forest Hermitage is a small Theravada Buddhist monastery and meditation centre on 92 acres of mixed forest in Northern Ontario, about fifty miles southwest of Thunder Bay. It was founded in 1975 by Kema Ananda, a lay student of Ven. Ananda Bodhi (later Namgyal Rinpoche) trained in the Burmese Insight method of Mahasi Sayadaw, and has been led since 1995 by the resident bhikkhu Ajahn Punnadhammo, who trained in the Thai Forest Tradition of Ajahn Chah at Wat Pah Nanachat. The off-grid property has seven simple all-weather dwelling places, a meditation hall and kitchen, a sauna, library and workshop, and depends on the ongoing presence of a lay steward to handle the practical duties the resident monastic cannot. Lay visitors are welcome for short or long-term retreats, most often arranged individually - from three days up to three months - with daily instruction and interviews with the teacher but most of the time spent in solitary practice; occasional group retreats are also held. In keeping with the Theravada monastic tradition, everything at the Hermitage is offered on a dana (voluntary donation) basis, free of charge.",
+  "schedule": "Retreat schedules are set individually with the resident teacher around the hermitage's own rhythm of daily sitting and walking meditation, periodic interviews, and solitary practice time in one of the off-grid cabins; the property has no grid power.",
+  "cost": "No fees of any kind; all teachings and activities are offered on a dana (voluntary donation) basis, free of charge, in keeping with the Theravada monastic tradition - the hermitage depends entirely on free-will offerings from the lay community.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "No suggested amount is published; donations of any size are welcome and a receipt is issued for gifts over $10.",
+    "source": "https://www.arrowriver.ca/danapage.html"
+  },
+  "foodServed": "partial",
+  "foodType": "mixed",
+  "foodNotes": "Meals are prepared and served by the resident lay steward according to standard Theravada monastic practice (typically one main meal before noon); food depends on what is offered as dana, so it is not guaranteed vegetarian.",
+  "workRequired": "unknown",
+  "workNotes": "The hermitage relies on an on-site lay steward for cooking and upkeep; the site does not specify whether short-term retreat guests are assigned chores.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "self-guided",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Welcome to Arrow River (home)",
+      "url": "https://www.arrowriver.ca/"
+    },
+    {
+      "title": "About the Arrow River Forest Hermitage",
+      "url": "https://www.arrowriver.ca/center.html"
+    },
+    {
+      "title": "Donations for Arrow River",
+      "url": "https://www.arrowriver.ca/danapage.html"
+    },
+    {
+      "title": "Ajahn Punnadhammo - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajahn_Punnadhammo"
+    },
+    {
+      "title": "Arrow River Forest Hermitage - Dhamma Wiki",
+      "url": "https://www.dhammawiki.com/index.php/Arrow_River_Forest_Hermitage"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

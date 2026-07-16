@@ -1,0 +1,63 @@
+{
+  "name": "Thubten Phuntsog Gephel Ling",
+  "aka": [
+    "Guhya Mantrika",
+    "Comunidade Guhya Mantrika",
+    "Centro de Retiros Thubten Phuntsog Gephel Ling"
+  ],
+  "website": "https://www.guhyamantrika.org/",
+  "location": {
+    "address": "Estrada Nacional 253, Herdade Corte Pereiro, 7580-706 Santa Susana, Alcacer do Sal",
+    "city": "Alcacer do Sal",
+    "county": "Setubal",
+    "region": "Alentejo, Portugal",
+    "country": "Portugal",
+    "state": "PT",
+    "lat": 38.4864,
+    "lng": -8.3596
+  },
+  "tradition": "Tibetan Buddhism, Nyingma and Kagyu lineages (Vajrayana)",
+  "technique": "Traditional Nyingma/Kagyu Vajrayana practice: shamatha, ngondro (preliminaries), deity/sadhana practice, Chod, and Dzogchen and Mahamudra retreat practice, plus daily prayers and pujas",
+  "influences": [
+    "Taklung Tsetrul Rinpoche (Supreme Master of the Nyingmapa Tradition, who named the center)",
+    "Lama Urgyen Choekyi Dorje (spiritual guide)",
+    "Lama Gyurme (resident lama)",
+    "Padmasambhava (Guru Rinpoche)",
+    "Jamgon Kongtrul Lodro Thaye"
+  ],
+  "teacherAccess": "Resident Lama Gyurme leads regular teachings, pujas, and retreats on site; spiritual guide Lama Urgyen Choekyi Dorje and other Nyingma/Kagyu lamas visit for retreats and empowerments; individual retreats require an interview and approval by the resident lamas",
+  "retreatOptions": "Regular weekend and multi-day group retreats, workshops, and teachings open to the public; individual retreats (reserved for experienced Sangha members, involving roughly 9-10 hours of meditation a day) by application; a dedicated long-duration retreat hill with individual retreat cabins is being developed for traditional retreats of weeks, months, or the traditional three years",
+  "about": "Thubten Phuntsog Gephel Ling is the retreat and meditation center of Guhya Mantrika, a Nyingma school Tibetan Buddhist community, set on a roughly 63-hectare rural estate between Alcacer do Sal and Montemor in Portugal's Alentejo region. Its name, meaning 'the Island where the Buddha's Teachings are Completely Present, spreading Virtue,' was given by Taklung Tsetrul Rinpoche, and the center has been developed since 2010 under the guidance of spiritual director Lama Urgyen Choekyi Dorje and resident teacher Lama Gyurme, following the Nyingma and Kagyu lineages transmitted by Padmasambhava. The site includes a temple and gompa, a large stupa (Stupa Tashi Gomang), and simple retreat cabins, and hosts regular public teachings, weekend retreats, and traditional practices such as Chod, alongside more restricted individual retreats for experienced practitioners who receive permission from the resident lamas. A separate hill on the property is being developed specifically for long-duration retreats, including traditional three-year retreats, with individual retreat cabins under construction. Visitors need not be Buddhist to attend, and guests are asked to keep the five lay precepts (no killing, lying, stealing, sexual misconduct, or intoxicants) while on retreat.",
+  "schedule": "Public visiting hours Monday-Friday 10-11am (meditation) and weekends 10am-12:30pm/2-5pm; regular weekend and multi-day group retreats and teachings scheduled through the year; individual and long-duration retreats by arrangement",
+  "cost": "Donation-based; group retreats and workshops typically request a course fee or dana, and building/retreat cabin projects are supported through public donations",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "workRequired": "unknown",
+  "workNotes": "Community volunteering is welcomed (e.g. helping build retreat cabins), but no formal work requirement for retreat guests is specified on the center's site.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "camping",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Guhya Mantrika - Centro de Retiros (home)",
+      "url": "https://www.guhyamantrika.org/centro-retiros"
+    },
+    {
+      "title": "Retiros Individuais",
+      "url": "https://www.guhyamantrika.org/retiros-individuais"
+    },
+    {
+      "title": "Retiros de Longa Duracao",
+      "url": "https://www.guhyamantrika.org/retiros-longa-duracao"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  },
+  "id": "thubten-phuntsog-gephel-ling"
+}

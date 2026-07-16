@@ -1,0 +1,77 @@
+{
+  "id": "mountain-rain-zen-community",
+  "name": "Mountain Rain Zen Community",
+  "aka": [
+    "Bright Stream Temple",
+    "Koryuji",
+    "Kōryūji"
+  ],
+  "website": "http://www.mountainrainzen.org",
+  "location": {
+    "address": "5505 Sherbrooke St, Vancouver, BC V5N 5B5, Canada (Bright Stream Temple / Koryuji)",
+    "city": "Vancouver",
+    "region": "British Columbia, Canada",
+    "country": "Canada",
+    "state": "BC",
+    "lat": 49.226,
+    "lng": -123.087
+  },
+  "tradition": "Soto Zen Buddhism",
+  "technique": "Zazen (seated meditation) integrated with work practice (samu), study and daily temple forms, in the Soto Zen tradition",
+  "influences": [
+    "Myoshin Kate McCandless (guiding teacher)",
+    "Shinmon Michael Newton (guiding teacher)",
+    "Soto Zen lineage"
+  ],
+  "teacherAccess": "Residents practice under the temple's guiding teachers as part of daily residential life; weekly meetings and personal commitments structure ongoing teacher contact for residents.",
+  "retreatOptions": "Ongoing residential practice at Bright Stream Temple: short-term stays (from one night, self-catered) and longer-term residencies (one month or more) by application; separately, week-long sesshin retreats are held off-site at the rented Brew Creek Centre between Squamish and Whistler, twice yearly.",
+  "about": "Mountain Rain Zen Community is a Soto Zen sangha in Vancouver, BC, practicing under guiding teachers Myoshin Kate McCandless and Shinmon Michael Newton. In 2023 the community received an unexpected gift from the abbot of the now-closed Vancouver Zen Centre: its Rinzai-built practice house on Sherbrooke Street, which Mountain Rain reopened as Bright Stream Temple (Koryuji), a residential Zen temple alongside its original Wall Street Zendo. Bright Stream Temple offers ongoing residential practice - living within the temple's daily rhythm of zazen, work practice in the house and garden, and study - through applications for short-term stays (from one night, self-catered) or longer-term residencies of a month or more for practitioners with an established practice. Separately, Mountain Rain's traditional week-long sesshin retreats are held off site at the rented Brew Creek Centre between Squamish and Whistler, twice yearly, so those specific retreats are not on the community's own property.",
+  "schedule": "Residential practice at Bright Stream Temple extends through the rhythms of the day: zazen, work practice in the house and garden, study, and weekly meetings, following a published temple schedule; residents commit to the precepts of right conduct and speech.",
+  "cost": "Short-term residential practice at Bright Stream Temple is priced per night (self-catered); longer-term residencies of a month or more are a flat monthly rate; short 'over-night' stays tied to attending a retreat are offered on a sliding scale.",
+  "pricePerDay": {
+    "min": 30,
+    "max": 30,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "CAD $30/night for stays under one month (residents provide their own food); longer-term residency of a month or more is a flat CAD $950/month (approx. CAD $31/night equivalent).",
+    "source": "http://www.mountainrainzen.org/residential-practice"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "Residents at Bright Stream Temple are responsible for providing their own food; there is a shared kitchen but no included meal plan.",
+  "workRequired": "yes",
+  "workNotes": "Residential practice explicitly includes work practice in the house and garden as part of the daily temple rhythm, alongside zazen and study.",
+  "tags": [
+    "zen",
+    "work-practice",
+    "self-guided",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Mountain Rain Zen Community - home",
+      "url": "http://www.mountainrainzen.org/"
+    },
+    {
+      "title": "Residential Practice - Mountain Rain Zen Community",
+      "url": "http://www.mountainrainzen.org/residential-practice"
+    },
+    {
+      "title": "Retreats - Mountain Rain Zen Community",
+      "url": "http://www.mountainrainzen.org/retreats"
+    },
+    {
+      "title": "Our Place of Practice has a name! Koryuji / Bright Stream Temple",
+      "url": "http://www.mountainrainzen.org/blog/2023/10/10/bright-stream"
+    },
+    {
+      "title": "An Unexpected Gift of a Zendo Helps Mountain Rain Zen Community grow in Vancouver - Northwest Dharma Association",
+      "url": "https://northwestdharma.org/an-unexpected-gift-of-a-zendo-helpsmountain-rain-zen-community-grow-in-vancouver/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

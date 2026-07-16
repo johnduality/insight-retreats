@@ -1,0 +1,71 @@
+{
+  "name": "Mosteiro Budista Sumedharama",
+  "aka": [
+    "Sumedharama",
+    "Sumedharama Buddhist Monastery"
+  ],
+  "website": "https://sumedharama.pt/",
+  "location": {
+    "address": "Caminho do Vale Grande 59, Fonte Boa dos Nabos, 2655-464 Ericeira",
+    "city": "Ericeira",
+    "county": "Mafra",
+    "region": "Lisbon District, Portugal",
+    "country": "Portugal",
+    "state": "PT",
+    "lat": 38.9718,
+    "lng": -9.4001
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition (Ajahn Chah lineage)",
+  "technique": "Anapanasati (mindfulness of breathing) and daily group pujas/sitting meditation in the Ajahn Chah forest tradition, combined with monastic work practice and chanting",
+  "influences": [
+    "Ajahn Chah",
+    "Forest Sangha (Ajahn Chah lineage) monasteries worldwide",
+    "Luang Por Vajiro (resident teacher)"
+  ],
+  "teacherAccess": "Resident monastic community leads two daily group meditations (5am and 7:30pm) open to guests; Friday evening Dhamma talks; monthly Sunday meditation workshop led by one of the monks; periodic online Q&A sessions with the resident teacher",
+  "retreatOptions": "Free monastery stays of a minimum of 2 nights (maximum 1 week for first-time guests), living alongside the monastic community; day visitors welcome 4:45am-8:30pm; no fixed-length group retreat courses, structure follows monastic guest-stay rules",
+  "about": "Sumedharama is a Theravada Buddhist forest monastery in the hills above Ericeira, on Portugal's Atlantic coast, belonging to the Thai Forest Tradition founded by Ajahn Chah. A small community of monastics lives on site, keeping a daily rhythm of pre-dawn and evening group meditation, chanting, and simple manual work, and welcomes lay guests to stay and share in that rhythm rather than run separate retreat courses. Stays are entirely free (dana-based, following the mendicant tradition), with a minimum stay of two nights and a one-week maximum for first-time visitors, and guests are expected to follow the Eight Precepts, join the communal routine, and help with tasks like cooking and cleaning the grounds and buildings. Meals are vegetarian, cooked from donated food, with only one main meal served around midday in keeping with monastic discipline. The monastery is open to day visitors during daylight hours for quiet sitting, and it also offers weekly online guided meditations and periodic in-person Dhamma talks and workshops for the wider public.",
+  "schedule": "Daily: 5:00am morning puja/meditation, 6:00am chanting, 6:30am chore, 7:00am breakfast, 8:00-10:45am work period, 11:00am main meal, free afternoons, 7:30pm evening puja/meditation, 9:00pm quiet hours; Friday evening Dhamma talk; monthly Sunday meditation workshop",
+  "cost": "Free (dana/donation-based); no set course fees for monastery stays",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "One full vegetarian meal (mid-morning/midday) prepared from food offered by supporters; no eating permitted after noon except tea, tonics, or medicine, in keeping with the Eight Precepts; the monastery cannot accommodate special diets since it depends on donated food.",
+  "workRequired": "yes",
+  "workNotes": "Guests join a daily morning work period (roughly 2 hours) helping with meal preparation and cleaning the grounds and buildings, as part of the monastery's shared routine; guests also help with a short pre-breakfast chore.",
+  "tags": [
+    "theravada",
+    "silent",
+    "monastic-community",
+    "work-practice",
+    "dana-donation",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Mosteiro Budista Sumedharama - home",
+      "url": "https://sumedharama.pt/"
+    },
+    {
+      "title": "Estadias no Mosteiro (Monastery Stays)",
+      "url": "https://sumedharama.pt/visitar/estadias-no-mosteiro/"
+    },
+    {
+      "title": "Sobre: Historia",
+      "url": "https://sumedharama.pt/sobre/sobre-historia/"
+    },
+    {
+      "title": "Visitar o Mosteiro",
+      "url": "https://sumedharama.pt/visitar/"
+    },
+    {
+      "title": "Mosteiros da Linhagem do Ajahn Chah (Forest Sangha)",
+      "url": "https://forestsangha.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  },
+  "id": "mosteiro-budista-sumedharama"
+}

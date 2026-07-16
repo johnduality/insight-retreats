@@ -1,0 +1,72 @@
+{
+  "id": "vinitsa-diamond-way-retreat-center",
+  "name": "Vinitsa Diamond Way Buddhist Retreat Center",
+  "aka": [
+    "Vinica Retreat Center",
+    "Vinica Retreat Centre",
+    "Ретрит център Виница",
+    "VRC",
+    "Light Rays of Great Bliss"
+  ],
+  "website": "http://vinica.diamondway.bg",
+  "location": {
+    "address": "18th Street, Vinitsa District, 9151 Varna, Bulgaria",
+    "city": "Varna",
+    "region": "Vinitsa District, Varna Province, Bulgaria",
+    "country": "Bulgaria",
+    "state": "BG",
+    "lat": 43.2457,
+    "lng": 27.9805
+  },
+  "tradition": "Diamond Way Buddhism (Karma Kagyu lineage of Tibetan Buddhism), under Lama Ole Nydahl and the 17th Karmapa Thaye Dorje",
+  "technique": "16th Karmapa Guru Yoga meditation practised together in the on-site gompa; Lama Ole Nydahl gave three Phowa (transference of consciousness) courses here, and visiting Diamond Way teachers lead group meditation and dharma talks during periodic multi-day courses",
+  "influences": [
+    "Lama Ole Nydahl",
+    "17th Karmapa Thaye Dorje",
+    "16th Karmapa Rangjung Rigpe Dorje"
+  ],
+  "teacherAccess": "No permanent resident teacher; the center is developed and maintained by volunteers from Bulgaria's national Diamond Way network. Lama Ole Nydahl personally visited and taught here multiple times (including three Phowa courses) roughly every few years until his death in May 2026, and travelling Diamond Way teachers lead group meditation and give talks during periodic courses.",
+  "retreatOptions": "Regular meditation courses through the year, with the center aiming for at least one residential meditation weekend each month in the on-site gompa; periodic multi-day courses with visiting Diamond Way teachers several times a year; larger occasional courses (historically including Phowa courses taught by Lama Ole Nydahl) drawing practitioners from across Bulgaria.",
+  "about": "Vinitsa Diamond Way Buddhist Retreat Center (also known as Vinica Retreat Center) is Bulgaria's national Diamond Way Buddhist retreat property, sited on a high plateau in the Vinitsa district on the eastern edge of Varna with a wide view over the Black Sea. Lama Ole Nydahl founded the center in 1996 and gave it the name \"Light Rays of Great Bliss\"; he returned to teach here multiple times over the following decades, including three Phowa courses, before his death in May 2026. The property has been developed gradually and entirely by volunteers from Bulgaria's lay Karma Kagyu community: it now has a house and a large gompa (meditation hall), with electricity from a solar system and water drawn from underground reservoirs, and development work continues. The center runs regular meditation courses through the year, with the community aiming for at least one residential meditation weekend each month, plus periodic multi-day courses led by visiting Diamond Way teachers. It sits alongside Bulgaria's other Diamond Way locations, which include urban meditation groups in Sofia, Rousse, Shumen, Plovdiv and Varna city, and a second retreat property (Plana, near Sofia) that centers on a public stupa and a weekly meditation evening but has no documented overnight retreat accommodation.",
+  "schedule": "Regular meditation weekends are held roughly monthly, combining group 16th Karmapa meditation sessions in the gompa with volunteer work to help develop the property; multi-day courses with visiting teachers follow a similar multi-day residential rhythm timed around the teacher's visit.",
+  "cost": "No fixed published tariff for weekend courses; as with other Diamond Way Bulgaria locations, the center is run entirely by volunteers and financed through donations, including a dedicated ongoing-development fund for the property's solar power, water systems and accommodation.",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "Not specified on official sources; no meal plan or catering arrangement is documented for weekend courses.",
+  "workRequired": "unknown",
+  "workNotes": "The property is described as still under development and maintained by volunteers (\"come to meditate and work with us\"); it is not clear from official sources whether ordinary weekend-course attendees are expected to contribute physical work, as opposed to the wider volunteer community.",
+  "tags": [
+    "tibetan-vajrayana"
+  ],
+  "sources": [
+    {
+      "title": "Vinitsa Diamond Way Buddhist Retreat Center — karmapa.org centre listing (address, founding, homepage)",
+      "url": "https://www.karmapa.org/centers/varna/vinitsa-diamond-way-buddhist-retreat-center/"
+    },
+    {
+      "title": "Retreat Center Vinica — Diamond Way Buddhism Bulgaria (EN)",
+      "url": "http://www.diamondway.bg/en/vinica/"
+    },
+    {
+      "title": "Ретрит център Виница — Diamond Way Buddhism Bulgaria (BG, current news incl. Lama Ole Nydahl's passing May 2026)",
+      "url": "http://vinica.diamondway.bg/"
+    },
+    {
+      "title": "Vinica — International Diamond Way Buddhism Foundation, Supported Centers listing",
+      "url": "https://www.buddhism-foundation.org/centers/supported-centers/vinica"
+    },
+    {
+      "title": "Retreat Center Plana — Diamond Way Buddhism Bulgaria (comparison: day-use stupa site, no documented overnight retreats)",
+      "url": "http://www.diamondway.bg/?page_id=299"
+    },
+    {
+      "title": "Along the Path of the Buddha: Buddhism in Bulgaria — Buddhistdoor Global (overview of Diamond Way's Bulgarian centers and retreat properties)",
+      "url": "https://www.buddhistdoor.net/features/along-the-path-of-the-buddha-buddhism-in-bulgaria/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

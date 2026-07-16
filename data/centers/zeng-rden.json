@@ -1,0 +1,67 @@
+{
+  "name": "Zengården",
+  "aka": [
+    "Zenbuddhistiska Samfundet",
+    "Swedish Zen Buddhist Society",
+    "ZBS"
+  ],
+  "website": "https://www.zentraining.org/",
+  "location": {
+    "address": "Finnåker, 710 41 Fellingsbro, Sweden",
+    "city": "Fellingsbro",
+    "region": "Örebro County, Sweden",
+    "country": "Sweden",
+    "state": "SE",
+    "lat": 59.435,
+    "lng": 15.589
+  },
+  "tradition": "Soto/Rinzai-influenced Zen Buddhism in the lineage of Roshi Philip Kapleau (Rochester Zen Center)",
+  "technique": "Zazen (seated meditation), sesshin practice with dokusan (private teacher interviews) and teisho (dharma talks), work practice",
+  "influences": [
+    "Philip Kapleau Roshi (Rochester Zen Center)",
+    "Bodhin Kjolhede Roshi",
+    "Sante Poromaa Roshi",
+    "Kanja Odland Roshi"
+  ],
+  "teacherAccess": "Daily dokusan (private one-on-one meeting with the teacher) offered during sesshins and residential training, plus regular teisho (dharma talks).",
+  "retreatOptions": "Nine sesshins a year (4-day and 7-day intensive silent retreats), two weekend retreats, an annual summer retreat, a 3-day introduction retreat each summer, and open-ended residential Zen training between sesshins.",
+  "about": "Zengården is the head temple and full-time residential Zen training centre of the Swedish Zen Buddhist Society (Zenbuddhistiska Samfundet), located in rural forest near Fellingsbro, about two hours west of Stockholm. Founded in 1982 following Philip Kapleau Roshi's first visit to Sweden, the society descends from Kapleau's Rochester Zen Center lineage and has offered full-time residential Zen training at Zengården since 1995. The centre runs nine sesshins a year, intensive four- or seven-day periods of largely silent zazen with nine or more hours of formal sitting daily, daily dokusan with the teacher, and a work period; between sesshins it offers a more flexible residential training schedule of sitting, work and unstructured time. Teaching is led by resident teachers Sante Poromaa Roshi and Kanja Odland Roshi, both direct successors in Kapleau's lineage, with all instruction given in English since practitioners come from around the world. Zengården also hosts an annual 3-day introduction retreat for newcomers and a summer retreat with a more relaxed format, alongside city Zen centres the society runs in Stockholm, Gothenburg, Lund and elsewhere in Europe.",
+  "schedule": "Nine sesshins per year (4 or 7 days each), two weekend retreats, an annual summer retreat, and a summer introduction retreat in both Swedish and English; residential training and city-centre sittings continue between scheduled retreats.",
+  "cost": "Fixed per-retreat fees published in an annual member fee schedule; sesshin practice is intended for members and more experienced practitioners, with a paid introduction retreat available for newcomers.",
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Residential guests, including short-term visitors such as artists-in-residence, are given three vegan meals a day as part of their stay.",
+  "workRequired": "yes",
+  "workNotes": "Both sesshins and the standard residential training schedule include a daily work period (samu); the ordinary residential schedule includes roughly four hours of work per day alongside formal sitting.",
+  "tags": [
+    "zen",
+    "silent",
+    "work-practice",
+    "diet-vegan",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Zengården - Welcome",
+      "url": "https://www.zentraining.org/"
+    },
+    {
+      "title": "Zengården - Zen practice (sesshin and residential training)",
+      "url": "https://www.zentraining.org/zenpractice.php"
+    },
+    {
+      "title": "Zenbuddhistiska Samfundet - About us",
+      "url": "https://zazen.se/aboutus_en.php"
+    },
+    {
+      "title": "Zengården - Artist residency",
+      "url": "https://www.zentraining.org/artist_residency.php"
+    }
+  ],
+  "id": "zengarden",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

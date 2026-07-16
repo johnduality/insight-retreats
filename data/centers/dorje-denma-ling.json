@@ -1,0 +1,77 @@
+{
+  "id": "dorje-denma-ling",
+  "name": "Dorje Denma Ling",
+  "aka": [],
+  "website": "https://dorjedenmaling.org",
+  "location": {
+    "address": "2280 Balmoral Road, The Falls, Nova Scotia B0K 1V0, Canada",
+    "city": "The Falls",
+    "region": "Nova Scotia, Canada",
+    "country": "Canada",
+    "state": "NS",
+    "lat": 45.636983,
+    "lng": -63.305943
+  },
+  "tradition": "Shambhala Buddhism (Karma Kagyü and Nyingma-influenced); Canada's only Shambhala residential retreat centre",
+  "technique": "Shamatha-vipashyana sitting meditation and contemplative arts practice, taught within the Shambhala Buddhist curriculum (meditation instruction, Way of Shambhala, and advanced Shambhala/Buddhist programs)",
+  "influences": [
+    "Chögyam Trungpa Rinpoche",
+    "Sakyong Mipham Rinpoche",
+    "Shambhala International"
+  ],
+  "teacherAccess": "Resident and visiting Shambhala teachers lead programs with daily talks and instruction; participants contribute a small amount of service work (ROTA) alongside program activities.",
+  "retreatOptions": "Weekend and multi-night programs year-round with a 2-night minimum stay, ranging from introductory Shambhala/Buddhist weekends to weeklong meditation retreats, contemplative-arts workshops, family/youth programs, and advanced programs; online programs and solo retreats are offered in the winter off-season.",
+  "about": "Dorje Denma Ling is Shambhala International's only residential retreat centre in Canada, set on 288 acres of forest and farmland on Tatamagouche Mountain overlooking the Northumberland Strait near Tatamagouche, Nova Scotia. Founded in 1992 by the Dorje Kasung Society on land inspired by Chögyam Trungpa Rinpoche's vision, it hosts a full seasonal program of Shambhala and Buddhist meditation retreats, contemplative-arts workshops, and family and youth programs from April through November, with online programs and solo retreats offered in winter. Participants register for a program and separately choose from a wide range of on-site lodging, from bring-your-own-tent camping and tent platforms up to private rooms in Gyatso Lodge, all on grounds with sweeping views of the Strait. A small daily service contribution (ROTA) is expected of most participants, and locally sourced meals with vegan, vegetarian, gluten-free, and meat-based options are provided throughout a stay. Financial aid, interest-free payment plans, and scholarships are available to keep programs accessible.",
+  "schedule": "Program days combine formal group meditation sessions and talks with a small daily ROTA service contribution and, depending on the program, contemplative-arts or workshop content; guests follow the Shambhala Code of Conduct throughout their stay.",
+  "cost": "Program tuition (billed separately per retreat) plus a choice of on-site lodging, priced per person per night from $20 (RV/car/tent camping) up to $150 (a private single room in Gyatso Lodge or a Drala Cabin); minimum 2-night stay.",
+  "pricePerDay": {
+    "min": 20,
+    "max": 150,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "Range reflects published accommodation-only nightly rates, from $20 RV/car/tent camping (shared shower house and composting toilets) up to $150 for a private single room in Gyatso Lodge or a Drala Cabin (full amenities); program tuition is a separate fee set at registration and varies by retreat.",
+    "source": "https://dorjedenmaling.org/participant-info/"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Meals include vegan, vegetarian, gluten-free, and meat-based dishes at each sitting, sourced locally where possible; a shared fridge and microwave are available for guests with additional dietary needs.",
+  "workRequired": "partial",
+  "workNotes": "Most programs include a small ROTA (service work) contribution to help support daily operations; participants can note physical limitations at registration to be accommodated.",
+  "tags": [
+    "tibetan-vajrayana",
+    "camping",
+    "work-practice",
+    "meals-included",
+    "family-friendly",
+    "online-hybrid",
+    "scholarships",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Home - Dorje Denma Ling",
+      "url": "https://dorjedenmaling.org/"
+    },
+    {
+      "title": "About Dorje Denma Ling",
+      "url": "https://dorjedenmaling.org/about-us/"
+    },
+    {
+      "title": "Participant Info and Lodging - Dorje Denma Ling",
+      "url": "https://dorjedenmaling.org/participant-info/"
+    },
+    {
+      "title": "Registration and Finance - Dorje Denma Ling",
+      "url": "https://dorjedenmaling.org/registration-and-finance/"
+    },
+    {
+      "title": "All Programs - Dorje Denma Ling",
+      "url": "https://dorjedenmaling.org/programs/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

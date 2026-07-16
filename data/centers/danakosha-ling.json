@@ -1,0 +1,90 @@
+{
+  "name": "Danakosha Ling",
+  "aka": [
+    "Danakosha Dharma Center",
+    "Danakosha"
+  ],
+  "website": "https://danakosha.org/",
+  "location": {
+    "address": "Forssantie 37, 31600 Jokioinen, Finland",
+    "city": "Jokioinen",
+    "region": "Kanta-Häme, Finland",
+    "country": "Finland",
+    "state": "FI",
+    "lat": 60.815,
+    "lng": 23.55
+  },
+  "tradition": "Tibetan Buddhism, Nyingma school (Dzogchen)",
+  "technique": "Dzogchen meditation instruction following Longchenpa's 'Relaxing in the Nature of Mind' (Semnyid Ngalso), together with Vajrayana preliminary practices, empowerments and puja",
+  "influences": [
+    "Tulku Dakpa Rinpoche",
+    "Mindrolling Monastery",
+    "Longchen Rabjam (Longchenpa)",
+    "H.H. Mindrolling Trichen Rinpoche"
+  ],
+  "teacherAccess": "Teachings, meditation instruction and group Q&A are given directly by resident teacher Tulku Dakpa Rinpoche during courses and retreats, with periodic visits from other senior Tibetan masters.",
+  "retreatOptions": "Multi-day residential courses of roughly 9-10 nights (e.g. the multi-year Semnyid Ngalso Dzogchen meditation course and 'Relaxing in the Nature of Mind' retreats), plus shorter weekend teachings, Drubchen retreats and regular tsog/practice days; some course years also offer a remote-participation option.",
+  "about": "Danakosha Ling is a Tibetan Buddhist monastery on a three-hectare rural estate in Jokioinen, roughly midway between Helsinki, Turku and Tampere in southwestern Finland. It was founded by Tulku Dakpa Rinpoche - a Nyingma lama trained for nine years at Mindrolling Monastery in India and, since 2001, the first Tibetan Buddhist teacher to reside permanently in Finland - and in 2023 it became the first center in the country officially recognized by Finnish authorities as a Tibetan Buddhist monastery. The community built its own temple in 2016-17 out of a former tractor hall, and completed a dormitory ('Gendun Gatshel') with 15 double rooms, a professional kitchen and dining hall in 2019 to house visitors during courses and retreats. Practice centers on the Nyingma Dzogchen tradition, including Rinpoche's multi-year teaching cycles on Longchenpa's 'Relaxing in the Nature of Mind' (Semnyid Ngalso), alongside Vajrayana empowerments, pujas and Drubchen retreats led by Rinpoche and visiting Tibetan masters. Danakosha Ling is run by volunteers and membership donations, with shared-room or on-site camping accommodation and meals available for a fee during courses and retreats.",
+  "schedule": "Multi-day courses typically run two teaching/meditation sessions per day (roughly 9:00-11:30 and 14:30-17:00), alongside periodic weekend retreats, Drubchens, and monthly tsog offerings on lunar dates through the year.",
+  "cost": "Fixed course/teaching fees (e.g. EUR 320, reduced to EUR 240 for members, students and unemployed persons) plus separate charges for shared-room accommodation or on-site camping and for meals.",
+  "pricePerDay": {
+    "min": 24,
+    "max": 32,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Shared-room accommodation at Danakosha Ling: EUR 24/night (members, students, unemployed) to EUR 32/night (standard); camping is EUR 60 flat; meals are billed separately at EUR 15/day; course teaching fees are additional on top of lodging.",
+    "source": "https://danakosha.org/events/summer-course-2026-semnyid-ngalso-meditation-course/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are available for a separate daily fee (EUR 15/day) during courses; a vegetarian lunch is offered to day visitors (EUR 25), and course meals follow the same vegetarian standard.",
+  "workRequired": "unknown",
+  "workNotes": "The center relies on member and volunteer labor to run day-to-day, but no work requirement for retreat/course participants is stated on the website.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "fixed-fee",
+    "camping",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Danakosha Ling - home page",
+      "url": "https://danakosha.org/"
+    },
+    {
+      "title": "Danakosha Ling - dharma center",
+      "url": "https://danakosha.org/danakosha-dharma-center/"
+    },
+    {
+      "title": "Tulku Dakpa Rinpoche - biography",
+      "url": "https://danakosha.org/tulku-dakpa-rinpoche/"
+    },
+    {
+      "title": "Dharma events - Danakosha Ling",
+      "url": "https://danakosha.org/dharma-events/"
+    },
+    {
+      "title": "Semnyid Ngalso Meditation Course (2026)",
+      "url": "https://danakosha.org/events/summer-course-2026-semnyid-ngalso-meditation-course/"
+    },
+    {
+      "title": "Visitors - Danakosha Ling",
+      "url": "https://danakosha.org/visitors/"
+    },
+    {
+      "title": "How to get here - Danakosha Ling",
+      "url": "https://danakosha.org/how-to-get-here/"
+    },
+    {
+      "title": "Sem Nyid Ngal So - Relaxing in the Nature of Mind",
+      "url": "http://semnyidngalso.org/"
+    }
+  ],
+  "id": "danakosha-ling",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

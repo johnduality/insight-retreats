@@ -1,0 +1,77 @@
+{
+  "name": "Dhamma Pallava",
+  "aka": [
+    "Vipassana Meditation Centre Poland",
+    "Polska Fundacja Medytacji Vipassana",
+    "Polish Foundation of Vipassana Meditation"
+  ],
+  "website": "https://pallava.dhamma.org/",
+  "location": {
+    "address": "Dziadowice 3a, 62-709 Malanów, Poland",
+    "city": "Dziadowice",
+    "region": "Wielkopolska (Greater Poland), Poland",
+    "country": "Poland",
+    "state": "PL",
+    "lat": 51.98922,
+    "lng": 18.33715
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured 10-day residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded evening discourses and are available for brief questions during the course.",
+  "retreatOptions": "10-day residential courses (the main year-round offering) plus periodic 3-day and longer courses for returning (old) students; no day-only or drop-in courses.",
+  "about": "Dhamma Pallava is Poland's dedicated Vipassana meditation center, on a 6.8-hectare wooded site in the village of Dziadowice near Malanów in Wielkopolskie voivodeship. The Polish Vipassana community traces back to a first course organized in Warsaw in 2002 by a handful of practitioners; the Dziadowice land was purchased in 2008 and the purpose-built center opened for courses in September 2017. It offers residential 10-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, with participants observing Noble Silence for most of the course and surrendering phones and other devices on arrival. The center is run entirely by volunteers and operates purely on dana (voluntary donation), so there is no charge for teaching, food, or accommodation.",
+  "schedule": "Courses run for most of the year at the center, primarily 10-day courses, with occasional shorter sits and longer courses for old students; see the published course calendar on dhamma.org.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with teaching, food, and lodging given freely and funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "PLN",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course run purely on donation.",
+    "source": "https://pallava.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are prepared and served on-site for the full duration of the course at no charge.",
+  "workRequired": "partial",
+  "workNotes": "New students are not required to work during their 10-day course; old (returning) students often help through dhamma service (seva) during set-up, service periods, or between courses.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Vipassana Meditation: Poland",
+      "url": "https://pallava.dhamma.org/"
+    },
+    {
+      "title": "History of Vipassana Poland",
+      "url": "https://pallava.dhamma.org/en/dhamma-pallava-center/history-of-vipassana-poland/"
+    },
+    {
+      "title": "History of Dhamma Pallava",
+      "url": "https://pallava.dhamma.org/en/dhamma-pallava-center/history-of-dhamma-pallava/"
+    },
+    {
+      "title": "How to get to the center",
+      "url": "https://pallava.dhamma.org/en/how-to-get-to-the-course/"
+    },
+    {
+      "title": "Dhamma Pallava: Sprout of Dhamma - Vipassana Research Institute",
+      "url": "https://www.vridhamma.org/Dhamma-Pallava-Sprout-of-Dhamma"
+    }
+  ],
+  "id": "dhamma-pallava",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

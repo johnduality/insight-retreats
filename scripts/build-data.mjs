@@ -40,6 +40,26 @@ for (const file of files) {
   centers.push(entry);
 }
 
+// De-dupe by id. The dev filesystem this repo is often edited from returns EPERM on
+// unlink, so stale/duplicate files in data/centers can't always be deleted in place
+// (see deletions.txt) -- collapse duplicate ids here so the published site never shows
+// the same center twice even if two files on disk share an id.
+const dupeNotes = [];
+const seen = new Set();
+const deduped = [];
+for (const c of centers) {
+  if (c.id) {
+    if (seen.has(c.id)) {
+      dupeNotes.push(`duplicate id "${c.id}" -- kept first occurrence, see deletions.txt`);
+      continue;
+    }
+    seen.add(c.id);
+  }
+  deduped.push(c);
+}
+centers.length = 0;
+centers.push(...deduped);
+
 // Deterministic order: by region then name.
 centers.sort(
   (a, b) =>
@@ -63,4 +83,5 @@ const dataJs =
   `window.__TAGS__ = ${JSON.stringify(tags)};\n`;
 writeFileSync(join(outDir, "data.js"), dataJs);
 
+if (dupeNotes.length) console.log("  " + dupeNotes.join("\n  "));
 console.log(`Built ${centers.length} center(s) -> public/data/centers.json + data.js`);

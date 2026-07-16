@@ -1,0 +1,66 @@
+{
+  "name": "Chamma Ling Poland",
+  "aka": [
+    "Cziamma Ling",
+    "Ligmincha Poland Retreat Center",
+    "European Yungdrung Bön Center"
+  ],
+  "website": "https://ligmincha.pl/osrodek-cziamma-ling/",
+  "location": {
+    "address": "Aleja Huberta 4, 08-470 Wilga, Poland",
+    "city": "Wilga",
+    "region": "Mazowieckie (near Garwolin, along the Vistula), Poland",
+    "country": "Poland",
+    "state": "PL",
+    "lat": 51.82594,
+    "lng": 21.393882
+  },
+  "tradition": "Tibetan Bön (Yungdrung Bön)",
+  "technique": "Yungdrung Bön meditation and ritual practice (including Sang smoke offerings, Yeshe Walmo and Chöd chanting), plus group and individual multi-day retreats led by visiting Bön lamas.",
+  "influences": [
+    "Tenzin Wangyal Rinpoche",
+    "Geshe Yungdrung Gyatso",
+    "Yungdrung Bön lineage",
+    "Ligmincha International"
+  ],
+  "teacherAccess": "Tibetan Bön masters teach on-site several times a year and a resident lama is based at the center; daily group practice is open to guests, with teachings and consultations during scheduled courses.",
+  "retreatOptions": "Multi-day to multi-week group retreats with visiting teachers held several times a year, plus self-guided individual or small-group retreats of any length by arrangement; cabins can also be rented for private group retreats outside of scheduled courses.",
+  "about": "Chamma Ling Poland (Cziamma Ling) is Poland's main Yungdrung Bön retreat center, founded in 2004 on almost 4 hectares of pine forest near the village of Wilga, about 60km southeast of Warsaw along the Vistula. It is legally held by the Ligmincha Poland religious association and guided spiritually by Tibetan masters of the ancient Yungdrung Bön tradition, who teach on-site several times a year; a large gompa (meditation hall) and multi-meter stupa sit at the center of the grounds, with a smaller gompa nearby for smaller retreats. The property includes guest cabins with private bathrooms, a hostel, a tenting field, a dining hall, and a café, and prohibits alcohol and other substances throughout. Although rooted in the Bön tradition, the center is open to practitioners of other Buddhist paths and runs both structured multi-day courses and open-ended individual or group retreats lasting weeks or months.",
+  "schedule": "Group retreats and teachings with visiting Bön teachers are scheduled several times a year (see the Ligmincha Poland events calendar); the center is otherwise open year-round for individual retreats and cabin rentals.",
+  "cost": "Accommodation is charged per night by cabin/room type, at a discount during scheduled Ligmincha Poland courses; camping and hostel-style dorm options are also available, and reduced group-retreat rates are possible in exchange for work.",
+  "pricePerDay": {
+    "min": 50,
+    "max": 110,
+    "unit": "night",
+    "currency": "PLN",
+    "notes": "Per-person, per-night accommodation rates range from about 50 PLN (shared hostel room) to 110 PLN (private en-suite cabin); rates are discounted during scheduled Ligmincha Poland courses (roughly 70-95 PLN); camping is 50 PLN/night. A typical outside group retreat with a teacher is separately cited at about 20 EUR/day on Ligmincha International's site.",
+    "source": "https://ligmincha.pl/osrodek-cziamma-ling/"
+  },
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "An on-site dining hall and café serve food, but the published per-night accommodation rates cover lodging only; meals during organized group retreats with a teacher are typically included in the retreat fee.",
+  "workRequired": "partial",
+  "workNotes": "Reduced rates for a group retreat are available in exchange for work during the retreat, arranged in advance with retreat coordinators; no general work requirement applies to ordinary cabin stays.",
+  "tags": [
+    "tibetan-vajrayana",
+    "camping",
+    "self-guided",
+    "long-retreats"
+  ],
+  "sources": [
+    {
+      "title": "Cziamma Ling – nasz ośrodek (Ligmincha Polska)",
+      "url": "https://ligmincha.pl/osrodek-cziamma-ling/"
+    },
+    {
+      "title": "Chamma Ling, Poland | Ligmincha International",
+      "url": "https://ligmincha.org/centers-poland-wilga/"
+    }
+  ],
+  "id": "chamma-ling-poland",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

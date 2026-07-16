@@ -1,0 +1,78 @@
+{
+  "name": "Vrads Sande Retreat Centre",
+  "aka": [
+    "Sahaj Marg Vrads Sande",
+    "Vrads Sande Ashram",
+    "Heartfulness Vrads Sande"
+  ],
+  "website": "https://www.sahajmarg.org/smww/vradssande-denmark-europe",
+  "location": {
+    "address": "Vrads Sande Vej 4, 8654 Bryrup, Denmark",
+    "city": "Bryrup",
+    "region": "Central Jutland, Denmark",
+    "country": "Denmark",
+    "state": "DK",
+    "lat": 56.048,
+    "lng": 9.438
+  },
+  "tradition": "Sahaj Marg / Heartfulness Raja Yoga meditation (Shri Ram Chandra Mission)",
+  "technique": "Heart-based Raja Yoga meditation with yogic transmission (pranahuti), evening 'cleaning' practice, prayer meditation",
+  "influences": [
+    "Shri Ram Chandra of Shahjahanpur (Babuji)",
+    "Chariji",
+    "Kamlesh Patel (Daaji)"
+  ],
+  "teacherAccess": "Twice-daily group satsangh (meditation) sessions led by resident preceptors; visits to the ashram are by request, with meditation guidance available from ashram residents rather than formal one-on-one interviews.",
+  "retreatOptions": "A dedicated Retreat Centre of seven apartments within the wider Vrads Sande Ashram, set aside since 2011 for personal meditation retreats of unspecified length, alongside general ashram stays and periodic seminars.",
+  "about": "Vrads Sande Retreat Centre is a dedicated meditation retreat facility, opened in 2011, within the wider Vrads Sande Ashram in the Jutland countryside near Bryrup, Denmark. It belongs to Sahaj Marg, also known as Heartfulness, a non-Buddhist system of heart-based Raja Yoga meditation founded by Shri Ram Chandra of Shahjahanpur and now guided by Kamlesh Patel ('Daaji'), in which practitioners sit in silent meditation while receiving a subtle transmission (pranahuti) from a trained preceptor. The Retreat Centre occupies seven apartments in the quietest corner of the ashram, set aside for practitioners who want to step away from daily life for concentrated meditation and inner reflection, guided by practical tips such as keeping silence, journaling and staying on the property for the duration of the stay. Group meditation (satsangh) is held twice daily, and guests are otherwise free to structure their own day around sitting, walking and rest. The center runs on voluntary donations rather than fixed prices and welcomes Sahaj Marg practitioners from across Europe and beyond.",
+  "schedule": "Group satsangh (meditation) Monday-Saturday at 6:30am and 5pm, Sunday at 7:30am and 1:30pm; no other fixed daily program, with time for individual sitting and reflection encouraged throughout the day.",
+  "cost": "Suggested donation for Retreat Centre stays is €25-30 per day; general ashram stays are €15/day plus €10/day for meals; all figures are voluntary donations rather than fixed fees.",
+  "pricePerDay": {
+    "min": 188,
+    "max": 225,
+    "unit": "night",
+    "currency": "DKK",
+    "notes": "Suggested donation for a stay at the dedicated Retreat Centre is €25-30/day (roughly DKK 188-225), covering accommodation; general ashram stays are €15/day plus €10/day for meals if desired.",
+    "source": "https://www.sahajmarg.org/smww/vrads-sande-tips"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Outside seminars, guests largely self-cater from a small stocked kitchen; during seminars and busy periods communal meals are provided; guests with dietary needs are asked to bring their own vegetarian supplies.",
+  "workRequired": "no",
+  "workNotes": "No organized work practice; guests are only expected to clean up after themselves in the shared kitchen and accommodation.",
+  "tags": [
+    "yoga-hindu",
+    "self-guided",
+    "silent",
+    "dana-donation",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Sahaj Marg - Vrads Sande Retreat Centre",
+      "url": "https://www.sahajmarg.org/smww/vradssande-denmark-europe"
+    },
+    {
+      "title": "Sahaj Marg - Vrads Sande, Denmark (Ashram information)",
+      "url": "https://www.sahajmarg.org/smww/fa/vrads/vrads-sande-denmark"
+    },
+    {
+      "title": "Sahaj Marg - Vrads Sande Retreat Centre Useful Tips",
+      "url": "https://www.sahajmarg.org/smww/vrads-sande-tips"
+    },
+    {
+      "title": "Sahaj Marg - Vrads Sande Directions & Practical Tips",
+      "url": "https://www.sahajmarg.org/smww/fa/vrads/directions"
+    },
+    {
+      "title": "Sahaj Marg - Vrads Sande Ashram Life",
+      "url": "https://www.sahajmarg.org/smww/fa/vrads/ashram-life"
+    }
+  ],
+  "id": "vrads-sande-retreat-centre",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

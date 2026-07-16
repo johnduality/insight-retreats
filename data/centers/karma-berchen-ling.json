@@ -1,0 +1,74 @@
+{
+  "name": "Karma Berchen Ling",
+  "aka": [
+    "KBL",
+    "Karma Berchen Ling Diamond Way Buddhist Retreat Center",
+    "Berchen Ling"
+  ],
+  "website": "https://www.berchenling.org/",
+  "location": {
+    "address": "Gelini, 20400 Xylokastro, Greece",
+    "city": "Xylokastro",
+    "region": "Peloponnese, Greece",
+    "country": "Greece",
+    "state": "GR",
+    "lat": 38.06,
+    "lng": 22.653
+  },
+  "tradition": "Diamond Way Buddhism, a lay Buddhist movement within the Karma Kagyu school of Tibetan Vajrayana Buddhism",
+  "technique": "Guru yoga meditation on the 16th Karmapa; Ngöndro foundational practices; 8th Karmapa meditation; prostration practice",
+  "influences": [
+    "Lama Ole Nydahl",
+    "16th Karmapa Rangjung Rigpe Dorje",
+    "17th Karmapa Thaye Dorje",
+    "Karma Kagyu lineage"
+  ],
+  "teacherAccess": "No resident teacher; traveling Diamond Way lamas and senior students lead the seasonal courses and give Dharma lectures, with the 8th Karmapa retreat open only to students who have completed Ngöndro",
+  "retreatOptions": "Seasonal residential courses of roughly 3-8 nights (72-hour Prostration Retreat, Summer Course, 8th Karmapa Retreat) plus winter group or individual retreats from one week up to a month; self-organized personal retreats are possible between courses in the warmer months",
+  "about": "Karma Berchen Ling (KBL) is an international Diamond Way Buddhist retreat center of the Karma Kagyu lineage, perched at about 1,270 meters in the 'Black Mountains' above Xylokastro in the Peloponnese, overlooking the Corinthian Gulf. Found in 1988 and bought the following year by Lama Ole Nydahl and Greek students, it has been held by the Diamond Way Buddhism Foundation since 2003 and is home to a small international team that lives on site year-round and maintains a Kalachakra Stupa and a cluster of smaller stupas. The program follows a seasonal rhythm of guided courses - a spring 72-hour Prostration Retreat, a late-summer course, and spring and autumn 8th Karmapa meditation retreats - alongside winter group and individual retreats ranging from one week to a month. Facilities are simple and remote: guests sleep in one of two on-site houses, the gompa, a dormitory, or their own tent, and during organized courses three communal meals a day are provided by volunteers. Courses are intended for practicing students of Lama Ole Nydahl within the worldwide Diamond Way network, and guests are expected to pitch in with cooking and site upkeep.",
+  "schedule": "Organized courses run three to four daily meditation/lecture sessions (e.g. 9am, 12pm, 2:30pm, 8pm); the yearly program clusters around a February/March Balkan course and retreat-center meeting, a spring 72-hour Prostration Retreat, an April/May 8th Karmapa Retreat, an August Summer Course, and an October 8th Karmapa Retreat",
+  "cost": "No public price list; multi-day courses require online registration through the Diamond Way network (registration.dwbn.org), and three meals a day are included during organized courses; outside of courses, guests self-cater",
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Three communal meals a day are provided during organized courses, cooked by volunteer teams from the visiting sangha; specific dietary style is not published online. Outside of courses guests organize and cook their own food.",
+  "workRequired": "partial",
+  "workNotes": "Course participants are expected to help with running the course and meal preparation; for some events there is 'no cooking team' and everybody present helps prepare and clean up.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "self-guided",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Karma Berchen Ling - home page",
+      "url": "https://www.berchenling.org/"
+    },
+    {
+      "title": "About Karma Berchen Ling",
+      "url": "https://www.berchenling.org/kbl/"
+    },
+    {
+      "title": "Program 2026",
+      "url": "https://www.berchenling.org/participate/program/"
+    },
+    {
+      "title": "Accommodation & Food in KBL",
+      "url": "https://www.berchenling.org/guide/accommodation/"
+    },
+    {
+      "title": "What You Should Know About the Conditions in KBL",
+      "url": "https://www.berchenling.org/guide/conditions/"
+    },
+    {
+      "title": "Karma Berchen Ling Diamond Way Buddhist Retreat Center - karmapa.org",
+      "url": "https://www.karmapa.org/centers/gelini-xylokastro/karma-berchen-ling-diamond-way-buddhist-retreat-center/"
+    }
+  ],
+  "id": "karma-berchen-ling",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

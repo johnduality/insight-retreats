@@ -1,0 +1,59 @@
+{
+  "id": "sea-to-sky-retreat-centre",
+  "name": "Sea to Sky Retreat Centre",
+  "aka": [
+    "SSRC"
+  ],
+  "website": "https://siddharthasintent.org/ssrc/",
+  "location": {
+    "address": "84 Retreat Road, Whistler, BC V8E 0A7, Canada",
+    "city": "Whistler",
+    "region": "British Columbia, Canada",
+    "country": "Canada",
+    "state": "BC",
+    "lat": 49.991176,
+    "lng": -123.121298
+  },
+  "tradition": "Tibetan Buddhism (Vajrayana), non-sectarian centre primarily hosting Khyentse-lineage Nyingma practice programs under Dzongsar Khyentse Rinpoche and Siddhartha's Intent",
+  "technique": "Vajrayana practices including Ngondro (foundational practices), guided meditation retreats, and Nyingtik/tantric practice intensives led by qualified instructors",
+  "influences": [
+    "Dzongsar Khyentse Rinpoche",
+    "Siddhartha's Intent",
+    "Drubgyud Tenzin Rinpoche"
+  ],
+  "teacherAccess": "Programs are led by Siddhartha's Intent instructors (e.g. Bruce Ashton, Cydney Kawamura) and visiting teachers such as Drubgyud Tenzin Rinpoche, with Dzongsar Khyentse Rinpoche periodically teaching in person; access varies by program.",
+  "retreatOptions": "Multi-day residential programs ranging from long-weekend guided retreats (e.g. 3-4 nights) to week-plus practice intensives (e.g. an 8-night Ngondro Practice Intensive or 9-night Vimaladrup Tsokbum), plus periodic pujas, drupchods and a family camp; centre is open seasonally mid-March to mid-December.",
+  "about": "Sea to Sky Retreat Centre (SSRC) is a purpose-built retreat property in Whistler, BC, begun in 1993 by Dzongsar Khyentse Rinpoche and friends as his only retreat centre in North America. Though non-sectarian in atmosphere and open to a range of contemplative and community programs, SSRC's core activity is hosting residential Buddhist meditation retreats - largely Vajrayana Ngondro and Nyingma practice intensives - organized through Siddhartha's Intent and led by instructors such as Bruce Ashton and Cydney Kawamura, alongside visiting teachers including Drubgyud Tenzin Rinpoche. Typical programs run from long weekends to week-plus practice intensives, with participants staying on site in shared accommodation and meals included in the program fee. The centre operates seasonally from mid-March to mid-December each year and also hosts family camps, work-as-practice volunteer days, and occasional non-Buddhist community gatherings alongside its core dharma calendar.",
+  "schedule": "Varies by program; multi-day retreats typically run from afternoon arrival on the first day to after-lunch departure on the last, with structured daily sitting/practice sessions, teachings, and communal meals throughout.",
+  "cost": "No single published nightly rate; multi-day program fees are set individually per retreat by Siddhartha's Intent and typically cover shared room and board as part of the program price.",
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Room and board are included in multi-day program fees; specific dietary approach is not published on the centre's website.",
+  "workRequired": "no",
+  "workNotes": "Retreat participation does not require work; the centre separately hosts an occasional optional 'Work as Practice' volunteer weekend hosted by the SSRC volunteer team.",
+  "tags": [
+    "tibetan-vajrayana",
+    "family-friendly",
+    "meals-included",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Sea to Sky Retreat Centre - Siddhartha's Intent",
+      "url": "https://siddharthasintent.org/ssrc/"
+    },
+    {
+      "title": "Residential Retreats led by Instructors of Siddhartha's Intent",
+      "url": "https://siddharthasintent.org/events/ssrc/"
+    },
+    {
+      "title": "SSRC Contact - Siddhartha's Intent",
+      "url": "https://siddharthasintent.org/contact-ssrc/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

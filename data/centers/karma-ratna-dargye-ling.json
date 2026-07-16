@@ -1,0 +1,65 @@
+{
+  "id": "karma-ratna-dargye-ling",
+  "name": "Karma Ratna Dargye Ling",
+  "aka": [
+    "Buddhista Meditáció Központ Tar",
+    "Tar Buddhist Meditation Centre",
+    "Hungarian Karma Kagyupa Buddhist Community Retreat Centre",
+    "Alexander Csoma de Körös Memorial Park",
+    "Kőrösi Csoma Sándor Memorial Park and Stupa"
+  ],
+  "website": "https://buddha-tar.hu",
+  "location": {
+    "address": "3073 Tar, Nógrád County, Hungary",
+    "city": "Tar",
+    "region": "Nógrád County, Hungary",
+    "country": "Hungary",
+    "state": "HU",
+    "lat": 47.9636202,
+    "lng": 19.7450304
+  },
+  "tradition": "Tibetan Karma Kagyu Buddhism, as taught by the Hungarian Karma Kagyupa Buddhist Community",
+  "technique": "Shine (calm-abiding) meditation, Lojong mind-training (tonglen sending-and-receiving practice), Chenrezig (Avalokiteshvara) deity meditation, two-day Nyungne fasting and vow retreats, and the Ngöndro preliminary practices (prostrations/refuge, Dorje Sempa/Vajrasattva purification, mandala offering, guru yoga), with periodic empowerments from visiting Rinpoches",
+  "influences": [
+    "Lama Ngawang Rinpoche (founder, d. 2011)",
+    "Lama Csöpel (resident lama)",
+    "Cültrim Rinpoche",
+    "Beru Khyentse Rinpoche",
+    "Sherab Gyaltsen Rinpoche"
+  ],
+  "teacherAccess": "Resident Lama Csöpel, spiritual head of the community since 1993, personally leads the regular Nyungne retreats and ceremonies on site. Visiting Rinpoches (Cültrim Rinpoche, Beru Khyentse Rinpoche and others) periodically travel to Tar to give teachings, empowerments and lead longer retreats.",
+  "retreatOptions": "Recurring 2-day Nyungne meditation retreats (roughly 8 times a year plus additional 2-day Nyungne retreats tied to the 4 main Buddhist holidays); periodic multi-day retreats led by visiting Rinpoches (Mahamudra, Lojong, Phowa and Chöd retreats have all been held on site); historically the centre has also hosted extended retreats of a month or more (a month-long Lojong retreat and, in the 1990s, two separate six-month meditation retreats)",
+  "about": "Karma Ratna Dargye Ling is the residential retreat property of the Hungarian Karma Kagyupa Buddhist Community, established by Lama Ngawang Rinpoche in 1987 and operating from a nine-hectare site near Tar village, in Nógrád County, since 1991. The grounds hold the Alexander Csoma de Körös Memorial Park and its 40-foot Peace Stupa, consecrated by the Dalai Lama in 1992 on the 150th anniversary of the Hungarian Tibetologist's death, as well as a three-storey Tara Temple built in traditional Tibetan style in 2011. Beyond the freely-visitable stupa and memorial park, the centre itself functions as a working dharma retreat property with guest accommodation, hosting a recurring cycle of two-day Nyungne meditation and fasting retreats under resident Lama Csöpel plus periodic longer retreats and empowerments led by visiting Rinpoches such as Cültrim Rinpoche and Beru Khyentse Rinpoche. The Community also runs two day-only meditation centres in Budapest (Karmapa House and Karma Dorje Ling), but Tar is its only property with onsite residential retreat accommodation.",
+  "schedule": "Nyungne retreat rhythm: arrival at 6pm the evening before Day 1, when the leading lama gives preparatory teachings; Day 2 is kept as a 24-hour vow day (no eating, drinking, talking, lying, or sitting on high seats) centred on Chenrezig meditation and mantra recitation; departure is the following morning after a closing Tara meditation and clean-up. Longer retreats with visiting Rinpoches follow denser multi-day teaching-and-practice schedules.",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "During Nyungne retreats participants eat only at set times on the preparatory first day and observe a full fast (no food or drink) on the vow day itself; the official site does not specify a standard meal arrangement for its other multi-day retreats with visiting teachers.",
+  "workRequired": "unknown",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent"
+  ],
+  "sources": [
+    {
+      "title": "About us — Hungarian Karma-Kagyüpa Buddhist Community",
+      "url": "https://buddha-tar.hu/en/about-us/"
+    },
+    {
+      "title": "History — Hungarian Karma Kagyupa Buddhist Community",
+      "url": "https://buddha-tar.hu/en/history/"
+    },
+    {
+      "title": "Meditations — Shine, Lojong, Ngöndro and Nyungne practice descriptions",
+      "url": "https://buddha-tar.hu/en/meditations/"
+    },
+    {
+      "title": "Contact — Karma Ratna Dargye Ling, Tar",
+      "url": "https://buddha-tar.hu/en/contact/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

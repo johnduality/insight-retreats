@@ -1,0 +1,74 @@
+{
+  "id": "zenwest-buddhist-society",
+  "name": "Zenwest Buddhist Society",
+  "aka": [
+    "Victoria Zen Centre",
+    "Kokizanji",
+    "Kokizan-ji",
+    "Red Flag Mountain Temple"
+  ],
+  "website": "https://www.zenwest.ca",
+  "location": {
+    "address": "Kokizanji (Red Flag Mountain Temple), Sooke, BC, Canada",
+    "city": "Sooke",
+    "region": "Vancouver Island, British Columbia, Canada",
+    "country": "Canada",
+    "state": "BC",
+    "lat": 48.3739,
+    "lng": -123.7272
+  },
+  "tradition": "Zen Buddhism, Hakuin Rinzai lineage",
+  "technique": "Zazen (seated meditation) within a structured monastic-style training schedule, including work practice, study, and formal temple forms",
+  "influences": [
+    "Kosen Eshu Martin Osho (teacher and abbot)",
+    "Hakuin Rinzai Zen lineage"
+  ],
+  "teacherAccess": "Discussion of practice is possible with Abbot Eshu Osho during residential stays, either informally or by arranged one-on-one meeting; all residential retreat participation is subject to his approval.",
+  "retreatOptions": "Overnight personal retreats or residential training stays at the Kokizanji hermitage/camping space, from a one-night minimum up to thirty days, plus periodic formal sesshin retreats when scheduled.",
+  "about": "Zenwest Buddhist Society, in the Hakuin Rinzai Zen lineage under teacher and abbot Kosen Eshu Martin Osho, is based on Vancouver Island with activities in Victoria, Sooke and Nanaimo, BC. Its residential retreat site is Kokizanji ('Red Flag Mountain Temple'), a hermitage and camping space in Sooke where members and the public can book an overnight personal retreat or join an ongoing residential training term, living within the temple's daily schedule under the Abbot's guidance. Stays run from a one-night minimum up to thirty days, with accommodation in the hermitage (private or shared rooms) or on-site tenting, and no daily drop-ins or personal visitors permitted once a stay begins. All rates include meals, with hermitage stays priced per night for both members and non-members, tenting available at a lower nightly rate, and month-long residential training offered at a flat monthly fee (discounted in June).",
+  "schedule": "Residential guests join the temple's training schedule, which includes periods of zazen, work practice, and study through the day; computer and phone access is limited to emergencies and personal visitors are not permitted during a stay.",
+  "cost": "Multi-day and month-long residential stays are priced per night or per month, with separate member and non-member rates for the hermitage and for tenting; all rates include meals.",
+  "pricePerDay": {
+    "min": 45,
+    "max": 120,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "Range spans the Full Member shared-occupancy hermitage rate (CAD $45/night) to the non-member private single-occupancy hermitage rate (CAD $120/night); tenting is cheaper (CAD $25-35/night) and month-long residential training is a flat CAD $599/month (CAD $299 in June).",
+    "source": "https://www.zenwest.ca/residential-training-and-retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "All published residential rates include meals; specific dietary approach is not stated on the centre's website.",
+  "workRequired": "unknown",
+  "workNotes": "Residential training follows a monastic-style schedule that typically includes work practice, but the public retreat page does not explicitly document work expectations for overnight guests.",
+  "tags": [
+    "zen",
+    "camping",
+    "self-guided",
+    "meals-included",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Zenwest Buddhist Society - home",
+      "url": "https://www.zenwest.ca/"
+    },
+    {
+      "title": "Residential Training and Retreats",
+      "url": "https://www.zenwest.ca/residential-training-and-retreats/"
+    },
+    {
+      "title": "Sesshin & Other Intensive Opportunities For Engagement",
+      "url": "https://www.zenwest.ca/sesshin/"
+    },
+    {
+      "title": "Zenwest Buddhist Society (formerly Victoria Zen Centre) - Northwest Dharma Association",
+      "url": "https://northwestdharma.org/group_member/zenwest-buddhist-society-formerly-victoria-zen-centre/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

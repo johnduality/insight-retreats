@@ -1,0 +1,76 @@
+{
+  "id": "dhamma-surabhi",
+  "name": "Dhamma Surabhi",
+  "aka": [
+    "Vipassana Meditation Centre of British Columbia",
+    "Vipassana Meditation Centre of BC"
+  ],
+  "website": "https://surabhi.dhamma.org",
+  "location": {
+    "address": "P.O. Box 699, Merritt, BC V1K 1B8, Canada (property near Kingsvale, off the Coquihalla Highway)",
+    "city": "Merritt",
+    "region": "Nlaka'pamux Territory, British Columbia, Canada",
+    "country": "Canada",
+    "state": "BC",
+    "lat": 49.902445,
+    "lng": -120.916084
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions.",
+  "retreatOptions": "Ten-day residential Vipassana courses offered year-round (the centre's standard and primary offering); course dates fill 2-3 months in advance.",
+  "about": "Dhamma Surabhi is the Goenka-tradition Vipassana Meditation Centre of British Columbia, set in ponderosa-pine forest in the mountains above Merritt, about 240 km northeast of Vancouver just off the Coquihalla Highway. It offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, the same technique and structure used at more than 180 Dhamma centres worldwide. Students live on site for the full course, observe Noble Silence, and follow a fixed daily meditation schedule, with simple cabins and a main building providing accommodation year-round through all four seasons. As with every centre in the Goenka network, there are no fees of any kind - courses, food and lodging are offered purely on a dana (voluntary donation) basis by past students, and the centre is run entirely by volunteers.",
+  "schedule": "Standard Goenka ten-day course schedule: arrival evening begins the course, followed by ten full days of silent sitting meditation (roughly 4am-9pm) with recorded evening discourses, and departure the following morning; Noble Silence is observed by all new students for most of the course.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food and accommodation are offered freely, funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CAD",
+    "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students.",
+    "source": "https://surabhi.dhamma.org/courses/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; vegetarian meals included throughout.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses or take part in maintenance work; new students are not required to work during their first course.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Surabhi - Vipassana Meditation Centre of BC (home)",
+      "url": "https://surabhi.dhamma.org/"
+    },
+    {
+      "title": "Centre - Dhamma Surabhi",
+      "url": "https://surabhi.dhamma.org/centre/"
+    },
+    {
+      "title": "Courses - Dhamma Surabhi",
+      "url": "https://surabhi.dhamma.org/courses/"
+    },
+    {
+      "title": "Contact Us - Dhamma Surabhi",
+      "url": "https://surabhi.dhamma.org/contacts.shtml"
+    },
+    {
+      "title": "Dhamma Surabhi centre document - Vipassana Research Institute",
+      "url": "https://www.vridhamma.org/sites/default/files/center-docs/46.surabhi.pdf"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Těnovice Diamond Way Buddhist Retreat Center",
+  "aka": [
+    "Meditační centrum Těnovice",
+    "Centrum buddhismu Diamantové cesty Těnovice",
+    "Stupa of Enlightenment, Těnovice"
+  ],
+  "website": "https://tenovice.bdc.cz/",
+  "location": {
+    "address": "Těnovice 55, 335 61 Těnovice, Czech Republic",
+    "city": "Těnovice",
+    "region": "Plzeň Region (Bohemia), Czech Republic",
+    "country": "Czech Republic",
+    "state": "CZ",
+    "lat": 49.6319,
+    "lng": 13.6346
+  },
+  "tradition": "Diamond Way Buddhism (Karma Kagyu, lay Tibetan Vajrayana)",
+  "technique": "Guru yoga and meditation on the 16th Karmapa, phowa and other Diamond Way meditation practices taught by visiting lay teachers",
+  "influences": [
+    "Lama Ole Nydahl",
+    "16th Gyalwa Karmapa, Rangjung Rigpe Dorje",
+    "17th Gyalwa Karmapa, Thaye Dorje",
+    "Karma Kagyu lineage"
+  ],
+  "teacherAccess": "No resident teacher; visiting Diamond Way lamas and traveling lay teachers lead scheduled courses, while individual quiet retreat is possible on an ongoing basis without a teacher present.",
+  "retreatOptions": "Individual and small-group meditation retreats in seclusion (ústraní), available even on ordinary weekdays, plus periodic large multi-day meditation courses with visiting teachers; four retreat huts on-site support longer solitary stays.",
+  "about": "Těnovice is the flagship residential retreat center of Diamond Way Buddhism in the Czech Republic, founded by Lama Ole Nydahl in 1997 on private land in the hills of western Bohemia, about 25km southeast of Plzeň. Practicing in the Karma Kagyu lineage under the spiritual guidance of the 17th Karmapa Thaye Dorje, the center sits on roughly 24 hectares at about 550m elevation and includes a main building with a meditation room, kitchen and social facilities, four retreat huts for individual seclusion, and, since 2014, the first Buddhist stupa built in the Czech Republic. Its main activity is hosting individual and group meditation retreats along with large periodic courses led by visiting lay teachers; quiet retreat practice takes place on the grounds even on ordinary weekdays. As with other Diamond Way centers there is no resident teacher or monastic community, and the property is maintained day-to-day by resident lay practitioners; visitors are asked to keep to the marked path from the car park and to respect the site's quiet atmosphere.",
+  "schedule": "Individual retreat practice available on an ongoing basis; periodic large multi-day meditation courses and group retreats with visiting Diamond Way teachers scheduled through the year.",
+  "cost": "No fees are published on the center's website; costs for scheduled courses and retreat stays are arranged directly with the center.",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "Not specified on the center's website.",
+  "workRequired": "unknown",
+  "workNotes": "Not specified; as with other Diamond Way centers, day-to-day upkeep is generally handled by resident lay practitioners.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided"
+  ],
+  "sources": [
+    {
+      "title": "Meditační centrum Těnovice",
+      "url": "https://tenovice.bdc.cz/"
+    },
+    {
+      "title": "Těnovice – Buddhismus Diamantové cesty",
+      "url": "https://bdc.cz/meditacni-centra/tenovice/"
+    },
+    {
+      "title": "Těnovice Diamond Way Buddhist Center - karmapa.org",
+      "url": "https://www.karmapa.org/centers/tenovice/tenovice-diamond-way-buddhist-center/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  },
+  "id": "tenovice-diamond-way-buddhist-retreat-center"
+}

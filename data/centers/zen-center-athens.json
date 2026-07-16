@@ -1,0 +1,77 @@
+{
+  "name": "Zen Center Athens",
+  "aka": [
+    "Kaisanji",
+    "Kaisanji Zen Monastery",
+    "Serifos Zendo",
+    "Kentro Zen"
+  ],
+  "website": "https://www.zencenterathens.com/en/",
+  "location": {
+    "address": "Kalo Ampeli, Serifos, Greece",
+    "city": "Serifos",
+    "region": "Cyclades, Greece",
+    "country": "Greece",
+    "state": "GR",
+    "lat": 37.1237,
+    "lng": 24.4956
+  },
+  "tradition": "Soto Zen Buddhism, in the lineage of Hosshin-ji monastery (Sekkei Harada / Koten Roshi)",
+  "technique": "Zazen (seated meditation); kinhin (walking meditation); oryoki formal meal practice; sesshin liturgy (chanting, prostrations, dokusan) in the Soto Zen tradition of Dogen",
+  "influences": [
+    "Koten Roshi (Hosshin-ji Monastery, Japan)",
+    "Konstantinos Sgoumpopoulos",
+    "Sekkei Harada",
+    "Shohaku Okumura",
+    "Dogen Zenji"
+  ],
+  "teacherAccess": "Dharma talks, ceremony leadership and periodic dokusan (private interviews) with Koten Roshi during his roughly twice-yearly visits from Japan; day-to-day practice is guided by Dharma-transmitted teacher Konstantinos Sgoumpopoulos and other visiting Zen teachers",
+  "retreatOptions": "Multi-day sesshins (5 days / 4 nights) held two to three times a year at Kaisanji on the island of Serifos, aimed at experienced zazen practitioners rather than complete beginners; separate weekend zazen days and yoga-inflected retreats are also offered through the Athens dojo",
+  "about": "Zen Center Athens is a Soto Zen sangha founded in 2013 by Konstantinos Sgoumpopoulos after he trained under and received Dharma transmission from Koten Roshi, a senior monk (Godo Roshi) of Hosshin-ji monastery in Fukui, Japan, in a lineage connected to Sekkei Harada and Shunryu Suzuki Roshi. Alongside its city dojo in Athens (Saikenji), the center is developing Kaisanji - 'the temple of the mountain and the sea' - a Zen monastery on a remote stretch of coast near Kalo Ampeli beach on the island of Serifos, where it holds multi-day sesshins several times a year. Kaisanji sesshins follow Hosshinji's monastic program: practice is done in silence without phones, computers or books, meals are taken in the traditional oryoki style, and days run from a 4am wake-up bell through a full schedule of zazen, chanting, work practice (samu) and dokusan interviews, with lights out at 9:30pm. Koten Roshi travels from Japan roughly twice a year to lead sesshins and give personal instruction, and the center has also hosted visiting teachers connected to the San Francisco Zen Center, including Shohaku Okumura. The 5-day sesshins include on-site meals and simple monastic-style accommodation in cells built for monks and visitors, and are intended for practitioners with some prior zazen experience.",
+  "schedule": "Sesshin daily schedule runs from a 4am wake-up bell through alternating periods of zazen, kinhin, morning and evening liturgy, oryoki meals, work practice (samu) and evening zazen, with lights out at 9:30pm; regular zazen and one-day sittings continue at the Athens dojo between Kaisanji retreats",
+  "cost": "5-day Kaisanji sesshin: EUR 250, or EUR 350 for the session led in person by Koten Roshi, covering meals and accommodation for the retreat; ferry travel to Serifos is extra",
+  "pricePerDay": {
+    "min": 50,
+    "max": 70,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "5-night sesshin: EUR 250 regular fee or EUR 350 for the sesshin with Koten Roshi present, both covering meals and accommodation, divided across 5 nights.",
+    "source": "https://www.zencenterathens.com/en/kaisanji-sesshins-serifos-greece/"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Meals during sesshin are taken in the traditional monastic oryoki style and are included in the retreat fee; specific dietary style (vegetarian/vegan/other) is not stated online.",
+  "workRequired": "yes",
+  "workNotes": "The daily sesshin schedule includes a work period (samu) as part of standard monastic practice.",
+  "tags": [
+    "zen",
+    "silent",
+    "fixed-fee",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Kaisanji Retreats - Zen Center",
+      "url": "https://www.zencenterathens.com/en/retreats/kaisanji-retreats/"
+    },
+    {
+      "title": "Kaisanji Sesshins May-October 2026 - Zen Center",
+      "url": "https://www.zencenterathens.com/en/kaisanji-sesshins-serifos-greece/"
+    },
+    {
+      "title": "Our Path - Zen Center",
+      "url": "https://www.zencenterathens.com/en/kentro-zen/our-path/"
+    },
+    {
+      "title": "Zen Center Athens, Sesshin on Serifos - a thank you note to our donors",
+      "url": "https://athenszencenter.wordpress.com/2015/11/01/zen-center-athens-sesshin-on-serifos-a-thank-you-note-to-our-donors/"
+    }
+  ],
+  "id": "zen-center-athens",
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -213,7 +213,7 @@ a:hover { color: var(--blue-deep); }
 .sources { font-size: 15px; padding-left: 20px; }
 .sources li { margin-bottom: 4px; }
 
-.site-footer { margin-top: auto; border-top: 1px solid var(--border); background: var(--bg-alt); padding: 28px 0; }
+.site-footer { margin-top: auto; padding: 28px 0; }
 .site-footer p { color: var(--muted); font-size: 14px; margin: 0; text-align: center; }
 
 @media (max-width: 820px) {
