@@ -43,17 +43,15 @@ a:hover { color: var(--blue-deep); }
   position: sticky; top: 0; z-index: 50;
   background: var(--header-bg);
   backdrop-filter: saturate(140%) blur(10px);
-  border-bottom: 1px solid var(--border);
 }
 .header-inner { display: flex; align-items: center; justify-content: space-between; height: 64px; }
 .brand {
-  font-family: var(--wordmark); font-weight: 400; font-size: 26px; line-height: 1;
-  color: var(--blue); letter-spacing: 0.5px; white-space: nowrap;
+  font-family: var(--serif); font-weight: 700; font-size: 15px; line-height: 1;
+  color: var(--blue); white-space: nowrap;
 }
-@media (max-width: 560px) { .brand { font-size: 20px; } }
 .brand:hover { color: var(--blue-deep); }
 .header-actions { display: flex; align-items: center; gap: 10px; }
-.nav-link { font-family: var(--serif); font-size: 15px; }
+.nav-link { font-family: var(--serif); font-size: 15px; font-weight: 700; }
 .about-page .about-links { margin: 8px 0 16px; padding-left: 20px; }
 .about-page .about-links li { margin-bottom: 8px; font-size: 17px; }
 
@@ -157,6 +155,9 @@ a:hover { color: var(--blue-deep); }
 .detail-back:hover { color: var(--blue-deep); }
 .detail-head { border-bottom: 1px solid var(--border); padding-bottom: 20px; margin-bottom: 24px; }
 .detail-head h1 { font-family: var(--display); font-weight: 700; margin: 0 0 6px; color: var(--title); font-size: 38px; line-height: 1.1; }
+#about .detail-head h1 { color: var(--blue); }
+#about .detail-head { border-bottom: none; padding-bottom: 0; }
+#about .detail-main h2 { color: var(--text); font-family: var(--serif); font-weight: 700; font-size: 17px; margin: 24px 0 6px; }
 .detail-head .tradition { color: var(--blue); font-size: 17px; margin: 0 0 2px; }
 .detail-head .place { color: var(--muted); margin: 0; font-size: 15px; }
 .detail-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 34px; align-items: start; }
