@@ -5,10 +5,6 @@ with a list view, an interactive map, and per-center detail pages. It's a plain
 **static site** — no backend, no server, no database — so it runs for free on any
 static host (GitHub Pages, Netlify, and the like).
 
-> All meditation-focused traditions are included, including Goenka / Vipassana-Meditation
-> (dhamma.org) centers (tagged `goenka`). A center qualifies only if it offers an
-> overnight residential stay of **two nights or more** at its own facility.
-
 ## What's here
 
 ```
