@@ -1,0 +1,109 @@
+{
+  "id": "vimaladhatu",
+  "name": "Meditationshaus Vimaladhatu",
+  "aka": [
+    "Vimaladhatu",
+    "Vimaladhatu Retreat Centre",
+    "Vimaladhatu Meditationshaus"
+  ],
+  "website": "https://www.vimaladhatu.de/",
+  "location": {
+    "address": "Naturfreundehaus 1, 59846 Sundern-Altenhellefeld, Germany",
+    "city": "Altenhellefeld",
+    "county": "Hochsauerlandkreis",
+    "region": "Sauerland, North Rhine-Westphalia, Germany",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 51.3146,
+    "lng": 8.09834
+  },
+  "tradition": "Triratna Buddhist Community: eclectic Western Buddhism founded by Sangharakshita, run here by the Buddhistisches Zentrum Essen (Essen Buddhist Centre)",
+  "technique": "Mindfulness of breathing and metta bhavana (loving-kindness), Buddhist ritual/puja, and walking meditation at the on-site stupa",
+  "influences": [
+    "Sangharakshita (founder of the Triratna Buddhist Order)",
+    "Dhardo Rimpoche (Sangharakshita's own teacher, whose relics are held in the retreat's stupa)",
+    "Buddhistisches Zentrum Essen / Triratna Buddhist Order teachers"
+  ],
+  "about": "Meditationshaus Vimaladhatu is the rural retreat house of the Triratna Buddhist Community's Buddhistisches Zentrum Essen, occupying a former countryside lodge (Naturfreundehaus) that was renovated in 2000 amid the forested hills of the Sauerland near Sundern-Altenhellefeld, Germany. It hosts year-round residential retreats for around 30 guests, graded from introductory weekends for complete beginners up to week-plus retreats for experienced practitioners already familiar with the centre's core practices and its periods of silence. Teaching centres on the two main practices used across the Triratna tradition, mindfulness of breathing and metta bhavana, together with Buddhist ritual (puja) and talks or discussion groups led by local Triratna Order members; since 2011 a hand-carved stone stupa holding relics of Sangharakshita's own teacher Dhardo Rimpoche has stood on the grounds as a further focus for walking meditation. All meals are vegan and, together with housework, are shared out via a daily rota that retreatants sign up for as a form of practice in itself. Because the teachers give their time without a fee, the centre can charge income-tiered sliding-scale prices, with instalment plans and a hardship aid fund available to anyone who would otherwise be unable to attend.",
+  "teacherAccess": "Daily talks and discussion groups led by local Triratna Order members, who teach without a fee; no dedicated one-to-one interview slots are advertised",
+  "retreatOptions": "Weekend to roughly 12-night residential retreats year-round, graded for complete beginners, those with some meditation experience, and experienced practitioners, including themed offerings such as women's retreats, retreats for those seeking ordination into the Triratna Order, and other Triratna group retreats",
+  "schedule": "Typical day: morning meditation, breakfast, a morning programme of talk/discussion group/further meditation, a midday snack and lunch break, an afternoon programme, a hot dinner, and an evening programme of meditation and/or ritual; silence is generally kept from the last evening meditation until breakfast (sometimes extending further on intensive retreats for experienced practitioners), while every guest takes a daily turn on the housework and cooking rota.",
+  "cost": "Income-tiered sliding-scale pricing (three bands: above 1,500 euros/month, 850-1,500 euros/month, and under 850 euros/month single income) since fees exclude any honorarium for teachers, who give the Dharma freely, plus a non-refundable 60 euro deposit; instalment plans and a hardship aid fund (Hilfsfonds) are available.",
+  "pricePerDay": {
+    "min": 56,
+    "max": 87,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "A 12-day retreat is priced at EUR 960 (higher income) / EUR 780 (middle band) / EUR 615 (lower income); treating this as an 11-night stay (arrival evening to midday departure) gives roughly EUR 56-87 per night depending on income bracket.",
+    "source": "https://www.vimaladhatu.de/preise-und-hilfsfonds/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "All retreat meals are vegan, prepared communally by guests on a rota, and sourced organic, regional, and fair-trade where possible.",
+  "workRequired": "yes",
+  "workNotes": "Every guest signs up for a daily rota task covering housework or meal preparation, treated explicitly as an active, meditative part of the retreat rather than a chore.",
+  "tags": [
+    "mahayana",
+    "silent",
+    "diet-vegan",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Meditationshaus Vimaladhatu - home page",
+      "url": "https://www.vimaladhatu.de/"
+    },
+    {
+      "title": "Tagesablauf (Daily Schedule)",
+      "url": "https://www.vimaladhatu.de/tagesablauf/"
+    },
+    {
+      "title": "Welches Retreat eignet sich fur mich? (Which retreat suits me?)",
+      "url": "https://www.vimaladhatu.de/welches-retreat/"
+    },
+    {
+      "title": "Preise / Hilfsfonds (Prices / Aid fund)",
+      "url": "https://www.vimaladhatu.de/preise-und-hilfsfonds/"
+    },
+    {
+      "title": "Haus (The House)",
+      "url": "https://www.vimaladhatu.de/haus/"
+    },
+    {
+      "title": "Unterkunft und Verpflegung (Accommodation and food)",
+      "url": "https://www.vimaladhatu.de/unterkunft-und-verpflegung/"
+    },
+    {
+      "title": "Stupa",
+      "url": "https://www.vimaladhatu.de/stupa/"
+    },
+    {
+      "title": "Lehrende (Teachers)",
+      "url": "https://www.vimaladhatu.de/lehrende/"
+    },
+    {
+      "title": "Anmeldung (Registration)",
+      "url": "https://www.vimaladhatu.de/anmeldung/"
+    },
+    {
+      "title": "Sauerland (Retreatzentrum) - Triratna Buddhismus Deutschland",
+      "url": "https://triratna-buddhismus.de/zentren/sauerland-retreatzentrum.html"
+    },
+    {
+      "title": "Retreats - Buddhistisches Zentrum Essen",
+      "url": "https://www.buddhistisches-zentrum-essen.de/veranstaltungen/retreats/"
+    },
+    {
+      "title": "Altenhellefeld village coordinates - Mapcarta",
+      "url": "https://mapcarta.com/18260928"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

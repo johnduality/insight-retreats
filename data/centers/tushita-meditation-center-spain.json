@@ -1,0 +1,93 @@
+{
+  "id": "tushita-meditation-center-spain",
+  "name": "Tushita Meditation Center",
+  "aka": [
+    "Centro de Meditación Tushita",
+    "Centre de Meditació Tushita",
+    "Tushita Meditation Center Spain",
+    "Tushita Viladrau"
+  ],
+  "website": "https://tushita.es/",
+  "location": {
+    "address": "C/ Pla de Montfalcó, 3, 17406 Viladrau, Girona",
+    "city": "Viladrau",
+    "county": "Girona",
+    "region": "Catalonia, Spain",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 41.84113,
+    "lng": 2.39129
+  },
+  "tradition": "Tibetan Buddhism, Gelug lineage, within the FPMT (Foundation for the Preservation of the Mahayana Tradition) network",
+  "technique": "Lamrim-based study and meditation, deity-yoga and purification retreats (e.g. Vajrasattva, Chittamani Tara, Nyung Ne), Mahamudra and lojong (mind-training) practice",
+  "influences": [
+    "Lama Thubten Yeshe",
+    "Lama Zopa Rinpoche",
+    "the Dalai Lama",
+    "Je Tsongkhapa / Gelug lineage",
+    "FPMT (Foundation for the Preservation of the Mahayana Tradition)"
+  ],
+  "teacherAccess": "Visiting resident and guest teachers (Geshes, Rinpoches, and senior FPMT-trained instructors) lead courses and retreats with teachings and group practice sessions; frequency of individual access varies by programme.",
+  "retreatOptions": "Weekend and multi-day group retreats (roughly 2-9 nights, e.g. Nyung Ne, Vajrasattva, Mahamudra, Lamrim, Four Immeasurables, Metta); week-long thematic courses (e.g. Tibetan thangka painting); introductory and in-depth Buddhist philosophy courses; some activities offered online.",
+  "about": "Tushita Meditation Center is a Tibetan Buddhist retreat center in Viladrau, a village in the Montseny Natural Park in the Girona province of Catalonia, Spain — a separate organization from the similarly-named Tushita Meditation Centre in Dharamsala, India. Founded in 1995 and affiliated with the FPMT (Foundation for the Preservation of the Mahayana Tradition), it follows the Gelug lineage of Tibetan Buddhism under the spiritual guidance of Lama Zopa Rinpoche and the Dalai Lama. The center hosts weekend and week-long group retreats and courses ranging from introductory meditation and Buddhist philosophy to deity-practice and purification retreats such as Vajrasattva and Nyung Ne, plus periodic visits from senior Geshes and Rinpoches. Set in a quiet rural property with a meditation hall (gompa), shared bedrooms, a dining room, and a study/art space, it runs largely on solar power with little or no mobile signal, and it asks all participants to join a rotating 'karma yoga' work task during their stay. Meals are organic and vegetarian, and it is a registered non-profit religious entity in Spain and a member of the Spanish Buddhist Federation.",
+  "schedule": "Group retreats typically begin with evening arrival (from around 6:30pm) and dinner on day one and end after lunch on the final day, with daily teaching and practice sessions held largely in silence.",
+  "cost": "Fixed course/retreat fees set per activity, generally covering both accommodation and food; no scholarship or sliding-scale system is advertised, though a 'Friends of Tushita' donor programme offers members occasional discounts and one fee-free retreat weekend per year.",
+  "pricePerDay": {
+    "min": 60,
+    "max": 60,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "8-night residential course 'The Tibetan Art of Sacred Images' with Andy Weber (19-27 June): EUR 480 total, described as including accommodation and course fee, i.e. ~EUR 60/night. A separate 2-3 night Nyung Ne retreat was priced at EUR 165 (~EUR 66/night), consistent with this range.",
+    "source": "https://tushita.es/en/events/the-tibetan-art-of-sacred-images/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Organic vegetarian meals are prepared for all activities and included in the course/retreat fee.",
+  "workRequired": "partial",
+  "workNotes": "Participants are asked to join a rotating 'karma yoga' task (light collaborative work) to help maintain the center during their stay; it is requested rather than strictly compulsory for every activity.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "silent",
+    "online-hybrid",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Tushita Meditation Center Spain - home page (English)",
+      "url": "https://tushita.es/en/"
+    },
+    {
+      "title": "The Center",
+      "url": "https://tushita.es/en/the-center/"
+    },
+    {
+      "title": "Activities",
+      "url": "https://tushita.es/en/activities/"
+    },
+    {
+      "title": "The Tibetan Art of Sacred Images (course/pricing example)",
+      "url": "https://tushita.es/en/events/the-tibetan-art-of-sacred-images/"
+    },
+    {
+      "title": "Collaborate / Friends of Tushita",
+      "url": "https://tushita.es/en/collaborate/"
+    },
+    {
+      "title": "Contact",
+      "url": "https://tushita.es/en/contact/"
+    },
+    {
+      "title": "Retiro de Ñung ne (Nyung Ne retreat)",
+      "url": "https://tushita.es/es/events/retiro-de-nung-ne/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

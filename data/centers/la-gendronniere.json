@@ -1,0 +1,98 @@
+{
+  "id": "la-gendronniere",
+  "name": "La Gendronnière (Association Zen Internationale)",
+  "aka": [
+    "Temple Zen de la Gendronnière",
+    "AZI Gendronnière",
+    "Zen Temple La Gendronnière",
+    "The Castle of No Fear"
+  ],
+  "website": "https://www.zen-azi.org/en/temple-gendronniere-presentation",
+  "location": {
+    "address": "La Gendronnière, 41120 Valaire, France",
+    "city": "Valaire",
+    "county": "Loir-et-Cher",
+    "region": "Loir-et-Cher, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 47.479392,
+    "lng": 1.256427
+  },
+  "tradition": "Sōtō Zen (Deshimaru lineage), International Zen Association (AZI)",
+  "technique": "Zazen (seated Zen meditation), kinhin (walking meditation), the oryoki silent meal ritual, and samu (work practice)",
+  "influences": [
+    "Taisen Deshimaru",
+    "Sōtō Zen / Dōgen",
+    "International Zen Association (AZI)",
+    "Genshu Imamura Roshi"
+  ],
+  "teacherAccess": "Teisho (formal dharma talks) and kusen (spoken guidance given during zazen) from the visiting AZI teacher leading each retreat, plus mondo/chosan question-and-answer sessions and private interviews",
+  "retreatOptions": "Weekend and multi-day sesshins (roughly 2-7 nights); themed retreats pairing zazen with a craft such as calligraphy or kesa sewing; 5-day Gyôji weeks of full monastic immersion; long-term stays from a single night up to several months",
+  "about": "La Gendronnière is a Sōtō Zen temple on a wooded, roughly 100-hectare estate near Blois in the Loir-et-Cher, in France's Loire Valley, about 200 km southwest of Paris. Founded in 1979 by Japanese Zen master Taisen Deshimaru, it was the first Zen temple built in Europe and remains the flagship monastery of the International Zen Association (AZI), the network Deshimaru founded, drawing sanghas from across the continent. Up to 350 practitioners at a time can stay in a converted château, a 400-square-metre dojo, and adjoining buildings set among forest, ponds, and a permaculture vegetable garden that supplies the kitchen. Teaching is carried on by senior disciples ordained by Deshimaru or his successors, who lead year-round sesshins, themed retreats, five-day Gyôji weeks, and long-term stays alongside the resident monastic community. Days centre on zazen and kinhin, ceremonies, silent oryoki meals, and samu (communal work such as cooking, gardening, and forest upkeep), and beginners receive an introductory session at the start of every retreat.",
+  "schedule": "Sesshins run three to four daily zazen periods with ceremonies, silent oryoki meals, and samu; a typical long-term/Gyôji day starts at 6am with zazen, a morning ceremony and silent breakfast, samu through the midday and afternoon, evening zazen, and dinner, ending around 9:30pm",
+  "cost": "AZI membership (€45/year) is required to attend; sesshin and Gyôji week rates are tiered by accommodation (shared dormitory, 3/4-person room, double, single) with a reduced student/unemployed dormitory rate, and long-term stays are billed per night, week, or month, all inclusive of accommodation, meals, and teachings",
+  "pricePerDay": {
+    "min": 50,
+    "max": 63,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "7-night Rôhatsu sesshin (arrival 5 Dec, departs 12 Dec 2026): Dormitory €350 to Double room €438, i.e. roughly €50-63/night (3/4-person room €403 and single room €560 also offered). The reduced student/unemployed dormitory rate (€245, ~€35/night) is excluded as a subsidised tier. Long-term stays run cheaper per night (dormitory week €181, ~€26/night; one month €450).",
+    "source": "https://www.zen-azi.org/en/rohatsu-sesshin-2026"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are organic and vegetarian, drawing on produce from the temple's own permaculture vegetable garden; most meals are taken in silence, often following the traditional oryoki bowl ritual.",
+  "workRequired": "yes",
+  "workNotes": "Samu (voluntary work for the community -- cooking, cleaning, gardening, and forest/estate upkeep) is a required, integral part of every retreat and long-term stay, alongside zazen.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "family-friendly",
+    "monastic-community",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Presentation of La Gendronnière",
+      "url": "https://www.zen-azi.org/en/temple-gendronniere-presentation"
+    },
+    {
+      "title": "AZI home page",
+      "url": "https://www.zen-azi.org/en"
+    },
+    {
+      "title": "Practical information",
+      "url": "https://www.zen-azi.org/en/infos-pratiques"
+    },
+    {
+      "title": "Sesshin or intensive retreats",
+      "url": "https://www.zen-azi.org/en/retraites-sesshins"
+    },
+    {
+      "title": "Rôhatsu sesshin 2026 (rates)",
+      "url": "https://www.zen-azi.org/en/rohatsu-sesshin-2026"
+    },
+    {
+      "title": "Long-term retreats (rates, daily schedule)",
+      "url": "https://www.zen-azi.org/en/retraites-longue-duree"
+    },
+    {
+      "title": "Gyoji weeks (rates, daily schedule)",
+      "url": "https://www.zen-azi.org/en/semaines-gyoji"
+    },
+    {
+      "title": "Summer 2026 sessions (food, family program)",
+      "url": "https://www.zen-azi.org/en/session-ete-2026"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

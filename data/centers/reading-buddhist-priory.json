@@ -1,0 +1,105 @@
+{
+  "id": "reading-buddhist-priory",
+  "name": "Reading Buddhist Priory",
+  "website": "https://readingbuddhistpriory.org.uk/",
+  "aka": [
+    "Buddhist Priory (Reading)"
+  ],
+  "location": {
+    "address": "176 Cressingham Road, Reading, RG2 7LW",
+    "city": "Reading",
+    "county": "Berkshire",
+    "region": "Berkshire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 51.4338,
+    "lng": -0.9616
+  },
+  "tradition": "Soto Zen (Order of Buddhist Contemplatives)",
+  "technique": "Serene Reflection Meditation (shikantaza-style seated zazen), ceremonial practice",
+  "influences": [
+    "Throssel Hole Buddhist Abbey",
+    "Rev. Master Jiyu-Kennett",
+    "Order of Buddhist Contemplatives"
+  ],
+  "teacherAccess": "One resident monastic in daily residence, offering meditation instruction, spiritual counsel, and informal conversation after group meetings.",
+  "retreatOptions": "Monthly daylong retreats (10am-4pm) plus residential weekend retreats roughly every two months, Friday evening to Sunday midday (2 nights); regular weekly meditation meetings.",
+  "schedule": "Weekly meetings Wed and Fri 7.30pm and Sun 9.15am; monthly introductory evening for newcomers; monthly day retreat; residential weekend retreat approximately every other month.",
+  "about": "Reading Buddhist Priory is a small Soto Zen temple in a residential street in Reading, Berkshire, founded in 1990 as a daughter temple of Throssel Hole Buddhist Abbey in the Serene Reflection Meditation tradition brought to the West by Rev. Master Jiyu-Kennett. A resident monastic lives on site and leads a weekly cycle of meditation meetings, an introductory evening for newcomers, and periodic day and residential retreats. The Priory is registered charity number 1092463 and operates as a genuinely small, community-scale practice place rather than a large retreat center. Its residential weekend retreats follow OBC monastic form: mostly silent, combining seated zazen, ceremonial liturgy, and work practice (samu).",
+  "cost": "Donation (dana) based throughout; no fixed fees are published for meetings, day retreats, or weekend retreats.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "No suggested minimum is published; residential weekend retreats begin with a light meal at 6pm Friday and end 12.30pm Sunday.",
+    "source": "https://readingbuddhistpriory.org.uk/weekend-priory-retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are provided on residential retreats; at day retreats, those staying for lunch are asked to bring a vegetarian dish for a shared bring-and-share buffet.",
+  "workRequired": "yes",
+  "workNotes": "Residential weekend retreats include working meditation (samu) alongside zazen and ceremonial practice.",
+  "tags": [
+    "zen",
+    "silent",
+    "day-retreats",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Reading Buddhist Priory - official site",
+      "url": "https://readingbuddhistpriory.org.uk/"
+    },
+    {
+      "title": "Day Retreats - Reading Buddhist Priory",
+      "url": "https://readingbuddhistpriory.org.uk/day-retreats/"
+    },
+    {
+      "title": "Weekend Priory Retreats - Reading Buddhist Priory",
+      "url": "https://readingbuddhistpriory.org.uk/weekend-priory-retreats/"
+    },
+    {
+      "title": "The Order - Reading Buddhist Priory",
+      "url": "https://readingbuddhistpriory.org.uk/about-us/the-order/"
+    },
+    {
+      "title": "The Priory - Reading Buddhist Priory",
+      "url": "https://readingbuddhistpriory.org.uk/about-us/the-priory/"
+    },
+    {
+      "title": "The spirit of the Priory and how to use it",
+      "url": "http://readingbuddhistpriory.org.uk/2017/05/the-spirit-of-the-priory-and-how-to-use-it/"
+    },
+    {
+      "title": "Reading Buddhist Priory - Reading Directory (Reading Borough Council)",
+      "url": "https://servicesguide.reading.gov.uk/kb5/reading/directory/service.page?id=dvYSqpXiXt4"
+    },
+    {
+      "title": "Reading Buddhist Priory - TotalGiving charity listing (charity no. 1092463)",
+      "url": "https://www.totalgiving.co.uk/charity/reading-buddhist-priory"
+    },
+    {
+      "title": "Register of Charities - Reading Buddhist Priory, 1092463",
+      "url": "https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=1092463&subid=0"
+    },
+    {
+      "title": "Buddhist Priory (Reading) - Reading Online business directory",
+      "url": "https://www.readingonline.co.uk/info/7772/"
+    },
+    {
+      "title": "Throssel Hole Buddhist Abbey - Order of Buddhist Contemplatives",
+      "url": "https://obcon.org/throssel-hole-buddhist-abbey/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

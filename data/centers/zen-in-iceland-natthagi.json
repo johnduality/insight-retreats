@@ -1,0 +1,67 @@
+{
+  "id": "zen-in-iceland-natthagi",
+  "name": "Zen in Iceland – Night Pasture",
+  "website": "https://www.zen.is/",
+  "aka": [
+    "Nátthagi",
+    "Zen á Íslandi",
+    "Zen á Íslandi - Nátthagi"
+  ],
+  "location": {
+    "city": "Reykjavík",
+    "region": "Capital Region, Iceland",
+    "country": "Iceland",
+    "state": "IS",
+    "lat": 64.1169,
+    "lng": -21.7856
+  },
+  "tradition": "Soto Zen Buddhism (Shunryu Suzuki / Sonoma Mountain Zen Center lineage)",
+  "influences": [
+    "Shunryu Suzuki Roshi",
+    "Jakusho Kwong Roshi",
+    "Sonoma Mountain Zen Center (Genjo-ji)"
+  ],
+  "teacherAccess": "Weekly dokusan (private interview) with the resident teacher; dharma talks and dokusan also offered during sesshins",
+  "retreatOptions": "Daily/weekly zazen sits in Reykjavík; periodic multi-day sesshins that alternate between a several-day non-residential 'city sesshin' and a week-long residential 'country sesshin'",
+  "about": "Zen in Iceland – Night Pasture (Nátthagi) is a small lay Soto Zen Buddhist group based in Reykjavík, legally established in 1999 and rooted in Shunryu Suzuki's lineage under the guidance of Jakusho Kwong Roshi of Sonoma Mountain Zen Center in California. The group holds daily or near-daily zazen at its practice space in the city and periodically runs multi-day sesshins: in some years a shorter 'city sesshin' where participants sit together morning and evening but keep their ordinary daytime work and life, and in other years a week-long 'country sesshin' where participants live on site for the full retreat at a rented lakeside property in southern Iceland. Sesshins follow a traditional Zen schedule of early-morning and evening zazen, walking meditation, chanting, a formal oryoki meal, work practice, and dharma talks, held largely in silence. Since 2026 the community has been led day to day by Icelandic teacher Ástvaldur Zenki, a Dharma heir ordained by Kwong Roshi, with Kwong Roshi continuing as founding teacher. It is an all-volunteer sangha rather than a purpose-built retreat center, so the exact format, dates, and location of the residential retreat vary from year to year.",
+  "technique": "Soto Zen zazen (shikantaza), walking meditation (kinhin), chanting, oryoki formal meals, and work practice (samu)",
+  "schedule": "Regular zazen sessions most days of the week in Reykjavík; multi-day sesshins held roughly twice a year (spring and autumn), with format alternating between a city-based non-residential sesshin and a week-long residential retreat",
+  "cost": "No fee for regular daily/weekly practice; sesshin registration fees are set per event (e.g. ISK 10,000 for the 2026 spring city sesshin) and are not uniformly published for the residential country sesshin",
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Sesshins include a formal oryoki meal and shared coffee/tea breaks; the residential country retreats are held at a rented property where each guesthouse has its own kitchenette, so meal arrangements can vary by event and are not fully detailed on the official site.",
+  "workRequired": "yes",
+  "workNotes": "Sesshin schedules include a scheduled samu (work practice) period, and the wider sangha holds periodic volunteer samu days outside of retreats.",
+  "sources": [
+    {
+      "title": "Zen in Iceland – About Night Pasture",
+      "url": "https://www.zen.is/about-night-pasture.html"
+    },
+    {
+      "title": "Zen in Iceland – Retreats (Sesshin)",
+      "url": "https://www.zen.is/retreats.html"
+    },
+    {
+      "title": "Zen in Iceland – 2026 Schedule (Dagskrá)",
+      "url": "https://www.zen.is/dagskra-544491-150133.html"
+    },
+    {
+      "title": "Zen in Iceland – News: Borgarsesshin 2026 and planned week-long Haustsesshin",
+      "url": "https://www.zen.is/freacutettir.html"
+    },
+    {
+      "title": "Eirð Retreat – lakefront property rented for the residential country sesshin",
+      "url": "https://eirdretreat.com/"
+    }
+  ],
+  "tags": [
+    "zen",
+    "silent",
+    "work-practice"
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

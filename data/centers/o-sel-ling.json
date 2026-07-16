@@ -1,0 +1,97 @@
+{
+  "id": "o-sel-ling",
+  "name": "O Sel Ling",
+  "aka": [
+    "O.Sel.Ling",
+    "Osel Ling",
+    "O Sel Ling Centro de Retiros",
+    "Osel Ling Buddhist Centre"
+  ],
+  "website": "https://oseling.com/",
+  "location": {
+    "city": "Soportújar",
+    "region": "Alpujarra, Granada, Andalucía",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 36.933,
+    "lng": -3.334
+  },
+  "tradition": "Tibetan Buddhism, Gelug school, Mahayana; affiliated with FPMT (Foundation for the Preservation of the Mahayana Tradition)",
+  "technique": "Lamrim (graduated stages of the path) teachings; Gelug analytical and single-pointed meditation; solitary retreat on Tibetan deity practice and mantra recitation",
+  "influences": [
+    "Lama Thubten Yeshe",
+    "Lama Zopa Rinpoche",
+    "Je Tsongkhapa / Gelug lineage",
+    "Foundation for the Preservation of the Mahayana Tradition (FPMT)",
+    "14th Dalai Lama"
+  ],
+  "teacherAccess": "Group retreats/courses are led on-site by visiting qualified teachers (lamas, geshes, and lay teachers) with talks and guidance; solitary retreatants get no on-site teaching and must already have their own teacher directing the retreat remotely",
+  "retreatOptions": "Scheduled group courses and retreats (weekend to about a week) on Lamrim, meditation, and Buddhist philosophy led by visiting teachers; nine solitary retreat casitas rented for self-directed retreats of one week up to several months, restricted to experienced practitioners under a teacher's guidance; free unguided day visits 3:30-6pm",
+  "about": "O Sel Ling is a Tibetan Buddhist hermitage perched at roughly 1,600-1,700 metres in the Sierra Nevada above the Alpujarra villages of Soportújar, Pampaneira, and Bubión in Granada, Spain, with views across the valley to Mulhacén. It was founded in 1980 by Lama Thubten Yeshe and his disciple Lama Zopa Rinpoche as one of Spain's first Buddhist retreat centres, and the 14th Dalai Lama visited in 1982 and gave it its name, meaning \"place of clear light.\" The centre is closely tied to Lama Yeshe's own story: after his death in 1984 he was recognised as reincarnated in a boy born in nearby Bubión, and O Sel Ling remains a pilgrimage site connected to that lineage. Affiliated with the FPMT network and following the Gelug tradition founded by Je Tsongkhapa, it now includes a small resident community and a developing nunnery alongside a shared building with dormitories, two meditation halls, a library, and a tea room used for group courses. Beyond scheduled group retreats taught by visiting teachers, O Sel Ling rents out nine simple, solar- or candle-lit solitary retreat huts scattered across the mountainside to experienced practitioners for self-directed retreats, with a food basket delivered to the door each day. Reaching the centre requires a rough 5-8 km mountain track from Soportújar, reinforcing its character as a remote hermitage rather than a conventional retreat venue.",
+  "schedule": "Solitary retreatants set their own daily practice schedule under their own teacher's guidance, with a food basket delivered each morning; group retreats/courses follow a set programme of teachings and sitting sessions led by a visiting teacher, plus a daily period of communal work (karma yoga); the centre is open to unguided day visitors only from about 3:30 to 6pm",
+  "cost": "Individual casita retreats: minimum one-week stay, book with a 100€ deposit and pay the balance on arrival (nightly rate not published; enquire directly). Group retreats/courses: 50€ deposit with balance on arrival; short online sessions instead use a suggested donation (e.g. 40-50€ for a weekend). Deposits are refundable with 2 weeks' notice. Free daytime visits require no booking.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Ovo-lacto vegetarian diet (eggs and dairy used occasionally, not meat); solitary retreatants have breakfast, lunch, and dinner delivered daily in a basket to their casita, while group retreat participants eat communally in the centre's dining room.",
+  "workRequired": "partial",
+  "workNotes": "Group retreat and course participants are asked to help out with running the centre (karma yoga duties); solitary retreatants in the casitas have no work requirement and instead have meals brought to them.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "self-guided",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "O Sel Ling - home page",
+      "url": "https://oseling.com/"
+    },
+    {
+      "title": "Solitary Retreats",
+      "url": "https://oseling.com/retiros/retiros-individuales/"
+    },
+    {
+      "title": "Group Retreats",
+      "url": "https://oseling.com/retiros/retiros-en-grupo/"
+    },
+    {
+      "title": "Retiro de Compasión (example online course listing showing donativo/pricing model)",
+      "url": "https://oseling.com/events/retiro-compasion-850-215-813-309-701-925/"
+    },
+    {
+      "title": "Lama Yeshe - O Sel Ling teachers page",
+      "url": "https://oseling.com/nuestros-maestros/lama-yeshe/"
+    },
+    {
+      "title": "Osel Ling Buddhist Centre - Turismo de Granada (altitude, municipality, opening hours, FPMT affiliation)",
+      "url": "https://www.turgranada.es/en/fichas/osel-ling-buddhist-centre-44427/"
+    },
+    {
+      "title": "O.Sel.Ling Nunnery: A Haven for New and Old Nuns - FPMT Mandala",
+      "url": "https://fpmt.org/fpmt-community-news/news-around-the-world/o-sel-ling-nunnery-a-haven-for-new-and-old-nuns/"
+    },
+    {
+      "title": "Reincarnation: The Boy Lama - FPMT",
+      "url": "https://fpmt.org/fpmt/osel/biographies-books-and-articles/reincarnation-the-boy-lama/"
+    },
+    {
+      "title": "Monasterio Budista O Sel Ling en Soportújar - Guía Repsol",
+      "url": "https://www.guiarepsol.com/es/fichas/lugar-emblematico/monasterio-budista-o-sel-ling-12502/"
+    },
+    {
+      "title": "O Sel Ling: Centro Budista en la Alpujarra de Granada - Blog de los Yuyis",
+      "url": "https://blogdelosyuyis.com/2020/11/11/o-sel-ling-centro-budista-en-la-alpujarra-de-granada/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

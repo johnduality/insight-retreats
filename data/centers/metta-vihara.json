@@ -1,0 +1,99 @@
+{
+  "id": "metta-vihara",
+  "name": "Metta Vihara",
+  "aka": [
+    "Stichting Metta Vihara",
+    "Metta Vihara Retreat Centre"
+  ],
+  "website": "https://mettavihara.nl/",
+  "location": {
+    "address": "Hengstdijkse Kerkstraat 36, 4585 AC Hengstdijk",
+    "city": "Hengstdijk",
+    "region": "Zeeland, Netherlands",
+    "country": "Netherlands",
+    "state": "NL",
+    "lat": 51.345,
+    "lng": 3.996
+  },
+  "tradition": "Triratna Buddhist Community: eclectic Western Buddhism in the tradition founded by Sangharakshita",
+  "technique": "Mindfulness of breathing and metta bhavana (loving-kindness meditation) as the core practices, alongside Buddhist study and periods of silence",
+  "influences": [
+    "Sangharakshita (founder of the Triratna Buddhist Order)",
+    "Triratna Buddhist Order / Community teachers"
+  ],
+  "teacherAccess": "Retreats are led by resident and visiting Triratna Order members who give talks and guidance; all teaching, leadership and practical work is provided free by an unpaid volunteer team of around 30 people",
+  "retreatOptions": "Weekend and midweek introductory retreats through to intensive silent retreats of up to 14 days, plus study days, workshops, and mindfulness programmes; the building can also be hired by outside groups for retreats, workshops and quiet days",
+  "about": "Metta Vihara is the dedicated Triratna Buddhist retreat centre for the Netherlands and Belgium, set among farms and fields on the edge of Hengstdijk in Zeeuws-Vlaanderen, between Hulst and Terneuzen. Stichting Metta Vihara had organised retreats at rented locations for decades before opening this purpose-built, energy-neutral centre in May 2012, complete with solar panels, a heat pump, balanced ventilation and a greywater system. The single-storey meditation hall, dining hall and library sit alongside twelve ensuite bedrooms (four singles and eight doubles, one adapted for a wheelchair user) that together sleep up to 22 guests. Its year-round programme runs from accessible, sociable introductory weekends to intensive silent retreats of up to two weeks, built around the Buddha's two core practices of mindfulness of breathing and metta bhavana (loving-kindness meditation). Everything on site, from teaching and cooking to leading retreats, is provided free by a team of around 30 volunteers, and most retreats are conducted in Dutch, though a number are marked and run in English each year. Behind the centre lies the small nature reserve 'De Putting', with the Westerschelde estuary and the Drowned Land of Saeftinghe a short distance away.",
+  "schedule": "Varies by retreat: sociable introductory weekends mix meditation with conversation, while longer retreats follow a fuller daily round of sits, talks and periods of silence in the on-site meditation hall",
+  "cost": "Fixed daily rate charged per person that covers food and accommodation (leadership, teaching and practical work are given free by volunteers); a retreat fund offers extra discounts on request for those with limited budgets, and donations (dana) are also welcomed",
+  "pricePerDay": {
+    "min": 42.5,
+    "max": 42.5,
+    "unit": "day",
+    "currency": "EUR",
+    "notes": "Published basic rate of EUR 42.50 per person per day covering accommodation and food for a standard residential retreat; the site does not publish separate lower/higher tiers, and the retreat fund can reduce this further for those on a limited budget.",
+    "source": "https://mettavihara.nl/retraitecentrum-huren/prijzen-en-beschikbaarheid/"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Meals are prepared vegetarian and vegan, using organic and where possible regional and seasonal ingredients (salads, spreads, roasted vegetables, curries and soups); individual dietary restrictions are accommodated.",
+  "workRequired": "no",
+  "workNotes": "Cooking, cleaning, and all practical running of retreats is handled by the centre's roughly 30 unpaid volunteers rather than being asked of retreatants; no guest work rota is described on the site.",
+  "tags": [
+    "silent",
+    "long-retreats",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "no-work-required",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Metta Vihara - home page",
+      "url": "https://mettavihara.nl/"
+    },
+    {
+      "title": "Retreat center",
+      "url": "https://mettavihara.nl/retreat-center/"
+    },
+    {
+      "title": "Retreats (English overview)",
+      "url": "https://mettavihara.nl/retreats/"
+    },
+    {
+      "title": "Geven (Dana / donations)",
+      "url": "https://mettavihara.nl/geven/"
+    },
+    {
+      "title": "ANBI gegevens (foundation, income model, board, sustainability)",
+      "url": "https://mettavihara.nl/over-ons/anbi-gegevens/"
+    },
+    {
+      "title": "Prijzen en beschikbaarheid (pricing)",
+      "url": "https://mettavihara.nl/retraitecentrum-huren/prijzen-en-beschikbaarheid/"
+    },
+    {
+      "title": "Metta Vihara centre listing - Going on Retreat",
+      "url": "https://www.goingonretreat.com/centre/metta-vihara"
+    },
+    {
+      "title": "Hengstdijk - Retraitecentrum Metta Vihara viert tiende verjaardag - Boeddhistisch Dagblad",
+      "url": "https://boeddhistischdagblad.nl/nieuws/183921-hengstdijk-retraitecentrum-metta-vihara-viert-tiende-verjaardag/"
+    },
+    {
+      "title": "Wie leiden de retraites (retreat leaders)",
+      "url": "https://mettavihara.nl/over-ons/wie-leiden-de-retraites/"
+    },
+    {
+      "title": "Coordinate lookup for Hengstdijkse Kerkstraat 36, Hengstdijk",
+      "url": "https://www.planviewer.nl/adressen/adres/0677200000618025/hengstdijk-hengstdijkse-kerkstraat-36"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

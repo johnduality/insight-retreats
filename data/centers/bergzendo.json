@@ -1,0 +1,126 @@
+{
+  "id": "bergzendo",
+  "name": "BergZendo",
+  "aka": [
+    "Hyakujōgan Zendo",
+    "Bodhidharma Zendo Wien",
+    "BergZendo Hohe Wand",
+    "Gasthof Almfrieden"
+  ],
+  "website": "https://bergzendo.at/",
+  "location": {
+    "address": "Am Almfrieden 87, 2724 Hohe Wand",
+    "city": "Hohe Wand",
+    "county": "Wiener Neustadt-Land",
+    "region": "Lower Austria, Austria",
+    "country": "Austria",
+    "state": "AT",
+    "lat": 47.83583,
+    "lng": 16.05534
+  },
+  "tradition": "Rinzai Zen Buddhism, in the lineage of Kyozan Joshu Sasaki Rōshi and the Rinzai-ji Order",
+  "technique": "Zazen (silent sitting meditation), kinhin (walking meditation), sutra recitation and koan practice, plus samu (work practice)",
+  "influences": [
+    "Kyozan Joshu Sasaki Rōshi",
+    "Seiun Genro Dai Oshō (Genro Koudela)",
+    "Seigaku Kigen Oshō",
+    "Rinzai-ji Order"
+  ],
+  "teacherAccess": "Daily individual interviews (Taiwa) with the resident teacher and daily Dharma talks during Sesshins and Zazenkais; weekly Taiwa and a Wednesday Dharma talk at the Vienna city zendo",
+  "retreatOptions": "Weekend Zazenkais (2 nights) and 7-day Sesshins or 5-day Go-Sesshins (including the annual December Rohatsu Go-Sesshin) at BergZendo Hohe Wand, each with a lighter 'light' schedule option for beginners; regular evening/early-morning Zazen sittings at city zendos in Vienna, Graz, and Klagenfurt",
+  "about": "BergZendo, also known as Hyakujōgan Zendo, is a Rinzai Zen retreat house on the Hohe Wand plateau in Lower Austria, about an hour from Vienna, run by the Bodhidharma Zendo Wien, a Zen Buddhist association founded in 1979. Zen priest Seigaku Kigen Oshō, who trained for many years under Kyozan Joshu Sasaki Rōshi at the Mount Baldy Zen Center in California, has led the group since 2012 and initiated the purchase and 2016 renovation of a former mountain guesthouse, the Gasthof Almfrieden, as the sangha's own retreat center. The house has 17 rooms sleeping up to 34 guests, mostly in twin rooms, centered on a 55-square-metre meditation hall with sweeping valley views. Its own retreats are seven-day Sesshins, five-day Go-Sesshins, and weekend Zazenkais, all held in strict silence with a fixed schedule of zazen, kinhin, sutra recitation, daily individual interviews (Taiwa) with the teacher, and work practice (samu); lighter 'light' versions ease the wake time and sitting length for newcomers. Participation in retreats requires prior Zen experience, and regular practice requires membership in the Verein zur Förderung des Zen-Buddhismus; the house is also rented out between the group's own retreats to outside meditation, yoga, and body-work seminars.",
+  "schedule": "Retreats begin in the late afternoon with arrival and an informal dinner and run to midday roughly a week (Sesshin), five days (Go-Sesshin), or a weekend (Zazenkai) later; the standard daily program runs from about 3:30am to 9:30pm with alternating zazen and kinhin, formal meals, samu, and Taiwa, while 'light' versions start around 5am with shorter sitting periods",
+  "cost": "Sesshins (7 nights) cost EUR 350 for Bodhidharma Zendo members / EUR 400 for non-members; Go-Sesshins (5 nights) EUR 250 / EUR 280; weekend Zazenkais (2 nights) EUR 120 / EUR 130 — all inclusive of full board and shared-room lodging, plus a separate voluntary dana for the teacher; need-based reductions available on request",
+  "pricePerDay": {
+    "min": 50,
+    "max": 57.1,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "7-night Sesshin: EUR 350 (member rate) to EUR 400 (non-member rate) for full board and shared-room lodging, i.e. roughly EUR 50-57/night; the shorter 5-night Go-Sesshin (EUR 250-280) and 2-night weekend Zazenkai (EUR 120-130) work out to a similar per-night range. The teacher's dana is separate and left to each participant's discretion.",
+    "source": "https://bodhidharmazendo.at/retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Full board (Vollpension) is included in every retreat fee; formal, ceremonial meals (oryoki-style, eaten in the meditation hall) are prepared by volunteer sangha cooks. The site does not publish whether meals are vegetarian, vegan, or mixed.",
+  "workRequired": "yes",
+  "workNotes": "Daily Samu (work practice — cleaning, kitchen, garden, or wood work) is built into every Sesshin, Go-Sesshin, and Zazenkai schedule, typically 1-1.5 hours after breakfast plus a shorter cleaning period after lunch; occasional dedicated Samu weekends are also offered to supporters.",
+  "tags": [
+    "zen",
+    "silent",
+    "work-practice",
+    "meals-included",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "BergZendo - home page",
+      "url": "https://bergzendo.at/"
+    },
+    {
+      "title": "Seminarzentrum BergZendo",
+      "url": "https://bergzendo.at/seminarzentrum-bergzendo/"
+    },
+    {
+      "title": "Gründung des BergZendo",
+      "url": "https://bergzendo.at/seminarzentrum-bergzendo/gruendung-des-bergzendo/"
+    },
+    {
+      "title": "FAQs (BergZendo)",
+      "url": "https://bergzendo.at/seminarzentrum-bergzendo/faqs/"
+    },
+    {
+      "title": "Naturpark Hohe Wand",
+      "url": "https://bergzendo.at/seminarzentrum-bergzendo/naturpark-hohe-wand/"
+    },
+    {
+      "title": "Zen-Praxis am BergZendo",
+      "url": "https://bergzendo.at/bodhidharmazendo/zen-praxis-am-bergzendo/"
+    },
+    {
+      "title": "Unsere Lehrer",
+      "url": "https://bergzendo.at/bodhidharmazendo/unsere-lehrer/"
+    },
+    {
+      "title": "Veranstaltungen (events calendar)",
+      "url": "https://bergzendo.at/events/"
+    },
+    {
+      "title": "Rohatsu Go-Sesshin - Zen-Retreat (event listing with price)",
+      "url": "https://bergzendo.at/event/rohatsu-go-sesshin-4/"
+    },
+    {
+      "title": "BodhidharmaZendo Wien - home page",
+      "url": "https://bodhidharmazendo.at/"
+    },
+    {
+      "title": "Über uns / Geschichte des Bodhidharma Zendos",
+      "url": "https://bodhidharmazendo.at/geschichte-des-bodhidharmazendos/"
+    },
+    {
+      "title": "Was ist Zen?",
+      "url": "https://bodhidharmazendo.at/was-ist-zen/"
+    },
+    {
+      "title": "Praxis (regular Zazen schedule)",
+      "url": "https://bodhidharmazendo.at/praxis-2/"
+    },
+    {
+      "title": "Sesshin - Retreats (schedule and pricing)",
+      "url": "https://bodhidharmazendo.at/retreats/"
+    },
+    {
+      "title": "Zazenkai - Retreat (schedule and pricing)",
+      "url": "https://bodhidharmazendo.at/zazenkais/"
+    },
+    {
+      "title": "BergZendo - Mapcarta (OpenStreetMap-sourced coordinates)",
+      "url": "https://mapcarta.com/W82101605"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

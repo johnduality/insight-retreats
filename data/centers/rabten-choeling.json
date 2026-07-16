@@ -1,0 +1,82 @@
+{
+  "id": "rabten-choeling",
+  "name": "Rabten Choeling",
+  "aka": [
+    "Centre des Hautes Etudes Tibétaines",
+    "Centre d'Etudes Tibétaines Rabten Choeling",
+    "Tharpa Choeling"
+  ],
+  "website": "https://www.rabten.eu/visitSwiss_en.htm",
+  "location": {
+    "address": "Chemin du Dérochoz 2, 1801 Le Mont-Pèlerin",
+    "city": "Le Mont-Pèlerin",
+    "county": "Chardonne",
+    "region": "Vaud, Switzerland",
+    "country": "Switzerland",
+    "state": "CH",
+    "lat": 46.4822,
+    "lng": 6.8309
+  },
+  "tradition": "Gelug (Tibetan Buddhism), independent monastery and study institute in the lineage of Je Tsongkhapa",
+  "technique": "Traditional monastic study of Buddhist philosophy, debate, and Tibetan language; daily prayers, pujas, and Vinaya monastic discipline; public teachings on meditation and Buddhist philosophy for visitors",
+  "influences": [
+    "Geshe Tamdrin Rabten Rinpoche (founder)",
+    "Gonsar Rinpoche (director since 1986)",
+    "Tenzin Rabgye Rinpoche (recognised reincarnation of Geshe Rabten)"
+  ],
+  "teacherAccess": "Weekly public teachings on Sundays at 3pm plus periodic seminars by resident lamas; guided tours and conversations with monks can be arranged with the office; no structured daily guidance program for casual guests",
+  "retreatOptions": "Spontaneous day visits and guided tours; guest-room stays from an overnight stop-over to longer personal retreats, subject to room availability; a full-time multi-year (up to 7-year) monastic study program for serious students; an annual International Buddhist Children's Week each summer",
+  "about": "Rabten Choeling is a Tibetan Buddhist monastery and Institute for Higher Tibetan Studies perched at 820 metres on Mont-Pèlerin above Vevey and Lake Geneva, in the commune of Chardonne, Vaud. It was founded in 1977 by Geshe Tamdrin Rabten Rinpoche, one of the first Tibetan geshes to establish a teaching centre for Westerners in Europe, and has been led since his death in 1986 by his close disciple Gonsar Rinpoche. Today it is home to around thirty monks, five nuns, and twenty lay students from some fourteen countries, who follow a traditional Gelug monastic curriculum of philosophy, debate, and Tibetan language alongside daily prayers and monastic rites. Casual visitors are welcome to tour the grounds, join daily prayer sessions, attend Sunday afternoon public teachings, or stay in one of the guest rooms for anything from a short stop-over to a longer personal retreat, with advance notice appreciated for meals. Rabten Choeling and its practitioners are associated with the Dorje Shugden protector practice, a point of theological difference with the 14th Dalai Lama, who has discouraged the practice since the mid-1990s and no longer visits the centre as he did in its early years.",
+  "schedule": "Daily prayers at 7am and 6pm except weekends; fortnightly Tsok-offerings on the 10th and 25th days of the Tibetan lunar calendar; public teachings every Sunday at 3pm; additional seminars and festival celebrations throughout the year",
+  "cost": "No published tariff for guest rooms or meals; visitors are asked to contact the office in advance to check room availability and arrange meals, with costs settled directly with the monastery",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "The monastery kitchen serves vegetarian meals in its dining hall to residents and guests; visitors are asked to let the cook know a few hours ahead of arrival so enough food is prepared, and no alcohol is served on the premises.",
+  "workRequired": "unknown",
+  "workNotes": "No work requirement is stated for short-term guests; resident lay students historically contribute to the community's upkeep (kitchen, administration, gardening), but this is not described as a condition of a guest stay.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "long-retreats",
+    "family-friendly",
+    "self-guided",
+    "diet-vegetarian",
+    "meals-included",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Rabten Choeling - Buddhist Monastery, Lake Geneva, Switzerland (visit info)",
+      "url": "https://www.rabten.eu/visitSwiss_en.htm"
+    },
+    {
+      "title": "Objectives - Studies (study program)",
+      "url": "https://www.rabten.eu/studyProgram_en.htm"
+    },
+    {
+      "title": "Visits - Guided tours - Staying at the Monastery",
+      "url": "https://www.rabten.eu/infoAll_en.htm"
+    },
+    {
+      "title": "Rabten Choeling Switzerland (history, founding, lineage)",
+      "url": "https://www.dorjeshugden.com/places/rabten-choeling-switzerland/"
+    },
+    {
+      "title": "Rabten Choeling — Wikipédia (French, incl. Dorje Shugden context)",
+      "url": "https://fr.wikipedia.org/wiki/Rabten_Choeling"
+    },
+    {
+      "title": "Geshe Rabten Rinpoche (1920-1986) - FPMT lineage page",
+      "url": "https://fpmt.org/teachers/lineage-lamas/rabten/"
+    },
+    {
+      "title": "Center of Tibetan Studies, Rabten Choeling Monastery - Wanderlog (visitor reviews)",
+      "url": "https://wanderlog.com/place/details/11293941/center-of-tibetan-studies-rabten-choeling-monastery"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

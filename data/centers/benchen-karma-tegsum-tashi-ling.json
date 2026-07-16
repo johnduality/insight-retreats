@@ -1,0 +1,81 @@
+{
+  "id": "benchen-karma-tegsum-tashi-ling",
+  "name": "Benchen Karma Tegsum Tashi Ling",
+  "aka": [
+    "Centro Buddhista di Cancello",
+    "Centro di Studi e di Meditazione Buddista Karma Tegsum Tashi Ling"
+  ],
+  "website": "https://www.benchenkarmatashi.it",
+  "location": {
+    "address": "Contrada Morago 6, Cancello, 37141 Verona VR",
+    "city": "Verona",
+    "region": "Veneto, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 45.5122,
+    "lng": 11.0846
+  },
+  "tradition": "Tibetan Buddhism, Karma Kagyu (Karma Kamtsang) lineage",
+  "technique": "Guided meditation instruction and puja/ritual practice within the Karma Kagyu tradition, including Mahakala, Nyung Ne, Green Tara, Vajrasattva, and Chöd practice",
+  "influences": [
+    "17th Karmapa, Ogyen Trinley Dorje",
+    "Kyabje Tenga Rinpoche, Benchen Monastery",
+    "Sangye Nyenpa Rinpoche, Benchen Monastery",
+    "Lama Jampal (resident teacher)",
+    "Benchen Monastery, Kathmandu, Nepal"
+  ],
+  "teacherAccess": "Weekend teachings, group meditation instruction, and individual meetings by appointment with the resident teacher, Lama Jampal; periodic visits from senior Karma Kagyu lamas and rinpoches for empowerments and teachings",
+  "retreatOptions": "Regular weekend (Saturday-Sunday) teaching and practice sessions; periodic 1-3 day retreats on core practices (Mahakala, Nyung Ne, Green Tara, Vajrasattva, Chöd); occasional 1-2 day visits and empowerments from guest lamas",
+  "about": "Benchen Karma Tegsum Tashi Ling is a Tibetan Buddhist center in the Cancello hills above Verona, Italy, founded in 1981 by the Venerable Kyabje Tenga Rinpoche of Benchen Monastery in Kathmandu, Nepal. It follows the Karma Kagyu (Karma Kamtsang) lineage of Tibetan Buddhism, under the spiritual authority of the 17th Karmapa, Ogyen Trinley Dorje. Since 2003 the center has hosted a resident lama, Lama Jampal, trained through the traditional three-year retreat at Benchen Monastery, who leads weekend teachings, meditation instruction, and puja practice and lives on site with a resident monk. In its earlier decades the center also welcomed teachers from the Zen and Theravada traditions in keeping with a non-sectarian spirit, and it continues to host visiting Karma Kagyu lamas and rinpoches for empowerments and short retreats. Run as a lay members' association, it stays open year-round and is supported through annual membership dues and donations rather than program fees.",
+  "schedule": "Teachings and puja practice are offered most Saturdays and Sundays following a monthly program announced by newsletter; the resident lama also meets practitioners individually during the week by phone or email appointment",
+  "cost": "No published retreat fees; the center is funded by annual membership dues (ordinary EUR 10, sustaining EUR 25, benefactor EUR 50) plus voluntary donations from members and event participants",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "workRequired": "unknown",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "dana-donation",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Home page",
+      "url": "https://www.benchenkarmatashi.it/"
+    },
+    {
+      "title": "Storia del Centro (Center history)",
+      "url": "https://www.benchenkarmatashi.it/storia-del-centro/"
+    },
+    {
+      "title": "La scuola Kagyu (The Kagyu school / lineage)",
+      "url": "https://www.benchenkarmatashi.it/la-scuola-kagyu/"
+    },
+    {
+      "title": "Attività del Centro (Center activities)",
+      "url": "https://www.benchenkarmatashi.it/attivita-che-si-svolgono-al-centro/"
+    },
+    {
+      "title": "Lama Jampal (resident teacher)",
+      "url": "https://www.benchenkarmatashi.it/lama-jampal/"
+    },
+    {
+      "title": "Dove siamo (Location / contact)",
+      "url": "https://www.benchenkarmatashi.it/dove-siamo/"
+    },
+    {
+      "title": "Come sostenerci (Membership dues and donations)",
+      "url": "https://www.benchenkarmatashi.it/come-sostenerci/"
+    },
+    {
+      "title": "Pratiche (Practices)",
+      "url": "https://www.benchenkarmatashi.it/pratiche/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

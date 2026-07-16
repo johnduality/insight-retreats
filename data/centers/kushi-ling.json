@@ -1,0 +1,94 @@
+{
+  "id": "kushi-ling",
+  "name": "Kushi Ling",
+  "aka": [
+    "Kushi Ling Meditation Centre",
+    "Centro di Meditazione Kushi Ling"
+  ],
+  "website": "https://www.kushi-ling.com/en/",
+  "location": {
+    "address": "Via alle Fontane di Laghel 44, 38062 Arco (TN)",
+    "city": "Arco",
+    "region": "Trentino, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 45.941382,
+    "lng": 10.883508
+  },
+  "tradition": "Tibetan Buddhism (Gelug), affiliated with the FPMT (Foundation for the Preservation of the Mahayana Tradition); also hosts non-sectarian Buddhist and contemplative teachers",
+  "technique": "Tibetan Buddhist Lamrim study and Shamatha/Vipashyana (calm-abiding and special-insight) meditation in guided group retreats, plus Tara Rokpa therapy and contemplative art/movement practice",
+  "influences": [
+    "Lama Thubten Yeshe (FPMT founder)",
+    "Lama Zopa Rinpoche",
+    "Kensur Jampa Tegchok",
+    "Geshe Thubten Sherab",
+    "Akong Rinpoche (Tara Rokpa founder)",
+    "14th Dalai Lama / Gelug tradition"
+  ],
+  "teacherAccess": "Retreats are led by resident or visiting Tibetan and Western teachers with daily teachings and guided practice; assistance for solo retreatants is available on request",
+  "retreatOptions": "Monthly one-day 'Introduction to Buddhist Thought' seminars; guided group retreats of 1-10 days; solitary individual retreats from 3 days up to 3 months (December-March recommended); themed workshops in Ecodharma, Tara Rokpa therapy, and contemplative art/movement",
+  "about": "Kushi Ling is a residential meditation centre set in a quiet, rocky hillside site above Arco, in the Trentino region of northern Italy, about 8 km from Lake Garda. It was founded in the lineage of Lama Thubten Yeshe and Lama Zopa Rinpoche and is affiliated with the Gelug-tradition FPMT (Foundation for the Preservation of the Mahayana Tradition), though it also welcomes teachers from other Buddhist and contemplative lineages. The centre offers guided group retreats of one to ten days built around silent and analytical Tibetan Buddhist meditation, a rolling introductory course covering topics such as the Four Noble Truths, karma, and the Lamrim, and longer solo retreats of three days to three months for experienced practitioners. Alongside its core Buddhist programme it runs Ecodharma events on ecological engagement, the Tara Rokpa process (a Buddhist-influenced therapy method founded by Akong Rinpoche), and contemplative art and movement workshops. The house is built from natural materials and surrounded by an organic vegetable garden and fruit trees, with two meditation halls and ten bedrooms hosting up to 25 people, plus space for tents. All meals are vegetarian and largely organic and local, and overnight guests are kindly asked to contribute roughly half an hour to an hour of daily work.",
+  "schedule": "Courses typically begin the evening of the first day and end after lunch on the last day; guided retreats alternate periods of silent sitting meditation with analytical (guided) meditation and teachings",
+  "cost": "Each course/retreat carries its own variable 'quota del corso' (a fee covering the teacher's honorarium and running costs, which decreases per day on longer retreats), plus a mandatory EUR 25/year Centre membership required of all participants; overnight guests pay full-board accommodation separately, from EUR 45/night in the shared meditation hall or tent up to higher rates for multi-bed, double, or single rooms, while day visitors can buy a single vegetarian lunch or dinner for EUR 17",
+  "pricePerDay": {
+    "min": 45,
+    "max": 60,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Full-board (pensione completa) accommodation is billed separately from the course fee: EUR 45/night for a mattress in the shared meditation hall or a tent space, from EUR 60/night for a shared 3-4 bed room (private or double rooms cost more); the variable course/teaching fee and the EUR 25/year membership fee are additional on top of these accommodation rates.",
+    "source": "https://www.kushi-ling.com/eventi/ritiro-di-meditazione-vipassana-e-mindfulness-con-marino-mahesi-de-meo-e-daniele-darrigo/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian, largely organic and local cuisine, in keeping with the Centre's sustainability principles; full board is bundled into the overnight accommodation rate, and single meals are sold to day visitors for EUR 17 each.",
+  "workRequired": "partial",
+  "workNotes": "Overnight guests are gently asked, not strictly required, to help about 30-60 minutes a day with cooking, cleaning, or garden work to help keep shared accommodation rates low.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "silent",
+    "long-retreats",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Kushi Ling - home page (English)",
+      "url": "https://www.kushi-ling.com/en/"
+    },
+    {
+      "title": "Kushi Ling Center mission",
+      "url": "https://www.kushi-ling.com/en/kushi-ling-center-mission/"
+    },
+    {
+      "title": "Kushi Ling Center offers",
+      "url": "https://www.kushi-ling.com/en/kushi-ling-center-offers/"
+    },
+    {
+      "title": "Teachers at Kushi Ling",
+      "url": "https://www.kushi-ling.com/en/teachers-at-kushi-ling/"
+    },
+    {
+      "title": "Kushi Ling calendar",
+      "url": "https://www.kushi-ling.com/en/kushi-ling-center-events-calendar/"
+    },
+    {
+      "title": "Contact the Kushi Ling Center (address, coordinates)",
+      "url": "https://www.kushi-ling.com/en/contact-the-kushi-ling-center/"
+    },
+    {
+      "title": "Vipassana e Mindfulness retreat event page (TARIFFE / pricing details)",
+      "url": "https://www.kushi-ling.com/eventi/ritiro-di-meditazione-vipassana-e-mindfulness-con-marino-mahesi-de-meo-e-daniele-darrigo/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

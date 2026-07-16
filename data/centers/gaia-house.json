@@ -1,0 +1,120 @@
+{
+  "id": "gaia-house",
+  "name": "Gaia House",
+  "website": "https://gaiahouse.co.uk/",
+  "location": {
+    "address": "West Ogwell, Newton Abbot, Devon, TQ12 6EW",
+    "city": "West Ogwell",
+    "county": "Devon",
+    "region": "Devon, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 50.518268,
+    "lng": -3.664509
+  },
+  "tradition": "Non-sectarian Buddhist: Insight (Vipassana), Zen, and Metta, taught by a rotating international faculty",
+  "technique": "Silent sitting and walking meditation; Insight, Zen, and Loving-kindness (Metta) practice",
+  "influences": [
+    "Christina Feldman",
+    "Christopher Titmuss",
+    "Ajahn Chah / Thai Forest tradition",
+    "Insight Meditation Society (Barre, MA)",
+    "Spirit Rock Meditation Center"
+  ],
+  "teacherAccess": "Daily Dharma talks and group sittings on retreats, with small-group meetings and one-on-one interviews; weekly teacher interviews required for personal and Dharma Service retreatants",
+  "retreatOptions": "One-day Meditation Days; weekend to 16-night group retreats; solitary personal retreats from 2 nights up to 3+ months; Dharma Service (work) retreats of 2 weeks to 3 months; online retreats and courses",
+  "about": "Gaia House is a Buddhist meditation retreat centre and registered charity in West Ogwell, a few miles from Newton Abbot in South Devon, England. It was founded in 1983 by Christina Feldman and Christopher Titmuss in a vicarage in the nearby village of Denbury, then moved in 1996 to its current site, a former Georgian manor house and Christian convent. It is now one of the largest residential meditation centres in Europe, hosting around 1,500 retreatants a year. Rather than following a single resident teacher or lineage, its year-round programme draws on Insight, Zen, and Metta teachings from a rotating international faculty of lay and monastic teachers. Alongside group retreats it supports solitary personal retreats and Dharma Service (work) retreats for experienced practitioners, plus an online programme of courses and talks. Teachers receive no fee and rely entirely on dana (voluntary donations) from retreatants.",
+  "schedule": "Group retreats run seven daily group sittings with Dharma talks and interviews; personal retreatants follow the hall schedule or practise independently in the Hermitage Wing, with a daily work period for all",
+  "cost": "Group retreats use a three-tier sliding scale (Standard/Basic/Supported) plus a discounted Young Persons rate and FAB Fund bursaries; personal and Dharma Service retreats are billed per night with a 50% FAB Fund reduction available; none of the fee goes to teachers, who are supported separately through dana",
+  "pricePerDay": {
+    "min": 85,
+    "max": 111,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "5-night residential retreat 'The Heart of Wisdom and Compassion' (17-22 Jul 2026): Basic GBP 425 to Standard GBP 555, i.e. GBP 85-111/night; the Supported rate (GBP 300, GBP 60/night) and FAB Fund rate (GBP 213) are subsidised tiers excluded here. An extra night at the end of a group retreat costs a flat GBP 77.",
+    "source": "https://gaiahouse.co.uk/programme/heart-of-wisdom-and-compassion-2026"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Plant-based meals with dairy available at breakfast and hot drinks; a gluten-free 'simple diet' (grains, steamed vegetables, pulses, egg or tofu) is offered on request.",
+  "workRequired": "yes",
+  "workNotes": "All retreatants are asked for roughly 1-2 hours of daily work (cleaning, kitchen, garden, maintenance) to help keep costs down; Dharma Service retreatants instead work about 5 hours a day in exchange for a subsidised place.",
+  "tags": [
+    "zen",
+    "theravada",
+    "insight-vipassana",
+    "day-retreats",
+    "silent",
+    "long-retreats",
+    "family-friendly",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "accessible",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Gaia House - home page",
+      "url": "https://gaiahouse.co.uk/"
+    },
+    {
+      "title": "About Gaia House",
+      "url": "https://gaiahouse.co.uk/about/"
+    },
+    {
+      "title": "The history of the building",
+      "url": "https://gaiahouse.co.uk/about/history-building/"
+    },
+    {
+      "title": "The story of Gaia House",
+      "url": "https://gaiahouse.co.uk/about/gaia-house-story/"
+    },
+    {
+      "title": "About Insight Meditation",
+      "url": "https://gaiahouse.co.uk/about-meditation/"
+    },
+    {
+      "title": "Personal Retreats",
+      "url": "https://gaiahouse.co.uk/retreats/personal-retreats/"
+    },
+    {
+      "title": "Retreats FAQ",
+      "url": "https://gaiahouse.co.uk/retreats/retreat-faq/"
+    },
+    {
+      "title": "Dharma Service Retreats",
+      "url": "https://gaiahouse.co.uk/retreats/work-retreats/"
+    },
+    {
+      "title": "Retreat rates",
+      "url": "https://gaiahouse.co.uk/booking-conditions/retreat-rates/"
+    },
+    {
+      "title": "Programme (2026 calendar with rates)",
+      "url": "https://gaiahouse.co.uk/programme/"
+    },
+    {
+      "title": "The Heart of Wisdom and Compassion (residential retreat rates)",
+      "url": "https://gaiahouse.co.uk/programme/heart-of-wisdom-and-compassion-2026"
+    },
+    {
+      "title": "The Gaia House service community",
+      "url": "https://gaiahouse.co.uk/working-here/staff-team/"
+    },
+    {
+      "title": "Postcode lookup for TQ12 6EW (coordinates)",
+      "url": "https://www.doogal.co.uk/UKPostcodes?Search=TQ12%206EW"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

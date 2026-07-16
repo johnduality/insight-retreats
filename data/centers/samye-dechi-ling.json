@@ -1,0 +1,77 @@
+{
+  "id": "samye-dechi-ling",
+  "name": "Samye Dechi Ling",
+  "aka": [
+    "Centro de Retiros Samye Dechi Ling",
+    "Monasterio Samye Dechi Ling",
+    "Kagyu Samye Dechi Ling",
+    "La Fradera",
+    "El Rossell"
+  ],
+  "website": "https://samye.es/centros/centro-de-retiros/",
+  "location": {
+    "address": "La Fradera - El Rossell, Carretera de Castanyet km 3.8, 17443 Castanyet, Santa Coloma de Farners",
+    "city": "Santa Coloma de Farners",
+    "county": "Girona",
+    "region": "Catalonia, Spain",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 41.8968,
+    "lng": 2.5906
+  },
+  "tradition": "Karma Kagyu Tibetan Buddhism, part of the Samye Dzong España network founded in the lineage of Kagyu Samye Ling (Scotland)",
+  "technique": "Self-directed silent sitting practice; shiné (calm-abiding) and Karma Kagyu deity/prayer practice done individually",
+  "influences": [
+    "Ákong Tulku Rinpoché",
+    "Choje Lama Yeshe Losal Rinpoché",
+    "Lama Tsondru Sangmo",
+    "Kagyu Samye Ling Monastery (Scotland)",
+    "Marpa Kagyu retreat tradition"
+  ],
+  "teacherAccess": "None built into individual retreats, which are self-guided; the small resident monastic community next door holds daily prayers and meditation that retreat guests may join, and occasional separate group retreats are led by visiting lamas",
+  "retreatOptions": "Self-guided individual retreats from a weekend up to several months, year-round (room availability permitting, book ahead by phone); the adjoining monastery guesthouse (Hospedería) offers weekend-to-three-week stays; periodic led group retreats with visiting teachers are scheduled separately",
+  "about": "Samye Dechi Ling is a Karma Kagyu Tibetan Buddhist retreat center run by Samye Dzong España, set among chestnut, pine, and oak forest in the Guilleries mountains about 30 minutes by car above Santa Coloma de Farners in Girona, Catalonia. It occupies two old stone farmhouses, La Fradera and El Rossell, put into use as a retreat center in 1996; from 2003 to 2013 it closed to the public while hosting two long solitary retreats in the Marpa Kagyu tradition (one of 3 years 7 months, another of 4 years), then reopened for individual retreats. There is no resident teacher guiding stays: each retreatant occupies a private room with its own meditation box and altar and follows a self-directed schedule of sitting practice, done in the room, in the on-site temple, or outdoors amid the surrounding forest. Guests of any background are welcome but are asked to keep silence and observe basic precepts for the duration of their stay, including not eating meat, not drinking alcohol or taking other intoxicants, and not smoking near the buildings. A short distance away, the same forested property is also home to the separate Monasterio Samye Dechi Ling, a small resident community of monks and nuns whose daily prayers and meditation sessions retreat-center guests may attend. The access road is a remote, partly unpaved forest track, so visitors are strongly advised to arrive in daylight and to follow the center's own directions rather than GPS.",
+  "schedule": "No fixed group schedule at the retreat center itself; retreatants set their own daily sitting practice, though those who wish can align with the neighboring monastery's rhythm of practice sessions around 7:00 and 15:30",
+  "cost": "Rates are not published online; individual retreat stays (room, based on length of stay) are arranged directly by phone or email with the center",
+  "foodServed": "unknown",
+  "foodType": "vegetarian",
+  "foodNotes": "Retreatants must observe a precept against eating meat for the duration of their stay; the affiliated Hospedería has its own kitchen-lounge, suggesting guests may self-cater, and the official pages do not clearly state whether meals are prepared by center staff.",
+  "workRequired": "no",
+  "workNotes": "Individual retreats at the Centro de Retiros involve no stated work duty, only silent personal practice; a separate 'experience monastic life' program at the adjoining Monasterio Samye Dechi Ling does involve sharing the monks' and nuns' daily routine of work, meditation, and study.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "silent",
+    "long-retreats",
+    "diet-vegetarian",
+    "no-work-required",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Centro de Retiros Samye Dechi Ling",
+      "url": "https://samye.es/centros/centro-de-retiros/"
+    },
+    {
+      "title": "Inicio - Samye Dzong España (site navigation, centers list)",
+      "url": "https://samye.es/"
+    },
+    {
+      "title": "Monasterio Samye Dechi Ling - Samye Dzong España",
+      "url": "https://samye.es/centros/monasterio-samye-dechi-ling/"
+    },
+    {
+      "title": "Hospedería del Monasterio - Samye Dzong España",
+      "url": "https://samye.es/centros/hospederia_del_monasterio/"
+    },
+    {
+      "title": "Oportunidad para experimentar la vida monacal con el linaje Karma Kagyu - Sakyadhita Spain",
+      "url": "https://sakyadhitaspain.org/vida-monacal/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

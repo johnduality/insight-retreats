@@ -1,0 +1,96 @@
+{
+  "id": "meditation-center-beatenberg",
+  "name": "Meditation Center Beatenberg (Karuna)",
+  "aka": [
+    "Karuna",
+    "Meditationszentrum Beatenberg",
+    "Dhamma Gruppe Schweiz"
+  ],
+  "website": "https://karuna.ch/en/welcome/",
+  "location": {
+    "address": "Amisbühlstrasse 51 (Moos 820a), 3803 Beatenberg",
+    "city": "Beatenberg",
+    "region": "Bern, Switzerland",
+    "country": "Switzerland",
+    "state": "CH",
+    "lat": 46.7042,
+    "lng": 7.81421
+  },
+  "tradition": "Non-sectarian Buddhist rooted in Theravada Insight (Vipassana), with metta/karuna heart practices and occasional Tibetan Vajrayana retreats",
+  "technique": "Silent sitting and walking meditation in the Insight tradition, plus loving-kindness/compassion practices (metta, karuna, tonglen) and some Tibetan Mahamudra retreats",
+  "influences": [
+    "Fred von Allmen",
+    "Ursula Flückiger",
+    "Isis Bianzano",
+    "Rainer Künzi",
+    "Samuel Theiler",
+    "Yuka Nakamura",
+    "Ajahn Sumedho / Thai Forest tradition",
+    "Christina Feldman",
+    "Insight Meditation Society (Barre, MA)",
+    "Bodhi College"
+  ],
+  "teacherAccess": "Daily meditation instruction, one Dharma talk a day, and regular one-on-one teacher interviews during residential retreats; teachers take no fee and live entirely on end-of-course dana",
+  "retreatOptions": "Weekend courses up to roughly 9-night residential silent retreats in the Insight, Metta, and Tibetan/Mahamudra traditions, plus occasional in-person, livestream, and online courses",
+  "about": "Meditation Center Beatenberg, known locally as Karuna, is a Buddhist retreat center run by a Swiss foundation high above Lake Thun and Lake Brienz in Beatenberg, in the Bernese Oberland. It grew out of Dhamma Gruppe Schweiz, founded in Bern in 1978 by young Swiss practitioners including Fred von Allmen who had studied Theravada Buddhism while travelling in Asia; the group bought a former holiday home from the city of Burgdorf and opened it as a dedicated meditation center at the end of 2000. Its year-round program centers on Insight meditation and the heart practices of metta, karuna, and tonglen, alongside a number of retreats from the Tibetan traditions, and no religious affiliation or belief is required to attend. Retreats are taught by a small core team of Swiss teachers authorized by Fred von Allmen -- Ursula Flückiger, Isis Bianzano, Rainer Künzi, Samuel Theiler, and Yuka Nakamura -- together with visiting international teachers connected to centers such as Gaia House, IMS, and Bodhi College. The center is staffed by a handful of part-time employees and many volunteers, hosts roughly 7,500 overnight stays a year, and, in keeping with Buddhist tradition, its teachers receive no fee and rely entirely on end-of-retreat donations from participants.",
+  "schedule": "Arrival and registration 4-7pm with a light dinner and opening session the first evening; a full daily schedule of sitting and walking meditation, meditation instruction, a Dharma talk, and teacher interviews follows, held mostly in noble silence; retreats end after lunch and house-cleaning around 2pm on the final day",
+  "cost": "Each course has a fixed fee (not including any payment to the teacher) due in full 4 weeks before the retreat, or payable in two installments if over CHF 500; income-based hardship reductions and up to 70% discounts for pupils, trainees, and students are available on request; cancellation fees range from CHF 75-100 up to 1-2 weeks before a course to the full price thereafter",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals including dairy and eggs, mostly organic produce; the kitchen cannot accommodate special diets, though basic light food such as rice, crackers, and soya milk is available on request.",
+  "workRequired": "no",
+  "workNotes": "Ordinary retreatants are not required to work; the center separately welcomes volunteers to serve as cooks, cleaners, or gardeners during and between retreats (around 5 hours/day) as a form of combined practice and support.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "tibetan-vajrayana",
+    "silent",
+    "online-hybrid",
+    "diet-vegetarian",
+    "dana-donation",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "no-work-required",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "About us – Meditation Center Beatenberg",
+      "url": "https://karuna.ch/en/about-us-2/"
+    },
+    {
+      "title": "Information – Meditation Center Beatenberg",
+      "url": "https://karuna.ch/en/information/"
+    },
+    {
+      "title": "Payments – Meditation Center Beatenberg",
+      "url": "https://karuna.ch/en/payments/"
+    },
+    {
+      "title": "Terms and conditions – Meditation Center Beatenberg",
+      "url": "https://karuna.ch/en/terms-and-conditions/"
+    },
+    {
+      "title": "Teachers – Meditation Center Beatenberg",
+      "url": "https://karuna.ch/en/teacher/"
+    },
+    {
+      "title": "Getting here – Meditation Center Beatenberg",
+      "url": "https://karuna.ch/en/getting-here/"
+    },
+    {
+      "title": "Meditationszentrum Beatenberg (history and background) – Relinfo.ch",
+      "url": "https://www.relinfo.ch/lexikon/buddhismus/theravada/theravada-vipassana-meditationsgruppen/meditationszentrum-beatenberg/"
+    },
+    {
+      "title": "Meditationszentrum Beatenberg building location – Mapcarta / OpenStreetMap",
+      "url": "https://mapcarta.com/W303375736"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

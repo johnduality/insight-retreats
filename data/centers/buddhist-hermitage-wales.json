@@ -1,0 +1,105 @@
+{
+  "id": "buddhist-hermitage-wales",
+  "name": "Hermitage of the Awakened Heart",
+  "aka": [
+    "Buddhist Hermitage Wales",
+    "Awakened Heart Sangha Hermitage",
+    "Fortress of Enlightenment (Changchub Dzong)"
+  ],
+  "website": "https://buddhisthermitage.wales/",
+  "location": {
+    "address": "Ynys Graianog, Ynys, Criccieth, LL52 0NT",
+    "city": "Criccieth",
+    "county": "Gwynedd",
+    "region": "Gwynedd, Wales",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 52.952588,
+    "lng": -4.284481
+  },
+  "tradition": "Tibetan Buddhist: Mahamudra and Dzogchen teachings (Kagyu/Nyingma-influenced), led by Lama Shenpen Hookham",
+  "technique": "'Formless Meditation' (simple, direct natural awareness practice) alongside puja, retreat vows, and Mahamudra/Dzogchen study",
+  "influences": [
+    "Lama Shenpen Hookham",
+    "Khenpo Tsultrim Gyamtso Rinpoche",
+    "the 16th Karmapa, Rangjung Rigpe Dorje",
+    "Kalu Rinpoche",
+    "Bokar Rinpoche",
+    "Karma Thinley Rinpoche",
+    "Dilgo Khyentse Rinpoche"
+  ],
+  "teacherAccess": "Direct access to Lama Shenpen Hookham and resident teacher Lama Anne Tara Dew via daily puja and teaching sessions on retreats, and by prior appointment for personal/solitary retreats",
+  "retreatOptions": "Monthly public meditation and teaching days; group retreats and weekend gatherings (in person and via Zoom, some members/invitation-only); solitary personal retreats from a few days to several months, plus volunteer stays, all arranged directly with Lama Shenpen",
+  "about": "The Hermitage of the Awakened Heart is a small Tibetan Buddhist retreat centre near Criccieth in Gwynedd, North Wales, on the edge of Snowdonia. It is the home and retreat base of Lama Shenpen Hookham, a British-born lama trained for nearly 50 years in the Mahamudra and Dzogchen traditions, including six years as a nun in India and three decades of study under Khenpo Tsultrim Gyamtso Rinpoche. The Hermitage is the hub of the worldwide Awakened Heart Sangha, whose students follow Lama Shenpen's 'Living the Awakened Heart' distance-learning course in what she calls Formless Meditation, a simple and direct approach to natural awareness distinct from visualisation-based practices. Alongside its resident community, the centre hosts periodic group retreats built around retreat vows, daily puja, and teachings (several of which are open only to established practice groups), monthly public meditation and teaching days, and solitary personal retreats and volunteer stays arranged individually with Lama Shenpen. Most teaching and daily practice is also broadcast live online, extending the sangha well beyond North Wales. As a project of the Shrimala Trust charity, it runs entirely on dana (voluntary donation), with no published fixed retreat fees.",
+  "schedule": "Group retreats follow a daily cycle of morning and evening puja plus several teaching/meditation sessions, opening with retreat vows and closing with a feast; daily meditation and puja are live-streamed via Zoom, and local practitioners can join in-person silent sitting on Tuesday evenings",
+  "cost": "Run by the Shrimala Trust charity entirely on a donation (dana) basis; no fixed retreat fees, sliding scale, or suggested amounts are published, and payments/donations are made per event via the sangha's online donation page",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "Group retreats are described as ending with a communal feast, but the public site does not specify whether daily meals are provided to all retreatants or to solitary/personal retreatants.",
+  "workRequired": "partial",
+  "workNotes": "Staying as a volunteer is offered as a distinct option alongside being a group-retreat participant or solitary retreatant, implying work/service is not required of ordinary retreat guests but is a separate track for those who choose it.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Welcome to The Hermitage - home page",
+      "url": "https://buddhisthermitage.wales/"
+    },
+    {
+      "title": "Meditation sessions and classes at The Hermitage",
+      "url": "https://buddhisthermitage.wales/meditation/"
+    },
+    {
+      "title": "Donate - Buddhist Retreat Centre North Wales",
+      "url": "https://buddhisthermitage.wales/donate/"
+    },
+    {
+      "title": "About the Awakened Heart Sangha",
+      "url": "https://ahs.org.uk/about"
+    },
+    {
+      "title": "Training | Awakened Heart Sangha",
+      "url": "https://ahs.org.uk/training"
+    },
+    {
+      "title": "Locations | Awakened Heart Sangha",
+      "url": "https://ahs.org.uk/locations"
+    },
+    {
+      "title": "Donations & payments | Awakened Heart Sangha",
+      "url": "https://ahs.org.uk/donations-and-payments"
+    },
+    {
+      "title": "Mahamudra Mandala Retreat (event/schedule example)",
+      "url": "https://ahs.org.uk/events/2026/02/20/mahamudra-mandala-retreat"
+    },
+    {
+      "title": "Sangtik Dorsem Retreat (event/schedule example)",
+      "url": "https://ahs.org.uk/events/2025/11/08/sangtik-dorsem-retreat"
+    },
+    {
+      "title": "Shenpen Hookham - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shenpen_Hookham"
+    },
+    {
+      "title": "How Dilgo Khyentse Rinpoche Directed Lama Shenpen to North-west Wales",
+      "url": "https://buddhawithin.org.uk/2020/06/17/how-a-tibetan-buddhist-master-directed-lama-shenpen-to-north-west-wales/"
+    },
+    {
+      "title": "Postcode lookup for LL52 0NT (coordinates)",
+      "url": "https://www.doogal.co.uk/UKPostcodes?Search=LL52%200NT"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

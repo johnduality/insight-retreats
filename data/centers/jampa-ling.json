@@ -1,0 +1,95 @@
+{
+  "id": "jampa-ling",
+  "name": "Jampa Ling",
+  "aka": [
+    "Jampa Ling Buddhist Centre",
+    "Jampa Ling Tibetan Buddhist Meditation Centre"
+  ],
+  "website": "https://www.jampaling.org/",
+  "location": {
+    "address": "Owendoon House, Bawnboy, Co. Cavan, Ireland",
+    "city": "Bawnboy",
+    "county": "Cavan",
+    "region": "County Cavan, Ireland",
+    "country": "Ireland",
+    "state": "IE",
+    "lat": 54.1077,
+    "lng": -7.7024
+  },
+  "tradition": "Tibetan Buddhism, Gelug lineage, under the patronage of His Holiness the 14th Dalai Lama",
+  "technique": "Tibetan Buddhist teachings, meditation, pujas and chanting practice; refuge ceremonies",
+  "influences": [
+    "Venerable Panchen Ötrul Rinpoche",
+    "Drepung Monastery",
+    "His Holiness the 14th Dalai Lama",
+    "Gelug tradition"
+  ],
+  "teacherAccess": "Private interviews with the resident teacher, Venerable Panchen Ötrul Rinpoche, can be arranged ahead of a visit; teaching weekends include an optional group discussion session",
+  "retreatOptions": "Daily drop-in practice sessions; day events; teaching and silent meditation weekends (Friday evening to Sunday); open-ended guest stays for quiet personal time; solitary retreats in an on-site retreat mobile; group hire of Tara House for workshops",
+  "about": "Jampa Ling is a Tibetan Buddhist meditation and retreat centre on a nineteenth-century estate near Bawnboy, County Cavan, in the Irish borderlands, with views of the Cuilcagh Mountains. Founded in 1990 in the Gelug lineage, it operates under the spiritual direction of the Venerable Panchen Ötrul Rinpoche, a Geshe Lharampa trained at Drepung Monastery, and is patronised by His Holiness the 14th Dalai Lama. Alongside a daily programme of practice and periodic teaching and silent meditation weekends, the centre welcomes visitors of any faith or none simply to stay in its guest accommodation and enjoy the grounds, birch forest and walled garden. A secluded retreat mobile on site offers solitary retreatants a simple space for personal practice and meditation. The centre's name means 'place of loving-kindness', and it also supports charitable projects in Mongolia and India and a sister group, Jampa Ling Northern Ireland.",
+  "schedule": "Daily practice three times a day (roughly 7:00-8:30am, 4:00-4:30pm, 7:00-8:15pm); teaching/meditation weekends typically run from Friday evening arrival through Sunday lunchtime, in silence from Saturday morning",
+  "cost": "Guest accommodation in Tara House is charged at reasonable nightly rates with full board or self-catering; scheduled weekend events use a three-tier fee (residential / non-residential / one-day), e.g. a Silent Meditation Weekend at €200 residential, €140 non-residential, €70 for a single day",
+  "pricePerDay": {
+    "min": 100,
+    "max": 100,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Derived from the Silent Meditation Weekend residential rate of €200, which covers Friday-evening arrival through Sunday (2 nights), i.e. roughly €100/night; non-residential and one-day rates are excluded as they are not overnight rates.",
+    "source": "https://www.jampaling.org/event/silent-meditation-weekend-37/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Guest accommodation in Tara House includes vegetarian breakfast, lunch and dinner; a self-catering option is also available, and the solitary retreat mobile has its own kitchen for cooking your own food.",
+  "workRequired": "no",
+  "workNotes": "No work is required of ordinary guests or retreat participants; the centre separately welcomes volunteers (office, cleaning, cooking, gardening) on an ongoing basis and runs one spring garden work weekend with free food and accommodation for helpers.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "silent",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "no-work-required",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Jampa Ling - home page",
+      "url": "https://www.jampaling.org/"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.jampaling.org/about-us/"
+    },
+    {
+      "title": "Venerable Panchen Ötrul Rinpoche",
+      "url": "https://www.jampaling.org/about-us/rinpoche/"
+    },
+    {
+      "title": "Accommodation",
+      "url": "https://www.jampaling.org/visiting/staying/"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://www.jampaling.org/visiting/faqs/"
+    },
+    {
+      "title": "Volunteering at Jampa Ling",
+      "url": "https://www.jampaling.org/visiting/volunteering/"
+    },
+    {
+      "title": "Regular Events",
+      "url": "https://www.jampaling.org/regular-events/"
+    },
+    {
+      "title": "Silent Meditation Weekend (event pricing)",
+      "url": "https://www.jampaling.org/event/silent-meditation-weekend-37/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

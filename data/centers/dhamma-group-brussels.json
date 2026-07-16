@@ -1,0 +1,111 @@
+{
+  "id": "dhamma-group-brussels",
+  "name": "Dhamma Group Brussels",
+  "aka": [
+    "Groupe Dhamma Bruxelles",
+    "Dhammaramsi Centre",
+    "Centre Dhammaramsi"
+  ],
+  "website": "https://dhammagroupbrussels.be/",
+  "location": {
+    "address": "Route de Floreffe 22, 5170 Rivière (Profondeville)",
+    "city": "Rivière",
+    "county": "Profondeville",
+    "region": "Namur, Belgium",
+    "country": "Belgium",
+    "state": "BE",
+    "lat": 50.3613,
+    "lng": 4.863
+  },
+  "tradition": "Theravada Buddhism, Burmese Vipassana lineage (Mahasi Sayadaw method)",
+  "technique": "Mahasi-style noting practice: alternating one-hour sitting and walking meditation with continuous mindfulness during daily activities",
+  "influences": [
+    "Mahasi Sayadaw",
+    "Rewata Dhamma Mahathera",
+    "Sayadaw U Kundala",
+    "Sayadaw U Ottaranyana",
+    "Sayadaw U Paññathami (student of Sayadaw U Pandita)",
+    "Sayadaw U Thuzana",
+    "Sayalay Daw Vajiranyani"
+  ],
+  "teacherAccess": "Daily Dhamma talks and individual interviews with the visiting sayadaw or teacher during residential retreats; teaching given in English with French translation",
+  "retreatOptions": "Weekly evening sittings in Brussels; monthly intensive weekends and single days at Dhammaramsi; about five residential Vipassana (Mahasi) retreats a year, typically 2-3 weeks, plus an annual Abhidhamma retreat and a Metta retreat; self-guided individual stays from a few nights up to a month or more",
+  "about": "Dhamma Group Brussels is a Belgian Theravada Buddhist association that grew out of a small meditation circle founded in 1985 under the guidance of the Burmese monk Rewata Dhamma, and which has centered its residential activity since 2003 at the Dhammaramsi retreat house in Rivière, a wooded hamlet of Profondeville near Namur. The center teaches the Vipassana method of the late Mahasi Sayadaw of Burma through alternating sitting and walking meditation, continuous mindfulness in daily activity, and Noble Silence, with visiting Burmese sayadaws and Western teachers trained in the same lineage leading the retreats. Weekly meditation evenings continue at two Brussels locations, while Dhammaramsi itself hosts weekend and day retreats plus roughly five multi-week residential retreats a year, capped at about 35 participants to keep a close-knit atmosphere. The property is a converted 19th-century forge, mill, and béguinage complex on a small island in the Burnot valley, with dormitory and single rooms, a meditation hall, library, and organic garden. Teaching is offered freely as dana (donation) to the visiting teacher, while a modest per-night charge covers room and board; the association also rents rooms for self-guided individual retreats and runs periodic volunteer ('veyyavacca') service days.",
+  "schedule": "Noble-silence daily schedule from roughly 4-5am to 9-10pm, alternating hour-long sitting and walking meditation periods with a daily Dhamma talk; retreatants keep the Eight Precepts and take no solid food after noon",
+  "cost": "Residential retreats: EUR 27/day in shared housing or EUR 40/day for a private room (partial cost-recovery only, plus optional donations for meals or to Dhamma Group); weekends EUR 50 shared / EUR 80 private; self-guided individual stays EUR 20-35/night with a reduced rate beyond a month; teaching itself is by dana to the teacher",
+  "pricePerDay": {
+    "min": 27,
+    "max": 40,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Based on the standard ~2-3 week Vipassana (Mahasi) retreats held about five times a year: EUR 27/night in a shared dormitory-style room up to EUR 40/night for a private single room; these fees cover only part of the actual running cost and exclude the customary separate dana offered to the teacher.",
+    "source": "https://dhammagroupbrussels.be/retraites-intensives/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Breakfast and a vegetarian lunch are provided; consistent with the Eight Precepts observed during retreats, no solid food is taken after noon, with only drinks offered in the late afternoon.",
+  "workRequired": "no",
+  "workNotes": "No work is required of retreatants during residential retreats; the center separately organizes optional volunteer 'veyyavacca' days (garden upkeep, cooking, maintenance) open to meditators and supporters.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "day-retreats",
+    "self-guided",
+    "online-hybrid",
+    "family-friendly",
+    "diet-vegetarian",
+    "fixed-fee",
+    "dana-donation",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Groupe Dhamma Bruxelles - home page",
+      "url": "https://dhammagroupbrussels.be/"
+    },
+    {
+      "title": "Centre Dhammaramsi",
+      "url": "https://dhammagroupbrussels.be/centre-dhammaramsi/"
+    },
+    {
+      "title": "Retraites intensives (retreat schedule and cost)",
+      "url": "https://dhammagroupbrussels.be/retraites-intensives/"
+    },
+    {
+      "title": "La méditation Vipassana",
+      "url": "https://dhammagroupbrussels.be/vipassana-meditation/"
+    },
+    {
+      "title": "Historique",
+      "url": "https://dhammagroupbrussels.be/history-2/"
+    },
+    {
+      "title": "Retraites Mahasi (daily schedule)",
+      "url": "https://dhammagroupbrussels.be/information-mahasi-reatreat/"
+    },
+    {
+      "title": "Weekends intensifs",
+      "url": "https://dhammagroupbrussels.be/w-e-intensifs/"
+    },
+    {
+      "title": "Journées veyyavacca",
+      "url": "https://dhammagroupbrussels.be/journee-veyyavacca/"
+    },
+    {
+      "title": "Séjours individuels (individual stay rates)",
+      "url": "https://dhammagroupbrussels.be/divers/"
+    },
+    {
+      "title": "Retraites Abhidhamma (daily schedule, vegetarian lunch)",
+      "url": "https://dhammagroupbrussels.be/informations-pratiques-abhidhamma/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

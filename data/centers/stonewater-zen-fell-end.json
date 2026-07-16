@@ -1,0 +1,88 @@
+{
+  "id": "stonewater-zen-fell-end",
+  "name": "StoneWater Zen Centre — Fell End (Lake District Retreat Centre)",
+  "aka": [
+    "Fell End",
+    "Fell End Farm",
+    "StoneWater Lake District",
+    "StoneWater Zen Sangha"
+  ],
+  "website": "https://www.stonewaterzen.org/zen/retreat-centres/",
+  "location": {
+    "address": "Fell End Farm, near Milnthorpe, Cumbria (exact address given to retreatants on booking)",
+    "city": "Milnthorpe",
+    "county": "Cumbria",
+    "region": "Cumbria, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 54.2311,
+    "lng": -2.7663
+  },
+  "tradition": "Soto Zen, White Plum Asanga lineage of Taizan Maezumi Roshi",
+  "technique": "Zazen (shikantaza and koan practice), sesshin-style silent sitting and walking meditation, with samu (work practice)",
+  "influences": [
+    "Taizan Maezumi Roshi",
+    "Tenshin Fletcher Roshi",
+    "David Keizan Scott Roshi",
+    "Genpo Merzel Roshi",
+    "White Plum Asanga"
+  ],
+  "teacherAccess": "Daily dharma talks (teisho) and one-to-one interviews with Keizan Roshi and other StoneWater teachers during retreats; individual practice visits with the resident attendant can be arranged outside training periods.",
+  "retreatOptions": "Week-long, mainly silent sesshin-style retreats at Fell End, including an annual four-week August Training Period and autumn sesshin weeks, plus arranged individual practice visits of a few days to a month outside formal training periods.",
+  "about": "StoneWater Zen Centre's Lake District retreat centre, known as Fell End, is a residential Zen practice site near Milnthorpe and Grange-over-Sands in Cumbria, England, run by StoneWater Zen Sangha, a Soto Zen group in the White Plum Asanga lineage of Taizan Maezumi Roshi led by David Keizan Scott Roshi. Since around 2020 the farm has been developed as StoneWater's rural retreat base and a place of continuous practice, managed day-to-day by resident attendant Shozan, alongside the sangha's older, twice-yearly retreat venue at Crosby Hall near Liverpool. Fell End hosts week-long sesshin-style retreats, most notably a four-week August Training Period that builds toward the Shuso Hossen ceremony, plus autumn sesshin weeks, with StoneWater teachers present throughout. Its zendo is light and spacious, retreats are held mainly in silence with a fixed simple vegetarian menu, and outside formal training periods practitioners can arrange individual stays of a few days to a month. Because of its rural setting and stairs, the centre is not wheelchair accessible, unlike StoneWater's Crosby Hall venue. The sangha is entirely self-supporting through dana (donations), and Fell End retreats are offered for a suggested minimum donation rather than a published fixed fee.",
+  "schedule": "Silent daily schedule from roughly 5.25-5.30am wake-up to 10pm lights-out, with about 7-8 hours of zazen and kinhin across four sessions, an hour of samu (work practice), a dharma talk, and teacher interviews.",
+  "cost": "Suggested minimum donation of £250 per week-long retreat (including meals and accommodation), reduced to £200 for the final week of the August training period; StoneWater is entirely self-supporting via dana and does not publish a fixed fee scale.",
+  "pricePerDay": {
+    "min": 50,
+    "max": 50,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "August Training Period 2026: Weeks 1-3 run Sunday-Friday (5 nights) at a suggested minimum of £250; Week 4 runs Sunday-Thursday (4 nights) at £200 — both work out to about £50/night. This is a suggested minimum donation rather than a fixed price.",
+    "source": "https://www.stonewaterzen.org/resources/event-dates/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Fixed, simple vegetarian menu during retreats; special dietary requirements are catered for if advised beforehand.",
+  "workRequired": "yes",
+  "workNotes": "Daily samu (communal work period, e.g. 9.30-10.30am) is part of the retreat schedule for everyone; meal prep, washing up and cleaning are organised in rota teams.",
+  "tags": [
+    "zen",
+    "silent",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Retreat Centres | StoneWater Zen Centre",
+      "url": "https://www.stonewaterzen.org/zen/retreat-centres/"
+    },
+    {
+      "title": "Home | StoneWater Zen Centre",
+      "url": "https://www.stonewaterzen.org/"
+    },
+    {
+      "title": "About Retreats | StoneWater Zen Centre",
+      "url": "https://www.stonewaterzen.org/about-retreats/"
+    },
+    {
+      "title": "Retreat and Event Dates | StoneWater Zen Centre",
+      "url": "https://www.stonewaterzen.org/resources/event-dates/"
+    },
+    {
+      "title": "White Plum Asanga | StoneWater Zen Centre",
+      "url": "https://www.stonewaterzen.org/stonewater/white-plum-asanga/"
+    },
+    {
+      "title": "Support StoneWater Zen | StoneWater Zen Centre",
+      "url": "https://www.stonewaterzen.org/stonewater/stonewater-zen-trust/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

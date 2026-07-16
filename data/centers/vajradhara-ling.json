@@ -1,0 +1,91 @@
+{
+  "id": "vajradhara-ling",
+  "name": "Vajradhara-Ling",
+  "aka": [
+    "Dachang Vajradhara Ling",
+    "Congrégation Dachang Vajradharaling",
+    "Vajradhara Ling"
+  ],
+  "website": "https://vajradharaling.org/",
+  "location": {
+    "address": "Domaine du Château d'Osmont, 61120 Aubry-le-Panthou",
+    "city": "Aubry-le-Panthou",
+    "county": "Orne",
+    "region": "Orne, Normandy, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 48.8565,
+    "lng": 0.2327
+  },
+  "tradition": "Tibetan Buddhism, Karma Kagyu / Dachang Kagyu lineage (Kalu Rinpoche transmission)",
+  "technique": "Kagyu Vajrayana ritual practice: daily and weekend pujas, empowerments (wang/initiations), text transmissions (loung), and meditation instruction (tri) tied to yidam and protector practice",
+  "influences": [
+    "Kalu Rinpoche",
+    "16th Karmapa",
+    "Lama Gyourmé",
+    "Bokar Rinpoche",
+    "17th Gyalwang Karmapa Ogyen Trinley Dorje"
+  ],
+  "teacherAccess": "Resident spiritual director Lama Gyourmé, along with resident Lama Péma and Lama Detchen, lead teachings, initiations, and rituals; outside teachers also give occasional weekend seminars",
+  "retreatOptions": "Weekend teachings and empowerments; private individual or Lama-guided retreats in on-site guest rooms; long-term residency as an ordained or lay member; open daily/weekend ritual calendar for day visitors",
+  "about": "Vajradhara-Ling is a Tibetan Buddhist study and retreat center of the Karma Kagyu lineage, housed in the restored Château d'Osmont near Aubry-le-Panthou in the Orne countryside of Normandy. It was founded in 1981 under the guidance of Kalu Rinpoche and the 16th Karmapa, who sent Lama Gyourmé to establish and direct it; the grounds also hold a stupa consecrated by Kalu Rinpoche in 1987 and a resident community of monastics and lay practitioners. Programs follow the Kagyu Vajrayana path, combining teachings, empowerments, and text transmissions with a full daily and weekend cycle of pujas open to visitors. The center offers short teaching weekends as well as private, Lama-guided individual retreats in its guest rooms, and it is linked to a nearby sister retreat center, Mahamoudra Ling, along with Kagyu Dzong in Paris. As an all-volunteer congregation, it asks guests to contribute at least an hour of daily household work and does not publish fixed accommodation rates online, directing visitors to contact the office to arrange a stay.",
+  "schedule": "Daily rituals bracket meals (Green Tara at 7am, midday puja, Mahakala/Chenrezig at 6pm); weekends and program days add teaching or initiation sessions around 10am, 2:30pm and 4:30pm, with special rituals (Amitabha, Medicine Buddha, or Milarepa) on full-moon days",
+  "cost": "No rates are published online; the 'Tarifs par personne et par jour' page directs visitors to contact the center by email to arrange a daily rate, and a separate suggested annual support donation of about €25 (or €180 for full membership) helps fund programs and mailings",
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Three communal meals (breakfast, lunch, dinner) are built into the daily schedule for residents and retreatants; the published materials do not state whether meals are vegetarian or include meat.",
+  "workRequired": "yes",
+  "workNotes": "The center runs on volunteer labor; guests are asked to contribute at least one hour of household work per day during their stay and to bring their own sleeping bag or top sheet.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "self-guided",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Dachang Vajradhara Ling - home page",
+      "url": "https://vajradharaling.org/"
+    },
+    {
+      "title": "Vénérable Lama Gyourmé (biography and center history)",
+      "url": "https://vajradharaling.org/venerable-lama-gyurme/"
+    },
+    {
+      "title": "La lignée Kagyu (lineage)",
+      "url": "https://vajradharaling.org/la-lignee-kagyu/"
+    },
+    {
+      "title": "Votre accueil au centre (accommodations, daily schedule, work request)",
+      "url": "https://vajradharaling.org/votre-accueil-au-centre/"
+    },
+    {
+      "title": "Conditions d'accueil (rates and donations)",
+      "url": "https://vajradharaling.org/conditions/"
+    },
+    {
+      "title": "Le Stûpa (stupa history)",
+      "url": "https://vajradharaling.org/le-stupa/"
+    },
+    {
+      "title": "Les Enseignements de Bouddha (teachings overview)",
+      "url": "https://vajradharaling.org/les-enseignements-de-bouddha/"
+    },
+    {
+      "title": "Stages à Vajradhara Ling (location page with map coordinates)",
+      "url": "https://vajradharaling.org/lieu/stages-a-vajradhara-ling/"
+    },
+    {
+      "title": "Aubry-le-Panthou - Wikipédia (location/geography confirmation)",
+      "url": "https://fr.wikipedia.org/wiki/Aubry-le-Panthou"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

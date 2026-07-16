@@ -1,0 +1,90 @@
+{
+  "id": "dzamling-gar",
+  "name": "Dzamling Gar",
+  "aka": [
+    "Dzamling Gar Dzogchen Community",
+    "Asociación de la Comunidad Dzogchen Internacional de Dzamling Gar",
+    "The Global Gar"
+  ],
+  "website": "https://dzamlinggar.org/",
+  "location": {
+    "address": "Avda. Adeje 300, no. 38, Urbr. Playa Paraíso, 38678 Adeje",
+    "city": "Adeje",
+    "region": "Tenerife, Canary Islands, Spain",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 28.1226,
+    "lng": -16.7675
+  },
+  "tradition": "Dzogchen (Nyingma / Tibetan Vajrayana), non-monastic International Dzogchen Community founded by Chögyal Namkhai Norbu",
+  "technique": "Dzogchen meditation and direct-transmission teachings; Yantra Yoga; Vajra Dance and Khaita joyful dances; Tibetan medicine, massage and external therapies",
+  "influences": [
+    "Chögyal Namkhai Norbu (1938-2018)",
+    "Namkhai Yeshi",
+    "Nyingma / Dzogchen lineage",
+    "International Dzogchen Community"
+  ],
+  "teacherAccess": "Daily teaching sessions (often livestreamed) from visiting Dzogchen masters such as Namkhai Yeshi during scheduled retreats, plus community-led Yantra Yoga, Vajra Dance and Khaita practice; there is no single resident guru in residence between retreats",
+  "retreatOptions": "Single-day Open Days; multi-day teaching retreats (commonly 5-9 nights) with visiting masters held both onsite and online; ongoing open practice sessions in Yantra Yoga, Vajra Dance and Khaita; self-organized personal retreats and multi-year Tibetan Medicine School courses for members",
+  "about": "Dzamling Gar is the International Dzogchen Community's flagship 'Global Gar', a retreat and cultural center on a large property in Playa Paraíso, Adeje, on the south coast of Tenerife. The land was chosen in 2012 by Dzogchen master Chögyal Namkhai Norbu as an ideal year-round base for teaching and practice, and the center opened in 2013 as a gathering place for the worldwide Dzogchen Community. Programming centers on periodic teaching retreats led by visiting masters (now primarily Namkhai Yeshi, son of the founder), alongside open practice of Yantra Yoga, Vajra Dance and Khaita joyful dances, an affiliated Tibetan Medicine School, and a separately branded Wellbeing Retreat offering massage and yoga stays to the public. The site has activity halls, gardens, a swimming pool, a library and on-site apartment-style guesthouses where International Dzogchen Community members can book accommodation for retreats, personal practice or simply to stay. Teachings and accommodation for community members operate on a voluntary-donation basis, while the Wellbeing Retreat and Tibetan Medicine programs are sold as fixed-price packages to outside guests.",
+  "schedule": "During teaching retreats: early-morning Yantra Yoga, a mid-morning teaching session in the Conference Hall, afternoon Vajra Dance/Khaita practice, and periodic evening or community events; core teaching sessions are typically livestreamed for remote/online participants",
+  "cost": "Dzogchen teaching retreats and member accommodation run on a voluntary-donation basis (donate according to your means, with a request form available for those unable to pay); the affiliated Wellbeing Retreat and Tibetan Medicine School run as separately priced fixed-fee packages",
+  "foodServed": "partial",
+  "foodType": "mixed",
+  "foodNotes": "An on-site cafeteria serves coffee, homemade snacks and organic fruit from the community garden on weekday mornings; guest apartments have kitchens for self-catering, and restaurants and a small market are within walking distance.",
+  "workRequired": "partial",
+  "workNotes": "Regular retreatants are not required to work, but an optional volunteer work-exchange programme offers simple accommodation and a food budget in return for helping run the center.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "long-retreats",
+    "family-friendly",
+    "online-hybrid",
+    "self-guided",
+    "dana-donation",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Dzamling Gar - home page",
+      "url": "https://dzamlinggar.org/"
+    },
+    {
+      "title": "About Us / Come Visit Us",
+      "url": "https://dzamlinggar.org/about-us/"
+    },
+    {
+      "title": "Dzogchen Teachings with Namkhai Yeshi 2026 (Resonating with You)",
+      "url": "https://dzamlinggar.org/en/dzogchen-teachings-2026/"
+    },
+    {
+      "title": "NY Accommodation 2026",
+      "url": "https://dzamlinggar.org/en/accommodation/"
+    },
+    {
+      "title": "Dzamling Gar Association organizer profile",
+      "url": "https://bookretreats.com/organizers/o/dzamling-gar-association"
+    },
+    {
+      "title": "Dzamling Gar Wellbeing Retreat - What's Included / Prices",
+      "url": "https://www.wellbeing-dzamlinggar.org/prices/what-s-included/"
+    },
+    {
+      "title": "Dzamling Gar House - Tsegyalgar East accommodation listing",
+      "url": "https://www.tsegyalgar.org/accommodations/dzamling-gar-house/"
+    },
+    {
+      "title": "Namkhai Norbu - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Namkhai_Norbu"
+    },
+    {
+      "title": "Dzamling Gar Dzogchen Community location listing (coordinates)",
+      "url": "https://mapcarta.com/W420552095"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "phende-ling",
+  "name": "Phende Ling",
+  "aka": [
+    "Eremo Phende Ling",
+    "Phende Ling Buddhist Hermitage",
+    "Associazione Phende Ling"
+  ],
+  "website": "https://phendeling.it",
+  "location": {
+    "address": "Via dei Monti Lariani, 22010 Carate Urio (CO) — mountain trail on Monte Bisbino, near Rifugio Bugone / Rifugio Murelli",
+    "city": "Carate Urio",
+    "county": "Como",
+    "region": "Lombardy, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 45.877,
+    "lng": 9.083
+  },
+  "tradition": "Tibetan Buddhist, non-sectarian Rimé approach within the Mahayana / Gelug-influenced lineage of Ghesce Ciampa Ghiatso and Kyabje Dagri Rinpoche",
+  "technique": "Śamatha (calm-abiding) meditation; also lojong mind-training, mantra recitation, and contemplative study",
+  "influences": [
+    "Ghesce Ciampa Ghiatso",
+    "Kyabje Dagri Rinpoche",
+    "H.H. the 14th Dalai Lama",
+    "Ven. Thupten Tharpa (resident teacher)",
+    "Lama Paljin Tulku Rinpoche"
+  ],
+  "teacherAccess": "Resident monk Ven. Thupten Tharpa lives on site year-round and can be requested for a one-on-one interview during a retreat; he also leads periodic group courses and teachings, in person and online",
+  "retreatOptions": "Mostly self-directed, silent individual retreats lasting from a few days to several weeks; occasional group courses and teachings (in person and online), such as a multi-month lojong mind-training programme",
+  "about": "Phende Ling is a small Tibetan Buddhist hermitage run by the Phende Ling association (founded 2017) on Monte Bisbino above Lake Como, reached on foot via a mountain trail from Carate Urio near Rifugio Bugone. Once an alpine pasture at roughly 1,200 metres of altitude, the eco-renovated hermitage has 12 beds across three shared rooms, a spacious meditation hall, a communal room with a fireplace, and a terrace overlooking the lake. The resident teacher, Ven. Thupten Tharpa, a student of Ghesce Ciampa Ghiatso and Kyabje Dagri Rinpoche, lives there permanently and offers courses and retreats in the non-sectarian Rimé tradition endorsed by the 14th Dalai Lama. The core practice is śamatha (calm-abiding) meditation, and most stays are self-directed, silent individual retreats of a few days to several weeks, supplemented by periodic group courses and online teachings. Guests observe the five Buddhist precepts and noble silence, share a daily karma-yoga housekeeping period, and support the hermitage through dana (donations) rather than fixed fees, since the resident monk cannot personally accept payment for teaching.",
+  "schedule": "Individual retreat day: 6am wake, 7am meditation/intention, 8am breakfast, 8:30am cleaning and karma-yoga assignments, 11:30am silent communal lunch, free afternoon for meditation/study, 5pm meditation, optional light supper (no formal dinner), 7pm closing meditation and dedication",
+  "cost": "No fixed room rate; individual retreats are sustained through dana (voluntary donation), since the resident monk cannot accept direct payment. Joining organized courses/group retreats requires becoming an association member (30 EUR annual membership fee); a bed-linen rental is 5 EUR if needed. A multi-month online lojong course, for example, has a 100 EUR package fee for members.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Simple communal meals (silent lunch, light optional supper, no formal dinner) sustained largely by member and visitor food donations — seasonal fruit and vegetables, bread, goat's-milk yogurt and cheese, plant milk, jam, nuts, dried fruit, coffee and tea; no meat is mentioned in the hermitage's suggested-donation food list.",
+  "workRequired": "yes",
+  "workNotes": "Guests take part in daily karma yoga, a housekeeping period after breakfast to help clean and maintain the hermitage, which has no paid staff.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Phende Ling — Homepage",
+      "url": "https://phendeling.it/"
+    },
+    {
+      "title": "Phende Ling — about the hermitage and the Rimé tradition",
+      "url": "https://phendeling.it/phende-ling/"
+    },
+    {
+      "title": "Chi siamo — inspiring masters and teachers",
+      "url": "https://phendeling.it/chi-siamo/"
+    },
+    {
+      "title": "Accoglienza — accommodations, individual retreats, guest guidelines, dāna",
+      "url": "https://phendeling.it/accoglienza/"
+    },
+    {
+      "title": "Contatti — address, directions, donations",
+      "url": "https://phendeling.it/contatti/"
+    },
+    {
+      "title": "Calendario attività — courses, membership fee, contributions",
+      "url": "https://phendeling.it/calendario-attivita/"
+    },
+    {
+      "title": "Rifugio Bugone coordinates (used to approximate hermitage location on the Monte Bisbino trail)",
+      "url": "https://mapcarta.com/W74630139"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

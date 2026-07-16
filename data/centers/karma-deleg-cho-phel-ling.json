@@ -1,0 +1,87 @@
+{
+  "id": "karma-deleg-cho-phel-ling",
+  "name": "Karma Deleg Chö Phel Ling",
+  "aka": [
+    "Stichting Karma Deleg Chö Phel Ling",
+    "Karma Kagyu Hantum"
+  ],
+  "website": "https://www.karmakagyu.nl/",
+  "location": {
+    "address": "Stoepawei 4, 9147 BG Hantum",
+    "city": "Hantum",
+    "region": "Friesland, Netherlands",
+    "country": "Netherlands",
+    "state": "NL",
+    "lat": 53.35556,
+    "lng": 5.96361
+  },
+  "tradition": "Tibetan Buddhism: Karma Kagyu lineage, recognised as the main seat of HH the 17th Karmapa in the Netherlands",
+  "technique": "Daily temple recitations and Tibetan Vajrayana ritual practice (puja, prostrations); periodic empowerments (wangs) and teachings from visiting Kagyu lamas; self-guided individual retreat practice",
+  "influences": [
+    "HH the 16th Karmapa Rangjung Rigpe Dorje",
+    "Chödje Lama Gawang Rinpoche (founder)",
+    "HH the 17th Karmapa Ogyen Trinley Dorje",
+    "HE Choegon Rinpoche (Drukpa Kagyu)"
+  ],
+  "teacherAccess": "No resident teacher since founder Lama Gawang Rinpoche's death in 2014; periodic teachings and empowerments from visiting Kagyu masters such as HE Choegon Rinpoche, with the centre under the direct guidance of HH the 17th Karmapa",
+  "retreatOptions": "Free Sunday guided tours; periodic day/weekend teachings, workshops and empowerments; self-guided individual retreats of several days or longer with on-site accommodation",
+  "about": "Karma Deleg Chö Phel Ling is a Tibetan Buddhist study and meditation centre just outside the village of Hantum, in the far north of the Dutch province of Friesland. It was founded in 1986 by Chödje Lama Gawang Rinpoche, sent to the Netherlands by HH the 16th Karmapa, who spent years hand-building the centre's temple and its 13-metre 'Tashi Gomang' stupa for world peace together with volunteers. The centre is recognised as the main seat of HH the 17th Karmapa in the Netherlands within the Karma Kagyu lineage, and visiting teachers such as HE Choegon Rinpoche have continued to give teachings and empowerments since the founder's death in 2014. Daily recitations are held in the temple, and the centre is open to the public for free guided tours and tea every Sunday. Beyond its public programme, it offers simple on-site accommodation, including tent space, for individuals undertaking self-guided retreats of several days or longer. The centre and its stupa are maintained entirely through donations as a registered ANBI charity.",
+  "schedule": "Daily temple recitations; periodic teachings, empowerments and workshops from visiting Kagyu lamas; centre open to the public for free guided tours and tea on Sundays",
+  "cost": "No fixed programme or accommodation fees are published; the centre runs entirely on donations (dana) as a registered ANBI charity, with rooms kept simple to hold down costs",
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "The site asks retreat guests to flag food allergies well in advance, indicating meals are prepared on site, but does not publish a specific menu or diet policy; the centre is affiliated with the 17th Karmapa, who encourages his students toward vegetarian eating.",
+  "workRequired": "unknown",
+  "workNotes": "The centre relies heavily on volunteers for construction and upkeep and is 'grateful for the many volunteers,' but no formal mandatory work period for short-stay retreat guests is described on the site.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "day-retreats",
+    "dana-donation",
+    "meals-included",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Home – Karma Deleg Chö Phel Ling",
+      "url": "https://www.karmakagyu.nl/"
+    },
+    {
+      "title": "About us",
+      "url": "https://www.karmakagyu.nl/about/"
+    },
+    {
+      "title": "History",
+      "url": "https://www.karmakagyu.nl/about/history/"
+    },
+    {
+      "title": "Lama Gawang Rinpoche",
+      "url": "https://www.karmakagyu.nl/about/lama-gawang-rinpoche-2/"
+    },
+    {
+      "title": "Karmapa",
+      "url": "https://www.karmakagyu.nl/about/karmapa/"
+    },
+    {
+      "title": "Accommodation",
+      "url": "https://www.karmakagyu.nl/accommodation/"
+    },
+    {
+      "title": "Visit Centre",
+      "url": "https://www.karmakagyu.nl/visit-centre/"
+    },
+    {
+      "title": "Donations",
+      "url": "https://www.karmakagyu.nl/how-to-help/donations/"
+    },
+    {
+      "title": "Karma Deleg Chö Phel Ling - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Karma_Deleg_Ch%C3%B6_Phel_Ling"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

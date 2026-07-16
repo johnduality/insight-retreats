@@ -1,0 +1,91 @@
+{
+  "id": "aukana-trust",
+  "name": "House of Inner Tranquillity",
+  "aka": [
+    "Aukana Trust",
+    "The Aukana Trust",
+    "Aukana"
+  ],
+  "website": "https://www.aukana.org.uk/",
+  "location": {
+    "address": "9 Masons Lane, Bradford-on-Avon, BA15 1QN",
+    "city": "Bradford-on-Avon",
+    "county": "Wiltshire",
+    "region": "Wiltshire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 51.3491066,
+    "lng": -2.2514884
+  },
+  "tradition": "Theravada Buddhist, independent lineage (not affiliated with a traditional monastic order or wider sangha)",
+  "technique": "Mahasi-style Vipassana meditation (seated and walking), one-to-one teacher instruction",
+  "influences": [
+    "Alan James (founder, ex-Bhikkhu Dipadhammo)",
+    "Bhikkhu Kapilavaddho / William Purfurst (James's own teacher)",
+    "Paul Harris (spiritual director and teacher since 2006)"
+  ],
+  "teacherAccess": "Maximum seven students per course for close one-to-one contact; six-day silent retreats include three personal interviews with a teacher during the week.",
+  "retreatOptions": "Weekend introductory retreats; six-day Silent retreats; six-day Integrated retreats combining silence with afternoon work.",
+  "schedule": "Silent retreats: four periods of group meditation each morning, afternoon walking/seated practice, a recorded evening talk, closing meditation around 8:45pm; Integrated retreats swap afternoon practice for work projects.",
+  "about": "The Aukana Trust is a Theravada Buddhist charity in Bradford-on-Avon, Wiltshire, that has run a monks' monastery, a nunnery, and a residential meditation centre, the House of Inner Tranquillity, since 1980. Its approach to Insight meditation was developed by founder Alan James from his own training under Bhikkhu Kapilavaddho, one of the first Englishmen ordained in the Thai Theravada tradition; the current spiritual director, Paul Harris, ordained under James in 2001 and took over teaching in 2006. The centre, a former school set in a couple of acres of gardens in the town centre, keeps residential courses small (a maximum of seven students) so each retreatant gets close one-to-one guidance from a teacher, alongside a resident community of celibate monastics who follow a modernised, non-bhikkhu code of discipline. The Trust is not part of any wider monastic order, keeps a low public profile, and runs entirely on donations rather than charging fees. Prospective students must arrange an introductory interview before joining a course, and the Trust also holds fortnightly online meditation meetings for those who cannot attend in person.",
+  "cost": "No fixed fees - all courses and events run on a dana/donation basis, with the Trust citing a suggested running cost of roughly GBP 30 per person per day.",
+  "pricePerDay": {
+    "min": 30,
+    "max": 30,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "The Trust states its cost of running a course is approximately GBP 30 per meditator per day; this is a suggested donation to cover costs rather than a mandatory charge - everything at the Centre operates on a no-charge, dana basis.",
+    "source": "https://www.aukana.org.uk/support.html"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Meals are prepared on-site by the resident community; cooking is listed as one of the afternoon work projects on Integrated retreats. The website does not state a specific vegetarian/vegan/omnivore policy.",
+  "workRequired": "partial",
+  "workNotes": "Six-day Integrated retreats include afternoon work projects (gardening, cooking, office duties) alongside the full-time community; six-day and weekend Silent retreats involve no work, only meditation and interviews.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "online-hybrid",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "no-work-required",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Aukana Trust Home Page",
+      "url": "https://www.aukana.org.uk/"
+    },
+    {
+      "title": "Aukana Trust Retreats",
+      "url": "https://www.aukana.org.uk/retreats.html"
+    },
+    {
+      "title": "Aukana Trust Supporting the Centre",
+      "url": "https://www.aukana.org.uk/support.html"
+    },
+    {
+      "title": "Aukana Trust Teachers",
+      "url": "https://www.aukana.org.uk/teachers.html"
+    },
+    {
+      "title": "Aukana Trust? (discussion thread on Alan James, Kapilavaddho lineage)",
+      "url": "https://discourse.suttacentral.net/t/aukana-trust/13594"
+    },
+    {
+      "title": "Theravada Buddhism Web Directory - Aukana Trust (address/geolocation)",
+      "url": "https://www.dhamma.ru/sadhu/1131-aukana-trust"
+    },
+    {
+      "title": "THE AUKANA TRUST - Charity Commission for England and Wales, charity no. 326938",
+      "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/326938"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

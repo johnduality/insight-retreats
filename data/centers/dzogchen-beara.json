@@ -1,0 +1,120 @@
+{
+  "id": "dzogchen-beara",
+  "name": "Dzogchen Beara",
+  "aka": [
+    "Dzogchen Beara Retreat and Conference Centre"
+  ],
+  "website": "https://www.dzogchenbeara.org/",
+  "location": {
+    "address": "Garranes, Allihies, Co. Cork, P75 C670",
+    "city": "Allihies",
+    "county": "Cork",
+    "region": "County Cork, Ireland",
+    "country": "Ireland",
+    "state": "IE",
+    "lat": 51.61531,
+    "lng": -9.97894
+  },
+  "tradition": "Tibetan Buddhism, Nyingma school (Dzogchen / Great Perfection, Longchen Nyingtik lineage); part of the Rigpa / One Rigpa network",
+  "technique": "Dzogchen meditation instruction and shamatha within the Longchen Nyingtik cycle, alongside broader mindfulness- and compassion-based retreats and spiritual/end-of-life care",
+  "influences": [
+    "Sogyal Rinpoche (founder of Rigpa)",
+    "Peter and Harriet Cornish (founders of the land and original trust)",
+    "Jigme Lingpa's Longchen Nyingtik cycle",
+    "Longchenpa",
+    "Senior Nyingma lamas teaching in the One Rigpa network, including Dzigar Kongtrul Rinpoche, Dzogchen Ponlop Rinpoche, Jetsun Khandro Rinpoche, and Orgyen Tobgyal Rinpoche"
+  ],
+  "teacherAccess": "Weekend and multi-day retreats led by visiting Rigpa/Nyingma teachers and lamas, with group teachings and Q&A; free twice-weekly online guided meditations; no single resident teacher since Sogyal Rinpoche's 2017 departure",
+  "retreatOptions": "Free daily onsite meditations and twice-weekly online sessions; 2-3 day themed weekend retreats; Support Break and Facing Loss/Healing Grief retreats; long-term and closed retreats (including a traditional one-year retreat) for committed Rigpa students; accommodation-only and self-catering stays",
+  "about": "Dzogchen Beara is a Tibetan Buddhist retreat centre perched on the cliffs of the Beara Peninsula near Allihies, County Cork, with sweeping views over the Atlantic. Its land was bought in the early 1970s by Peter and Harriet Cornish, who spent nearly two decades restoring the site before gifting it in 1992 to a charitable trust under the spiritual guidance of Sogyal Rinpoche, founder of Rigpa; the centre teaches the Nyingma school's Dzogchen practices, largely through the Longchen Nyingtik lineage of Jigme Lingpa. Sogyal Rinpoche stepped down as Rigpa's spiritual director in 2017 following allegations of abuse and died in 2019, and teaching is now carried on by a network of senior Nyingma lamas and Western teachers across the wider One Rigpa network rather than a single resident figure. Alongside a year-round programme of weekend and short residential retreats, the centre houses the Spiritual Care Centre (opened 2007) for end-of-life and grief support, and Ireland's first Tibetan Buddhist temple, completed in 2024. Day visitors can walk the gardens, tour the temple, and join free onsite and online guided meditations, while overnight guests can stay in guest rooms, a hostel, or self-catering clifftop cottages. Vegetarian meals, a public café, and an optional work-exchange volunteer programme round out the centre's offerings.",
+  "schedule": "Free daily onsite guided meditations; weekend/multi-day retreats generally run Friday evening to Sunday; free online meditation sessions held Tuesday and Thursday mornings",
+  "cost": "Retreats are fixed-fee per person and generally include a vegetarian lunch and light evening meal; a concession rate and financial assistance are available for some programmes (notably Support Breaks); accommodation-only guest rooms, hostel beds, and self-catering cottages are booked separately by season",
+  "pricePerDay": {
+    "min": 63,
+    "max": 120,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Spiritual Care Centre twin/double guest rooms, the accommodation type generally used for retreat guests (includes vegetarian lunch and light evening meal): roughly EUR 63 per person sharing in low season (Oct-Apr) up to EUR 120 single occupancy in high season (May-Sep). Hostel dorm/private rooms run cheaper (roughly EUR 20-80/night depending on room and season); self-catering cliff-top cottages are booked by the week rather than per night.",
+    "source": "https://accommodation.dzogchenbeara.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian lunch and a light evening meal are included at no extra charge for retreat and Spiritual Care Centre guests; hostel and cottage guests are largely self-catering; the onsite café serves vegetarian lunches and snacks made with organic, often homegrown ingredients for day visitors.",
+  "workRequired": "no",
+  "workNotes": "Retreatants are not required to work. A separate, optional Work-Exchange volunteer programme (typically a minimum stay of several weeks) offers free private accommodation and vegetarian meals in exchange for around six hours of work a day, with access to daily meditation and, when time allows, weekend retreats.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "long-retreats",
+    "online-hybrid",
+    "diet-vegetarian",
+    "fixed-fee",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Dzogchen Beara - home page",
+      "url": "https://www.dzogchenbeara.org/"
+    },
+    {
+      "title": "Our History",
+      "url": "https://www.dzogchenbeara.org/about/our-history/"
+    },
+    {
+      "title": "Our Purpose",
+      "url": "https://www.dzogchenbeara.org/about/our-purpose/"
+    },
+    {
+      "title": "Spiritual Tradition",
+      "url": "https://www.dzogchenbeara.org/about/spiritual-tradition/"
+    },
+    {
+      "title": "Stay at Dzogchen Beara - onsite accommodation overview",
+      "url": "https://www.dzogchenbeara.org/visits/overview-of-onsite-accommodation/"
+    },
+    {
+      "title": "Long-term retreats",
+      "url": "https://www.dzogchenbeara.org/retreats/long-term-retreats/"
+    },
+    {
+      "title": "Concession rate",
+      "url": "https://www.dzogchenbeara.org/retreats/concession-rate/"
+    },
+    {
+      "title": "Financial assistance for a Support Break",
+      "url": "https://www.dzogchenbeara.org/spiritual-care/financial-assistance-for-a-support-break/"
+    },
+    {
+      "title": "Work Opportunities / Work-Exchange programme",
+      "url": "https://www.dzogchenbeara.org/work-opportunities/"
+    },
+    {
+      "title": "Accommodation booking system (guest rooms, hostel, cottages, rates)",
+      "url": "https://accommodation.dzogchenbeara.org/"
+    },
+    {
+      "title": "Build it, and they will come - my day at Dzogchen Beara retreat (accommodation rates)",
+      "url": "https://www.echolive.ie/corklives/arid-41711945.html"
+    },
+    {
+      "title": "Dzogchen Beara - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dzogchen_Beara"
+    },
+    {
+      "title": "Dzogchen Beara - Rigpa Wiki",
+      "url": "https://www.rigpawiki.org/index.php?title=Dzogchen_Beara"
+    },
+    {
+      "title": "Teachers in Rigpa",
+      "url": "https://www.rigpa.org/rigpa-teachers"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

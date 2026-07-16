@@ -1,0 +1,102 @@
+{
+  "id": "europe-center",
+  "name": "Europe Center",
+  "aka": [
+    "Europazentrum",
+    "Europe Center International Diamond Way Buddhist Project",
+    "Buddhismus Zentrum Europa",
+    "Gut Hochreute",
+    "EC"
+  ],
+  "website": "https://www.europe-center.org/",
+  "location": {
+    "address": "Hochreute 1, D-87509 Immenstadt",
+    "city": "Immenstadt im Allgäu",
+    "region": "Bavaria, Germany",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 47.5445,
+    "lng": 10.2286
+  },
+  "tradition": "Diamond Way Buddhism, a lay Buddhist movement within the Karma Kagyu school of Tibetan Vajrayana Buddhism",
+  "technique": "Guru yoga meditation on the 16th Karmapa; Ngondro foundational practices (prostrations, Vajrasattva/Diamond Mind purification, mandala offerings); Vajrayana visualization and mantra recitation; Buddhist philosophy lectures",
+  "influences": [
+    "Lama Ole Nydahl",
+    "Hannah Nydahl",
+    "16th Karmapa Rangjung Rigpe Dorje",
+    "17th Karmapa Trinley Thaye Dorje",
+    "Karma Kagyu lineage"
+  ],
+  "teacherAccess": "Daily meditations and weekly public lectures are led by resident practitioners rather than a resident teacher; direct teachings, empowerments and access to senior lamas (including Lama Ole Nydahl and the 17th Karmapa, Thaye Dorje) are concentrated in the annual International Summer Course and occasional visiting-teacher events, not personal interviews",
+  "retreatOptions": "Free weekly drop-in meditation and introduction evenings (Tuesdays, Fridays); overnight to multi-week stays for practicing Diamond Way Buddhists in shared guest rooms, arranged in advance; a two-week International Summer Course each August, mostly camping-based, with intensive teachings, meditation and empowerments",
+  "about": "The Europe Center is the main European hub of Diamond Way Buddhism, a lay Buddhist organization within the Karma Kagyu school of Tibetan Vajrayana founded in the 1970s by Lama Ole and Hannah Nydahl under the guidance of the 16th Karmapa. Since 2008 it has occupied Gut Hochreute, a restored early-20th-century Art Nouveau/Art Deco estate on a hillside above the Alpsee lake near Immenstadt in the Bavarian Allgäu, owned by the international Diamond Way Buddhism Foundation on behalf of roughly 700 affiliated centers worldwide. Around 40 residents and guests live and practice there year-round, with daily guru yoga meditation on the 16th Karmapa and weekly public introduction evenings open to visitors. Practice centers on guru yoga, mantra recitation and visualization, and the Ngondro foundational exercises of the Karma Kagyu lineage, taught in a lay, non-monastic style by Lama Ole Nydahl and other lay teachers rather than by a resident monastic community, giving the center a more devotional, socially oriented character than monastic-centered Buddhist retreat centers. Its best-known event is the International Summer Course each August, when thousands of Diamond Way Buddhists from around the world camp on the grounds for about two weeks of teachings, empowerments and meditation with senior Karma Kagyu lamas, including His Holiness the 17th Karmapa, Thaye Dorje.",
+  "schedule": "Daily 16th Karmapa guru-yoga meditation at 9am and 8pm; weekly public Tuesday-evening introduction lecture and meditation and Friday-evening Dharma talk; the annual two-week International Summer Course each August adds an intensive daily program of teachings, meditation and empowerments with visiting Karma Kagyu lamas",
+  "cost": "Regular meditations are free; lectures and courses have a modest entrance fee; overnight stays and guest rooms are booked through the members-only DW-Connect registration system with rates not published publicly; the International Summer Course is a paid multi-day program with a per-day rate that decreases the longer you stay (three meals included), plus optional camping-gear rental; all guests are expected to volunteer at least one hour a day",
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Communal meals are prepared largely by volunteers; at the International Summer Course three meals a day are included in the course price, and registration includes a vegetarian option alongside the standard (non-vegetarian) menu.",
+  "workRequired": "yes",
+  "workNotes": "The center is explicitly 'not a hotel': all guests, from overnight visitors to long-term residents, are expected to help out roughly one hour a day with kitchen prep, cleaning or outdoor tasks; the Summer Course is run almost entirely by volunteer teams.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "long-retreats",
+    "family-friendly",
+    "dana-donation",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Europe Center - home page",
+      "url": "https://www.europe-center.org/"
+    },
+    {
+      "title": "About the Europe Center",
+      "url": "https://europe-center.org/about-the-europe-center/"
+    },
+    {
+      "title": "Gut Hochreute",
+      "url": "https://europe-center.org/gut-hochreute-2/"
+    },
+    {
+      "title": "Regular program",
+      "url": "https://europe-center.org/regular-program/"
+    },
+    {
+      "title": "Accomodation at the Europe Center",
+      "url": "https://europe-center.org/accomodation/"
+    },
+    {
+      "title": "International Summer Course 2026 at the Europe Center",
+      "url": "https://www.summercourse.ec/"
+    },
+    {
+      "title": "Summer Course - General Information",
+      "url": "https://www.summercourse.ec/general-information/"
+    },
+    {
+      "title": "Summer Course - Accommodation",
+      "url": "https://www.summercourse.ec/accommodation/"
+    },
+    {
+      "title": "Summer Course - Registration",
+      "url": "https://www.summercourse.ec/registration/"
+    },
+    {
+      "title": "Diamond Way Buddhism - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diamond_Way_Buddhism"
+    },
+    {
+      "title": "Meditation practices used in the Diamond Way",
+      "url": "https://www.diamondway-buddhism.org/buddhist-meditation/diamond-way-meditations/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "dhamma-dvara",
+  "name": "Dhamma Dvāra",
+  "aka": [
+    "Vipassana Meditationszentrum Dhamma Dvāra",
+    "Vipassana Meditation Center Dhamma Dvara Vogtland"
+  ],
+  "website": "https://dvara.dhamma.org/",
+  "location": {
+    "address": "Alte Straße 6, 08606 Triebel, Germany",
+    "city": "Triebel",
+    "region": "Vogtland, Saxony, Germany",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 50.35,
+    "lng": 12.133
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded evening discourses and are available for brief questions.",
+  "retreatOptions": "10-day courses (the standard offering, run about twice a month year-round), plus periodic longer courses for old students and dedicated courses for children and teenagers.",
+  "about": "Dhamma Dvāra is Germany's dedicated Vipassana center, set on a quiet hilltop above the small town of Triebel in the Vogtland region of Saxony, near the Bavarian border and the towns of Hof and Plauen. Purchased in 2000 and officially opened in 2002, the center can accommodate close to 100-150 meditators and servers and runs courses continuously throughout the year, typically two 10-day courses per month. It offers residential Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, with students living on-site, observing Noble Silence for most of the course, and following a fixed daily meditation schedule. The center is run entirely by volunteers through the non-profit Vipassana-Vereinigung e.V., and like all centers in the Goenka network it operates purely on voluntary donations, with courses offered free of charge to all who attend.",
+  "schedule": "Courses run continuously year-round, typically about two 10-day courses per month, plus occasional longer courses for returning students and separate courses for children/teens, all on a fixed published schedule.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course.",
+    "source": "https://dvara.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) are asked to give some work service (dhamma seva) during their stay; new students generally are not required to work.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Vipassana Meditationszentrum Dhamma Dvāra im sächsischen Vogtland",
+      "url": "https://dvara.dhamma.org/"
+    },
+    {
+      "title": "Meditation Center Dhamma Dvāra",
+      "url": "https://de.dhamma.org/en/meditation-center-vogtland/meditation-center-dhamma-dvara/"
+    },
+    {
+      "title": "Registration for Courses in Dhamma Dvāra",
+      "url": "https://de.dhamma.org/de/meditationszentrum-vogtland/kurse-anmeldung/"
+    },
+    {
+      "title": "Kontakt und Anreise nach Dhamma Dvāra",
+      "url": "https://de.dhamma.org/de/meditationszentrum-vogtland/anreise-dhamma-dvara/"
+    },
+    {
+      "title": "Triebel, Vogtlandkreis (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Triebel"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

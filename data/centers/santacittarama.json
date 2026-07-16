@@ -1,0 +1,100 @@
+{
+  "id": "santacittarama",
+  "name": "Santacittarama",
+  "aka": [
+    "Santacittārāma",
+    "Il Giardino del Cuore Sereno",
+    "Santacittarama Buddhist Monastery"
+  ],
+  "website": "https://santacittarama.org",
+  "location": {
+    "address": "Località Brulla, 02030 Poggio Nativo (RI), Italy",
+    "city": "Poggio Nativo",
+    "county": "Rieti",
+    "region": "Lazio, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 42.2099,
+    "lng": 12.8113
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition in the lineage of Ajahn Chah",
+  "technique": "Mindfulness of breathing (anapanasati) and body awareness in sitting and walking meditation, metta (loving-kindness) practice, chanting, and mindful daily work, within a monastic renunciant framework",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Sumedho",
+    "Thai Forest Tradition",
+    "Amaravati Buddhist Monastery"
+  ],
+  "teacherAccess": "No scheduled dharma talks for casual day visitors, but resident monks are available for guidance by appointment, and overnight guests can request a meeting with a senior monk on arrival or for meditation instruction",
+  "retreatOptions": "Not a purpose-built retreat centre: day visits year-round with no notice needed, plus bookable overnight guest stays (first stay typically up to 1 week, extendable at the discretion of the senior monk)",
+  "about": "Santacittarama, \"The Garden of the Peaceful Heart,\" is Italy's first Theravada Buddhist monastery, founded in 1990 and now settled in the Sabine hills near Poggio Nativo, about 50 km northeast of Rome. It belongs to the Thai Forest Tradition founded by Ajahn Chah and brought to the West by Ajahn Sumedho, and today houses a resident community of over a dozen monks, novices, and postulants under senior teacher Ajahn Chandapālo. Rather than running structured retreats, the monastery welcomes day visitors who can join the daily programme without notice, as well as guests who book ahead to stay and live alongside the community, observing the eight precepts, sharing in chanting and meditation, and taking part in a daily work period. Life follows the classic Thai Forest monastic rhythm: pre-dawn chanting and meditation, one main vegetarian meal before noon, an afternoon of work or study, and evening puja, with Mondays kept as a day of silence and rest. The monastery is entirely supported by dana (voluntary donations) and offerings of food and requisites from the lay community, with no charge made for staying.",
+  "schedule": "Daily rhythm of 5am chanting and meditation, 6:30am chores, 7am breakfast, 8:30am work meeting, 11am main (and last) meal, afternoon free time for meditation or study, 5pm tea, and 7:30pm evening chanting and meditation; Mondays are a day of communal silence and rest",
+  "cost": "No charge to visit or stay; entirely dana (donation) supported, with financial contributions and offerings of food and requisites welcomed but not required",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Donation (dana) only, with no suggested amount; first-time guest stays are typically capped at about 1 week",
+    "source": "https://santacittarama.org/2019/08/08/information-for-visitors/?lang=en"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "One main vegetarian meal is offered around 11am from food donated by lay supporters (rice, legumes, vegetables, and a dessert are typical), plus a lighter breakfast; nothing is eaten after midday in keeping with monastic observance, and special diets are not usually possible without prior arrangement with the senior monk.",
+  "workRequired": "yes",
+  "workNotes": "Most days include about 2 hours of communal work, typically in the morning, assigned at an 8:30am meeting and covering cleaning, building maintenance, gardening, or cooking.",
+  "tags": [
+    "theravada",
+    "day-retreats",
+    "silent",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Santacittarama - Home (English)",
+      "url": "https://santacittarama.org/?lang=en"
+    },
+    {
+      "title": "Information for Visitors",
+      "url": "https://santacittarama.org/2019/08/08/information-for-visitors/?lang=en"
+    },
+    {
+      "title": "Visiting the Monastery / How to get here",
+      "url": "https://santacittarama.org/2019/08/09/visit-the-monastery/?lang=en"
+    },
+    {
+      "title": "History of Santacittarama",
+      "url": "https://santacittarama.org/2019/08/09/storia-di-santacittarama/?lang=en"
+    },
+    {
+      "title": "Community",
+      "url": "https://santacittarama.org/2019/08/09/1119/?lang=en"
+    },
+    {
+      "title": "Introduction to Insight Meditation",
+      "url": "https://santacittarama.org/2019/12/13/introduction-to-insight-meditation/?lang=en"
+    },
+    {
+      "title": "Santacittarama - Forest Sangha directory",
+      "url": "https://www.forestsangha.org/monasteries/santacittarama"
+    },
+    {
+      "title": "Santacittārāma Monastery - Mapcarta (OpenStreetMap coordinates)",
+      "url": "https://mapcarta.com/W848477475"
+    },
+    {
+      "title": "Vivere Senza: meditazione al monastero buddhista Santacittarama - Veggie Channel",
+      "url": "https://www.veggiechannel.com/lifestyle/viaggi-vegetariani-vegani/vivere-senza-meditazione-monastero-buddhista-santacittarama/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

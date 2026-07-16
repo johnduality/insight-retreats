@@ -1,0 +1,101 @@
+{
+  "id": "felsentor",
+  "name": "Stiftung Felsentor",
+  "aka": [
+    "Felsentor",
+    "Felsentor Foundation",
+    "Meditationshaus Felsentor"
+  ],
+  "website": "https://www.felsentor.ch/",
+  "location": {
+    "address": "Rigiweg 27, 6356 Rigi Kaltbad",
+    "city": "Rigi Kaltbad",
+    "region": "Rigi, Schwyz, Switzerland",
+    "country": "Switzerland",
+    "state": "CH",
+    "lat": 47.0405565,
+    "lng": 8.4698355
+  },
+  "tradition": "Zen Buddhism in the lineage of Kobun Chino Otogawa Roshi, open to guest teachers from other Buddhist and contemplative traditions",
+  "technique": "Zazen and kinhin (seated and walking meditation) in sesshin-style intensives with teishō (dharma talks), dokusan/sanzen interviews, and formal oryoki meals; also yoga and body-awareness courses",
+  "influences": [
+    "Kobun Chino Otogawa Roshi",
+    "Vanja Palmers",
+    "Brother David Steindl-Rast",
+    "Tassajara Zen Mountain Center"
+  ],
+  "teacherAccess": "Daily teishō (dharma talks) and individual dokusan/sanzen interviews with the teacher during sesshins; most programs are led by rotating guest teachers rather than a single resident teacher",
+  "retreatOptions": "One-day Zen practice days and weekend courses up to week-long sesshins (around 5-7 nights); also yoga, body-awareness, and other contemplative retreats, plus youth camps",
+  "about": "Stiftung Felsentor is a Zen practice centre perched above Lake Lucerne on the Rigi massif, reached only on foot or by mountain railway near Rigi Kaltbad. It was founded in 1999 by Zen priest Vanja Palmers, a longtime student of Kobun Chino Otogawa Roshi at Tassajara, together with Benedictine monk Brother David Steindl-Rast, as a place of encounter between people, animals, and nature. The centre occupies a converted historic hotel and a purpose-built zendo completed in 2004, designed by Californian architect Paul Discoe in a Japanese temple style adapted to Swiss building conditions. Its programme centres on Zen sesshin led by guest teachers from Soto and Rinzai lineages, alongside yoga, body-awareness, and other contemplative courses, and it also runs a small animal sanctuary for rescued farm animals and a self-service garden café for hikers passing through. Practice follows a traditional schedule of zazen, kinhin, teishō, and dokusan with about an hour of daily work practice, supported by a vegan kitchen drawing largely on the centre's own organic farm.",
+  "schedule": "Sesshin days typically run from around 4:30am wake-up through zazen, teishō, dokusan, meals, and roughly an hour of daily work practice (samu), continuing into the evening; the day alternates sitting and walking meditation with talks, group dialogue, and individual teacher interviews",
+  "cost": "Sesshins are priced per room type on a fixed-fee, full-board basis (shared/dormitory, multi-bed, or single room), plus a mandatory Rigi resort/lodging tax; a freely chosen dana is given directly to the teacher separately from the registration fee",
+  "pricePerDay": {
+    "min": 100,
+    "max": 185,
+    "unit": "night",
+    "currency": "CHF",
+    "notes": "6-night Zen sesshin, full board: shared/dormitory room CHF 600 (100/night) to single room CHF 1,110 (185/night), with a multi-bed/double room at CHF 810 (135/night) in between; excludes the separate CHF 16.20 mandatory resort/lodging tax and the freely chosen dana paid directly to the teacher.",
+    "source": "https://www.felsentor.ch/seminare/zen-sesshin-mit-vanja-2025"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Full board is included on retreats; the kitchen is entirely vegan, drawing on vegetables from Felsentor's own Frohmatte organic farm nearby, with formal oryoki-style meals during sesshins and unseasoned gluten-free/allergy options available on request.",
+  "workRequired": "yes",
+  "workNotes": "About one hour of daily work practice (samu/karma yoga) - garden, kitchen, or animal-sanctuary chores - is treated as an integral part of every stay, including sesshins.",
+  "tags": [
+    "zen",
+    "silent",
+    "work-practice",
+    "family-friendly",
+    "diet-vegan",
+    "fixed-fee",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Stiftung Felsentor - home page",
+      "url": "https://www.felsentor.ch/"
+    },
+    {
+      "title": "Vanja Palmers",
+      "url": "https://www.felsentor.ch/vanja-palmers"
+    },
+    {
+      "title": "Zendo",
+      "url": "https://www.felsentor.ch/zendo"
+    },
+    {
+      "title": "Gut zu wissen (Good to know / practical info)",
+      "url": "https://www.felsentor.ch/gut-zu-wissen"
+    },
+    {
+      "title": "Zen-Sesshin mit Vanja (pricing example)",
+      "url": "https://www.felsentor.ch/seminare/zen-sesshin-mit-vanja-2025"
+    },
+    {
+      "title": "Sesshin mit Muho (Rinzai-style sesshin)",
+      "url": "https://www.felsentor.ch/seminare/sesshin-mit-muho-2025"
+    },
+    {
+      "title": "Foundation \"Felsentor\" - Rigi tourism page",
+      "url": "https://www.rigi.ch/en/attractions/foundation-felsentor-82f7149ed4"
+    },
+    {
+      "title": "Zendo Felsentor - University of Lucerne, Cupola/Temple/Minaret project",
+      "url": "https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/center-for-research-on-religion/religionen-schweiz/forschung/cupola-temple-minaret/gebaeude/zendo-felsentor/"
+    },
+    {
+      "title": "Yoga, Zen & Nature Retreat at Felsentor (Karl Straub Yoga, third-party retreat page)",
+      "url": "https://karlstraub.com/events/yoga-retreat-switzerland/"
+    },
+    {
+      "title": "Stiftung Felsentor location on search.ch map",
+      "url": "https://search.ch/map/Rigi-Kaltbad,Felsentor"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "lam-rim-buddhist-centre",
+  "name": "Lam Rim Buddhist Centre",
+  "aka": [
+    "Lam Rim Wales",
+    "Lam Rim Buddhist Centre Wales"
+  ],
+  "website": "https://www.lamrimcentre.org.uk/",
+  "location": {
+    "address": "Pentwyn Manor, Penrhos, Raglan, Usk, Monmouthshire, NP15 2LE",
+    "city": "Penrhos",
+    "county": "Monmouthshire",
+    "region": "Monmouthshire, Wales",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 51.802137,
+    "lng": -2.847824
+  },
+  "tradition": "Tibetan Buddhism, Gelug lineage (Lam Rim / stages-of-the-path teachings), Mahayana",
+  "technique": "Lam Rim (stages of the path) study, meditation, pujas and chanting, and Vajrayana practices such as Vajrasattva purification and deity retreats",
+  "influences": [
+    "Je Tsongkhapa / Gelug lineage",
+    "Ven. Geshe Damcho Yonten (founder)",
+    "H.H. the 14th Dalai Lama",
+    "Nalanda Monastery (FPMT), France"
+  ],
+  "teacherAccess": "Morning-to-evening teaching and practice sessions led directly by the visiting teacher during residential courses, plus optional group meditation and evening practice",
+  "retreatOptions": "Weekend and multi-night residential retreats (commonly 2-4 nights) with visiting Gelug teachers and lamas; day-attendance-only tickets for locals; regular drop-in meditation, community practice, and Sunday Green Tara puja",
+  "about": "Lam Rim Buddhist Centre is a Tibetan Buddhist retreat centre and registered charity set in the Monmouthshire countryside near Raglan, South Wales, at Pentwyn Manor, a former Edwardian manor house on 8.5 acres. Founded in 1978 by Ven. Geshe Damcho Yonten, it follows the Gelug lineage of Je Tsongkhapa and takes its name from the Lam Rim ('stages of the path') teachings central to that tradition; H.H. the 14th Dalai Lama visited in 1993 and again in 1999. The Centre runs a year-round programme of weekend and multi-night residential retreats and courses with visiting geshes, monastics, and lay teachers, alongside weekly community meditation and puja sessions open to all, no prior experience required. Accommodation is in single, twin, and small dorm rooms in the main house and adjoining stables wing, with camping also available during larger events. It is sustained largely through donations and a resident and visiting volunteer community that handles cooking, housekeeping, and grounds work.",
+  "schedule": "Residential retreats typically run Thursday evening arrival to Monday afternoon close, with optional early-morning meditation, two main teaching/practice sessions (morning and afternoon) led by the visiting teacher, and optional evening practice; regular sessions include daily community practice (currently paused) and a Sunday Green Tara puja",
+  "cost": "Donation-based sliding scale for each retreat (Standard and Basic rates, with accommodation or attendance-only without accommodation), a further subsidised Support rate available on request, and camping/campervan spaces at reduced cost; regular meditation and puja sessions are free, donation-supported",
+  "pricePerDay": {
+    "min": 36.25,
+    "max": 67.5,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "4-night residential 'Vajrasattva - The Joy in Purification' retreat with Chamtrul Rinpoche (9-13 Jul 2026): Basic GBP 145 to Standard GBP 270 with onsite accommodation, i.e. GBP 36-68/night. Attendance-only rates (GBP 120-195, excluding accommodation and breakfast) and the further-subsidised Support rate are excluded as non-standard tiers.",
+    "source": "https://www.lamrimcentre.org.uk/courses/p/vajrasattva-retreat-chamtrul-rinpoche"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Home-cooked vegetarian meals (breakfast, lunch, and a two-course supper) are included with residential retreats, with produce from the Centre's own garden used where possible and vegan options available; guests are asked to flag special dietary needs in advance.",
+  "workRequired": "no",
+  "workNotes": "Retreat and course attendees are not required to work. The Centre separately recruits residential and day volunteers (cooking, housekeeping, gardening/grounds, maintenance, admin) who apply through a distinct volunteering programme.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "dana-donation",
+    "sliding-scale",
+    "scholarships",
+    "diet-vegetarian",
+    "meals-included",
+    "no-work-required",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Lam Rim Buddhist Centre - home page",
+      "url": "https://www.lamrimcentre.org.uk/"
+    },
+    {
+      "title": "About Lam Rim Buddhist Centre",
+      "url": "https://www.lamrimcentre.org.uk/about"
+    },
+    {
+      "title": "Teachers",
+      "url": "https://www.lamrimcentre.org.uk/teachers"
+    },
+    {
+      "title": "Rooms at Lam Rim",
+      "url": "https://www.lamrimcentre.org.uk/rooms"
+    },
+    {
+      "title": "Coach House Airbnb",
+      "url": "https://www.lamrimcentre.org.uk/coach-house-airbnb"
+    },
+    {
+      "title": "Explore Lam Rim",
+      "url": "https://www.lamrimcentre.org.uk/explore"
+    },
+    {
+      "title": "Volunteering",
+      "url": "https://www.lamrimcentre.org.uk/volunteering"
+    },
+    {
+      "title": "Regular Sessions & Pujas",
+      "url": "https://www.lamrimcentre.org.uk/regular-sessions"
+    },
+    {
+      "title": "Vajrasattva - The Joy in Purification, Retreat with Chamtrul Rinpoche (9-13 Jul 2026)",
+      "url": "https://www.lamrimcentre.org.uk/courses/p/vajrasattva-retreat-chamtrul-rinpoche"
+    },
+    {
+      "title": "Lam Rim Buddhist Centre - Our History (legacy site)",
+      "url": "http://www.lamrim.org.uk/wales/en/1/history.html"
+    },
+    {
+      "title": "Lam Rim Buddhist Centre, Raglan, Usk - meals and setting",
+      "url": "https://www.holisticdani.co.uk/yoga/holistic-yoga-retreats/lam-rim-buddhist-centre-raglan-usk/"
+    },
+    {
+      "title": "Postcode lookup for NP15 2LE (coordinates)",
+      "url": "https://www.doogal.co.uk/UkPostcodes?Search=NP15%202LE"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

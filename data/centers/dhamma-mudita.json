@@ -1,0 +1,83 @@
+{
+  "id": "dhamma-mudita",
+  "name": "Dhamma Mudita",
+  "aka": [
+    "Vipassana Österreich",
+    "Vipassana Meditation Center Dhamma Mudita",
+    "Vipassana Meditationszentrum Dhamma Mudita"
+  ],
+  "website": "https://austria.dhamma.org",
+  "location": {
+    "address": "Naarntalstraße 2, 4324 Rechberg, Austria",
+    "city": "Rechberg",
+    "region": "Upper Austria, Austria",
+    "country": "Austria",
+    "state": "AT",
+    "lat": 48.3203,
+    "lng": 14.6996
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded evening discourses and are available for meditation questions only, with practical matters handled by course management.",
+  "retreatOptions": "10-day courses are the standard offering and the required starting point; returning (old) students can later apply for 1-day and 3-day courses plus longer 20-, 30-, 45- and 60-day courses, and separate courses are offered for children and teenagers.",
+  "about": "Dhamma Mudita is Austria's dedicated Vipassana center, newly built on a quiet, wooded site in Rechberg in the Mühlviertel region of Upper Austria. After years of running courses in rented houses, Austria's Vipassana trust acquired the land in 2017 and began construction in spring 2024; the center opened for its first regular courses in May 2025, initially hosting a smaller-scale format of up to about 60 participants while further building phases continue toward an eventual capacity of around 160. It offers residential Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, with students living on-site, observing Noble Silence for most of the course, and following a fixed daily meditation schedule. As with every center in the Goenka/dhamma.org network, the center is run by volunteers and funded entirely by voluntary donations from past students, with all teaching, food, and lodging offered completely free of charge.",
+  "schedule": "Runs 10-day courses on a published rolling schedule (via the international dhamma.org course-schedule system), plus periodic shorter and longer courses for returning students and dedicated courses for children/teenagers as capacity allows at this newly opened site.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students who wish to give others the same opportunity.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course, free of charge and funded solely by voluntary dana from past students.",
+    "source": "https://austria.dhamma.org/about-vipassana/course-finances/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge as part of the course, in line with the Goenka-tradition standard of vegetarian meals included for the full duration of the retreat.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) may serve as volunteers (dhamma seva) to help run courses and continue the center's construction; new students are not required to work during their own course.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly",
+    "long-retreats"
+  ],
+  "sources": [
+    {
+      "title": "Vipassana Meditation: Austria (home)",
+      "url": "https://austria.dhamma.org"
+    },
+    {
+      "title": "Dhamma Mudita — Centre",
+      "url": "https://austria.dhamma.org/centre/dhamma-mudita/"
+    },
+    {
+      "title": "Centre",
+      "url": "https://austria.dhamma.org/centre/"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://austria.dhamma.org/about-vipassana/contact-us/"
+    },
+    {
+      "title": "10-Day Courses",
+      "url": "https://austria.dhamma.org/courses/10-day-courses/"
+    },
+    {
+      "title": "Course Finances",
+      "url": "https://austria.dhamma.org/about-vipassana/course-finances/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

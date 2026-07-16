@@ -1,0 +1,99 @@
+{
+  "id": "haus-der-stille",
+  "name": "Haus der Stille",
+  "aka": [
+    "Haus der Stille e. V.",
+    "Haus der Stille Roseburg"
+  ],
+  "website": "https://www.hausderstille.org/",
+  "location": {
+    "address": "Mühlenweg 20, 21514 Roseburg",
+    "city": "Roseburg",
+    "region": "Schleswig-Holstein, Germany",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 53.529243,
+    "lng": 10.630817
+  },
+  "tradition": "Non-sectarian Buddhist meditation center hosting a rotating faculty of monastics and lay teachers from Theravada/Vipassana, Zen, and Tibetan Vajrayana lineages",
+  "technique": "Silent sitting and walking meditation, primarily Vipassana (Insight), alongside Zen, Metta, and movement-based approaches such as qigong, Tai Chi, or yoga depending on the visiting teacher",
+  "influences": [
+    "Ayya Khema",
+    "Charlie Pils / Buddha-Haus München",
+    "Theravada Thai Forest monastics (Bhante Sujiva, Bhante Sukhacitto, Yogavacara Rahula)",
+    "Zen and Tibetan Vajrayana teachers",
+    "Arbeitsgemeinschaft für Meditation (AGM)"
+  ],
+  "teacherAccess": "A single visiting teacher (occasionally with an assistant) leads each seminar's daily group sittings and dharma talks; the degree of individual guidance or interviews depends on that teacher's own format",
+  "retreatOptions": "Seminars run roughly 3 to 9 nights almost year-round (closed January-February), mostly held in noble silence; program spans Vipassana, Zen, Metta, qigong/Tai Chi and yoga-based retreats, plus an occasional family retreat and a self-organized (self-guided) silent retreat weekend",
+  "about": "Haus der Stille is a Buddhist meditation center in the village of Roseburg, about 50 kilometers east of Hamburg amid quiet lakes and old deciduous woodland in Schleswig-Holstein. Founded in 1960 by the non-profit association Haus der Stille e.V., it is one of the oldest Buddhist meditation centers in Germany, based in a well-preserved 1903 manor house alongside a guest house and a dedicated meditation hall. The center is non-sectarian and open to all schools of Buddhism, hosting a rotating roster of monks, nuns, Zen teachers, lamas, and lay meditation teachers who each lead their own seminar, most often built around Vipassana practice but also Zen, Metta, and movement-based approaches like qigong or yoga. Seminars typically run three to nine nights, are held mostly in silence, and combine group sitting and walking meditation with dharma talks and a daily one-hour work period. No prior familiarity with Buddhist ideas or principles is required to attend.",
+  "schedule": "Typical day runs from around 6:00 morning meditation to a 19:30 evening session, with additional sits at 9:00 and 14:30 framed by meals at 8:00, 12:00, and 18:00, plus a daily 8:30-9:30 work period; each seminar begins with dinner on the arrival afternoon (from 15:00) and ends after lunch on the departure day",
+  "cost": "Pensionspreis (room and full board) is billed per night: EUR 65 for association members, EUR 70 for non-members, plus a single-room surcharge of EUR 14/night or double-room surcharge of EUR 7/night per person; on top of this, most seminars ask for voluntary dana to the visiting teacher, though some instead charge a fixed teacher fee (Lehrerhonorar); reduced rates are available on request for participants with low income",
+  "pricePerDay": {
+    "min": 65,
+    "max": 70,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Standard per-night Pensionspreis (shared-room accommodation plus full board, VAT included): EUR 65 for members, EUR 70 for non-members; cross-checked against the 7-night Seminar 17/2026 (25 Jul-1 Aug 2026), where the quoted Pensionspreis was EUR 490 for non-members (= EUR 70/night) and EUR 455 for members (= EUR 65/night). Excludes the separate teacher dana/Lehrerhonorar and single (+EUR 14/night) or double (+EUR 7/night/person) room surcharges.",
+    "source": "https://www.hausderstille.org/teilnahmebedingungen.html"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vollpension (full board): three freshly prepared vegetarian meals a day plus water, tea, coffee, juice, and fresh fruit; the kitchen aims to use regional and organic ingredients, and dietary needs, allergies, or intolerances can be accommodated with advance notice.",
+  "workRequired": "yes",
+  "workNotes": "On multi-day seminars, all participants are asked to join a daily one-hour work period (kitchen, garden, or house cleaning), signed up for on arrival, following the center's long-standing tradition of keeping costs down through shared labor.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "zen",
+    "tibetan-vajrayana",
+    "silent",
+    "family-friendly",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Haus der Stille - Willkommen (home page)",
+      "url": "https://www.hausderstille.org/"
+    },
+    {
+      "title": "Über uns (About us)",
+      "url": "https://www.hausderstille.org/uumlber-uns.html"
+    },
+    {
+      "title": "Verein (Association / board / history)",
+      "url": "https://www.hausderstille.org/verein.html"
+    },
+    {
+      "title": "Programm (2026 seminar calendar)",
+      "url": "https://www.hausderstille.org/programm.html"
+    },
+    {
+      "title": "Lehrende (Teachers overview)",
+      "url": "https://www.hausderstille.org/lehrende.html"
+    },
+    {
+      "title": "Allgemeine Teilnahmebedingungen (participation terms, pricing)",
+      "url": "https://www.hausderstille.org/teilnahmebedingungen.html"
+    },
+    {
+      "title": "Seminarhinweise (practical seminar info: schedule, food, work, rooms)",
+      "url": "https://www.hausderstille.org/seminarhinweise.html"
+    },
+    {
+      "title": "Seminar 17/2026 - Alles fließt (sample 7-night seminar with pricing)",
+      "url": "https://www.hausderstille.org/seminar-17-2026.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

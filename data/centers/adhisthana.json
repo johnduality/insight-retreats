@@ -1,0 +1,113 @@
+{
+  "id": "adhisthana",
+  "name": "Adhisthana",
+  "aka": [
+    "Adhisthana Retreat Centre",
+    "Coddington Court"
+  ],
+  "website": "https://adhisthana.org/",
+  "location": {
+    "address": "Coddington Court, Coddington, Ledbury, Herefordshire, HR8 1JL",
+    "city": "Coddington",
+    "county": "Herefordshire",
+    "region": "Herefordshire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 52.0861,
+    "lng": -2.4033
+  },
+  "tradition": "Triratna Buddhist Community: eclectic modern Buddhism founded by Sangharakshita, drawing on Theravada, Mahayana, and Tibetan/Vajrayana sources",
+  "technique": "Shrine-room group meditation (mindfulness of breathing, metta bhavana), study of Sangharakshita's teaching, ritual/puja, mantra recitation, and sadhana visualisation practice",
+  "influences": [
+    "Urgyen Sangharakshita",
+    "Triratna Buddhist Order (formerly the Western Buddhist Order/FWBO)",
+    "senior Triratna Order members who trained directly under Sangharakshita"
+  ],
+  "teacherAccess": "Retreats are led by senior Triratna Order members, several of whom trained directly under Sangharakshita, with daily talks and small discussion groups facilitated by team members; most events are restricted to Order Members and Mitras rather than offering open one-to-one teacher access to newcomers",
+  "retreatOptions": "Seminar and sadhana retreats of 5-7 nights (mostly Order Members only); combined international Sanghas retreats of 7 nights bookable via an 'Open' option for Mitras/friends; solitary shepherd's-hut retreats (minimum one week, Order Members only); residential training courses including the DharmaLife programme for young Buddhists and international Order courses; day pilgrimage visits and a weekly donation-based drop-in class for locals",
+  "about": "Adhisthana is the international retreat, training, and library centre of the Triratna Buddhist Community, set on a 26-acre former country estate, Coddington Court, near Ledbury in Herefordshire, England. It opened in 2013 and houses the Sangharakshita Library, the personal book collection and Dharma archive of Triratna's founder, Urgyen Sangharakshita, who spent his final years at the on-site Urgyen House and is buried in the grounds' burial mound. Two single-sex residential communities of Order Members and Mitras live and work at Adhisthana under a Team-Based Right Livelihood model, running a year-round programme of seminar retreats, combined international Sangha gatherings, and residential courses for young people and Order training. Most retreats are open only to Triratna Order Members and Mitras rather than the general public, though some events, particularly pilgrimage weeks and young-people's gatherings, welcome newcomers already familiar with Triratna meditation. Teaching is delivered by senior Order members, several of whom studied directly under Sangharakshita, exploring his eclectic synthesis of Theravada, Mahayana, and Tibetan Buddhist teaching within a shared communal, chore-based retreat life.",
+  "schedule": "Retreats begin with 4pm reception and a 6pm supper; a typical day includes 7am group meditation in the main shrine room, a midday mantra/meditation session, an afternoon activity, group meeting, or tour, and an evening session of talks, ritual, or meditation, alongside a daily work rota and an end-of-retreat group clear-up",
+  "cost": "Retreats use a four-tier pricing system (Standard / Concession / Financial Assistance / discounted Adhisthana Membership rate) with a non-refundable, non-transferrable deposit built into the price; a Bursary Fund subsidises places for those facing financial hardship; independent visitors staying outside a retreat programme pay a flat nightly rate including meals",
+  "pricePerDay": {
+    "min": 35,
+    "max": 43,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "5-night Seminar Retreat 'Buddhism for Today and Tomorrow' (2-7 Aug 2026): Concession GBP 175 to Standard GBP 215, i.e. GBP 35-43/night (excludes the heavily subsidised GBP 140 Financial Assistance and GBP 75 flat Adhisthana-member rates). For comparison, independent (non-retreat) visitor stays are a flat GBP 35/night including meals, or GBP 25/night unwaged.",
+    "source": "https://adhisthana.org/retreat-calendar/events/buddhism-for-today-and-tomorrow-seminar-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "All meals served at Adhisthana are vegan; only genuine medical conditions can be catered for and must be declared at booking, and complex diets (3+ exclusions) require prior discussion with the office.",
+  "workRequired": "yes",
+  "workNotes": "All retreatants and visitors take part in a daily work rota of simple chores to help the community run smoothly, and everyone helps clean and prepare the centre for the next group at the end of their stay.",
+  "tags": [
+    "theravada",
+    "mahayana",
+    "tibetan-vajrayana",
+    "day-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegan",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Home - Adhisthana",
+      "url": "https://adhisthana.org/"
+    },
+    {
+      "title": "About Adhisthana",
+      "url": "https://adhisthana.org/about/"
+    },
+    {
+      "title": "Contact Us - Adhisthana",
+      "url": "https://adhisthana.org/contact-us/"
+    },
+    {
+      "title": "New To Retreats at Adhisthana?",
+      "url": "https://adhisthana.org/new-to-retreats-at-adhisthana/"
+    },
+    {
+      "title": "Participate - Adhisthana",
+      "url": "https://adhisthana.org/participate/"
+    },
+    {
+      "title": "Combined Sanghas Retreats - Adhisthana",
+      "url": "https://adhisthana.org/combined-sanghas-retreats/"
+    },
+    {
+      "title": "The Way to Wisdom | Spring Sanghas Retreat - Adhisthana",
+      "url": "https://adhisthana.org/retreat-calendar/events/spring-sanghas-retreat-the-way-to-wisdom/"
+    },
+    {
+      "title": "Buddhism for Today and Tomorrow | Seminar Retreat - Adhisthana",
+      "url": "https://adhisthana.org/retreat-calendar/events/buddhism-for-today-and-tomorrow-seminar-retreat/"
+    },
+    {
+      "title": "Padmasambhava Sadhana Retreat - Adhisthana",
+      "url": "https://adhisthana.org/retreat-calendar/events/padmasambhava-sadhana-retreat/"
+    },
+    {
+      "title": "International Pilgrims' Week - Adhisthana",
+      "url": "https://adhisthana.org/retreat-calendar/events/international-pilgrims-week/"
+    },
+    {
+      "title": "Accessibility - Adhisthana",
+      "url": "https://adhisthana.org/accessibility/"
+    },
+    {
+      "title": "HR8 1JL postcode coordinates - Check My Postcode",
+      "url": "https://checkmypostcode.uk/hr81jl"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

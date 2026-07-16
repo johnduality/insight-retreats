@@ -1,0 +1,93 @@
+{
+  "id": "altbaeckersmuehle",
+  "name": "Altbäckersmühle",
+  "aka": [
+    "Zen Zentrum Altbäckersmühle",
+    "Zengemeinschaft des Stillen Wassers",
+    "NyuShinDo"
+  ],
+  "website": "https://zen-zentrum-altbaeckersmuehle.de/",
+  "location": {
+    "address": "Altbäckersmühle, 56379 Singhofen",
+    "city": "Singhofen",
+    "region": "Taunus, Rhineland-Palatinate, Germany",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 50.2744,
+    "lng": 7.8364
+  },
+  "tradition": "Soto Zen, in the lineage of Kobun Chino Otogawa Roshi, combined with meditative archery (Kyudo) and yoga",
+  "technique": "Shikantaza (silent 'just sitting') zazen and kinhin walking meditation, paired with meditative archery, yoga, and qi gong as embodied practice",
+  "influences": [
+    "Kobun Chino Otogawa Roshi",
+    "Vanja Palmers",
+    "Ellen GenKi Österle (co-founder)",
+    "Kurt KyuSei Österle (co-founder)",
+    "Michael HoKai Österle (current spiritual director)",
+    "Phönix Cloud Sangha"
+  ],
+  "teacherAccess": "Daily dharma talks and the possibility of individual dokusan (private teacher interviews) during sesshins; some sesshins are restricted to students of specific teachers",
+  "retreatOptions": "Weekend introductions to Zen meditation and archery; multi-day sesshins (roughly 4-6 nights) combining zazen with archery, yoga, shiatsu, or creative practice; week-long work-and-study (Samu) practice weeks; and self-directed personal retreats in individual meditation cells (Zenklausen)",
+  "about": "Altbäckersmühle is a small Zen center housed in a roughly 350-year-old former grain mill tucked into a wooded side valley of the Taunus, on the Hasenbach stream near Singhofen, Germany. Founded more than 30 years ago by Ellen GenKi and Kurt KyuSei Österle and now led by their son, Michael HoKai Österle, it practices Soto Zen in the lineage of Kobun Chino Otogawa Roshi, distinctively paired with meditative archery (Kyudo), yoga, and qi gong as bodywork that supports zazen. Guests stay in individual meditation cells called Zenklausen, small monastic-style rooms without private bathrooms, and take part in a year-round program of sesshins, weekend introductions, and work-and-study weeks alongside a resident and visiting teaching community. The center describes itself as an 'experimental' Zen monastery, blending traditional Soto forms with contemporary interests such as ecological building practices, community-run decision-making, and dialogue on meditation and psychedelic research. It is part of the international Phönix Cloud Sangha and a member of the German Buddhist Union (DBU).",
+  "schedule": "Sesshins follow a traditional daily rhythm of early-morning and evening zazen and kinhin, a dharma talk, about an hour of daily work meditation (Samu), and meals taken together in silence, with archery, yoga, or qi gong sessions woven into the day depending on the retreat.",
+  "cost": "Priced à la carte per booking: accommodation in a Zenklause runs from a Basic to a Comfort tier, plus a separate daily meal charge and a one-time solidarity contribution toward mill renovation; scholarship-style support is available through the center's Förderverein so no one is turned away for financial reasons.",
+  "pricePerDay": {
+    "min": 70,
+    "max": 105,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Derived from published per-night room rates (Zenklause Bescheiden/Basic EUR 40, Medium EUR 50, Komfort/Comfort EUR 75) plus the separate EUR 30/day vegan board charge, i.e. EUR 70/night (Basic + food) to EUR 105/night (Comfort + food); a one-time EUR 25 mill-renovation solidarity fee per booking and the EUR 250/night Tiny-Haus option are excluded.",
+    "source": "https://zen-zentrum-altbaeckersmuehle.de/produkt/sesshin-22-26-10-2025/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Meals are vegan and billed separately from lodging at a flat rate of roughly EUR 30 per day; retreatants eat together in silence during sesshins.",
+  "workRequired": "yes",
+  "workNotes": "Sesshins include a daily period of work meditation (Samu, about an hour); dedicated multi-day 'Work & Study' practice weeks ask for substantially more labor (e.g. helping build a stone bread oven) in exchange for waived or reduced accommodation costs.",
+  "tags": [
+    "zen",
+    "silent",
+    "self-guided",
+    "day-retreats",
+    "diet-vegan",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Altbäckersmühle - home page",
+      "url": "https://zen-zentrum-altbaeckersmuehle.de/"
+    },
+    {
+      "title": "Zen Zentrum Altbäckersmühle (German Buddhist Union directory profile)",
+      "url": "https://buddhismus-deutschland.de/?zentren=altbaeckersmuehle-zengemeinschaft-des-stillen-wassers"
+    },
+    {
+      "title": "Ort - Lebendiger Buddhismus in einem experimentellen Zen-Kloster im Taunus",
+      "url": "https://zen-zentrum-altbaeckersmuehle.de/ort-experimentelles-kloster/"
+    },
+    {
+      "title": "SESSHIN 22.-26.10.2025 (sample sesshin product/pricing page)",
+      "url": "https://zen-zentrum-altbaeckersmuehle.de/produkt/sesshin-22-26-10-2025/"
+    },
+    {
+      "title": "Grundlegendes F&Q zu Kursen in der Altbäckersmühle",
+      "url": "https://zen-zentrum-altbaeckersmuehle.de/grundlegendes/"
+    },
+    {
+      "title": "Kontakt Anfahrt und Mail",
+      "url": "https://zen-zentrum-altbaeckersmuehle.de/kontakt/"
+    },
+    {
+      "title": "AGB (terms/pricing reference)",
+      "url": "https://zen-zentrum-altbaeckersmuehle.de/agb/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

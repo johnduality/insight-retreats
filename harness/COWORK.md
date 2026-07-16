@@ -46,26 +46,32 @@ delegates every research step to sub-agents (Task tool) and then ingests their o
 > already in `data/centers/` (check both `name` and `aka`). When in doubt, treat a
 > near-match as a duplicate and skip it.
 
-> **One state at a time (hard rule).** When asked to add several states at once
-> (e.g. "do Nevada, then Oregon, then Washington"), fully complete ONE state before
-> starting the next: discover -> research -> ingest -> add its code to `STATE_NAMES`
-> in `app.js` -> update the "Supported states" line (see below) -> verify that state
-> renders, and confirm it is done, before moving on. Do not run states in parallel or
-> leave a state half-finished.
+> **One state/country/subregion at a time (hard rule).** When asked to add several
+> areas at once (e.g. "do Nevada, then Oregon" or the `expansion.txt` country-by-country
+> plan), fully complete ONE before starting the next: discover -> research -> ingest ->
+> verify that area renders correctly on the site -> confirm it is done, before moving on.
+> Do not run areas in parallel or leave one half-finished.
 
-> **Keep the "Supported states" line current.** `public/index.html` has a
-> `#supportedStates` line under the result count, populated in `app.js`
-> (`renderCatalogue`) from `Object.keys(STATE_NAMES)` plus any zero-result states
-> checked-but-excluded (currently just `NV`) — alphabetized, no per-state annotation.
-> Whenever a state is added to `STATE_NAMES`, or a new state is checked and found to
-> have zero qualifying centers, update that logic/list so the line stays accurate. It's
-> styled to match `.result-count` (small, italic, muted grey) via the `.supported-states`
-> CSS class.
+> **International entries (non-US).** The catalogue's `location`/`pricePerDay` schema
+> supports any country: `location.country` is the full country name (e.g.
+> `"United Kingdom"`, `"France"`, `"Iceland"`) — REQUIRED for every non-US entry, since
+> `app.js`'s `regionOf()` groups centers into Europe/Canada/Latin America/Oceania by this
+> field (no `country`, or `"United States"`/`"USA"`, defaults to the US bucket).
+> `location.state` doubles as a pseudo-code slot: for non-US entries put the two-letter
+> ISO 3166-1 country code there (`GB`, `FR`, `DE`, `IS`, ...) rather than leaving it blank
+> or defaulting to a US state — `ingest-center.mjs` defaults a missing `state` to `"CA"`,
+> which is wrong for international entries, so always set it explicitly. `pricePerDay.currency`
+> (ISO 4217, e.g. `GBP`, `EUR`, `ISK`) is REQUIRED for every non-US entry so the site's
+> currency symbol renders correctly; it defaults to USD only when omitted on US entries.
+> When a new top-level region bucket is needed (a country not yet in `EUROPE`/
+> `LATIN_AMERICA`/`OCEANIA` in `app.js`), add it to the right set (or `REGION_ORDER`
+> for an entirely new continent) as part of finishing that country's pass.
 
 ## Entry spec (what each staged JSON must contain)
 
-Required: `name`, `location` (`city`, `region`, `state:"CA"`, `lat`, `lng`), `tradition`,
-`about`, `tags`. Recommended: everything below.
+Required: `name`, `location` (`city`, `region`, `state` — a US state code like `"CA"`, or
+the ISO country-code pseudo-code for non-US entries, see above — `lat`, `lng`),
+`tradition`, `about`, `tags`. Recommended: everything below.
 
 - `about` — the ONLY paragraph (~3–6 sentences), plain language.
 - **Wording:** never write the redundant pair "Insight Meditation (Vipassana)" (or
@@ -108,7 +114,11 @@ Required: `name`, `location` (`city`, `region`, `state:"CA"`, `lat`, `lng`), `tr
   - The diet type shows as a green badge on the "Food served" line — there is no separate diet row.
 - `workRequired`: one of `yes`, `no`, `partial`, `unknown` (exact values only).
 - `tags` — ids from `schema/tags.json` ONLY. **Be strict: do not invent tags.** Use the
-  existing controlled vocabulary; prefer fewer, accurate tags over many. `proposedTags`
+  existing controlled vocabulary; prefer fewer, accurate tags over many. **After drafting,
+  go group-by-group through `schema/tags.json` and apply every tag that clearly applies** —
+  cross-check the structured fields (`foodServed` → `diet-*` / `meals-included`,
+  `workRequired` → `work-practice` / `no-work-required`, `pricePerDay` / `cost` →
+  `cost-model` tags). Completeness matters, but only for tags that genuinely fit. `proposedTags`
   is a rare last resort — propose a NEW tag only when the attribute is (a) genuinely
   reusable across *many* future centers, (b) not already expressible with an existing
   tag, and (c) a stable category, not a one-off descriptor. When in doubt, do NOT propose

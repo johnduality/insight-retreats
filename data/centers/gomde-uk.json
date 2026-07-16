@@ -1,0 +1,103 @@
+{
+  "id": "gomde-uk",
+  "name": "Gomde UK",
+  "aka": [
+    "Rangjung Yeshe Gomde UK",
+    "Rangjung Yeshe UK Tibetan Buddhist Centre",
+    "Gomde UK, Lindholme Hall"
+  ],
+  "website": "https://gomde.uk/",
+  "location": {
+    "address": "Lindholme Bank Road, Hatfield Woodhouse",
+    "city": "Doncaster",
+    "county": "South Yorkshire",
+    "region": "South Yorkshire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 53.5513,
+    "lng": -0.9363
+  },
+  "tradition": "Tibetan Buddhism: Kagyu and Nyingma lineages, rooted in the Chokgyur Lingpa terma tradition, part of Chökyi Nyima Rinpoche's Shedrub Mandala/Rangjung Yeshe network",
+  "technique": "Shamatha and Dzogchen-based meditation, Vajrayana empowerments and deity-yoga sadhana practice, plus supported and solitary silent retreat",
+  "influences": [
+    "Chökyi Nyima Rinpoche (founder)",
+    "Tulku Urgyen Rinpoche",
+    "Chokgyur Lingpa",
+    "Ka-Nying Shedrub Ling Monastery, Kathmandu",
+    "Rangjung Yeshe Institute",
+    "Lama Öser (resident teacher)"
+  ],
+  "teacherAccess": "Resident Lama Öser leads regular teachings and supports the community year-round; visiting Khenpos, Lamas and Western teachers (e.g. Drubpon Lama Tenzin Sangpo) lead seasonal seminars, with monastic support also available to solitary retreatants",
+  "retreatOptions": "Multi-day teaching seminars/retreats with visiting teachers (e.g. a 15-night Kurukulla retreat), supported individual retreats in private Hall rooms, self-catered solitary retreat in two off-grid woodland cabins, a weekly meditation group (in-person and online), and open days/heritage events",
+  "about": "Gomde UK is a Tibetan Buddhist retreat centre set on a 180-acre 'island' within the Lindholme Hall Estate, a former manor house amid Hatfield Moor near Doncaster, South Yorkshire, within the Humberhead Peatlands National Nature Reserve. It was founded by Chökyi Nyima Rinpoche, abbot of Ka-Nying Shedrub Ling Monastery in Kathmandu and eldest son of the Dzogchen master Tulku Urgyen Rinpoche, and is part of his international Shedrub Mandala network of Gomde centres. The centre follows the Kagyu and Nyingma lineages rooted in the terma teachings of Chokgyur Lingpa, hosting seasonal seminars, empowerments and retreats led by visiting Khenpos and Lamas alongside its resident teacher, Lama Öser. Beyond group teachings, Gomde UK supports solitary practitioners through two off-grid woodland retreat cabins and private rooms for supported individual retreat in the main Hall. Run almost entirely by on-site and remote volunteers, the centre also carries out peatland restoration and organic gardening on its estate, and is currently building a new temple and monastery, Thubten Chökor Ling, on the grounds.",
+  "schedule": "Group seminars follow multi-day teaching and practice schedules (e.g. a 15-night retreat running from evening registration to a closing lunch); a weekly meditation group meets Monday and Tuesday in person and online; solitary retreatants set their own daily schedule, with seasonal monastic support available",
+  "cost": "Group seminars are offered by suggested donation covering teachings, accommodation and meals (e.g. roughly £795 twin/£985 single for a 15-night retreat); solitary cabin or Hall retreats and extra nights are billed separately from around £50/night; day visits, open days and the weekly meditation group are free or by donation",
+  "pricePerDay": {
+    "min": 53,
+    "max": 66,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Derived from the Oct 2026 Kurukulla Retreat (15 nights, 11-26 Oct 2026): Twin Room £795 (~£53/night) to Single Room £985 (~£66/night), both full board; separately, extra solitary-retreat nights start from about £50/night.",
+    "source": "https://gomde.uk/kurukulle-drupbon-lama-tenzin-sangpo"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals on group retreats are vegetarian, prepared by the centre's chef and kitchen volunteers using home-grown produce from the walled organic garden where possible; dietary requests are accommodated where feasible, though complex allergies cannot always be supported.",
+  "workRequired": "no",
+  "workNotes": "Retreat and seminar guests are not required to work; a separate resident volunteer programme (minimum 3 months, roughly 6-7 hours/day, 5 days/week) offers private accommodation, vegetarian meals and a stipend in exchange for service.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "no-work-required",
+    "accessible",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Gomde UK - home page",
+      "url": "https://gomde.uk/"
+    },
+    {
+      "title": "About Gomde UK",
+      "url": "https://gomde.uk/about"
+    },
+    {
+      "title": "Individual Solitary Retreat in the UK",
+      "url": "https://gomde.uk/solitary-retreat-uk"
+    },
+    {
+      "title": "Contact, Visit & Stay",
+      "url": "https://gomde.uk/contact-visit-stay"
+    },
+    {
+      "title": "Dharma teachings at Gomde UK",
+      "url": "https://gomde.uk/buddhism-dharma"
+    },
+    {
+      "title": "Volunteer with us",
+      "url": "https://gomde.uk/buddhism-volunteering-uk"
+    },
+    {
+      "title": "Kurukulla Retreat - Drubpon Lama Tenzin Sangpo (booking/pricing)",
+      "url": "https://gomde.uk/kurukulle-drupbon-lama-tenzin-sangpo"
+    },
+    {
+      "title": "Google Maps location (DN7 6DT)",
+      "url": "https://goo.gl/maps/j6s1Vf6YZsuK9xXr6"
+    },
+    {
+      "title": "Apple Maps geocode for DN7 6DT",
+      "url": "https://maps.apple.com/place?q=DN7%206DT&auid=3538914357401573150&address=Doncaster,%20DN7%206DT,%20England&ll=53.5513004,-0.9363357&lsp=6489"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

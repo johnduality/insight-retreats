@@ -1,0 +1,108 @@
+{
+  "id": "maitreya-instituut",
+  "name": "Maitreya Instituut Loenen",
+  "aka": [
+    "Maitreya Institute Loenen",
+    "Maitreya Instituut",
+    "Bosoord"
+  ],
+  "website": "https://www.maitreya.nl/en/maitreya-loenen",
+  "location": {
+    "address": "Hoofdweg 109, 7371 GE Loenen",
+    "city": "Loenen",
+    "region": "Gelderland, Netherlands",
+    "country": "Netherlands",
+    "state": "NL",
+    "lat": 52.1167,
+    "lng": 6.0187
+  },
+  "tradition": "Tibetan Buddhism (Gelug), FPMT (Foundation for the Preservation of the Mahayana Tradition)",
+  "technique": "Analytical study of classical Buddhist texts with teacher-led meditation and discussion, translated live from Tibetan to Dutch; also yoga and mindfulness weekends",
+  "influences": [
+    "Lama Thubten Yeshe",
+    "Lama Zopa Rinpoche",
+    "Geshe Sonam Gyaltsen",
+    "Je Tsongkhapa / Gelug lineage",
+    "Ganden Monastery",
+    "14th Dalai Lama"
+  ],
+  "teacherAccess": "Resident Tibetan teacher Geshe Sonam Gyaltsen gives Tibetan-to-Dutch translated teachings and takes by-appointment personal questions during courses; trained students and visiting guest teachers lead additional meditations and discussion groups",
+  "retreatOptions": "Half-day workshops and evening classes up to weekend courses (Friday to Sunday) and multi-week study programs; members can also arrange individual/solitary retreats outside the regular course calendar",
+  "about": "Maitreya Instituut Loenen is a Tibetan Buddhist study and meditation centre on the Veluwe in Gelderland, run by the Dutch branch of the FPMT (Foundation for the Preservation of the Mahayana Tradition), the worldwide Gelug organisation founded by Lama Thubten Yeshe under the guidance of Lama Zopa Rinpoche. Founded in 1979 and based in Emst from 1987, the institute moved in 2012 into Bosoord, a former hotel and conference centre in Loenen, giving it overnight accommodation alongside its city-centre location in Amsterdam. Its resident teacher, the Tibetan monk Geshe Sonam Gyaltsen of Ganden Monastery, has taught at Maitreya for over 25 years and gives classical text-based teachings translated live from Tibetan into Dutch, while a team of trained students and visiting Western and Tibetan guest teachers lead additional courses, meditations, workshops and pujas. Programming ranges from half-day introductory workshops (Buddhism in a Nutshell, Discover Buddhism) to weekend courses and multi-week study retreats, plus yoga and mindfulness weekends and individual retreats for members. The centre runs on a cost-covering donation model rather than fixed fees, with a study fund available for those who cannot afford the suggested amount, and expects participants to pitch in with about an hour of daily karma yoga.",
+  "schedule": "Weekend courses run Friday evening through Sunday around 5pm, with two teaching sessions a day plus optional group meditation and discussion groups; longer study programs and individual retreats can extend to several weeks",
+  "cost": "Donation-based 'cost-covering' pricing set per activity, generally EUR75-200+ for a residential weekend depending on the course; covers meals, bed linen and accommodation; a study fund/reduced rate is available for those who cannot afford the suggested donation, and online participation is offered at 50% of the in-person rate",
+  "pricePerDay": {
+    "min": 80,
+    "max": 80,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Yoga & Meditation weekend (2 nights, Fri 6 - Sun 8 Nov 2026): EUR160 total suggested donation, i.e. roughly EUR80/night, including meals, bed linen and a towel; other weekend courses have been priced as low as ~EUR75-100 with a further reduced student/low-income rate, which is excluded here.",
+    "source": "https://www.maitreya.nl/en/yoga-meditatie-weekend"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals prepared by a professional chef, served buffet-style with a warm lunch on weekend course days and a simple bread-and-soup supper on Friday evening; gluten-, nut- or lactose-free diets are accommodated only if requested in advance and are combined into a single alternative meal.",
+  "workRequired": "yes",
+  "workNotes": "Participants are asked to do about one hour of 'karma yoga' (light household duties such as dishes, tidying, and making tea) during breaks each day to help keep course donations low; volunteers doing a full day of work can often stay for free.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Maitreya Institute Loenen (main Loenen page)",
+      "url": "https://www.maitreya.nl/en/maitreya-loenen"
+    },
+    {
+      "title": "About us - Maitreya Institute",
+      "url": "https://www.maitreya.nl/en/maitreya-institute"
+    },
+    {
+      "title": "Attending an activity in Loenen - daily schedule and house rules",
+      "url": "https://www.maitreya.nl/en/attending-an-activity-in-loenen"
+    },
+    {
+      "title": "Terms Loenen (donation model, study fund, room policy)",
+      "url": "https://www.maitreya.nl/en/terms-loenen"
+    },
+    {
+      "title": "Staying in Loenen outside courses",
+      "url": "https://www.maitreya.nl/en/individual-stay-loenen"
+    },
+    {
+      "title": "Courses on Buddhism",
+      "url": "https://www.maitreya.nl/en/courses"
+    },
+    {
+      "title": "Yoga & Meditatie weekend (course page with donation amount)",
+      "url": "https://www.maitreya.nl/en/yoga-meditatie-weekend"
+    },
+    {
+      "title": "Maitreya Instituut's Resident Teacher, Geshe Sonam Gyaltsen, Recounts His Life Story - FPMT Mandala",
+      "url": "https://fpmt.org/fpmt-community-news/news-around-the-world/maitreya-instituuts-resident-teacher-geshe-sonam-gyaltsen-recounts-his-life-story/"
+    },
+    {
+      "title": "Maitreya Instituut at 40: a family affair - Wijsheidsweb",
+      "url": "https://wijsheidsweb.nl/maitreya-instituut-at-40-a-family-affair-1/"
+    },
+    {
+      "title": "Bosoord in Loenen wordt Boeddhistisch conferentieoord - Regiobode",
+      "url": "https://www.regiobodeonline.nl/2012/04/04-04-2012-10-07-loenen-bosoord-in-loenen-wordt-boeddistisch-conferentieoord/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

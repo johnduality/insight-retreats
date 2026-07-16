@@ -1,0 +1,76 @@
+{
+  "id": "plum-village-france",
+  "name": "Plum Village",
+  "website": "https://plumvillage.org",
+  "aka": [
+    "Village des Pruniers",
+    "Plum Village Monastery"
+  ],
+  "location": {
+    "city": "Thénac",
+    "region": "Dordogne, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 44.7686,
+    "lng": 0.2878
+  },
+  "tradition": "Plum Village (Thich Nhat Hanh) engaged Zen Buddhism",
+  "influences": [
+    "Thich Nhat Hanh",
+    "Plum Village Tradition",
+    "Engaged Buddhism",
+    "Vietnamese Thien (Zen)",
+    "Mahayana Buddhism"
+  ],
+  "teacherAccess": "Guidance from resident monastics through dharma talks and small-group dharma sharing; no formal one-on-one interviews.",
+  "retreatOptions": "Weekend and multi-day mindfulness retreats; the annual month-long Summer Opening (family-friendly); 21-day and winter/rains retreats for experienced practitioners.",
+  "about": "Plum Village is the founding practice center of Thich Nhat Hanh's Plum Village tradition, set among vineyards and woodland in the Dordogne region of southwest France and established in 1982. A large resident community of monks and nuns lives and practices year-round across several hamlets, welcoming lay guests for residential retreats throughout the year. Practice centers on gentle, everyday-life mindfulness: sitting and walking meditation, mindful eating, total relaxation, chanting, dharma talks and dharma sharing, and working meditation. No prior experience is needed, and offerings range from weekend retreats to the popular month-long Summer Opening for individuals and families, as well as longer 21-day and winter retreats for those wanting deeper practice. Days include periods of noble silence, and meals are vegan and taken together mindfully.",
+  "technique": "Plum Village mindfulness: sitting and walking meditation, mindful eating, total relaxation, chanting, dharma talks, and working meditation.",
+  "schedule": "Multi-day retreats year-round plus the month-long Summer Opening; a typical day runs from an early wake-up bell through sitting and walking meditation, a dharma talk, working meditation, and evening practice.",
+  "cost": "Suggested daily contribution on a sliding scale (in euros), with lower rates for those in need and additional support available; meals and simple lodging included.",
+  "pricePerDay": {
+    "min": 55,
+    "max": 75,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Approximate suggested daily contribution on a sliding scale; actual rate varies by retreat and by ability to pay, with reduced and supported rates available. Meals and shared lodging included.",
+    "source": "https://plumvillage.org/retreats"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Three vegan meals a day, included in the contribution and generally taken mindfully in silence.",
+  "workRequired": "yes",
+  "workNotes": "Working meditation (light community service such as kitchen or garden tasks) is a scheduled daily part of retreats, in the spirit of mindful work.",
+  "sources": [
+    {
+      "title": "Plum Village — Retreats",
+      "url": "https://plumvillage.org/retreats"
+    },
+    {
+      "title": "Plum Village — About / Our Community",
+      "url": "https://plumvillage.org/about/plum-village"
+    },
+    {
+      "title": "Plum Village (monastery) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Plum_Village_Monastery"
+    }
+  ],
+  "tags": [
+    "plum-village",
+    "zen",
+    "silent",
+    "long-retreats",
+    "family-friendly",
+    "online-hybrid",
+    "diet-vegan",
+    "meals-included",
+    "work-practice",
+    "monastic-community",
+    "sliding-scale"
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "eiab",
+  "name": "European Institute of Applied Buddhism (EIAB)",
+  "aka": [
+    "EIAB",
+    "Europäisches Institut für Angewandten Buddhismus"
+  ],
+  "website": "https://www.eiab.eu/",
+  "location": {
+    "address": "Schaumburgweg 3, 51545 Waldbröl, Germany",
+    "city": "Waldbröl",
+    "region": "North Rhine-Westphalia, Germany",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 50.881469,
+    "lng": 7.6287457
+  },
+  "tradition": "Plum Village tradition Buddhism (Zen / Mahayana, in the lineage of Thich Nhat Hanh)",
+  "technique": "Mindful breathing, sitting and walking meditation, working meditation, Dharma discussion, and the Five/Fourteen Mindfulness Trainings",
+  "influences": [
+    "Thich Nhat Hanh",
+    "Plum Village monastic tradition",
+    "Sister Chân Không",
+    "Lâm Tế (Linji) Zen lineage"
+  ],
+  "teacherAccess": "Daily Dharma talks and small-group Dharma sharing led by resident monastics and visiting Plum Village Dharma teachers; retreatants live and practice directly alongside the monastic community",
+  "retreatOptions": "Mostly weekend and 5-6 night themed retreats (international, German-, Dutch-, and Vietnamese-language, family, and young-adult programs); monthly in-person Days of Mindfulness plus regular online sittings and days of mindfulness; no unstructured personal/self-guided retreat stays are currently offered",
+  "about": "The European Institute of Applied Buddhism (EIAB) is a Plum Village-tradition monastery and retreat center in Waldbröl, Germany, about an hour east of Cologne. It was founded in 2008 by Zen Master Thich Nhat Hanh as the first 'Institute of Applied Buddhism' in his network, built on a large former hospital campus, and today houses one of Europe's largest resident communities of Buddhist monks and nuns. Courses and retreats, mostly weekend- to week-long, are led by resident monastics and visiting Plum Village Dharma teachers and draw on Thich Nhat Hanh's teachings of mindful breathing, sitting and walking meditation, working meditation, and the Mindfulness Trainings. Retreatants live and eat alongside the monastic community, sharing rooms and vegan meals, and can join retreats in German, English, Dutch, or Vietnamese as well as programs for families and young people. EIAB also hosts a weekly Waldbröl sangha evening and regular online sittings and days of mindfulness. As at other Plum Village centers, Buddhism here is taught as a practical, non-sectarian path rather than a religion.",
+  "schedule": "Retreats begin at 7:30pm on the arrival day and end after lunch (around 1:30pm) on the departure day, with full participation required; days follow the Plum Village rhythm of morning and evening sitting meditation, walking meditation, Dharma talks, mindful working meditation, and communal meals, with 'noble silence' observed overnight.",
+  "cost": "2026 rates are a fixed per-person, per-night, all-inclusive fee (room, vegan meals, and course fee) tiered by room type from shared 3-4 bed rooms to single ensuite rooms; teens and children pay reduced or no charge, and fee reductions are available for students, trainees, and financial hardship (shared rooms only); donations are requested separately for lay (non-monastic) course leaders.",
+  "pricePerDay": {
+    "min": 100,
+    "max": 145,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "2026 all-inclusive accommodation table, per person per night: EUR 100 for a bed in a 3-4 bed room up to EUR 145 for a single room with private shower/WC (a bed in a shared 2-bed room runs EUR 110-125). Rates are flat per-night regardless of retreat length, illustrated here by the 5-night International Retreat 'Peace in oneself, peace in the world' (21-26 Jul 2026).",
+    "source": "https://www.eiab.eu/alles-zur-registrierung"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "All meals are vegan (no animal products, including dairy); the kitchen cannot accommodate special diets or allergies such as gluten-free, though guests may bring their own supplements or medication (no meat or alcohol permitted on site).",
+  "workRequired": "yes",
+  "workNotes": "As at other Plum Village centers, participants join a daily 'working meditation' period (mindful chores such as gardening, kitchen, or cleaning work) alongside the monastics as part of the retreat schedule, distinct from paid labor.",
+  "tags": [
+    "plum-village",
+    "mahayana",
+    "zen",
+    "day-retreats",
+    "family-friendly",
+    "online-hybrid",
+    "diet-vegan",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "EIAB - Home",
+      "url": "https://www.eiab.eu/"
+    },
+    {
+      "title": "Über uns (About us)",
+      "url": "https://www.eiab.eu/about"
+    },
+    {
+      "title": "Alles zur Registrierung / All about registration (rooms, prices, policies)",
+      "url": "https://www.eiab.eu/alles-zur-registrierung"
+    },
+    {
+      "title": "Kontakt / Anreise (Contact / Directions)",
+      "url": "https://www.eiab.eu/contact-5"
+    },
+    {
+      "title": "Praxis (Practice)",
+      "url": "https://www.eiab.eu/praxis"
+    },
+    {
+      "title": "Mönche & Nonnen (Monks & Nuns)",
+      "url": "https://www.eiab.eu/nonnen-und-mönch"
+    },
+    {
+      "title": "kurze Geschichte des eiab (Short History of the EIAB)",
+      "url": "https://www.eiab.eu/kurzegeschichteeiab"
+    },
+    {
+      "title": "International Retreat - 'Peace in oneself, peace in the world' (K2630-1, 21-26 Jul 2026)",
+      "url": "https://www.eiab.eu/courses-1/international-retreat---%22peace-in-oneself%2C-peace-in-the-world%22/k2630-1"
+    },
+    {
+      "title": "EIAB | Plum Village (official practice center profile)",
+      "url": "https://plumvillage.org/practice-centre/eiab"
+    },
+    {
+      "title": "Turning Darkness into Light on a Grand Scale - 10 years of the EIAB | Plum Village",
+      "url": "https://plumvillage.org/articles/turning-darkness-into-light-on-a-grand-scale"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

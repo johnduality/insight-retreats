@@ -1,0 +1,103 @@
+{
+  "id": "being-peace-practice-centre",
+  "name": "Being Peace Practice Centre",
+  "website": "https://beingpeace.uk/",
+  "aka": [
+    "Being Peace",
+    "Being Peace Centre"
+  ],
+  "location": {
+    "address": "Abenhall Manor, Church Farm, Church Lane, Abenhall, Mitcheldean, Gloucestershire, GL17 0DX",
+    "city": "Mitcheldean",
+    "county": "Gloucestershire",
+    "region": "Gloucestershire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 51.852,
+    "lng": -2.477
+  },
+  "tradition": "Plum Village (Thich Nhat Hanh) mindfulness tradition",
+  "technique": "Plum Village mindfulness: sitting and walking meditation, mindful eating, deep relaxation, dharma sharing, and daily service meditation.",
+  "influences": [
+    "Thich Nhat Hanh",
+    "Plum Village Tradition",
+    "Engaged Buddhism",
+    "Order of Interbeing"
+  ],
+  "teacherAccess": "Daily dharma talks and small-group dharma sharing led by visiting monastics or lay Dharma teachers, with resident Community Practice Mentors supporting day-to-day practice.",
+  "retreatOptions": "Single days of mindfulness, weekend and week-long retreats and courses, family and service retreats, and occasional 21-day immersions.",
+  "about": "Being Peace Practice Centre is the first national Plum Village practice centre in the United Kingdom, occupying the 54-acre Abenhall Estate near Mitcheldean in the Forest of Dean. The idea was first proposed to the UK Sangha by Zen Master Thich Nhat Hanh in 1997, and the property was secured through a community-wide fundraising campaign before the centre opened in September 2025. Programming follows the Plum Village approach to engaged Buddhism: sitting and walking meditation, mindful eating, deep relaxation, dharma talks, dharma sharing, and daily service meditation, led by a mix of lay Dharma teachers, ex-monastics, and visiting Plum Village monastics. Retreats range from single days of mindfulness and weekend courses to week-long and 21-day immersions, alongside dedicated family, yoga, creativity, and affinity-group retreats. It is run as a lay charity affiliated with Plum Village UK rather than a resident monastery, though organisers hope it may eventually join the wider international Plum Village monastic family.",
+  "schedule": "Multi-day retreats run on a set daily rhythm from an early wake-up bell through sitting and walking meditation, service meditation, a dharma talk, silent meals, deep relaxation, dharma sharing, and an evening session, with Noble Silence kept overnight.",
+  "cost": "Tiered ticket pricing (Standard, Supporter, and means-tested Reduced rates) set by room type and retreat length, plus a separate voluntary daily dana offering made directly to teachers.",
+  "pricePerDay": {
+    "min": 65,
+    "max": 84.5,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Derived from the published dormitory price matrix for a sample multi-night course: Standard tier runs from £173 for 2 nights to £390 for 6 nights (about £65/night at longer stays); Supporter tier runs £224.90 to £507 (about £84.50/night). A 30%-reduced tier and a separate suggested teacher dana of £10-40/day are additional to these room-and-programme rates.",
+    "source": "https://beingpeace.uk/program/retreats/the-art-of-zen-a-beginners-course-3/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Plant-based meals sourced as locally and organically as possible; common dietary needs such as vegan, gluten-free, or dairy-free are accommodated on request; breakfast and the start of lunch and dinner are eaten in silence.",
+  "workRequired": "yes",
+  "workNotes": "A daily 'Service Meditation' period (roughly 45 minutes to an hour, e.g. washing up or food preparation) is a standard scheduled part of every retreat.",
+  "tags": [
+    "plum-village",
+    "zen",
+    "silent",
+    "day-retreats",
+    "long-retreats",
+    "family-friendly",
+    "diet-vegan",
+    "meals-included",
+    "work-practice",
+    "accessible",
+    "scholarships",
+    "dana-donation",
+    "sliding-scale"
+  ],
+  "sources": [
+    {
+      "title": "Being Peace — Mindfulness Practice Centre (home)",
+      "url": "https://beingpeace.uk/"
+    },
+    {
+      "title": "Frequently Asked Questions | Being Peace Practice Centre",
+      "url": "https://beingpeace.uk/faq"
+    },
+    {
+      "title": "Dana Policy | Being Peace Practice Centre",
+      "url": "https://beingpeace.uk/dana-policy"
+    },
+    {
+      "title": "The Art of Zen: A Beginners' Course (retreat & pricing page)",
+      "url": "https://beingpeace.uk/program/retreats/the-art-of-zen-a-beginners-course-3/"
+    },
+    {
+      "title": "Retreat Calendar | Being Peace Practice Centre",
+      "url": "https://beingpeace.uk/program"
+    },
+    {
+      "title": "Our Team | Being Peace Practice Centre",
+      "url": "https://beingpeace.uk/our-team"
+    },
+    {
+      "title": "The Being Peace Practice Centre — The Mindfulness Bell (Parallax Press)",
+      "url": "https://www.parallax.org/mindfulnessbell/article/the-being-peace-practice-centre/"
+    },
+    {
+      "title": "Abenhall — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abenhall"
+    },
+    {
+      "title": "Mitcheldean — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mitcheldean"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

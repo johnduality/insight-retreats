@@ -1,0 +1,92 @@
+{
+  "id": "thoukchen-ling",
+  "name": "Le Jardin de Grande Compassion",
+  "aka": [
+    "Thoukchen Ling",
+    "Thouktchen Ling"
+  ],
+  "website": "https://thouktchenling.net/",
+  "location": {
+    "address": "387 Route des Blancs, Chantaussel, 05500 Saint-Julien-en-Champsaur",
+    "city": "Saint-Julien-en-Champsaur",
+    "county": "Hautes-Alpes",
+    "region": "Hautes-Alpes, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 44.67217,
+    "lng": 6.14023
+  },
+  "tradition": "Tibetan Buddhist, Karma Kagyu lineage, centred on Mahamudra (Grand Sceau) practice",
+  "technique": "Mahamudra (Grand Sceau) meditation on the nature of mind, Lojong mind-training, walking meditation in nature, and (for the initiated) Vajrayana deity practice",
+  "influences": [
+    "Lama Guendune Rinpoche",
+    "16th Karmapa Rangjung Rigpe Dorje",
+    "Karma Kagyu lineage (Tilopa, Naropa, Marpa, Milarepa)",
+    "Lama Tsultrim Gyamtso (resident teacher)"
+  ],
+  "teacherAccess": "Daily teaching and Q&A sessions (morning and evening) with the visiting Lama leading the retreat; resident teacher Lama Tsultrim Gyamtso leads most retreats and all guided individual retreats",
+  "retreatOptions": "Weeklong (7-8 night) group retreats run through most of the year; a few shorter 3-4 night retreats; a month-long guided individual retreat each November; retreats can also be joined remotely by videoconference",
+  "about": "Le Jardin de Grande Compassion, also known by its Tibetan name Thouktchen Ling, is a small Tibetan Buddhist hermitage in the Champsaur valley of the Hautes-Alpes, at about 1,325 meters in the hamlet of Chantaussel near Saint-Julien-en-Champsaur, on the southern edge of the Écrins massif. It belongs to the Karma Kagyu lineage and traces its spiritual inspiration to Lama Guendune Rinpoche and the 16th Karmapa, with resident teacher Lama Tsultrim Gyamtso leading most of its programme alongside a rotating roster of visiting Lamas and a Khenpo. Its core teaching is Mahamudra (the 'Great Seal'), a direct approach to recognizing the nature of mind, complemented by Lojong mind-training and, for those who have received the relevant empowerments, Vajrayana deity practice. Retreats run nearly year-round, mostly as weeklong group sessions plus a month-long guided individual retreat in November, and can also be followed by videoconference. The hermitage operates entirely on dana (donation) and a family-style rhythm: simple shared rooms, strictly vegetarian organic meals prepared communally, and several hours of daily silent work such as cooking, gardening, and building projects woven into the practice as 'meditation in action.'",
+  "schedule": "Daily rhythm of communal sitting meditation (7-8am), teaching and Q&A (9:30-11am and again in the evening), and roughly 3.5 hours of silent 'meditation in action' work each afternoon (cooking, gardening, manual work), with a final group cleaning session on departure day",
+  "cost": "Entirely dana-based: lodging and meals are offered without charge and retreatants are invited to donate consciously according to their means; a suggested donation reflecting the retreat's running costs may be communicated at registration",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Strictly donation-based with no published fixed fee; the site states retreats (lodging, meals) 'ne sont pas payantes' and that a suggested-donation figure covering running costs may be shared during registration, but no amount is published online. Teachings from resident Lama Tsultrim Gyamtso are given freely (voluntary offering); other visiting teachers require an additional dana contribution.",
+    "source": "https://thouktchenling.net/infos-pratiques/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Communal, strictly vegetarian meals made mostly from organic ingredients; retreatants take turns on food-prep and dish duty as part of daily work. The kitchen is closed outside meal-prep times, though a self-serve tea/tisane area stays open; guests with special diets are asked to bring their own supplements.",
+  "workRequired": "yes",
+  "workNotes": "Around 3.5 hours of daily silent 'meditation in action' work (cooking, dishes, cleaning, organic vegetable gardening, manual and building projects) plus vegetable prep before meals and a full cleaning of the temple, rooms, and common areas on departure day; the hermitage runs on a family-style basis.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Le Jardin de Grande Compassion - home page",
+      "url": "https://thouktchenling.net/"
+    },
+    {
+      "title": "Un Lieu selon la Voie (about the hermitage and lineage)",
+      "url": "https://thouktchenling.net/l-ermitage/"
+    },
+    {
+      "title": "Qu'est-ce qu'une Retraite? (retreat structure and daily schedule)",
+      "url": "https://thouktchenling.net/presentation-des-retraites/"
+    },
+    {
+      "title": "Approches et Pratiques (teaching approaches)",
+      "url": "https://thouktchenling.net/approches-et-pratiques/"
+    },
+    {
+      "title": "Infos pratiques (accommodation, food, donations, access)",
+      "url": "https://thouktchenling.net/infos-pratiques/"
+    },
+    {
+      "title": "Inscription (registration form, program dates, dana policy)",
+      "url": "https://thouktchenling.net/inscription/"
+    },
+    {
+      "title": "Enseignants (teacher roster)",
+      "url": "https://thouktchenling.net/enseignants/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

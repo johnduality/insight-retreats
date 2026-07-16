@@ -1,0 +1,95 @@
+{
+  "id": "tharpaland-kadampa",
+  "name": "Tharpaland Kadampa Meditation Centre",
+  "aka": [
+    "Tharpaland KMC",
+    "Tharpaland Kadampa Meditationszentrum",
+    "Tharpaland International Retreat Centre",
+    "Schloss Sommerswalde"
+  ],
+  "website": "https://tharpaland.org/",
+  "location": {
+    "address": "Schloss Sommerswalde, Sommerswalde 8, 16727 Oberkrämer OT Schwante",
+    "city": "Sommerswalde (Oberkrämer)",
+    "region": "Brandenburg, Germany",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 52.7489,
+    "lng": 13.1078
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU): Modern Kadampa Buddhism in the Gelug-derived Ganden Oral Lineage",
+  "technique": "Guided Lamrim (stages of the path) meditation and teaching, Lojong mind-training, and Tantric practice retreats, plus self-guided solitary retreat practice in private en-suite apartments",
+  "influences": [
+    "Venerable Geshe Kelsang Gyatso Rinpoche (founder)",
+    "Je Tsongkhapa / Ganden Oral Lineage",
+    "Atisha's Kadam lineage",
+    "Gen Kelsang Ananda (Resident Teacher and NKT National Spiritual Director for Germany, Slovenia, Romania and the Czech Republic)"
+  ],
+  "teacherAccess": "Resident Teacher Gen Kelsang Ananda leads regular courses, weekend getaways and in-depth retreats, with visiting NKT teachers from around the world brought in for special English- and German-language retreats and festivals",
+  "retreatOptions": "Day courses and 'Meaningful Sundays', German-language weekend getaways, week-long spring/summer/autumn retreats, a month-long Winter Retreat each January, in-depth retreats on the four preliminary practices, a Buddha Amitayus weekend and Nyungnä purification retreat, plus self-guided solitary retreats from one week up to a year or more; working-visitor stays are also bookable",
+  "about": "Tharpaland Kadampa Meditation Centre occupies Schloss Sommerswalde, a large early-20th-century mansion set in lakeside woodland near the village of Schwante in Oberkrämer, Brandenburg, about 30km north of Berlin. It carries the name of Tharpaland, the New Kadampa Tradition's first International Retreat Centre, which Geshe Kelsang Gyatso founded in 1985 on a remote farm in Dumfriesshire, Scotland, and where he later completed a three-year solitary retreat and wrote several core Kadampa texts; the NKT purchased and renovated Schloss Sommerswalde in 2012, relocating the Tharpaland community from Scotland to Germany, and converted it from a retreat-only centre into a full Kadampa Meditation Centre in 2019 to be more accessible to Berlin. It is now led by Resident Teacher Gen Kelsang Ananda and runs a year-round programme of weekend getaways, week-long seasonal retreats, a month-long Winter Retreat, in-depth practice retreats, and solitary retreats of a week to a year or more in private en-suite apartments. Visitors can also join a working-visitor programme, trading around 30 hours of weekly service for free dormitory accommodation and vegetarian meals. The estate holds more than 55 guest rooms across the main house and outbuildings, plus a public café open on weekends.",
+  "schedule": "Group retreats combine teachings, guided meditation and contemplation sessions over a weekend, week or month; solitary retreaters follow their own self-directed daily practice with written correspondence access to the resident teacher; working visitors additionally follow a shared work schedule of about 30 hours over five days alongside the community's practice programme",
+  "cost": "Group retreats and courses are priced as flat packages combining course fee, room type and full board (dormitory through single/apartment tiers); solitary retreats are priced per night on a sliding scale that decreases the longer the stay; a working-visitor track trades service hours for free dormitory accommodation and meals",
+  "pricePerDay": {
+    "min": 85,
+    "max": 115,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Based on the 6-night Winter Retreat (15-21 Jan) package of course fee + full board + accommodation: double room €510/person (~€85/night) up to a private apartment with bath and kitchenette €690 (~€115/night); a single room runs €600 (~€100/night) in between. Solitary retreats price separately and start lower (€40/night for up to 7 nights, sliding down to €22/night for stays over a year).",
+    "source": "https://tharpaland.org/kurse-retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All retreat, solitary-retreat and working-visitor meals are vegetarian/vegan, with wheat-free options available on request; full board (three meals a day) is bundled into retreat, solitary-retreat and volunteer accommodation packages.",
+  "workRequired": "partial",
+  "workNotes": "Not required for ordinary course, retreat or solitary-retreat guests, but the working-visitor programme asks for about 30 hours of service a week over five days in exchange for free dormitory accommodation and three vegetarian meals a day.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "long-retreats",
+    "self-guided",
+    "online-hybrid",
+    "diet-vegetarian",
+    "sliding-scale",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Tharpaland Kadampa Meditationszentrum - home page",
+      "url": "https://tharpaland.org/"
+    },
+    {
+      "title": "Kurse & Retreats (courses & retreats, pricing)",
+      "url": "https://tharpaland.org/kurse-retreats/"
+    },
+    {
+      "title": "Solitary Retreat (pricing and terms)",
+      "url": "https://www.tharpaland.org/en/solitary-retreat/"
+    },
+    {
+      "title": "Get involved (working-visitor / volunteering programme)",
+      "url": "https://tharpaland.org/get-involved/"
+    },
+    {
+      "title": "Tharpaland Kadampa: A Buddhist retreat for stressed-out Berliners (grounds, history, pricing)",
+      "url": "https://www.exberliner.com/berlin/short-escapes-tharpaland-kadampa-buddhist-retreat-brandenburg/"
+    },
+    {
+      "title": "Venerable Geshe Kelsang Gyatso Rinpoche: a brief biography (Tharpaland Scotland founding, three-year retreat)",
+      "url": "https://kadampalife.org/venerable-geshe-kelsang-gyatso-rinpoche/"
+    },
+    {
+      "title": "Schloss Sommerswalde - Wikidata (location/coordinates)",
+      "url": "https://www.wikidata.org/wiki/Q2243543"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

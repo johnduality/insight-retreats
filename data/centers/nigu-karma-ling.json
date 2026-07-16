@@ -1,0 +1,100 @@
+{
+  "id": "nigu-karma-ling",
+  "name": "Nigu Karma Ling",
+  "aka": [
+    "Karma Ling",
+    "Institut Karma Ling",
+    "Shangpa Karma Ling",
+    "Shangpa Karma Ling Institute",
+    "Institut Shangpa Karma Ling",
+    "Chartreuse de Saint-Hugon"
+  ],
+  "website": "https://www.shangpakarmaling.org/",
+  "location": {
+    "address": "Domaine d'Avallon, Hameau de Saint-Hugon, 73110 Arvillard",
+    "city": "Arvillard",
+    "county": "Savoie",
+    "region": "Savoie, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 45.4197,
+    "lng": 6.1438
+  },
+  "tradition": "Shangpa Kagyü lineage of Tibetan Vajrayana Buddhism, within the non-sectarian Rimé movement",
+  "technique": "Shiné-Lhagthong (calm-abiding and insight) meditation, Mahāmudrā and Dzogchen instruction, Chenrézi sadhana and other Vajrayana ritual practice, Vajra Dances, and Nangpé Yoga (inner yoga)",
+  "influences": [
+    "Denys Rinpoché (Lama Denys)",
+    "Kalu Rinpoché",
+    "Niguma",
+    "Sukhasiddhi",
+    "Kyungpo Neljor (founder of the Shangpa lineage)",
+    "Jamgön Kongtrul and the Rimé movement",
+    "14th Dalai Lama (taught here in 1993 and 1997)"
+  ],
+  "teacherAccess": "Meditation interviews and personalized follow-up throughout guided individual retreats with a Lama or qualified instructor; weekly guided practice/Q&A session with Denys Rinpoché in person and via Zoom; each retreat house is supervised by a resident Lama or instructor",
+  "retreatOptions": "Guided individual retreats (3 days to several months) with personal follow-up; unsupervised personal/rest retreats; group retreats (weekend to about a week) on themes such as open-presence meditation, Chenrézi sadhana, Vajra Dances, and Nangpé Yoga; a continuous drop-in silent retreat (Gyünthün); the traditional multi-year Losum Chosum (L3C3) retreat for advanced practitioners, in modular or residential form; many sessions also followed online via Zoom",
+  "about": "Nigu Karma Ling — long known as the Shangpa Karma Ling Institute (Institut Karma Ling) — is a Tibetan Buddhist study and retreat center occupying the former 12th-century Saint-Hugon Charterhouse, in a forested Alpine valley near Arvillard in Savoie, France. Bought by a Grenoble Buddhist association in 1980 and offered to the Kagyü master Kalu Rinpoché, it has been led since 1979 by his close disciple Denys Rinpoché (Lama Denys), who holds the Shangpa Kagyü lineage, one of the eight major schools of Tibetan Buddhism, rooted in teachings from the 10th-century yogini Niguma. Renamed Nigu Karma Ling in 2026 in her honor and now affiliated with the Fondation Shangpa Rimé Internationale, the center sits on a 60-hectare eco-site (Domaine d'Avallon), hosted the 14th Dalai Lama in 1993 and 1997, and was rebuilt and reorganized as a cooperative after a serious 2017 fire. Programming ranges from guided and unsupervised individual retreats of days to months to themed group retreats and the traditional multi-year Losum Chosum retreat for advanced practitioners, with many teachings also streamed online. Guests stay in simple retreat rooms or shared studios, eat strictly vegetarian meals taken in silence, and are asked to contribute a couple of hours a day of 'karma yoga' (meditative work) toward the upkeep of the site.",
+  "schedule": "Daily shiné meditation 7:00-7:30am and Chenrézi sadhana practice 7:00-7:30pm for residents; group retreats add teaching and guided sitting sessions; a weekly Friday practice and Q&A session with Denys Rinpoché is open in person and online; individual retreatants set their own daily program, with meditation interviews available, plus roughly 1-2 hours of daily karma yoga (work)",
+  "cost": "Accommodation and meals are priced near cost via published nightly tariffs (rooms €35-90, plus an optional €12/day half-board or €25/day full-board meal plan); the teaching/retreat guidance itself runs on 'participation consciente' (a conscious, responsible donation), with indicative cost-recovery figures of €25-55 per day depending on retreat type; a paid membership (adhésion, from €2.50/day to annual tiers) is also required to take part",
+  "pricePerDay": {
+    "min": 47,
+    "max": 75,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Derived by combining the published room and meal tariffs for a standard individual retreat: basic tier = single retreat cell €35/night (breakfast included) + half-board €12/day = €47; upper tier = private Dewatchen studio €50/night (breakfast included) + full-board €25/day = €75. This excludes the separate 'participation consciente' donation for the teaching itself (indicative €25-55/day) and the required adhésion (membership) fee.",
+    "source": "https://www.shangpakarmaling.org/sejours-reservations/"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals on site are strictly vegetarian and eaten in silence; guests choose between full self-catering (bring/buy own food), a paid half-board (€12/day) or full-board (€25/day) meal plan prepared on site, or a supported grocery-run option in summer for those without a car.",
+  "workRequired": "yes",
+  "workNotes": "Retreatants are asked for roughly 1-2 hours a day of 'karma yoga' (meditative work such as site and garden upkeep) as part of the retreat's collective life; separate short- and medium-term volunteer (bénévolat) stays are also welcomed.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Nigu Karma Ling - home page",
+      "url": "https://www.shangpakarmaling.org/"
+    },
+    {
+      "title": "Le Domaine d'Avallon (site, history, eco-site)",
+      "url": "https://www.shangpakarmaling.org/domaine-avallon/"
+    },
+    {
+      "title": "Héritage spirituel (Shangpa Kagyü lineage, Denys Rinpoché)",
+      "url": "https://www.shangpakarmaling.org/heritage-spirituel/"
+    },
+    {
+      "title": "Programmes (retreat and study offerings)",
+      "url": "https://www.shangpakarmaling.org/programme/"
+    },
+    {
+      "title": "Séjours & Réservations (accommodation, tariffs, meals, karma yoga)",
+      "url": "https://www.shangpakarmaling.org/sejours-reservations/"
+    },
+    {
+      "title": "Contact & accès (address and phone)",
+      "url": "https://www.shangpakarmaling.org/contact-acces/"
+    },
+    {
+      "title": "Chartreuse de Saint-Hugon - Wikipédia (history, fire, coordinates context)",
+      "url": "https://fr.wikipedia.org/wiki/Chartreuse_de_Saint-Hugon"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

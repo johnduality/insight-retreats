@@ -1,0 +1,112 @@
+{
+  "id": "dag-shang-kagyu",
+  "name": "Dag Shang Kagyu",
+  "aka": [
+    "DSK",
+    "Centro Budista Dag Shang Kagyu",
+    "Templo Budista de Panillo"
+  ],
+  "website": "https://dskpanillo.org/",
+  "location": {
+    "address": "22438 Panillo, Huesca",
+    "city": "Panillo",
+    "county": "Huesca",
+    "region": "Aragón, Spain",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 42.23694,
+    "lng": 0.30056
+  },
+  "tradition": "Tibetan Vajrayana Buddhism: Shangpa Kagyü and Dagpo Kagyü lineages, within a non-sectarian (Rimé) approach",
+  "technique": "Twice-daily Vajrayana pujas (chanting, visualization, ritual practice); Samatha-Vipassana meditation; Mahamudra; the Six Yogas of Naropa/Niguma; deity practices such as Chenrezig and Amitabha",
+  "influences": [
+    "Kyabje Kalu Rinpoché (founder, 1905-1989)",
+    "Jamgön Kongtrül Lodrö Thaye",
+    "Khyungpo Neldjor (founder of the Shangpa Kagyü lineage)",
+    "Marpa, Milarepa and Gampopa (Dagpo Kagyü lineage)",
+    "17th Karmapa and Tai Situ Rinpoché",
+    "Lama Drubgyu Tenpa (current Spiritual Director)",
+    "Yangsi Kalu Rinpoché (current reincarnation, under whose guidance the community operates)"
+  ],
+  "teacherAccess": "Resident lamas lead the twice-daily open pujas and are available at the center; visiting lamas and Rinpochés teach scheduled weekend-to-multi-day courses (in person and via Zoom); veteran practitioners doing formal retreats arrange individual guidance directly with resident lamas",
+  "retreatOptions": "Free daily open pujas and sitting practice; weekend and multi-day teaching courses with visiting teachers (in-person or online); a structured annual retreat program of two 10-night Vipassana retreats, one 5-night Vipassana retreat, a 10-night special Vajrayana preliminaries retreat, and Lojong, Chenrezig and Amitabha-Poua retreats; self-arranged individual retreats of any length in private retreat cabins, up to the traditional 3-year, 3-month, 3-day retreat in the gender-separated retreat land (Naro Ling for men, Nigu Ling for women); a minimum 3-month resident/karma-yoga program",
+  "about": "Dag Shang Kagyu (DSK) is a Tibetan Buddhist temple and retreat center in the pre-Pyrenees of Huesca, Aragón, about 2 km from the small village of Panillo. It was founded in 1984 by Kyabje Kalu Rinpoché, a renowned meditation master who transmitted the Shangpa Kagyü and Dagpo Kagyü lineages, and it now operates under the spiritual direction of Lama Drubgyu Tenpa and the guidance of the young reincarnation of Kalu Rinpoché. The center combines a temple, stupas, and over a hundred prayer wheels open to day visitors with a dedicated retreat area offering private cabins and long-term retreat houses for individual and group practice, including the traditional three-year retreat. Its year-round program mixes twice-daily open pujas, weekend and multi-day teaching courses led by resident and visiting lamas (offered both in person and online), and a structured annual cycle of Vipassana, Lojong, Chenrezig and Amitabha retreats. DSK also runs a residency program in which long-term volunteers exchange daily work (karma yoga) for room, board and access to the practice community.",
+  "schedule": "Two open pujas daily (around 7:30am and 7-8pm), six days a week (Wednesday is a rest day with no puja); teaching courses typically run Friday evening through Sunday afternoon; set meal times are 8:30-9:30 breakfast, 13:30-14:30 lunch, and 20:30-21:30 dinner",
+  "cost": "Teaching courses are priced per event, roughly 90-92€ in person or 80-82€ online for a weekend in 2026 (varies by teacher and length); accommodation and meals are billed separately from the 2026 published price list: dorm bed 12.30€/night, shared room 25.30€/person/night, individual room 30.30€/night, and retreat cabins 30.30-40.30€/night (40% discount for retreats of a month or more); discounts apply for members, local residents, students, the unemployed, and children aged 4-14 (50% off)",
+  "pricePerDay": {
+    "min": 57,
+    "max": 62,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Derived from the 2026 'Aportaciones' price list for the standard (non-dorm, non-cabin) room tiers plus full board: shared room 25.30€ + meals (breakfast 7€, lunch 14€, dinner 11€ = 32€) = 57.30€/night; individual room 30.30€ + 32€ meals = 62.30€/night. Excludes the cheaper dorm bed (12.30€/night) and the pricier individual retreat cabins (up to 40.30€/night); course/teaching fees (e.g. 90€ in-person for a weekend) are charged separately from lodging and food.",
+    "source": "https://dskpanillo.org/page/https-dskpanillo-org-page-aportaciones"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Full board (breakfast, lunch and dinner) is available on-site for a separate charge (7€/14€/11€); the center also runs a public cafeteria serving 'typical Eastern flavors' to day visitors, but the published pages do not specify whether retreat meals are vegetarian.",
+  "workRequired": "partial",
+  "workNotes": "Day visitors and course/retreat participants have no work obligation; the residency (karma yoga) program requires a minimum 3-month stay with about 5 hours of daily service (temple, kitchen, garden, secretariat, tech and visitor support) plus a 250€/month contribution for the first six months.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Dag Shang Kagyu - home page",
+      "url": "https://dskpanillo.org/"
+    },
+    {
+      "title": "Historia (History and lineage)",
+      "url": "https://dskpanillo.org/page/historia"
+    },
+    {
+      "title": "Reservar estancia (Booking a stay)",
+      "url": "https://dskpanillo.org/page/https-www-dskpanillo-org-page-reservar"
+    },
+    {
+      "title": "Ser residente (Becoming a resident)",
+      "url": "https://dskpanillo.org/page/https-dskpanillo-org-page-residente"
+    },
+    {
+      "title": "Actividades diarias (Daily activities / pujas schedule)",
+      "url": "https://www.dskpanillo.org/page/pudjas"
+    },
+    {
+      "title": "Aportaciones 2026 (Price list: lodging, meals, teachings)",
+      "url": "https://dskpanillo.org/page/https-dskpanillo-org-page-aportaciones"
+    },
+    {
+      "title": "Cómo llegar (Directions)",
+      "url": "https://www.dskpanillo.org/page/https-dskpanillo-org-page-comollegar"
+    },
+    {
+      "title": "Retiros de meditación en silencio (Silent meditation retreat program)",
+      "url": "https://dskpanillo.org/page/https-dskpanillo-org-eventretiros"
+    },
+    {
+      "title": "Visitar (Guided visits and site info)",
+      "url": "https://dskpanillo.org/page/visitar"
+    },
+    {
+      "title": "Example course registration page: Las 7 causas para sanar la mente",
+      "url": "https://dskpanillo.org/event/las-7-causas-para-sanar-la-mente-con-karma-tenpa-2026-07-10-2026-07-12-738/register"
+    },
+    {
+      "title": "Wikipedia: Panillo (coordinates)",
+      "url": "https://en.wikipedia.org/wiki/Panillo"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

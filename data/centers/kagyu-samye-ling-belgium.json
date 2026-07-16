@@ -1,0 +1,80 @@
+{
+  "id": "kagyu-samye-ling-belgium",
+  "name": "Kagyu Samye Ling Belgium",
+  "aka": [
+    "Les Jardins de Méditation de Samyé",
+    "Jardins de Méditation de Samyé - Kagyu Samye Ling Belgium asbl (KSLB)",
+    "Kagyu Samye Ling Beaumont"
+  ],
+  "website": "https://www.kagyusamyeling.be/",
+  "location": {
+    "address": "Rue Fond des Gouttes 1, Leugnies, 6500 Beaumont, Belgium",
+    "city": "Leugnies",
+    "county": "Beaumont",
+    "region": "Hainaut, Belgium",
+    "country": "Belgium",
+    "state": "BE",
+    "lat": 50.2167,
+    "lng": 4.1833
+  },
+  "tradition": "Tibetan Buddhism: Karma Kagyu lineage (Vajrayana); the Belgian affiliate centre of Kagyu Samye Ling Monastery in Eskdalemuir, Scotland (a separate, larger monastery listed elsewhere in this catalogue)",
+  "technique": "Shiné (calm-abiding) sitting and walking meditation, Chenrezig compassion ritual, Green Tara practice, mindfulness, and the Tara Rokpa 'Taming the Tiger' therapeutic method developed by Akong Rinpoche",
+  "influences": [
+    "Chuje Akong Tulku Rinpoche (co-founder of the wider Samye Ling network and originator of Tara Rokpa therapy)",
+    "Lama Yeshe Losal Rinpoche (Abbot of Kagyu Samye Ling, Scotland)",
+    "Lama Rinchen Palmo (resident teacher at the Belgian centre)",
+    "17th Gyalwang Karmapa, Ogyen Trinley Dorje",
+    "12th Chamgön Kenting Tai Situpa"
+  ],
+  "teacherAccess": "Resident French teacher Lama Rinchen Palmo leads most on-site meditation and study retreats; visiting Rinpoches from India and Nepal give periodic teachings, and certified guest facilitators lead the yoga, mindfulness and Tara Rokpa therapeutic programs",
+  "retreatOptions": "Weekly open meditation evenings (in person and by Zoom); weekend workshops (yoga, mindfulness, 'Taming the Tiger'); multi-day group retreats of roughly 3-6 nights (e.g. the annual Green Tara retreat, a summer silent meditation retreat, teen and family camps); self-guided individual retreat stays at the centre or at the affiliated Karma Yoga site, Kagyu Samye Dzong Nidrüm",
+  "about": "Kagyu Samye Ling Belgium, known as 'Les Jardins de Méditation de Samyé,' is a Tibetan Buddhist meditation and retreat centre on a 4-hectare riverside domain in Leugnies, a hamlet of Beaumont near the French border in Belgium's Hainaut province, about 1.5 hours from Brussels. It is a Belgian affiliate of Kagyu Samye Ling Monastery in Eskdalemuir, Scotland, and follows the Karma Kagyu lineage under the day-to-day guidance of resident teacher Lama Rinchen Palmo, with periodic visits from Rinpoches from India and Nepal. The year-round program includes meditation and study retreats, Iyengar yoga and pranayama retreats, mindfulness retreats, and the 'Taming the Tiger' therapeutic retreats built on Akong Rinpoche's Tara Rokpa method, alongside family and teen camps and a permaculture garden project. Weekly public sessions of Shiné calming meditation and a Chenrezig compassion ritual are held on-site and by Zoom. Guests can join a scheduled group retreat or book a self-guided individual retreat, with accommodation ranging from camping and dormitory beds to private rooms and an eco-pavilion.",
+  "schedule": "Weekly public sessions: Tuesday evening Shiné meditation with walking meditation (19:30-20:45) and Friday evening Shiné meditation (19:30-20:15) followed by a Chenrezig compassion ritual (20:30-21:30); scheduled multi-day retreats, workshops and camps run on their own timetables throughout the year, with several also offered via Zoom.",
+  "cost": "Teachings and guided meditation sessions from Lama Rinchen Palmo and visiting Rinpoches are offered free or by donation; guests pay separately, on arrival, for accommodation and meals together, in tiers from camping and shared dormitory up to private rooms and an eco-pavilion, with a discounted rate for centre members.",
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Meals are billed together with accommodation as a combined per-stay tariff paid on arrival; the centre also recruits kitchen volunteers, implying meals are prepared and served on-site rather than self-catered, but the published pages reviewed do not state the dietary style.",
+  "workRequired": "no",
+  "workNotes": "Retreat and course guests are not required to work as part of their stay. A separate volunteer pathway exists for those wishing to help in the kitchen or with house/garden upkeep, arranged independently of a standard retreat booking.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "silent",
+    "family-friendly",
+    "online-hybrid",
+    "self-guided",
+    "camping",
+    "dana-donation",
+    "fixed-fee",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Kagyu Samye Ling Belgium - home page (Les Jardins de Méditation de Samyé)",
+      "url": "https://www.kagyusamyeling.be/"
+    },
+    {
+      "title": "Nos tarifs - Notre IBAN / Our rates - our IBAN",
+      "url": "https://www.kagyusamyeling.be/index.php/fr/mediter-2/nos-tarifs-notre-iban"
+    },
+    {
+      "title": "Participer à une retraite collective (upcoming group retreats)",
+      "url": "https://www.kagyusamyeling.be/index.php/fr/mediter-2/participer-a-une-retraite-collective"
+    },
+    {
+      "title": "Retraite de Tara Verte - du 16 au 21 août 2026 - guidée par Lama Rinchen Palmo",
+      "url": "https://www.kagyusamyeling.be/index.php/fr/mediter-2/participer-a-une-retraite-collective/409-retraite-de-tara-verte-aout-2026"
+    },
+    {
+      "title": "Les Maîtres (lineage teachers)",
+      "url": "https://www.kagyusamyeling.be/index.php/fr/decouvrir/l-equipe-2/les-maitres"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

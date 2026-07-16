@@ -5,7 +5,7 @@ const state = {
   centers: [],
   tags: null,
   tagIndex: new Map(), // tagId -> { label, color }
-  filters: { search: "", stateCode: "", tags: new Set(), exclude: new Set(), price: {} },
+  filters: { search: "", region: "", stateCode: "", tags: new Set(), exclude: new Set(), priceMin: null, priceMax: null },
   view: "map",
   map: null,
   markers: null,
@@ -20,6 +20,33 @@ const el = (tag, props = {}, ...kids) => {
 
 // Full names for the state codes used in entries (extend as the catalogue grows).
 const STATE_NAMES = { CA: "California", OR: "Oregon", WA: "Washington", NY: "New York", MA: "Massachusetts", CO: "Colorado", TX: "Texas", IL: "Illinois", NM: "New Mexico", NC: "North Carolina", FL: "Florida", GA: "Georgia", VA: "Virginia", PA: "Pennsylvania", WI: "Wisconsin", MS: "Mississippi", AZ: "Arizona", MD: "Maryland", MI: "Michigan", VT: "Vermont", HI: "Hawaii", MT: "Montana", MN: "Minnesota", TN: "Tennessee", ME: "Maine", NJ: "New Jersey", CT: "Connecticut", WV: "West Virginia", KY: "Kentucky", NH: "New Hampshire", IA: "Iowa", MO: "Missouri", IN: "Indiana", ID: "Idaho", RI: "Rhode Island", DE: "Delaware", KS: "Kansas", NE: "Nebraska", AR: "Arkansas", LA: "Louisiana", SC: "South Carolina" };
+
+// ---------- Regions ----------
+// Preferred display order for the region selector; anything else falls to the end.
+const REGION_ORDER = ["United States", "Canada", "Europe", "Latin America", "Oceania"];
+const EUROPE = new Set(["United Kingdom", "Germany", "France", "Spain", "Italy", "Netherlands", "Switzerland", "Ireland", "Austria", "Belgium", "Portugal", "Poland", "Sweden", "Denmark", "Norway", "Finland", "Czech Republic", "Greece", "Hungary", "Romania", "Slovenia", "Croatia", "Bulgaria", "Iceland"]);
+const LATIN_AMERICA = new Set(["Mexico", "Guatemala", "Costa Rica", "Panama", "Colombia", "Ecuador", "Peru", "Chile", "Argentina", "Brazil", "Uruguay"]);
+const OCEANIA = new Set(["Australia", "New Zealand"]);
+// Which top-level region a center belongs to. US entries carry no `country`.
+function regionOf(c) {
+  const country = c.location.country;
+  if (!country || country === "United States" || country === "USA") return "United States";
+  if (country === "Canada") return "Canada";
+  if (EUROPE.has(country)) return "Europe";
+  if (LATIN_AMERICA.has(country)) return "Latin America";
+  if (OCEANIA.has(country)) return "Oceania";
+  return country; // fallback: its own bucket until it's slotted above
+}
+// Currency symbol for a pricePerDay.currency code (defaults to the code itself,
+// e.g. "CHF 80", rather than silently mislabeling an unmapped currency as "$").
+function currencySymbol(cur) {
+  const map = {
+    USD: "$", CAD: "$", AUD: "$", EUR: "€", GBP: "£", CHF: "CHF ",
+    ISK: "kr ", SEK: "kr ", DKK: "kr ", NOK: "kr ", CZK: "Kč ", PLN: "zł ",
+    HUF: "Ft ", RON: "lei ", BGN: "лв ",
+  };
+  return map[cur] || (cur ? cur + " " : "$");
+}
 
 // ---------- Boot ----------
 init();
@@ -39,6 +66,7 @@ async function init() {
   state.tags = tags;
   for (const g of tags.groups) for (const t of g.tags) state.tagIndex.set(t.id, { ...t, color: g.color });
 
+  buildRegionFilter();
   buildStateFilter();
   buildTagFilters();
   wireControls();
@@ -48,40 +76,48 @@ async function init() {
 }
 
 // ---------- Controls ----------
+// Region selector: only regions that actually have centers, in preferred order.
+function buildRegionFilter() {
+  const sel = $("#regionFilter");
+  if (!sel) return;
+  const present = [...new Set(state.centers.map(regionOf))];
+  present.sort((a, b) => {
+    const ia = REGION_ORDER.indexOf(a), ib = REGION_ORDER.indexOf(b);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b);
+  });
+  sel.innerHTML = "";
+  sel.append(el("option", { value: "", textContent: "All regions" }));
+  for (const r of present) sel.append(el("option", { value: r, textContent: r }));
+}
+
+// Place selector, scoped to the chosen region. US centers list by state; others by
+// country. Option values match either location.state or location.country.
 function buildStateFilter() {
   const sel = $("#stateFilter");
-  const codes = [...new Set(state.centers.map((c) => c.location.state).filter(Boolean))].sort();
-  for (const code of codes) sel.append(el("option", { value: code, textContent: STATE_NAMES[code] || code }));
+  const region = state.filters.region;
+  const places = new Map(); // value -> label
+  for (const c of state.centers) {
+    if (region && regionOf(c) !== region) continue;
+    if (regionOf(c) === "United States") {
+      const code = c.location.state;
+      if (code) places.set(code, STATE_NAMES[code] || code);
+    } else if (c.location.country) {
+      places.set(c.location.country, c.location.country);
+    }
+  }
+  const sorted = [...places.entries()].sort((a, b) => a[1].localeCompare(b[1]));
+  const allLabel = region === "United States" ? "All states" : region ? "All countries" : "All subregions";
+  sel.innerHTML = "";
+  sel.append(el("option", { value: "", textContent: allLabel }));
+  for (const [value, label] of sorted) sel.append(el("option", { value, textContent: label }));
 }
+
+// Label for a selected place value (state code or country name).
+function placeLabel(v) { return STATE_NAMES[v] || v; }
 
 function buildTagFilters() {
   const box = $("#tagFilters");
   box.innerHTML = "";
-
-  // Price filter chips (not tags) that behave like tag chips: click to require
-  // "<= $N / night", double-click to exclude those (show pricier ones).
-  const makePriceChip = (limit) => {
-    const chip = el("button", { className: "chip chip-price", type: "button", textContent: `≤ $${limit} / night` });
-    chip.title = `Click to require $${limit}/night or less · double-click to exclude those`;
-    const sync = () => {
-      chip.classList.toggle("is-active", state.filters.price[limit] === "under");
-      chip.classList.toggle("is-excluded", state.filters.price[limit] === "exclude");
-    };
-    chip.addEventListener("click", () => {
-      state.filters.price[limit] = state.filters.price[limit] ? null : "under"; // under/exclude -> neutral; neutral -> under
-      sync();
-      renderCatalogue();
-    });
-    chip.addEventListener("dblclick", () => {
-      state.filters.price[limit] = "exclude";
-      sync();
-      renderCatalogue();
-    });
-    sync();
-    box.append(chip);
-  };
-  makePriceChip(50);
-  makePriceChip(100);
 
   // Only show tags that at least one center actually uses, to keep it tidy.
   const used = new Set(state.centers.flatMap((c) => c.tags || []));
@@ -120,8 +156,32 @@ function wireControls() {
     state.filters.search = e.target.value.toLowerCase().trim();
     renderCatalogue();
   });
+  $("#regionFilter")?.addEventListener("change", (e) => {
+    state.filters.region = e.target.value;
+    state.filters.stateCode = "";   // reset the place filter when region changes
+    buildStateFilter();             // repopulate places for the chosen region
+    renderCatalogue();
+  });
   $("#stateFilter").addEventListener("change", (e) => {
     state.filters.stateCode = e.target.value;
+    renderCatalogue();
+  });
+  const readPrice = (id) => {
+    const v = parseFloat($(id).value);
+    return Number.isFinite(v) && v >= 0 ? v : null;
+  };
+  const onPriceInput = () => {
+    state.filters.priceMin = readPrice("#priceMin");
+    state.filters.priceMax = readPrice("#priceMax");
+    renderCatalogue();
+  };
+  $("#priceMin").addEventListener("input", onPriceInput);
+  $("#priceMax").addEventListener("input", onPriceInput);
+  $("#priceClear").addEventListener("click", () => {
+    $("#priceMin").value = "";
+    $("#priceMax").value = "";
+    state.filters.priceMin = null;
+    state.filters.priceMax = null;
     renderCatalogue();
   });
   $("#tabList").addEventListener("click", () => setView("list"));
@@ -140,13 +200,11 @@ function setView(view) {
 
 // ---------- Filtering ----------
 function filtered() {
-  const { search, stateCode, tags, exclude } = state.filters;
+  const { search, region, stateCode, tags, exclude, priceMin, priceMax } = state.filters;
   return state.centers.filter((c) => {
-    if (stateCode && c.location.state !== stateCode) return false;
-    for (const [limit, mode] of Object.entries(state.filters.price)) {
-      if (mode === "under" && !priceLE(c, +limit)) return false;
-      if (mode === "exclude" && priceLE(c, +limit)) return false;
-    }
+    if (region && regionOf(c) !== region) return false;
+    if (stateCode && c.location.state !== stateCode && c.location.country !== stateCode) return false;
+    if ((priceMin != null || priceMax != null) && !priceInRange(c, priceMin, priceMax)) return false;
     if (tags.size && ![...tags].every((t) => (c.tags || []).includes(t))) return false;
     if (exclude.size && (c.tags || []).some((t) => exclude.has(t))) return false;
     if (search) {
@@ -162,16 +220,10 @@ function filtered() {
 // ---------- Catalogue render ----------
 function renderCatalogue() {
   const items = filtered();
-  const codes = [...new Set(state.centers.map((c) => c.location.state).filter(Boolean))];
   const scope = state.filters.stateCode
-    ? STATE_NAMES[state.filters.stateCode] || state.filters.stateCode
-    : codes.length === 1 ? STATE_NAMES[codes[0]] || codes[0] : "the U.S.";
+    ? placeLabel(state.filters.stateCode)
+    : state.filters.region || "all regions";
   $("#resultCount").textContent = `${items.length} center${items.length === 1 ? "" : "s"} in ${scope}`;
-  const supportedEl = $("#supportedStates");
-  if (supportedEl) {
-    const allCodes = [...Object.keys(STATE_NAMES), "NV", "OH", "UT", "SD", "ND", "AK", "WY", "OK", "AL", "DC"].sort();
-    supportedEl.textContent = `Supported states: ${allCodes.join(", ")}`;
-  }
   if (state.view === "list") renderCards(items);
   else renderMarkers(items);
 }
@@ -379,26 +431,33 @@ function formatDate(iso) { try { const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso)
 function cap(s = "") { return s.charAt(0).toUpperCase() + s.slice(1); }
 
 // ---------- cost helpers ----------
-// True when a center has a listed nightly price of `limit` or less (using its lower
-// bound). Donation-based and price-unknown centers do not qualify.
-function priceLE(c, limit) {
+// True when a center's listed nightly price overlaps the [min, max] range.
+// Currency-agnostic: the raw listed numbers are compared as-is, whatever the
+// currency. min/max may be null (open-ended). Donation-based and price-unknown
+// centers do not qualify while a bound is set.
+function priceInRange(c, min, max) {
   const p = c.pricePerDay;
   if (!p) return false;
   const lo = p.min != null ? p.min : (p.max != null ? p.max : null);
-  return lo != null && lo <= limit;
+  const hi = p.max != null ? p.max : (p.min != null ? p.min : null);
+  if (lo == null || hi == null) return false;
+  if (min != null && hi < min) return false;
+  if (max != null && lo > max) return false;
+  return true;
 }
 function cardPrice(p) {
   const wrap = el("p", { className: "card-price" });
-  const money = (n) => "$" + Math.round(n).toLocaleString();
+  const sym = currencySymbol(p && p.currency);
+  const money = (n) => sym + Math.round(n).toLocaleString();
   const unit = (p && p.unit) || "night";
-  let amount = "~$?", showUnit = true;
+  let amount = "Price unknown", showUnit = false;
   if (p && (p.min != null || p.max != null)) {
     let a = p.min != null && p.max != null
       ? (p.min === p.max ? money(p.min) : (p.min === 0 ? "Free" : money(p.min)) + "–" + money(p.max))
       : money(p.min != null ? p.min : p.max);
-    if (a.startsWith("$")) a = "~" + a;
+    if (a.startsWith(sym)) a = "~" + a;
     amount = a;
-    if (a === "Free") showUnit = false;
+    showUnit = a !== "Free";
   } else if (p && p.min == null && p.max == null) {
     amount = "Donation-based"; showUnit = false;
   }
@@ -407,14 +466,15 @@ function cardPrice(p) {
   return wrap;
 }
 function formatPricePerDay(p) {
-  if (!p) return "~$? / night";
+  if (!p) return "Price unknown";
+  const sym = currencySymbol(p.currency);
   const unit = p.unit || "night";
-  const money = (n) => "$" + Math.round(n).toLocaleString();
+  const money = (n) => sym + Math.round(n).toLocaleString();
   if (p.min == null && p.max == null) return "Donation-based";
   let amount;
   if (p.min != null && p.max != null) amount = p.min === p.max ? money(p.min) : (p.min === 0 ? "Free" : money(p.min)) + "–" + money(p.max);
   else amount = money(p.min != null ? p.min : p.max);
-  return (amount.startsWith("$") ? "~" : "") + amount + " / " + unit;
+  return (amount.startsWith(sym) ? "~" : "") + amount + " / " + unit;
 }
 function costCallout(c) {
   const box = el("div", { className: "cost-callout" });
@@ -425,13 +485,14 @@ function costCallout(c) {
   return box;
 }
 function pricePerDayParts(p) {
-  if (!p) return { amount: "~$?", unit: "per night" };
+  if (!p) return { amount: "Price unknown", unit: "" };
+  const sym = currencySymbol(p.currency);
   const unit = p.unit || "night";
-  const money = (n) => "$" + Math.round(n).toLocaleString();
+  const money = (n) => sym + Math.round(n).toLocaleString();
   if (p.min == null && p.max == null) return { amount: "Donation", unit: "by donation" };
   let amount;
   if (p.min != null && p.max != null) amount = p.min === p.max ? money(p.min) : (p.min === 0 ? "Free" : money(p.min)) + "–" + money(p.max);
   else amount = money(p.min != null ? p.min : p.max);
-  if (amount.startsWith("$")) amount = "~" + amount;
+  if (amount.startsWith(sym)) amount = "~" + amount;
   return { amount, unit: "per " + unit };
 }

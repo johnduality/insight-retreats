@@ -1,0 +1,105 @@
+{
+  "id": "kanshoji",
+  "name": "Kanshoji",
+  "aka": [
+    "Monastère Zen Kanshoji",
+    "Kanshoji Zen Monastery",
+    "Kansho-ji"
+  ],
+  "website": "https://www.kanshoji.org/",
+  "location": {
+    "address": "208 Chemin du Monastère, 24450 La Coquille",
+    "city": "La Coquille",
+    "region": "Dordogne, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 45.5433,
+    "lng": 0.9772
+  },
+  "tradition": "Soto Zen Buddhism (Deshimaru lineage)",
+  "technique": "Zazen (objectless seated meditation); chanted ceremony and ritual; samu (work practice) as an extension of meditation",
+  "influences": [
+    "Taisen Deshimaru",
+    "Dônin Minamisawa Zenji",
+    "Eihei Dôgen",
+    "Keizan Jôkin",
+    "Association Zen Internationale"
+  ],
+  "teacherAccess": "Daily teaching during zazen (kusen), morning meetings with the abbot (chosan), question-and-answer sessions (mondo), talks (teisho), and occasional private interviews (dokusan) with abbot Taiun Jean-Pierre Faure",
+  "retreatOptions": "2-6 night Discovery Retreats for beginners; monthly 2-3 night sesshin weekends; 5-10 night 'daily life' monastic retreats; multi-week summer retreats (mid-July to late August); a 3-month ango training retreat for monastics and long-term practitioners",
+  "about": "Kanshoji is a Soto Zen Buddhist monastery in the Périgord-Limousin regional nature park in the Dordogne, southwestern France, overlooking a lake and surrounded by forest. It was founded in 2002 by Taiun Jean-Pierre Faure, who was ordained by Taisen Deshimaru in 1981 and later received Dharma transmission from Dônin Minamisawa Zenji, a former abbot of the head Soto Zen temple Eiheiji in Japan. Resident monks and nuns train here year-round, alongside lay practitioners who come for anywhere from a few days to several months and share fully in the monastic routine of zazen, ceremony, and communal work (samu) in the monastery's kitchen and vegetable gardens. Newcomers are welcomed through beginner-oriented Discovery Retreats, while more experienced practitioners can join monthly weekend sesshin, longer 'daily life' retreats, and multi-week summer retreats; the community also trains monastics through a three-month ango retreat. Meals are largely vegetarian and organic, phones are set aside, and periods of silence are encouraged so that practice can extend into every activity of the day.",
+  "schedule": "Daily schedule runs 6am zazen, ceremony and breakfast, then dish-washing and food prep, a morning meeting with the abbot, samu (work practice) from 10am to 12:30pm and again from 2:45 to 5:30pm, dinner, and a final zazen period before bed around 9:15-9:30pm; retreatants follow this same monastic timetable as residents.",
+  "cost": "Flat per-stay fees with tiered room options (shared, double, or private room, plus an optional bed-linen fee); an annual Association Zen Kanshoji membership (15€ first year, 40€ thereafter) is required for any stay; income-based reductions are available on request and donations are welcomed from those who can give more.",
+  "pricePerDay": {
+    "min": 43,
+    "max": 69,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "3-night May 2026 weekend retreat (Fri 22 - Mon 25 May): shared room 128€ to private room 206€, i.e. roughly 43-69€/night (bed linen +4€ if needed); figure excludes the separate 15€ annual AZK membership required for all stays. By contrast, the 8-night July Discovery Retreat for first-timers uses a flat introductory rate of 315€, about 39€/night.",
+    "source": "https://www.kanshoji.org/kanshojievent/retraite-mai-2026/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are organic and largely vegetarian, grown substantially in the monastery's own vegetable gardens (the community describes itself as 'not rigid' about this rather than strictly vegetarian); meals are eaten in silence following the oryoki bowl ritual.",
+  "workRequired": "yes",
+  "workNotes": "Samu (work practice — cooking, dish-washing, gardening, cleaning) is scheduled twice daily for around 4-5 hours total for all residents and retreatants, treated as a direct continuation of zazen rather than an optional chore.",
+  "tags": [
+    "zen",
+    "silent",
+    "day-retreats",
+    "long-retreats",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Kanshoji - home page",
+      "url": "https://www.kanshoji.org/"
+    },
+    {
+      "title": "Kanshoji (about the monastery, lineage, daily schedule, retreats)",
+      "url": "https://www.kanshoji.org/kanshoji/"
+    },
+    {
+      "title": "Bouddhisme Zen Sôtô (tradition, zazen, samu, teaching forms)",
+      "url": "https://www.kanshoji.org/bouddhisme-zen-soto/"
+    },
+    {
+      "title": "Retraites spirituelles (retreat types and lengths)",
+      "url": "https://www.kanshoji.org/retraites-spirituelles/"
+    },
+    {
+      "title": "Calendrier (2026 retreat calendar)",
+      "url": "https://www.kanshoji.org/calendrier/"
+    },
+    {
+      "title": "Retraite de mai (pricing tiers by room type)",
+      "url": "https://www.kanshoji.org/kanshojievent/retraite-mai-2026/"
+    },
+    {
+      "title": "Retraite découverte 17 au 25 juillet (discovery retreat flat rate)",
+      "url": "https://www.kanshoji.org/kanshojievent/retraite-decouverte-17-juillet-2026/"
+    },
+    {
+      "title": "Charte de Kanshoji (values, diet, ethics)",
+      "url": "https://www.kanshoji.org/charte-de-kanshoji-2/"
+    },
+    {
+      "title": "Contact (address)",
+      "url": "https://www.kanshoji.org/contact/"
+    },
+    {
+      "title": "La Coquille, Dordogne - Wikipedia (coordinates)",
+      "url": "https://en.wikipedia.org/wiki/La_Coquille"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

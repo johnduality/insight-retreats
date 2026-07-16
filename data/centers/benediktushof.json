@@ -1,0 +1,111 @@
+{
+  "id": "benediktushof",
+  "name": "Benediktushof",
+  "aka": [
+    "Benediktushof Holzkirchen",
+    "Benediktushof - Zentrum für Meditation und Achtsamkeit"
+  ],
+  "website": "https://www.benediktushof-holzkirchen.de/",
+  "location": {
+    "address": "Klosterstraße 10, 97292 Holzkirchen/Unterfranken",
+    "city": "Holzkirchen",
+    "county": "Landkreis Würzburg",
+    "region": "Lower Franconia, Bavaria",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 49.7814,
+    "lng": 9.6803
+  },
+  "tradition": "Non-sectarian: Zen (in the 'Empty Cloud' Zen/Chan lineage) and Christian contemplative mysticism (the 'Cloud of Unknowing' lineage), founded by the Benedictine monk and Zen master Willigis Jäger; the wider program also draws on yoga, MBSR/mindfulness, and other interfaith spiritual paths",
+  "technique": "Zazen, Kinhin (walking meditation), Dokusan (private teacher interviews), Teisho (talks) and koan work in the Zen stream; silent contemplative sitting, mindful walking and recitative chant in the Christian Kontemplation stream",
+  "influences": [
+    "Willigis Jäger (1925-2020)",
+    "Alexander Poraj",
+    "Doris Zölls",
+    "Fernand Braun",
+    "Christian mystics (Meister Eckhart, Teresa of Ávila)",
+    "Japanese and Chinese Zen/Chan lineages"
+  ],
+  "teacherAccess": "Daily Dokusan (private interviews) and Teisho (talks) with course leaders during Zen sesshins and Kontemplation retreats; members of the resident spiritual advisory board are on-site daily",
+  "retreatOptions": "Single days of silence; weekend introductory courses (2-3 nights); week-long Sesshin and Rohatsu retreats (roughly 4-8 nights); modular multi-year Zen/Kontemplation trainings; self-organized short- or long-term personal retreat stays; online courses including an online Sesshin",
+  "about": "Benediktushof is a non-denominational meditation and mindfulness center set in a former 8th-century Benedictine monastery in the Aalbach valley near Würzburg, in Lower Franconia, Bavaria. It was founded in 2003 by the Benedictine monk and Zen master Willigis Jäger (1925-2020), who taught a non-sectarian, contemplative spirituality that drew equally on Zen practice and the Christian mystical tradition of figures such as Meister Eckhart. Zen (zazen, koan work and private teacher interviews) and Christian Kontemplation (silent sitting rooted in the West's own contemplative lineage) remain the center's two central pillars, alongside a broad program of yoga, MBSR/mindfulness, leadership training and other courses now led by Jäger's successors Alexander Poraj, Doris Zölls and Fernand Braun. One of Europe's largest centers of its kind, it runs single days of silence, weekend introductions, week-long Sesshin and Rohatsu retreats, multi-year contemplation trainings and online courses, and also welcomes guests for self-organized short- or long-term personal retreat stays. Its certified organic vegetarian-vegan kitchen serves meals in silence, and the affiliated West-Östliche Weisheit - Willigis Jäger Foundation funds subsidized programs for students and families.",
+  "schedule": "Residential courses run from dinner at 5:50pm on the arrival day to lunch and a coffee/tea/cake gathering around 1pm on the departure day, with a fixed daily rhythm of several sitting periods, walking meditation and silent shared meals; Zen courses add daily private interviews (Dokusan) with a teacher",
+  "cost": "Course/seminar fees are billed separately from room and board: a weekend 'Zen - Einführung' introduction costs about EUR 175, while longer Sesshin, Rohatsu and specialty (e.g. leadership) retreats cost several hundred euros more; accommodation with full board is charged nightly on a fixed scale by room type (single, double/shared, multi-bed, dormitory)",
+  "pricePerDay": {
+    "min": 97,
+    "max": 109,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Fixed nightly room-and-full-board rates by room type (VAT included): shared double room EUR 97, single room with shower/WC EUR 109 (multi-bed rooms are cheaper, around EUR 79). This covers lodging and meals only; the separate course/seminar fee is added on top and varies by program, e.g. roughly EUR 175 for a 2-night Zen introduction.",
+    "source": "https://www.benediktushof-holzkirchen.de/zimmer-verpflegung/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Certified organic (DE-ÖKO-006) vegetarian-vegan kitchen serving no meat, made mostly by hand from regional, seasonal produce; meals begin with a shared ritual and are eaten in silence. Gluten-free, dairy-free and vegan meals are available on request; other dietary needs can be accommodated for a EUR 5/day surcharge.",
+  "workRequired": "no",
+  "workNotes": "Standard course and retreat participants do no work. Guests on self-organized short- or long-term personal retreat stays can instead opt into about 5 hours of daily work in exchange for a reduced day rate (around EUR 25/day for room and board).",
+  "tags": [
+    "zen",
+    "day-retreats",
+    "silent",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "no-work-required",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Benediktushof - home page",
+      "url": "https://www.benediktushof-holzkirchen.de/"
+    },
+    {
+      "title": "About us / History & Mission (English)",
+      "url": "https://www.benediktushof-holzkirchen.com/benediktushof/"
+    },
+    {
+      "title": "Willigis Jäger (1925-2020)",
+      "url": "https://www.benediktushof-holzkirchen.de/willigis-jaeger/"
+    },
+    {
+      "title": "Zen | Kontemplation - was ist das?",
+      "url": "https://www.benediktushof-holzkirchen.de/benediktushof/zen-kontemplation/"
+    },
+    {
+      "title": "Rooms | food | prices (English, incl. 2021 published room/board tiers)",
+      "url": "https://www.benediktushof-holzkirchen.com/zimmer-verpflegung/"
+    },
+    {
+      "title": "Zimmer | Verpflegung | Preise",
+      "url": "https://www.benediktushof-holzkirchen.de/zimmer-verpflegung/"
+    },
+    {
+      "title": "Kursangebot (course catalogue, incl. schedule/format examples)",
+      "url": "https://www.benediktushof-holzkirchen.de/kursangebot/"
+    },
+    {
+      "title": "Online-Kurse",
+      "url": "https://www.benediktushof-holzkirchen.de/kursangebot/onlinekurse/"
+    },
+    {
+      "title": "Zen for Leadership - Kurse (example course fee)",
+      "url": "https://zenforleadership.com/kurse/"
+    },
+    {
+      "title": "Holzkirchen (Unterfranken) - Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Holzkirchen_(Unterfranken)"
+    },
+    {
+      "title": "Holzkirchen (Unterfranken) PLZ 97292 - coordinates",
+      "url": "https://www.suche-postleitzahl.org/holzkirchen-plz-97292-48bf/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

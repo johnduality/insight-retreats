@@ -1,0 +1,117 @@
+{
+  "id": "lerab-ling",
+  "name": "Lérab Ling",
+  "aka": [
+    "Lerab Ling",
+    "Rigpa Lérab Ling Congregation"
+  ],
+  "website": "https://lerabling.org/",
+  "location": {
+    "address": "L'Engayresque, 34650 Roqueredonde, France",
+    "city": "Roqueredonde",
+    "region": "Hérault, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 43.800248,
+    "lng": 3.237998
+  },
+  "tradition": "Tibetan Buddhism, Nyingma lineage (Rigpa community, Longchen Nyingtik cycle)",
+  "technique": "Shamatha (calm-abiding) and Dzogchen meditation; Vajrayana practices such as visualization, mantra recitation, Ngöndro preliminaries, and empowerments",
+  "influences": [
+    "Sogyal Rinpoche (founder)",
+    "Jetsün Khandro Rinpoche (Spiritual Director since 2017)",
+    "Jamyang Khyentse Chökyi Lodrö",
+    "Dudjom Rinpoche",
+    "Dilgo Khyentse Rinpoche",
+    "H.H. the Dalai Lama (patron)"
+  ],
+  "teacherAccess": "Retreats are led by Rigpa's own teachers and instructors, supplemented by visiting Tibetan lineage masters who give teachings, empowerments and transmissions; formats include group teachings, guided meditation, and some one-to-one guidance time",
+  "retreatOptions": "Free Discovery Days and temple tours; day-long and weekend courses; the 9-day Summer Meditation Retreat; Vajrayana/Dzogchen retreats ranging from long weekends to month-long programmes (e.g. the Chetsün Nyingtik Dzogchen Retreat); many events also run online/hybrid; personal practice retreats are reserved for established Rigpa students",
+  "about": "Lérab Ling is a Tibetan Buddhist retreat centre in the hills of Roqueredonde, Hérault, about an hour from Montpellier in southern France. Founded in 1991 by Sogyal Rinpoche and recognized as a Religious Congregation by the French state in 2002, it is the principal European retreat centre of Rigpa, an international network of Buddhist centres following the Nyingma lineage under the patronage of the Dalai Lama, who has visited twice. The site is built around a temple housing a 7-metre Buddha statue modeled on the one in Bodhgaya, and is home to a resident community of monastics and lay practitioners. Sogyal Rinpoche stepped down as Rigpa's spiritual director in 2017 following accusations of misconduct from former students and died in 2019; Jetsün Khandro Rinpoche, a prominent Nyingma and Kagyu teacher, has served as Lérab Ling's Spiritual Director since then, with day-to-day governance handled separately by lay leadership bodies. Programmes range from free introductory meditation days and weekend courses to multi-week Vajrayana and Dzogchen retreats, taught by Rigpa's own instructors and by visiting lineage masters. Beyond formal retreats, the centre welcomes over 15,000 visitors a year for temple visits and day tours.",
+  "schedule": "Typical retreat day: optional 7-7:45am meditation, breakfast, a 9am-12pm teaching/practice session, lunch break, a 3-6pm second session, dinner, and an optional 7:30-8:15pm evening meditation; some retreats include several days of complete silence",
+  "cost": "Each retreat has a fixed event contribution billed separately from accommodation and meals (e.g. €396 for the 9-day Summer Meditation Retreat, €264 for a 5-day short option); a 15% CONCESSION discount code, 30-50% young-adult (18-26) discounts, payment in installments, and Tertön Sogyal Foundation scholarships (for bookings over €500) are available",
+  "pricePerDay": {
+    "min": 121,
+    "max": 158,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "9-day/8-night Summer Meditation Retreat (25 Jul-2 Aug 2026): the €396 event contribution (excludes accommodation/meals) plus full board (€30/day) plus standard on-site accommodation, from a single Retreat Room (€41/night) up to a single Studio (€78/night), works out to roughly €121-158/night; the CONCESSION coupon, young-adult discount, and Tertön Sogyal Foundation scholarships are excluded as subsidised rates.",
+    "source": "https://lerabling.org/en/event/summer-meditation-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Full board (breakfast, lunch, dinner) costs €30/day, added on top of the accommodation rate; meals are vegetarian, largely organic and locally sourced (some from the on-site garden), and no alcohol is served; off-site visitors can also buy individual meals.",
+  "workRequired": "no",
+  "workNotes": "Retreat guests are not required to work. Lérab Ling separately recruits paid staff and longer-term volunteers (kitchen, welcome desk, site upkeep, administration) to live and work within the resident community, but this is a distinct, optional arrangement from attending a retreat.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "silent",
+    "long-retreats",
+    "family-friendly",
+    "online-hybrid",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "no-work-required",
+    "camping",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Lerab Ling - Home",
+      "url": "https://lerabling.org/"
+    },
+    {
+      "title": "About Lerab Ling - History and Mission",
+      "url": "https://lerabling.org/en/about-lerab-ling/"
+    },
+    {
+      "title": "About Rigpa",
+      "url": "https://lerabling.org/en/about-rigpa/"
+    },
+    {
+      "title": "About Sogyal Rinpoche",
+      "url": "https://lerabling.org/en/about-sogyal-rinpoche/"
+    },
+    {
+      "title": "Visit Lerab Ling - Tibetan Temple in Hérault, France",
+      "url": "https://lerabling.org/en/visit-lerab-ling/"
+    },
+    {
+      "title": "Vajrayana & Dzogchen - Retreats and Practice",
+      "url": "https://lerabling.org/en/vajrayana-dzogchen/"
+    },
+    {
+      "title": "Meditation Courses and Retreats",
+      "url": "https://lerabling.org/en/meditation/"
+    },
+    {
+      "title": "Full Programme of Retreats and Courses",
+      "url": "https://lerabling.org/en/full-programme/"
+    },
+    {
+      "title": "Stay With Us: Accommodation and Meals",
+      "url": "https://lerabling.org/en/stay-with-us/"
+    },
+    {
+      "title": "Financial Support",
+      "url": "https://lerabling.org/en/financial-support/"
+    },
+    {
+      "title": "Summer Meditation Retreat (event page with dates/pricing)",
+      "url": "https://lerabling.org/en/event/summer-meditation-retreat/"
+    },
+    {
+      "title": "Volunteer and Job Opportunities",
+      "url": "https://lerabling.org/en/volunteer-and-job-opportunities/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

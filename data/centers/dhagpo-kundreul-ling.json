@@ -1,0 +1,90 @@
+{
+  "id": "dhagpo-kundreul-ling",
+  "name": "Dhagpo Kundreul Ling",
+  "aka": [
+    "Karma Thartchine Lhundroup"
+  ],
+  "website": "https://dhagpo-kundreul-ling.org/en/",
+  "location": {
+    "address": "4 Le Bost, 63640 Biollet",
+    "city": "Biollet",
+    "county": "Puy-de-Dôme",
+    "region": "Puy-de-Dôme, Auvergne, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 46.002536,
+    "lng": 2.709309
+  },
+  "tradition": "Tibetan Buddhism, Karma Kagyu lineage, under the spiritual authority of Thaye Dorje, the 17th Gyalwa Karmapa",
+  "technique": "Guru yoga and yidam deity practices (Chenrezig, Green Tara, Amitabha, Dorje Sempa, Milarepa), ritual chanting, and study of Buddhist philosophical texts",
+  "influences": [
+    "Thaye Dorje, 17th Gyalwa Karmapa",
+    "Lama Jigme Rinpoche",
+    "Shamar Rinpoche",
+    "Dhagpo Kagyu Ling",
+    "Karma Kagyu lineage of Tibetan Buddhism"
+  ],
+  "teacherAccess": "Courses taught by resident lamas and visiting Rinpoches/Khenpos; some Institute-level teachings also stream live via Zoom for remote participants",
+  "retreatOptions": "Single days and weekends through week-long practice or study retreats (e.g. 2-day deity-practice courses, 5-6 night meditation accumulation retreats); month-long Institute study retreats and traditional three-year retreats are also held on site",
+  "about": "Dhagpo Kundreul Ling is a Buddhist study and meditation centre in the hamlet of Le Bost, near Biollet in the Combrailles hills of Puy-de-Dôme, France, home to a resident community of monks and lay practitioners under the spiritual authority of Thaye Dorje, the 17th Gyalwa Karmapa. It is the sister centre of Dhagpo Kagyu Ling near Toulouse, sharing the same Karma Kagyu lineage and teaching structure but centred on its own elaborately painted Main Temple, completed after roughly twenty years of construction and opened to visitors in 2013. The site also houses a public library affiliated with the international Karma Kagyu library network, a smaller Laussedat temple used for courses, and grounds where traditional three-year retreats have been held since the 1980s. Its year-round program is organised into three tracks - Discovery for newcomers, Institute for textual study, and Meditation for practice of specific deities and rituals such as Chenrezig, Tara, and Dorje Sempa - taught by resident lamas and visiting Rinpoches. Courses run from single days to week-long or month-long retreats, with vegetarian meals and on-site accommodation offered at a modest two-tier contribution meant to keep the teachings broadly accessible.",
+  "schedule": "Daily practice at 8am in the Main Temple plus evening Mahakala and Chenrezig rituals; most courses run Friday/Saturday to Sunday or up to a week, typically starting at 10am on the first day and ending mid-afternoon on the last",
+  "cost": "Two-tier 'course contribution' per day - a higher Support rate and a lower Classic/Standard rate - said to cover teaching, meals, and on-site accommodation together; Institute-level teachings are priced higher per day than Discovery/Meditation weekends",
+  "pricePerDay": {
+    "min": 14,
+    "max": 21,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "6-day 'Accumulation of Buddhist meditation practice' retreat (4-9 Aug 2026): Classic EUR 14/day to Support EUR 21/day, the site's standard rate for most weekend and week-long Discovery/Meditation courses. Institute-level teachings (e.g. the Treatise on the Supreme Continuity series) instead run EUR 23 (standard) to EUR 35 (support) per day.",
+    "source": "https://dhagpo-kundreul-ling.org/en/programme-june-2026-september-2026/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "On-site meals are vegetarian; breakfast is served at the accommodation, lunch and dinner in the shared dining rooms at Le Bost. Arriving participants must call or email ahead to reserve their first meal and note any dietary needs.",
+  "workRequired": "unknown",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "long-retreats",
+    "online-hybrid",
+    "diet-vegetarian",
+    "sliding-scale",
+    "meals-included",
+    "accessible",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Dhagpo Kundreul Ling - home page",
+      "url": "https://dhagpo-kundreul-ling.org/en/"
+    },
+    {
+      "title": "Visit - Main Temple, library, opening hours and accessibility",
+      "url": "https://dhagpo-kundreul-ling.org/en/visit/"
+    },
+    {
+      "title": "Programme June 2026 - September 2026 (course fees and schedule)",
+      "url": "https://dhagpo-kundreul-ling.org/en/programme-june-2026-september-2026/"
+    },
+    {
+      "title": "Program October 2024 - May 2025 (fees, Institute retreats, three-year retreat)",
+      "url": "https://dhagpo-kundreul-ling.org/en/program-winter/"
+    },
+    {
+      "title": "Regular Practices - daily, weekly and monthly schedule",
+      "url": "https://dhagpo-kundreul-ling.org/en/regular-practices/"
+    },
+    {
+      "title": "Contact - address and GPS coordinates",
+      "url": "https://dhagpo-kundreul-ling.org/en/contact/"
+    },
+    {
+      "title": "Zöpa Web - online registration platform",
+      "url": "https://zopa.dhagpo-kundreul-ling.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

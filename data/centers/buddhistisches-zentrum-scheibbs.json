@@ -1,0 +1,123 @@
+{
+  "id": "buddhistisches-zentrum-scheibbs",
+  "name": "Buddhistisches Zentrum Scheibbs",
+  "aka": [
+    "BZS",
+    "Buddhist Centre Scheibbs",
+    "Verein der Freunde des Buddhistischen Kultur- und Meditationszentrums Scheibbs"
+  ],
+  "website": "https://bzs.at",
+  "location": {
+    "address": "Ginselberg 12, 3270 Scheibbs/Neustift",
+    "city": "Scheibbs",
+    "region": "Lower Austria, Austria",
+    "country": "Austria",
+    "state": "AT",
+    "lat": 47.992564,
+    "lng": 15.165081
+  },
+  "tradition": "Non-sectarian Buddhist retreat house spanning Zen, Theravada/Vipassana, and Vajrayana, taught by a rotating roster of lay and monastic teachers rather than a single resident lineage",
+  "technique": "Silent sitting and walking meditation across Zen, Vipassana, and Vajrayana forms, plus a daily work period",
+  "influences": [
+    "Walter Karwath",
+    "Norman Rosenberg",
+    "Ursula Lyon",
+    "Genso Sasaki Roshi (Zen lineage)",
+    "Mahasi Sayadaw Vipassana tradition",
+    "Santacitta Bhikkhuni / Amaravati Theravada forest tradition"
+  ],
+  "teacherAccess": "Each retreat is led by a visiting teacher with daily group sitting and instruction or Dharma talks; the format (personal interviews, small groups) varies by teacher and tradition",
+  "retreatOptions": "Weekly open meditation evenings (Thu/Sun); weekend and long-weekend seminars; residential retreats typically 3 to 10 nights across Zen, Vipassana, and Vajrayana",
+  "about": "Buddhistisches Zentrum Scheibbs (BZS) is an independent, lay-run Buddhist retreat house in Neustift, on a wooded hillside above the Erlauf river near Scheibbs in Lower Austria. It was founded in 1975 by a group of Vienna-based Buddhists in a former sanatorium of the Austrian Association for the Blind, inside a building whose history stretches back to a 16th-century ironworks hammer mill, making it one of Austria's oldest dedicated meditation centres. Rather than following one lineage or resident teacher, BZS runs a year-round programme of retreats spanning Zen, Vipassana, and Vajrayana, led by a rotating roster of Austrian and international teachers, including Zen priest Edward Espe Brown, Theravada forest nun Santacitta Bhikkhuni, and long-time Vipassana teachers such as Ursula Lyon and Hannes Huber. Retreats run from weekend introductions up to roughly ten-night intensives, combining largely silent group sitting and walking meditation with a daily work period, in a house that sleeps around forty guests in shared, single, and double rooms. The centre is supported by a non-profit membership association; house costs cover board and lodging, while teaching for many courses is offered on a dana (voluntary donation) basis paid directly to the visiting teacher.",
+  "schedule": "Multi-day retreats begin with a shared evening meal and run a daily schedule of group sitting, walking meditation, and a work period, ending after lunch on the final day; largely silent throughout",
+  "cost": "Course fee (Kursgebühr) for teaching is either a fixed amount or Dana (voluntary donation, paid in cash at the course, never by bank transfer); separate house costs (Hauskosten, covering board and lodging) are billed per stay at a standard daily rate, plus optional single/double room surcharges and a bed-linen fee",
+  "pricePerDay": {
+    "min": 77,
+    "max": 95,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "10-night Vipassana Retreat (5-15 Nov 2026): Hauskosten (board & lodging) of EUR 770 total = EUR 77/night in a shared multi-bed room; +EUR 18/night single-room surcharge = EUR 95/night (a single room with private bath adds EUR 28/night instead). Figures exclude the separate Dana teaching fee (suggested minimum EUR 750 for this retreat), which the site's own pricing page treats as distinct from Hauskosten.",
+    "source": "https://bzs.at/retreat/vipassana-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Lacto-vegetarian full board (three meals plus all-day fruit, herbal/black/green tea, coffee, and juice); vegan or medically-necessary special diets available on request for a small surcharge; produce partly from the centre's own garden and organic or free-range suppliers.",
+  "workRequired": "partial",
+  "workNotes": "A rotating small group of guests assists the kitchen team during the daily work period as part of the practice; the centre describes work meditation as part of many but not necessarily every retreat.",
+  "tags": [
+    "zen",
+    "theravada",
+    "insight-vipassana",
+    "tibetan-vajrayana",
+    "day-retreats",
+    "silent",
+    "diet-vegetarian",
+    "dana-donation",
+    "fixed-fee",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "BZS - home page",
+      "url": "https://bzs.at/"
+    },
+    {
+      "title": "Geschichte (History)",
+      "url": "https://bzs.at/zentrum/geschichte/"
+    },
+    {
+      "title": "Das Haus (The House)",
+      "url": "https://bzs.at/zentrum/das-haus/"
+    },
+    {
+      "title": "Über Buddhismus im BZS",
+      "url": "https://bzs.at/buddhismus/uber-buddhismus-im-bzs/"
+    },
+    {
+      "title": "Lehre & Praxis",
+      "url": "https://bzs.at/buddhismus/lehre-praxis/"
+    },
+    {
+      "title": "Seminare & Retreats (programme listing)",
+      "url": "https://bzs.at/retreats/"
+    },
+    {
+      "title": "Lehrende (Teachers)",
+      "url": "https://bzs.at/veranstaltungen/lehrende/"
+    },
+    {
+      "title": "Wöchentliche Angebote (Weekly offerings)",
+      "url": "https://bzs.at/veranstaltungen/woechentliche-angebote/"
+    },
+    {
+      "title": "Verpflegung (Food)",
+      "url": "https://bzs.at/zentrum/verpflegung/"
+    },
+    {
+      "title": "Preise & Dana-Prinzip (Pricing)",
+      "url": "https://bzs.at/anmeldung-kosten/preise-dana-prinzip/"
+    },
+    {
+      "title": "Teilnehmer-Infos (Participant info)",
+      "url": "https://bzs.at/anmeldung-kosten/teilnehmer-infos/"
+    },
+    {
+      "title": "Anfahrt (Directions/contact)",
+      "url": "https://bzs.at/kontakt/anfahrt/"
+    },
+    {
+      "title": "Vipassana Retreat (5-15 Nov 2026, pricing example)",
+      "url": "https://bzs.at/retreat/vipassana-retreat/"
+    },
+    {
+      "title": "GeoNames - Neustift bei Scheibbs (coordinates)",
+      "url": "https://www.geonames.org/2770668/neustift.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

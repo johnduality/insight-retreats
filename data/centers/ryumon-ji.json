@@ -1,0 +1,103 @@
+{
+  "id": "ryumon-ji",
+  "name": "Ryumon Ji Monastery",
+  "aka": [
+    "Taikosan Ryumonji",
+    "Monastère Ryumon Ji",
+    "Dragon Gate Temple of the Ancient Mountain",
+    "Zen Tempel Ryumonji"
+  ],
+  "website": "https://meditation-zen.org/en/monastery-welcome",
+  "location": {
+    "address": "7, rue du château d'eau, 67340 Weiterswiller",
+    "city": "Weiterswiller",
+    "region": "Alsace, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 48.854,
+    "lng": 7.414
+  },
+  "tradition": "Soto Zen, Association Zen Internationale (AZI) / Deshimaru lineage",
+  "technique": "Zazen (seated meditation, shikantaza), kin-hin (walking meditation), samu (work practice), ceremonies and sutra chanting, oryoki-style silent meals",
+  "influences": [
+    "Master Taisen Deshimaru",
+    "Master Kodo Sawaki",
+    "Master Olivier Reigen Wang-Genh (founder and abbot)",
+    "Master Dosho Saikawa",
+    "Association Zen Internationale (AZI)",
+    "Sotoshu (Soto Zen school, Japan)"
+  ],
+  "teacherAccess": "Master Wang-Genh and resident monastics give talks during sesshin, with individual interviews (dokusan) and group question sessions (mondo) available; visiting teacher Master Dosho Saikawa leads sesshin most years",
+  "retreatOptions": "Weekly public zazen sessions and beginner discovery evenings; weekend and 3-4 day sesshin; week-long thematic retreats (kesa sewing, calligraphy, Qi Gong, family sesshin); GYOJI daily-life retreats of a few days to several weeks following the monastic schedule; long-term commitments of months or more for those wishing to live as resident monastics",
+  "about": "Ryumon Ji is a Soto Zen monastery founded in 1999 by Master Olivier Reigen Wang-Genh, a direct disciple of Taisen Deshimaru, on forested land near the village of Weiterswiller in Alsace, about 50 km north of Strasbourg. It belongs to the Association Zen Internationale (AZI) network built from Deshimaru's European disciples and is officially recognized by the Soto Zen school in Japan as a teaching temple, distinct from AZI's larger La Gendronniere temple near Blois. A resident community of monks and nuns lives according to traditional Soto monastic rules, and the temple welcomes lay visitors both for intensive sesshin retreats and for open-ended Gyoji daily-life stays that follow the ordinary monastic schedule of zazen, silent meals, and samu (work practice). A large new dojo (Senteï Dojo) completed in 2024 doubled the meditation hall's capacity to around 120 practitioners. The temple explicitly welcomes French and German-speaking participants in equal number, with teachings translated, and does its best to accommodate English speakers as well.",
+  "schedule": "Daily life follows two zazen periods (morning and evening), a ceremony and ritual breakfast (genmai), two work (samu) periods, and silent meals; sesshin retreats add extra zazen periods (up to 4/day), talks, and individual or group interviews with the teacher; outside retreats, public zazen is offered most mornings and every evening",
+  "cost": "Retreats are fixed-fee, priced per retreat (covering teaching, accommodation and meals), with a reduced rate for students and job seekers; all participants must also hold annual membership (15 euros/year) in the Association du Temple Zen de Weiterswiller, and a local tourist tax of 0.85 euros/person/night applies in addition",
+  "pricePerDay": {
+    "min": 54,
+    "max": 72,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "3-night weekend sesshin (25-28 June 2026, arrival evening before departure after lunch): reduced (student/job-seeker) rate 163 euros (~54 euros/night) to regular rate 216 euros (~72 euros/night). Excludes the separate 15 euros/year association membership and 0.85 euros/person/night local tourist tax.",
+    "source": "https://meditation-zen.org/en/activities/sesshin-26-28-juin-2026"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Organic, vegetarian meals eaten in silence using traditional oryoki bowls and ritual; breakfast (genmai) is a formal ritual meal with sutra chanting.",
+  "workRequired": "yes",
+  "workNotes": "Samu (community work such as garden, kitchen, and maintenance tasks) is a required part of both sesshin and Gyoji daily-life retreats, typically two periods a day (roughly 9:30am-12pm and 2:45-5pm on Gyoji days).",
+  "tags": [
+    "zen",
+    "silent",
+    "monastic-community",
+    "work-practice",
+    "long-retreats",
+    "day-retreats",
+    "family-friendly",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Ryumon Ji Monastery - presentation",
+      "url": "https://meditation-zen.org/en/monastery-welcome"
+    },
+    {
+      "title": "Community life in the spirit of Zen",
+      "url": "https://meditation-zen.org/en/monastery-welcome/community-life-in-the-spirit-of-zen"
+    },
+    {
+      "title": "The teachers",
+      "url": "https://meditation-zen.org/en/the-teachers"
+    },
+    {
+      "title": "Calendar and Rates 2026",
+      "url": "https://meditation-zen.org/en/monastery-welcome/calendar-and-rates"
+    },
+    {
+      "title": "Retreat and Daily Life - Gyoji",
+      "url": "https://meditation-zen.org/en/retreat-and-daily-life-gyoji"
+    },
+    {
+      "title": "Practical Information",
+      "url": "https://meditation-zen.org/en/practical-information"
+    },
+    {
+      "title": "Sesshin - Zen Meditation Retreat, 26-28 June 2026 (rates)",
+      "url": "https://meditation-zen.org/en/activities/sesshin-26-28-juin-2026"
+    },
+    {
+      "title": "ORYOKI, THE RIGHT AMOUNT",
+      "url": "https://meditation-zen.org/en/news/oryoki-the-right-amount"
+    },
+    {
+      "title": "Weiterswiller coordinates",
+      "url": "https://www.map-france.com/Weiterswiller-67340/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

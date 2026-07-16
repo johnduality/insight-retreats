@@ -1,0 +1,99 @@
+{
+  "id": "kadampa-meditation-centre-france",
+  "name": "Kadampa Meditation Centre France",
+  "aka": [
+    "Centre de Méditation Kadampa France",
+    "CMK France",
+    "Château de Segrais"
+  ],
+  "website": "https://kadampafrance.org/",
+  "location": {
+    "address": "Château de Segrais, route de Téloché, 72220 Saint Mars d'Outillé",
+    "city": "Saint-Mars-d'Outillé",
+    "region": "Sarthe, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 47.869909,
+    "lng": 0.318472
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU): Modern Kadampa Buddhism in the Gelug-derived Ganden Oral Lineage",
+  "technique": "Guided Lamrim (stages of the path) teaching and meditation on weekend and week-long theme retreats, plus unguided advanced retreats on the four preliminary practices (Refuge, Vajrasattva, Guru Yoga, mandala offerings)",
+  "influences": [
+    "Venerable Geshe Kelsang Gyatso Rinpoche (founder)",
+    "Je Tsongkhapa / Ganden Oral Lineage",
+    "Atisha's Kadam lineage",
+    "Gen Kelsang Eupame (Resident Teacher and NKT National Spiritual Director for France)"
+  ],
+  "teacherAccess": "Resident Teacher Gen Kelsang Eupame leads the centre and much of its programme alongside a community of about 30 practitioners (including 9 resident ordained monks and nuns) who teach many of the theme retreats and weekly classes; visiting NKT teachers are brought in for national and international festivals",
+  "retreatOptions": "Free daily noon meditation and weekly evening classes (in person or streamed); guided weekend to week-long theme retreats open to complete beginners; free unguided 'advanced' retreats on the four preliminary practices; week-or-longer volunteering stays; monthly children's meditation workshops; national and international Kadampa festivals",
+  "about": "Kadampa Meditation Centre France (Centre de Méditation Kadampa France, or CMK France) is the national centre of the New Kadampa Tradition in France, housed in the Château de Segrais, a country estate in the Sarthe countryside near Le Mans. Venerable Geshe Kelsang Gyatso chose the château for the centre in 2006 and it opened in October 2008; it is now home to a community of about 30 practitioners, including nine resident ordained monks and nuns, led by Resident Teacher and National Spiritual Director Gen Kelsang Eupame. The centre runs a year-round programme of free daily meditation and weekly evening classes, guided weekend and week-long theme retreats open to complete beginners, and free unguided advanced retreats on the four preliminary practices, alongside national and international Kadampa festivals. Visitors can also book week-long (or longer) volunteering stays helping with cooking, housekeeping and grounds work in exchange for reimbursed board and lodging. Accommodation ranges from camping and shared dormitories to private single or double rooms and self-contained garden lodges, and all meals served are vegetarian.",
+  "schedule": "Theme retreats run several daily teaching-and-meditation sessions (typically two mid-morning blocks plus an evening session, with some afternoons free) over a weekend to a week; weekly evening classes and a free midday meditation run year-round; volunteering stays follow a daily work schedule alongside occasional community practice.",
+  "cost": "Guided theme retreats are priced as flat full-board packages that vary by accommodation tier (camping, dormitory, shared or private single/double room, or self-contained lodge) and by number of days, with a reduced hardship rate and a 15% discount on the teaching fee for retreats of 5+ days; volunteering stays reimburse dormitory accommodation and meal costs rather than charging a fee; advanced/unguided retreats are free.",
+  "pricePerDay": {
+    "min": 56,
+    "max": 94,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "5-night 'Accueillir et transformer nos émotions négatives' theme retreat (14-19 Jul 2026), standard (non-hardship) full-board flat rate for the 5-day booking window: Dormitory €282 (~€56/night) up to a single room with private bathroom €472 (~€94/night); a self-contained garden Lodge sleeping up to 4 tops out at €750 (~€150/night) and is excluded as a luxury outlier.",
+    "source": "https://kadampafrance.org/enseignement/accueillir-et-transformer-nos-emotions-negatives/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals are vegetarian, prepared by community members largely from local, seasonal ingredients (whole grains, plant proteins such as tofu, and legumes with vegetables); a gluten-free option is available for volunteering stays, but vegan, raw, or other special diets cannot always be accommodated, so guests are asked to check before booking.",
+  "workRequired": "partial",
+  "workNotes": "Not required for retreat, class, or day guests; a dedicated week-or-longer volunteering stay (room prep, kitchen, dishwashing, landscaping, small renovation projects) is available in exchange for reimbursed dormitory board and lodging, and shorter ad hoc volunteering shifts can also be arranged for locals.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "self-guided",
+    "online-hybrid",
+    "family-friendly",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "camping",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Centre de Méditation Kadampa France - home page",
+      "url": "https://kadampafrance.org/"
+    },
+    {
+      "title": "Kadampa Meditation Center France - English homepage (founding, inauguration)",
+      "url": "https://kadampafrance.org/en/"
+    },
+    {
+      "title": "Présentation du centre",
+      "url": "https://kadampafrance.org/presentation-du-centre/"
+    },
+    {
+      "title": "Hébergements et repas (accommodation types and meals)",
+      "url": "https://kadampafrance.org/hebergements-et-repas/"
+    },
+    {
+      "title": "Séjour de bénévolat (volunteering programme)",
+      "url": "https://kadampafrance.org/sejour-de-benevolat/"
+    },
+    {
+      "title": "Accueillir et transformer nos émotions négatives (theme retreat schedule and pricing table)",
+      "url": "https://kadampafrance.org/enseignement/accueillir-et-transformer-nos-emotions-negatives/"
+    },
+    {
+      "title": "Retraites avancées (unguided preliminary-practice retreats)",
+      "url": "https://kadampafrance.org/retraites-avancees/"
+    },
+    {
+      "title": "Resident teacher and community (EN)",
+      "url": "https://kadampafrance.org/en/resident-teacher-and-community/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

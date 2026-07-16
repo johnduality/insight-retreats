@@ -1,0 +1,108 @@
+{
+  "id": "taraloka-buddhist-retreat-centre",
+  "name": "Taraloka Buddhist Retreat Centre",
+  "aka": [
+    "Taraloka"
+  ],
+  "website": "https://www.taraloka.org.uk/",
+  "location": {
+    "address": "Bettisfield, Whitchurch, Wrexham, SY13 2LD",
+    "city": "Whitchurch",
+    "county": "Wrexham",
+    "region": "Shropshire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 52.917,
+    "lng": -2.792
+  },
+  "tradition": "Triratna Buddhist Community (eclectic Western Buddhist movement founded by Sangharakshita); women's retreat centre",
+  "technique": "Buddhist meditation (mindfulness of breathing, metta bhavana) combined with Triratna devotional practice (puja), Dharma teaching and periods of silence",
+  "influences": [
+    "Sangharakshita",
+    "Triratna Buddhist Order",
+    "Taraloka's founding women's sangha (1985)"
+  ],
+  "teacherAccess": "All retreats are led and taught by women members of the Triratna Buddhist Order, with short leader profiles posted on individual retreat pages; there is no single resident teacher and no internet/phone access for outside contact during a retreat.",
+  "retreatOptions": "Graded residential retreats from Introductory and Open (for anyone, no Buddhist background needed) through Triratna Regulars, Mitra, Going for Refuge and Order-member retreats, plus periodic work retreats, ranging from weekends to 11 nights; no day visits or online options.",
+  "about": "Taraloka is a Buddhist retreat centre for women, founded in 1985 on seven acres of former farmland in the Welsh Borders countryside near Whitchurch, on the England-Wales border. It is part of the Triratna Buddhist Community founded by Sangharakshita, and every retreat is led and taught by women members of the Triratna Buddhist Order. Programmes range from beginner-friendly Introductory weekends through Open, Triratna Regulars, Mitra and Order-level retreats, each combining meditation instruction, puja (devotional ritual), Dharma talks and periods of silence. The centre runs on a dana-influenced model: retreatants pay a modest, non-refundable booking fee and are then invited, at the end of the retreat, to give a voluntary suggested donation toward the real cost of their stay. All food served is 100% vegan, accommodation is shared, and retreatants are expected to help with communal domestic tasks such as cooking, washing up and cleaning. Taraloka has a 40-year history as a women-centred space that welcomes trans women, and continues to review this policy in light of the UK's 2025 Supreme Court gender ruling.",
+  "schedule": "Retreats begin with supper at 6.30pm on the arrival day and run daily programmes of meditation sits, devotional practice and Dharma talks with afternoon free time for rest or walks; weekend retreats finish 2.30pm, longer retreats finish 10.30am, with periods of silence that lengthen at higher retreat levels.",
+  "cost": "A non-refundable booking fee (GBP 65 for a weekend up to GBP 95 for retreats of 8+ nights) secures a place; at the end of the retreat, participants are invited to give a voluntary suggested donation (from about GBP 140-200 for a weekend up to GBP 310-465 for 11 nights, unwaged/waged) covering the real running cost, with no minimum enforced.",
+  "pricePerDay": {
+    "min": 49,
+    "max": 66,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Based on a standard 7-night retreat (e.g. Silent Retreat 2026): GBP 95 booking fee plus suggested donation of GBP 250 (unwaged) to GBP 365 (waged) totals GBP 345-460, i.e. roughly GBP 49-66/night; the donation figure is explicitly a suggestion only, not a required minimum.",
+    "source": "https://www.taraloka.org.uk/what-does-it-cost/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "100% vegan menu for all retreatants; meat and fish are banned from the premises entirely; gluten/wheat/nut-free diets can be catered for via online booking, and more complex restricted diets by prior arrangement with the office.",
+  "workRequired": "yes",
+  "workNotes": "Retreatants are expected to help with shared domestic tasks (washing up, chopping vegetables, cooking, light cleaning) and a general clear-up at the end of the retreat; exemptions can be arranged for medical or disability needs flagged at booking.",
+  "tags": [
+    "silent",
+    "diet-vegan",
+    "dana-donation",
+    "sliding-scale",
+    "meals-included",
+    "work-practice",
+    "accessible",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Taraloka - home page",
+      "url": "https://www.taraloka.org.uk/"
+    },
+    {
+      "title": "About Taraloka",
+      "url": "https://www.taraloka.org.uk/about-taraloka"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://www.taraloka.org.uk/contact"
+    },
+    {
+      "title": "What does it cost?",
+      "url": "https://www.taraloka.org.uk/what-does-it-cost/"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://www.taraloka.org.uk/faq/"
+    },
+    {
+      "title": "Silent Retreat 2026",
+      "url": "https://www.taraloka.org.uk/events/silent-retreat-2026/"
+    },
+    {
+      "title": "Which retreat is for me?",
+      "url": "https://www.taraloka.org.uk/which-retreat-is-for-me/"
+    },
+    {
+      "title": "Triratna Regulars",
+      "url": "https://www.taraloka.org.uk/retreats/triratna-regulars/"
+    },
+    {
+      "title": "Mitra Retreats",
+      "url": "https://www.taraloka.org.uk/retreats/mitra-retreats/"
+    },
+    {
+      "title": "Order Retreats",
+      "url": "https://www.taraloka.org.uk/retreats/order-retreats/"
+    },
+    {
+      "title": "Going for Refuge",
+      "url": "https://www.taraloka.org.uk/retreats/going-for-refuge/"
+    },
+    {
+      "title": "SY13 2LD postcode coordinates",
+      "url": "https://police-uk.org/postcode/SY13%202LD/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

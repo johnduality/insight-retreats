@@ -1,0 +1,81 @@
+{
+  "id": "shubha-vihara",
+  "name": "Shubha Vihara",
+  "aka": [
+    "Shubha Vihara Retreat Centre",
+    "Dublin Buddhist Centre Retreat Centre"
+  ],
+  "website": "https://dublinbuddhistcentre.org/",
+  "location": {
+    "address": "Ballycorrigan, Ballina, Co. Tipperary, V94 9P38, Ireland",
+    "city": "Ballina",
+    "county": "Tipperary",
+    "region": "County Tipperary, Ireland",
+    "country": "Ireland",
+    "state": "IE",
+    "lat": 52.807,
+    "lng": -8.4309
+  },
+  "tradition": "Triratna Buddhist Community: eclectic Western Buddhism in the tradition founded by Sangharakshita",
+  "technique": "Mindfulness of breathing and metta bhavana (loving-kindness), often paired with yoga; periods of silence within a structured group programme",
+  "influences": [
+    "Sangharakshita (founder of the Triratna Buddhist Order)",
+    "Triratna Buddhist Order / Community teachers",
+    "Dublin Buddhist Centre"
+  ],
+  "teacherAccess": "Each retreat is led by Triratna Order members from the Dublin Buddhist Centre (e.g. Sadayasihi, Vajrashura, Pavara, Maitrikaya) who give teaching and hold group discussion; no dedicated one-to-one interview slots are advertised",
+  "retreatOptions": "Residential retreats of roughly 2-4 nights: beginner-friendly weekend retreats ('Meditate Effectively', 'Yoga and Meditation') and longer seasonal 'Sangha' retreats (Spring, Summer, September, Autumn, Winter, plus a long-weekend 'May Sangha Retreat') for those who have completed an introductory Triratna meditation course",
+  "about": "Shubha Vihara is the Dublin Buddhist Centre's own residential retreat property, set on about 2.2 acres near the village of Ballina on the Tipperary shore of Lough Derg, close to Killaloe. The Triratna Buddhist Community's Dublin Buddhist Centre bought the four-bedroom property in June 2022 after losing its previous retreat venue during the pandemic, and received planning permission in April 2024 to build a purpose-built retreat centre on the site; that building project is still being fundraised and constructed, so retreats currently run out of the existing farmhouse with shared bedrooms rather than a finished, purpose-built facility. Despite being a work in progress, Shubha Vihara already hosts a regular published programme of weekend and longer seasonal retreats combining Buddhist meditation, yoga, and simple communal living, led by members of the Triratna Order. Meals are vegan and cooked from scratch, and retreats are open to complete beginners as well as more experienced Triratna practitioners.",
+  "schedule": "Weekend retreats run from 6pm Friday to around 2pm Sunday; longer seasonal 'Sangha' retreats (roughly 4 days/long weekend) are held around Easter, spring, summer, autumn and winter; days include group meditation sits, some silence, meals, and free time for walks or rest",
+  "cost": "Tiered pricing per retreat (waged / low waged / unwaged, e.g. EUR 215-295 for a weekend retreat), secured with a non-refundable EUR 75 deposit; full refund of the balance if cancelled 14+ days before the retreat, no refund inside 14 days",
+  "pricePerDay": {
+    "min": 108,
+    "max": 148,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "'Meditate Effectively' weekend retreat (Fri 6pm-Sun ~2pm, 2 nights, 13-15 March 2026): EUR 215 unwaged to EUR 295 waged tiered pricing, i.e. roughly EUR 108-148/night; low-waged tier (EUR 260) falls in between.",
+    "source": "https://dublinbuddhistcentre.org/events/meditate-effectively-weekend-retreat-3/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "All retreat meals are vegan, cooked from scratch, with second helpings available; food is regularly cited by past participants as a highlight.",
+  "workRequired": "no",
+  "workNotes": "No work rota is described for standard meditation/yoga retreats; the centre separately runs voluntary 'working retreats' where volunteers help with building and grounds work as the site is developed.",
+  "tags": [
+    "diet-vegan",
+    "sliding-scale",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Dublin Buddhist Centre - home page",
+      "url": "https://dublinbuddhistcentre.org/"
+    },
+    {
+      "title": "Dublin Buddhist Centre - Events listing (shows Shubha Vihara retreat dates)",
+      "url": "https://dublinbuddhistcentre.org/events"
+    },
+    {
+      "title": "Shubha Vihara: Re-Launch of the Retreat Centre Project",
+      "url": "https://dublinbuddhistcentre.org/events/shubha-vihara-re-launch-of-the-retreat-centre-project/"
+    },
+    {
+      "title": "A New Retreat Centre for Ireland (retreat centre fundraising page)",
+      "url": "https://dublinbuddhistcentre.org/about/retreats"
+    },
+    {
+      "title": "Help Build Shubha Vihara (property details: 4 bedrooms, 2.2 acres, project cost)",
+      "url": "https://dublinbuddhistcentre.org/shubha-vihara-donation"
+    },
+    {
+      "title": "Meditate Effectively - Weekend Retreat (dates, cost, address, food, accommodation)",
+      "url": "https://dublinbuddhistcentre.org/events/meditate-effectively-weekend-retreat-3/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

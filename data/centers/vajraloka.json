@@ -1,0 +1,112 @@
+{
+  "id": "vajraloka",
+  "name": "Vajraloka Buddhist Retreat Centre",
+  "aka": [
+    "Vajraloka Buddhist Meditation Centre",
+    "Vajraloka"
+  ],
+  "website": "https://www.vajraloka.org/",
+  "location": {
+    "address": "Tyn-Y-Ddol, Corwen, Denbighshire, LL21 0EN",
+    "city": "Corwen",
+    "county": "Denbighshire",
+    "region": "Denbighshire, Wales",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 52.988445,
+    "lng": -3.44418
+  },
+  "tradition": "Triratna Buddhist Community: eclectic Western Buddhism in the tradition founded by Sangharakshita",
+  "technique": "Mindfulness of breathing, metta bhavana and the other brahmaviharas, insight/vipashyana reflection, 'just sitting'/formless awareness, plus body and energy-based/somatic practice on some themed retreats",
+  "influences": [
+    "Sangharakshita (founder of the Triratna Buddhist Order)",
+    "Triratna Buddhist Order / Community teachers"
+  ],
+  "teacherAccess": "Optional one-to-one practice reviews with resident team members throughout retreats; themed retreats add daily group teaching, while practice retreats offer no formal teaching input",
+  "retreatOptions": "Residential retreats of roughly 5-14 nights year-round: themed teaching retreats, teaching-free practice retreats, Order-members-only retreats, and occasional work retreats",
+  "about": "Vajraloka Buddhist Retreat Centre is a residential meditation retreat centre run by the Triratna Buddhist Community, set in converted stone farm buildings on a hillside above the River Alwen near Corwen in North Wales. It was founded in 1979 by members of the Triratna Buddhist Order (formerly the Western Buddhist Order, founded by Sangharakshita) and has run meditation retreats there for more than 40 years. Rather than following one meditation system, it draws on the range of practices used across the Triratna tradition: mindfulness of breathing, metta bhavana and the other brahmaviharas, insight/vipashyana reflection, and 'just sitting', with some retreats also exploring body- and energy-based approaches. Retreats are led by a resident team of Order members and are largely silent, built around an opening orientation, a fixed daily round of sits, and optional one-to-one practice reviews. Alongside themed teaching retreats the centre offers quieter, teaching-free practice retreats and occasional work retreats where guests help with gardening, cleaning and decorating. The centre now serves fully vegan food, and guests on ordinary retreats are generally expected to take part in a daily jobs rota that helps keep the place running.",
+  "schedule": "Daily rhythm of rise 6.30am, sits at 7am and 8am, breakfast 9am, meditation/teaching at 10.45am and 4.30pm, dinner 6pm, and evening puja/meditation at 8pm, with time set aside for optional one-to-one practice reviews",
+  "cost": "Two-tier pricing per retreat (Full rate and a Concessionary rate for students, unwaged, OAPs and Triratna centre/business workers), payable in full or via a non-refundable deposit with the balance due six weeks before the retreat starts; a bursary fund is available for those who couldn't otherwise afford to attend",
+  "pricePerDay": {
+    "min": 52,
+    "max": 63,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "9-night retreat 'The Energy of Awakening' (10-19 Jul 2026): Concessionary GBP 468 to Full GBP 567, i.e. GBP 52-63/night; retreats run from the 6.45pm evening meal on the first day to about 9.45am on the last day, so nightly count excludes the final morning.",
+    "source": "https://www.vajraloka.org/calendar/166/wisdom-energy-2"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "Vajraloka is now a fully vegan retreat centre; the resident team and guest cooks prepare all meals for retreatants.",
+  "workRequired": "partial",
+  "workNotes": "Ordinary retreats run a daily jobs rota (kitchen, cleaning, etc.) that guests are generally expected to join, though people unable to take part are still welcome; separate short work retreats exist specifically for gardening, cleaning and decorating.",
+  "tags": [
+    "silent",
+    "long-retreats",
+    "self-guided",
+    "diet-vegan",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Vajraloka - home page",
+      "url": "https://www.vajraloka.org/"
+    },
+    {
+      "title": "About Vajraloka",
+      "url": "https://www.vajraloka.org/about/"
+    },
+    {
+      "title": "The Vajraloka Team",
+      "url": "https://www.vajraloka.org/about/team/"
+    },
+    {
+      "title": "Triratna Buddhist Community",
+      "url": "https://www.vajraloka.org/about/triratna-buddhist-community/"
+    },
+    {
+      "title": "Retreat Info (coming on retreat, basic programme)",
+      "url": "https://www.vajraloka.org/about-retreats/"
+    },
+    {
+      "title": "What we teach",
+      "url": "https://www.vajraloka.org/about-retreats/what-we-teach/"
+    },
+    {
+      "title": "Which retreat is for me",
+      "url": "https://www.vajraloka.org/about-retreats/which-retreat-is-for-me/"
+    },
+    {
+      "title": "How to book",
+      "url": "https://www.vajraloka.org/about-retreats/bookings/"
+    },
+    {
+      "title": "Travel",
+      "url": "https://www.vajraloka.org/travel/"
+    },
+    {
+      "title": "Contact Us (address)",
+      "url": "https://www.vajraloka.org/contact-us/"
+    },
+    {
+      "title": "The Energy of Awakening (retreat rates, 10-19 Jul 2026)",
+      "url": "https://www.vajraloka.org/calendar/166/wisdom-energy-2"
+    },
+    {
+      "title": "Vajraloka Work Retreat listing",
+      "url": "https://www.vajraloka.org/calendar/153/vajraloka-work-retreat/"
+    },
+    {
+      "title": "Postcode lookup for LL21 0EN (coordinates)",
+      "url": "https://api.postcodes.io/postcodes/LL210EN"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

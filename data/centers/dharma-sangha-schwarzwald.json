@@ -1,0 +1,99 @@
+{
+  "id": "dharma-sangha-schwarzwald",
+  "name": "Zen Buddhistisches Zentrum Schwarzwald (Dharma Sangha)",
+  "aka": [
+    "ZBZS",
+    "Zen Buddhistisches Zentrum Schwarzwald",
+    "Dharma Sangha (Germany)",
+    "Johanneshof"
+  ],
+  "website": "https://www.dharma-sangha.de/",
+  "location": {
+    "address": "Quellenweg 4, D-79737 Herrischried-Großherrischwand",
+    "city": "Herrischried-Großherrischwand",
+    "region": "Baden-Württemberg, Germany",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 47.678633,
+    "lng": 8.008015
+  },
+  "tradition": "Zen Buddhism (Soto-derived San Francisco Zen Center lineage via Zentatsu Richard Baker Roshi)",
+  "technique": "Zazen (silent sitting meditation), kinhin (walking meditation), oryoki formal meal practice, and koan/psychologically-informed Zen study",
+  "influences": [
+    "Zentatsu Richard Baker Roshi (founder; Dharma successor of Shunryu Suzuki Roshi, San Francisco Zen Center)",
+    "Tatsudo Nicole Baden Roshi (current Abbess and Dharma successor of Baker Roshi)",
+    "Karl Friedrich Graf von Dürckheim (earlier Zen teacher/therapist who ran a meditation center at the same Johanneshof site)",
+    "San Francisco Zen Center"
+  ],
+  "teacherAccess": "Daily Dharma talks (Teisho) and one-on-one dokusan practice interviews during Sesshins; weekly practice exchange, a 'Dharma buddy', and practice-leader guidance during Kloster auf Zeit stays",
+  "retreatOptions": "Weekend Zazenkai sits and thematic weekend seminars; roughly 6-8 night silent Sesshins several times a year; 3-night to 14-night short or 3-week to 3-month long Kloster auf Zeit immersive residencies; open-ended, self-guided Einsiedelei (hermitage) stays; online courses and talks via the Dharma Academy",
+  "about": "The Zen Buddhistisches Zentrum Schwarzwald (ZBZS) is a lay-and-monastic Zen practice center in the small village of Herrischried-Großherrischwand at the southern edge of Germany's Black Forest, close to the French and Swiss borders. It is the German center of the international Dharma Sangha association, founded by Zentatsu Richard Baker Roshi -- a Dharma successor of Shunryu Suzuki Roshi at the San Francisco Zen Center -- who began teaching in Europe in 1983 and settled the community at the former Johanneshof site (previously run as a meditation center by therapist Karl Friedrich Graf von Dürckheim) in 1996. It is led today by Abbess Tatsudo Nicole Baden Roshi and is home to a resident community of roughly ten practitioners following a daily monastic rhythm of zazen, work, and silence. This is a wholly separate organization from the similarly named Crestone Mountain Zen Center ('Dharma Sangha, CMZC') in Colorado, USA; the two are sister monasteries under the same Dharma Sangha umbrella but sit on different continents with different resident teachers. Visitors can join week-long silent Sesshins, self-directed Einsiedelei hermitage stays, or longer Kloster auf Zeit residencies that combine meditation with work practice.",
+  "schedule": "Monastic days begin around 5am (or a gentler 7am option) with two 25-40 minute zazen periods, three shared meals, daytime work practice, and two evening zazen periods; Sesshins run dawn-to-dusk in silence with added daily Dharma talks and dokusan interviews",
+  "cost": "Fixed per-night program fee covering lodging, meals, and program costs, tiered by room type from dorm-style Mehrbettzimmer up to a private Studio; a standard price, reduced price, or added support donation can be selected at checkout, and long-term Kloster auf Zeit stays add a small weekly participation fee",
+  "pricePerDay": {
+    "min": 85,
+    "max": 118,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "8-night Sesshin im Februar (7-15 Feb 2026, with Yōseki David Beck Roshi): Mehrbettzimmer (dorm) EUR 680 to Einzelzimmer (single) EUR 944, i.e. roughly EUR 85-118/night. The Studio tier (EUR 1,080, ~EUR 135/night) is excluded as a top-end room upgrade, as is the discretionary price-reduction/support-donation option offered at checkout.",
+    "source": "https://kurse.dharmaacademy.com/sesshin"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Meals are vegan-vegetarian (no meat or fish) and largely organic and regionally sourced; breakfast and dinner are eaten in silence, lunch allows conversation; dietary intolerances accommodated on request.",
+  "workRequired": "partial",
+  "workNotes": "Kloster auf Zeit stays include 5-8 hours of daily work practice (kitchen, house, garden) alongside meditation; Sesshins include a short daily work period; the self-guided Einsiedelei hermitage stay has no required work or program.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegan",
+    "diet-vegetarian",
+    "fixed-fee",
+    "sliding-scale",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Zen Buddhistisches Zentrum Schwarzwald ZBZS - home page",
+      "url": "https://www.dharma-sangha.de/"
+    },
+    {
+      "title": "Dharma Sangha (association overview, incl. Crestone Mountain Zen Center)",
+      "url": "https://www.dharma-sangha.de/uber-uns/dharma-sangha"
+    },
+    {
+      "title": "Zen Buddhistisches Zentrum Schwarzwald (about the center, history)",
+      "url": "https://www.dharma-sangha.de/uber-uns/zen-buddhistisches-zentrum-schwarzwald"
+    },
+    {
+      "title": "Aufenthalt (stay/retreat overview)",
+      "url": "https://www.dharma-sangha.de/aufenthalt"
+    },
+    {
+      "title": "Kontakt (address, FAQs, room categories)",
+      "url": "https://www.dharma-sangha.de/kontakt"
+    },
+    {
+      "title": "Sesshin (schedule, room categories, pricing)",
+      "url": "https://kurse.dharmaacademy.com/sesshin"
+    },
+    {
+      "title": "Einsiedelei (hermitage stay, pricing)",
+      "url": "https://kurse.dharmaacademy.com/einsiedelei"
+    },
+    {
+      "title": "Kloster auf Zeit (monastery-for-a-time program, pricing)",
+      "url": "https://kurse.dharmaacademy.com/kloster-auf-zeit"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

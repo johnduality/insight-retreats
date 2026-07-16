@@ -1,0 +1,113 @@
+{
+  "id": "satipanya",
+  "name": "Satipanya Buddhist Retreat",
+  "aka": [
+    "Satipanya",
+    "Satipanya Buddhist Trust"
+  ],
+  "website": "https://www.satipanya.org.uk/",
+  "location": {
+    "address": "Fishpool Lane, Old Churchstoke, Powys (postal address: White Grit, Minsterley, Shropshire, SY5 0JN)",
+    "city": "Churchstoke",
+    "county": "Powys",
+    "region": "Powys, Wales",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 52.56289,
+    "lng": -3.00211
+  },
+  "tradition": "Theravada Buddhism, Mahasi Sayadaw lineage of Burmese vipassana",
+  "technique": "Mahasi-style noting technique (moment-to-moment mindfulness with slow, deliberate movement) held in continuous silence; every course closes with Metta (loving-kindness) and healing contemplation",
+  "influences": [
+    "Mahasi Sayadaw",
+    "Bhante Bodhidhamma",
+    "Noirin Sheahan",
+    "Gaia House (Bhante Bodhidhamma was formerly resident teacher there)",
+    "Swejjin Chapter, Amarapura Nikaya (Sri Lanka)"
+  ],
+  "teacherAccess": "Daily Dharma talk (evening), group Q&A, and personal interviews with the course teacher throughout each retreat",
+  "retreatOptions": "Local evening and day courses; weekend courses; weeklong and multi-week 'Ongoing' Mahasi retreats (commonly two weeks, extending to about a month in summer); occasional special courses (Metta, bodycare, teacher training, work retreats) and biannual online courses for past retreatants",
+  "about": "Satipanya Buddhist Retreat is a small residential meditation centre in the Welsh county of Powys, near the village of Churchstoke, just across the border from Shropshire, England. It was established as a charitable trust in 2003 by Bhante Bodhidhamma, a Theravada monk trained in the Mahasi Sayadaw tradition of Burma who was previously resident teacher at Gaia House, together with co-director Noirin Sheahan. The centre is devoted almost exclusively to Mahasi-style vipassana insight meditation, a silent noting practice paired with slow, deliberate movement, and is intimate in scale, with room for up to ten retreatants at a time across a converted bungalow and a purpose-built annexe. Courses range from local evening and weekend sittings up to multi-week 'Ongoing' Mahasi retreats of two weeks or more, usually led by Bhante Bodhidhamma, Noirin Sheahan, or a small rotating group of other teachers. Like many centres in this lineage, it operates on dana (donation): there is no fixed retreat fee beyond a small non-refundable booking deposit, and retreatants are asked afterward to give what they can toward the centre's real running costs. Daily life follows a simple, silent, monastic-style rhythm with an early rise, a communal work period, and a demanding schedule that teachers can modulate for beginners or shorter stays.",
+  "schedule": "Silent daily schedule of alternating sitting and walking meditation, typically rising 03:30-05:00 through an evening Dharma talk and a 21:15 metta close, with a mid-morning work period; weeklong+ courses start Saturday evening and finish the following Saturday or Sunday morning, and the intensity can be modulated for shorter stays or beginners",
+  "cost": "Dana (donation)-based: no set retreat fee, only a non-refundable booking deposit of GBP 10 per night paid at registration; retreatants are asked to donate afterward according to their means to support the centre and other meditators",
+  "pricePerDay": {
+    "min": 40,
+    "max": 40,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "No fixed fee is charged. Satipanya states its actual running costs are about GBP 40 per person per night (an earlier fundraising appeal cited GBP 35/night), and uses this figure to guide how much retreatants who can afford it should consider giving; it is a suggested dana benchmark, not a mandatory charge. The GBP 10/night booking deposit counts toward, not on top of, this amount.",
+    "source": "https://www.satipanya.org.uk/how-satipanya-is-financed/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "All meals are cooked on-site by a volunteer retreat Assistant from set, simple recipes; the centre does not provide milk, cheese, eggs, or products containing them, though retreatants may bring and share such items themselves. Simple food allergies can sometimes be accommodated if flagged in advance on the application form.",
+  "workRequired": "yes",
+  "workNotes": "A daily mid-morning work period (around 08:00-09:00) is built into the retreat schedule, during which meditators help prepare vegetables and salads and wash dishes; a separate volunteer Assistant role (open to past retreatants) does the main cooking, roughly 3 hours of duties a day, in place of a deposit or donation.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "day-retreats",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "diet-vegan",
+    "dana-donation",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Satipanya - home page",
+      "url": "https://www.satipanya.org.uk/"
+    },
+    {
+      "title": "What We Teach",
+      "url": "https://www.satipanya.org.uk/teachings/"
+    },
+    {
+      "title": "Vision",
+      "url": "https://www.satipanya.org.uk/vision/"
+    },
+    {
+      "title": "Our History",
+      "url": "https://www.satipanya.org.uk/our-history/"
+    },
+    {
+      "title": "Mahasi Schedules",
+      "url": "https://www.satipanya.org.uk/mahasi-schedules/"
+    },
+    {
+      "title": "How Satipanya is Financed",
+      "url": "https://www.satipanya.org.uk/how-satipanya-is-financed/"
+    },
+    {
+      "title": "How to Book",
+      "url": "https://www.satipanya.org.uk/how-to-book/"
+    },
+    {
+      "title": "Donations",
+      "url": "https://www.satipanya.org.uk/donations/"
+    },
+    {
+      "title": "Diet",
+      "url": "https://www.satipanya.org.uk/diet/"
+    },
+    {
+      "title": "Accommodation",
+      "url": "https://www.satipanya.org.uk/accommodation/"
+    },
+    {
+      "title": "Travel (address and coordinates)",
+      "url": "https://www.satipanya.org.uk/travel/"
+    },
+    {
+      "title": "Service at Satipanya",
+      "url": "https://www.satipanya.org.uk/service-at-satipanya/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

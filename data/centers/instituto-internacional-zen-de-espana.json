@@ -1,0 +1,91 @@
+{
+  "id": "instituto-internacional-zen-de-espana",
+  "name": "Instituto Internacional Zen de España",
+  "aka": [
+    "IIZE",
+    "International Zen Institute Spain",
+    "Instituto Internacional ZEN de España"
+  ],
+  "website": "https://meditacionzenspain.com/",
+  "location": {
+    "address": "Monasterio Nuestra Señora de la Estrella, 26340 San Asensio, La Rioja",
+    "city": "San Asensio",
+    "region": "La Rioja, Spain",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 42.498,
+    "lng": -2.75
+  },
+  "tradition": "Zen Buddhism in the International Zen Institute lineage: a non-sectarian blend of Japanese Zen forms and Vietnamese Lâm Tế/Rinzai transmission founded by Gesshin Myoko Prabhasa Dharma zenji",
+  "technique": "Zazen (seated meditation), kinhin (walking meditation), and koan study within traditional multi-day sesshin",
+  "influences": [
+    "Gesshin Myoko Prabhasa Dharma zenji (founder, International Zen Institute)",
+    "Jiun Hogen roshi (Dharma successor, International Zen Center Noorder Poort, Netherlands)",
+    "Jishin Tetsue roshi (teacher guiding retreats in Spain)",
+    "Thich Man Giac (Vietnamese Lâm Tế/Rinzai transmission)",
+    "Joshu Sasaki roshi (early training lineage)"
+  ],
+  "teacherAccess": "Sesshins are led in person by Jishin Tetsue roshi, following the Institute's format of daily teisho (Dharma talks) and individual dokusan/sanzen interviews with the teacher; no resident teacher is based on-site between retreat periods.",
+  "retreatOptions": "Annual residential sesshin period at San Asensio each July/August combining a 5-night Kokoro-sesshin with a 7-night Dai-sesshin, plus a shorter Winter Retreat each December; prior experience of a go-sesshin or dai-sesshin is generally required for the gentler Kokoro-sesshin; affiliated local groups elsewhere in Spain hold shorter meetings and weekend sittings.",
+  "about": "Instituto Internacional Zen de España (IIZE) is the Spanish branch of the International Zen Institute, a lineage founded by German-American Zen master Gesshin Myoko Prabhasa Dharma in Los Angeles in 1983 and now centered at the International Zen Center Noorder Poort in the Netherlands, led by her Dharma successor Jiun Hogen roshi. Its main annual retreats take place each summer, and a shorter one each December, at the Monasterio Nuestra Señora de la Estrella, a centuries-old former monastery set among vineyards above the village of San Asensio in La Rioja, Spain, where resident teacher Jishin Tetsue roshi guides traditional sesshin. These are fully silent, multi-day retreats combining zazen, walking meditation (kinhin), and koan practice, blending Japanese Zen forms with the institute's Vietnamese Lâm Tế (Rinzai) transmission. Participants can join a gentler five-night Kokoro-sesshin or the more intensive seven-night Dai-sesshin, with prior sesshin experience generally expected for the Kokoro option. Outside these residential retreats, the institute also supports a network of smaller local Zen practice groups around Spain. Lodging during the San Asensio retreats is full board in private single rooms with private bathrooms and vegetarian meals, and a solidarity fund can subsidize part of the fee for those with financial need.",
+  "schedule": "Silent sesshin days follow a fixed monastic-style timetable of pre-dawn zazen, kinhin, meals, koan study, teisho, and individual interviews with the teacher, in keeping with the International Zen Institute's Noorder Poort tradition.",
+  "cost": "Full-board program fee (private room, private bathroom, vegetarian meals) set per retreat; exact rates are not published on the Instituto's website, but a dedicated 'Fondo de ayuda' solidarity fund can subsidize up to about 70% of the cost for participants with financial need, with a minimum co-payment still required.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Full board vegetarian meals are provided throughout residential sesshin; the sister Noorder Poort center in the same lineage serves dai-sesshin meals in formal oryoki style.",
+  "workRequired": "partial",
+  "workNotes": "As in standard Zen sesshin practice within this lineage, retreat days generally include periods of samu (work practice) alongside zazen, kinhin, and meals, though exact hours are not detailed on the Instituto's website.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "fixed-fee",
+    "scholarships"
+  ],
+  "sources": [
+    {
+      "title": "Instituto Internacional ZEN de España - home page",
+      "url": "https://meditacionzenspain.com/"
+    },
+    {
+      "title": "Retiros ZEN en España - 2026 retreat program",
+      "url": "https://meditacionzenspain.com/retiros-zen-en-espana/"
+    },
+    {
+      "title": "Tradición - history and lineage",
+      "url": "https://meditacionzenspain.com/tradicion/"
+    },
+    {
+      "title": "Acerca del ZEN",
+      "url": "https://meditacionzenspain.com/acerca-del-zen/"
+    },
+    {
+      "title": "Maestras y Guías de Zen",
+      "url": "https://meditacionzenspain.com/maestras/"
+    },
+    {
+      "title": "Fondo de ayuda en España",
+      "url": "https://meditacionzenspain.com/retiros-zen-en-espana/fondos-de-ayuda-en-espana/"
+    },
+    {
+      "title": "Tetsue roshi - International Zen Institute",
+      "url": "https://zeninstitute.org/wordpress/teachers/tetsue-roshi/"
+    },
+    {
+      "title": "Kosten retraites - Noorder Poort (sister center, format and cost model background)",
+      "url": "https://boeddhistischdagblad.nl/achtergronden/69127-69127/"
+    },
+    {
+      "title": "Monasterio de Santa María de la Estrella - La Rioja Turismo",
+      "url": "https://lariojaturismo.com/en/lugar-de-interes/monasterio-de-santa-maria-de-la-estrella/cf798014-5ffe-4e0b-9b0d-2570d969d20b"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

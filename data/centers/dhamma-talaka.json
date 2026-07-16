@@ -1,0 +1,85 @@
+{
+  "id": "dhamma-talaka",
+  "name": "Dhamma Taḷāka",
+  "aka": [
+    "Vipassana Meditation Centre Dhamma Taḷāka",
+    "Vipassana Stichting"
+  ],
+  "website": "https://talaka.dhamma.org/",
+  "location": {
+    "address": "Michauxpad 14, 1358 AE Almere, Netherlands",
+    "city": "Almere",
+    "region": "Flevoland, Netherlands",
+    "country": "Netherlands",
+    "state": "NL",
+    "lat": 52.345213,
+    "lng": 5.278609
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded evening discourses and are available for brief questions.",
+  "retreatOptions": "10-day courses (the standard offering, run roughly monthly, about a dozen times a year), plus periodic 1-day and 3-day courses for old students, an annual Satipaṭṭhāna course, dedicated children's courses, and weekly remote group sittings.",
+  "about": "Dhamma Taḷāka, whose name means 'Lake of Dhamma' in Pali, is the Netherlands' dedicated Vipassana center, tucked into a quiet wooded corner of Almere Hout on the eastern edge of Almere, reachable by bus or bicycle from Almere Centrum station and roughly 30 km from Amsterdam. It is owned and run by the volunteer-led Vipassana Stichting (Vipassana Foundation) and offers residential courses in the technique taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, with students living on-site, observing Noble Silence for most of the course, and following a fixed daily meditation schedule. A 2024 renovation expanded capacity from 47 to 59 students by adding new server accommodation and washroom facilities behind the Dhamma Hall. The center now runs about a dozen 10-day courses a year, alongside shorter 1-day and 3-day courses, an annual Satipaṭṭhāna course for old students, children's courses, and weekly online group sittings. As with all centers in the Goenka network, there is no fee of any kind; teaching, food, and lodging are given freely, funded purely by dana (voluntary donation) from past students.",
+  "schedule": "About twelve 10-day courses run per year on a fixed published calendar, supplemented by roughly twenty-five 1-day courses (mostly on-site, some in Amsterdam), occasional 3-day courses, an annual Satipaṭṭhāna course for old students, children's courses, and a weekly Wednesday evening online group sitting.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course.",
+    "source": "https://talaka.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) may volunteer as servers (dhamma seva) during courses; new students are generally not required to work.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Vipassana Meditation: Netherlands (home)",
+      "url": "https://talaka.dhamma.org/"
+    },
+    {
+      "title": "Vipassana Meditation: Dhamma Taḷāka",
+      "url": "https://talaka.dhamma.org/dhamma-talaka/"
+    },
+    {
+      "title": "Vipassana Meditation: Getting here",
+      "url": "https://talaka.dhamma.org/dhamma-talaka/getting-here/"
+    },
+    {
+      "title": "Contact Dhamma Taḷāka - Netherlands",
+      "url": "https://talaka.dhamma.org/contact-us/"
+    },
+    {
+      "title": "Vipassana Meditation: ANBI (annual report, capacity, board)",
+      "url": "https://talaka.dhamma.org/en/anbi/"
+    },
+    {
+      "title": "Vipassana Meditation: The Vipassana Stichting",
+      "url": "https://talaka.dhamma.org/dhamma-talaka/vipassana-stichting/"
+    },
+    {
+      "title": "Vipassana Meditation: The tradition",
+      "url": "https://talaka.dhamma.org/about-vipassana/the-tradition/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

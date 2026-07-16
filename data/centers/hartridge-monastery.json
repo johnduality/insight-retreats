@@ -1,0 +1,96 @@
+{
+  "id": "hartridge-monastery",
+  "name": "Hartridge Monastery",
+  "aka": [
+    "Hartridge Buddhist Monastery"
+  ],
+  "website": "https://hartridgemonastery.org/",
+  "location": {
+    "city": "Upottery",
+    "county": "Devon",
+    "region": "Devon, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 50.8548888,
+    "lng": -3.1604243
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition",
+  "technique": "Monastic meditation practice (sitting and walking) integrated with chanting and daily communal routine",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Sumedho",
+    "Thai Forest Tradition",
+    "Cittaviveka (Chithurst) Monastery",
+    "Amaravati Buddhist Monastery"
+  ],
+  "teacherAccess": "Guests may request a one-to-one interview with a senior monk; otherwise access is through communal life and occasional Dhamma talks/Q&A at Sunday puja.",
+  "retreatOptions": "No formal retreat program and individual/self-designed retreats are not offered; overnight guests typically stay around 3 nights (longer possible with prior experience or by arrangement) living within the monastic schedule, alongside monthly Saturday meditation workshops and day visits.",
+  "schedule": "Guests join the community's daily monastic routine (meditation, chanting, one meal before noon) rather than a set program; weekly Sunday puja at 7pm and periodic Saturday Meditation Workshops (1.30-4.30pm); closed to overnight guests January-March for the community's winter retreat.",
+  "about": "Hartridge Monastery is a small Theravada Buddhist monastery in the Thai Forest Tradition, founded in 1986 on about 22 acres of rural land in the Black Down Hills of East Devon. It is a branch monastery in the lineage of Ajahn Chah and his senior Western disciple Ajahn Sumedho, and is a sister community to the larger Amaravati and Cittaviveka (Chithurst) monasteries in England. A small community of monks and novices lives as alms-mendicants under traditional monastic discipline, based around an old farmhouse (Odle Cottage) with guest rooms and a purpose-built Dhamma Hall completed after a multi-year community building project. Visitors are welcome to stay for a few days or longer, sharing the community's daily schedule of meditation, chanting, and a single alms meal before midday, though structured or individually designed retreats are not offered. The monastery closes to overnight guests each winter, from January through March, for its own annual retreat period.",
+  "cost": "No fee is charged for guest stays; room, board and teaching are offered freely (dana), sustained entirely by voluntary donations to the monastery's registered charitable trust.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "No suggested amount; guest stays are offered free of charge. Support is invited via donations to the Hartridge Buddhist Monastery Trust (registered charity no. 1142439), gift-aided giving, standing orders, or offerings of food/requisites in lieu of money.",
+    "source": "https://hartridgemonastery.org/coming-to-stay.html"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "One communal vegetarian meal is offered before midday, in keeping with the Eight Precepts' renunciation of eating after noon; food is offered as alms/dana by lay supporters, and the monastery publishes a rough list of needed donated items (soya milk, fruit, vegetables, tahini/nut butters, tinned tomatoes).",
+  "workRequired": "partial",
+  "workNotes": "Guests are asked to follow the basic daily routine and join in all community activities during their stay (e.g. communal chores, meal-related tasks); the website does not itemize a fixed formal work quota or hours.",
+  "tags": [
+    "theravada",
+    "day-retreats",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Hartridge Buddhist Monastery - homepage",
+      "url": "https://hartridgemonastery.org/"
+    },
+    {
+      "title": "Coming to stay - Hartridge Buddhist Monastery",
+      "url": "https://hartridgemonastery.org/coming-to-stay.html"
+    },
+    {
+      "title": "Contributing - Hartridge Buddhist Monastery",
+      "url": "https://hartridgemonastery.org/contributing.html"
+    },
+    {
+      "title": "Wider Sangha - Hartridge Buddhist Monastery",
+      "url": "https://hartridgemonastery.org/wider-sangha.html"
+    },
+    {
+      "title": "Events - Hartridge Buddhist Monastery",
+      "url": "https://hartridgemonastery.org/events.html"
+    },
+    {
+      "title": "Getting here - Hartridge Buddhist Monastery",
+      "url": "https://hartridgemonastery.org/getting-here.html"
+    },
+    {
+      "title": "Dhamma Hall - Hartridge Buddhist Monastery",
+      "url": "https://hartridgemonastery.org/dhamma-hall.html"
+    },
+    {
+      "title": "Hartridge - Forest Sangha",
+      "url": "https://www.forestsangha.org/monasteries/hartridge"
+    },
+    {
+      "title": "Hartridge Buddhist Monastery (community history), Telling Our Stories Devon",
+      "url": "https://www.tellingourstoriesdevon.org.uk/wp-content/uploads/2020/12/Hartridge-Monastery-Sasha-3.pdf"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "auto-verified"
+  }
+}

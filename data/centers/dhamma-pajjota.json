@@ -1,0 +1,82 @@
+{
+  "id": "dhamma-pajjota",
+  "name": "Dhamma Pajjota",
+  "aka": [
+    "Vipassana Meditation Centre Dhamma Pajjota",
+    "Vipassana Meditatiecentrum Dhamma Pajjota"
+  ],
+  "website": "https://pajjota.dhamma.org/",
+  "location": {
+    "address": "Driepaal 3, B-3650 Dilsen-Stokkem, Belgium",
+    "city": "Dilsen-Stokkem",
+    "region": "Limburg, Belgium",
+    "country": "Belgium",
+    "state": "BE",
+    "lat": 51.033,
+    "lng": 5.733
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded evening discourses and are available for brief questions.",
+  "retreatOptions": "10-day residential courses for adults (the standard offering, held year-round), plus periodic longer courses for old students, dedicated courses for children and teenagers, and 1-day old-student sittings at nearby satellite locations (Brussels, Bruges, Ghent).",
+  "about": "Dhamma Pajjota is the first Vipassana center established in the Benelux region, opened in June 2000 in a rural part of Belgian Limburg near Dilsen-Stokkem, close to the borders of the Netherlands and Germany. Its name, given by S.N. Goenka, means \"Light\" or \"Torch\" of Dhamma. Set on an 11-acre site with a dedicated meditation hall, the center can accommodate around 110 students and welcomes more than 2,000 people a year to residential courses taught in English alongside Dutch, French, or German. It is run entirely by volunteers through the Belgian non-profit Vipassana vzw and, like all centers in the Goenka network, offers courses completely free of charge, funded solely by the voluntary donations of past students. Students live on-site, observe Noble Silence for most of the course, and follow a fixed daily schedule of meditation and recorded evening discourses.",
+  "schedule": "10-day courses run continuously throughout the year, with additional longer courses for old students and separate courses for children and teenagers, all on a fixed published schedule.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course.",
+    "source": "https://pajjota.dhamma.org/en/courses-for-adults/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) are asked to give some work service (dhamma seva) during their stay; new students generally are not required to work.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Vipassana Meditation: Dhamma Pajjota (home)",
+      "url": "https://pajjota.dhamma.org/en/"
+    },
+    {
+      "title": "The Centre in Belgium",
+      "url": "https://pajjota.dhamma.org/en/the-centre-in-belgium/"
+    },
+    {
+      "title": "Courses for Adults",
+      "url": "https://pajjota.dhamma.org/en/courses-for-adults/"
+    },
+    {
+      "title": "Travel Information",
+      "url": "https://pajjota.dhamma.org/en/travel-information/"
+    },
+    {
+      "title": "Course Schedule - Dhamma Pajjota (dhamma.org)",
+      "url": "https://www.dhamma.org/en/schedules/schpajjota"
+    },
+    {
+      "title": "Dilsen-Stokkem (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Dilsen-Stokkem"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "kmc-espana",
+  "name": "KMC España - Centro de Meditación Kadampa",
+  "aka": [
+    "Templo Kadampa de Alhaurín el Grande",
+    "Sixth Kadampa Temple for World Peace",
+    "KMC Spain",
+    "Kadampa Meditation Centre Spain",
+    "Medita en Málaga"
+  ],
+  "website": "https://www.meditaenmalaga.org/",
+  "location": {
+    "address": "Camino Fuente del Perro, 50, 29120 Alhaurín el Grande, Málaga",
+    "city": "Alhaurín el Grande",
+    "region": "Andalucía, Spain",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 36.654,
+    "lng": -4.6437
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU): Modern Kadampa Buddhism in the Gelug-derived Ganden Oral Lineage",
+  "technique": "Guided Lamrim (stages of the path) meditation and teaching, Lojong mind-training, and tantric empowerment retreats, alongside ongoing General Program, Foundation Program and Teacher Training Program study classes",
+  "influences": [
+    "Venerable Geshe Kelsang Gyatso Rinpoche (founder)",
+    "Je Tsongkhapa / Ganden Oral Lineage",
+    "Atisha's Kadam lineage",
+    "Gen Kelsang Chokga (Resident Teacher and NKT-IKBU National Spiritual Director for Spain and Portugal)"
+  ],
+  "teacherAccess": "Resident Teacher Gen Kelsang Chokga leads regular weekly classes and courses at the Temple in Spanish and English, with visiting NKT teachers from Spain and abroad brought in for weekend and multi-day retreats and national festivals",
+  "retreatOptions": "Half-day and weekend courses; residential retreats of roughly 2-9 nights on Lamrim, Lojong and Tantric themes; national Kadampa festivals of about a week; ongoing General, Foundation and Teacher Training study programs; plus free guided tours of the Temple for day visitors",
+  "about": "KMC España is a New Kadampa Tradition Buddhist meditation centre in Alhaurín el Grande, at the foot of the Sierra de Mijas about 20 minutes from Málaga airport. Venerable Geshe Kelsang Gyatso Rinpoche founded it in 2006, converting a former hotel on a roughly 3-hectare estate into a Kadampa Meditation Centre with a shrine, gardens, a swimming pool and en-suite rooms. Between 2020 and 2022 the community built the Sixth Kadampa Temple for World Peace on the grounds, now one of the largest Buddhist temples in Europe, seating around 250 people alongside the original residential complex. It is led by Resident Teacher Gen Kelsang Chokga, a Spanish Kadampa nun who also serves as NKT-IKBU National Spiritual Director for Spain and Portugal, and offers weekly General, Foundation and Teacher Training Program classes plus day courses, weekend courses and residential retreats with visiting teachers throughout the year. The centre also runs an urban satellite temple, KMC Málaga, near the city's main train station, and welcomes day visitors and school groups for free guided tours.",
+  "schedule": "Courses and retreats combine Dharma teaching sessions with guided meditation across a day, weekend or several days in the Temple, with free time to relax by the pool or in the gardens; weekday evening study classes run in both Spanish and English for local students year-round",
+  "cost": "Courses and retreats are priced per session or day, with overnight retreatants adding a per-night accommodation tier (double, shared, or dormitory room); a roughly 25% deposit is typical for booked courses, and day visits plus guided temple tours are free",
+  "pricePerDay": {
+    "min": 45,
+    "max": 95,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Residential retreat packages bundle sessions, lodging and full board: a shared room (3-4 people per room) runs about €45/night per person up to a double room (2 people, separate beds) at about €95/night per person, with a 6-8 person dormitory tier in between at about €60/night. Non-retreat course attendees booking accommodation only pay separately for meals (breakfast €5, lunch €9, dinner €6).",
+    "source": "https://www.meditaenmalaga.org/retiros-de-meditacion/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Visitor reviews describe the on-site cafeteria's vegetarian meals as excellent; residential retreat packages bundle full board (breakfast, lunch, dinner), while day-course attendees or accommodation-only guests can pre-book meals à la carte.",
+  "workRequired": "partial",
+  "workNotes": "Paying course and retreat guests are not required to work. A separate ongoing volunteer programme (minimum one-week trial, references requested) asks helpers to contribute to cooking, cleaning, gardening, office, shop and cafeteria duties in exchange for community life and classes, with two free days a week.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Medita en Málaga - home page",
+      "url": "https://www.meditaenmalaga.org/"
+    },
+    {
+      "title": "Retiros de meditación (retreat pricing)",
+      "url": "https://www.meditaenmalaga.org/retiros-de-meditacion/"
+    },
+    {
+      "title": "Cursos y Retiros de meditación",
+      "url": "https://www.meditaenmalaga.org/cursos-y-retiros/"
+    },
+    {
+      "title": "Bonos y tarjetas (accommodation and meal add-on pricing)",
+      "url": "https://www.meditaenmalaga.org/bonos-y-tarjetas/"
+    },
+    {
+      "title": "Voluntariado (volunteer programme)",
+      "url": "https://www.meditaenmalaga.org/voluntariado/"
+    },
+    {
+      "title": "KMC Spain - Kadampa Buddhism (history, resident teacher, facilities)",
+      "url": "https://kadampa.org/center/kmc-spain"
+    },
+    {
+      "title": "Sixth Kadampa Temple for World Peace, Malaga, Spain",
+      "url": "https://kadampa.org/temple/temple-for-world-peace-malaga"
+    },
+    {
+      "title": "Visita especial al templo Kadampa de Alhaurín el Grande",
+      "url": "https://kadampa.org/2022/07/special-visit-to-the-kadampa-temple-in-alhaurin-el-grande"
+    },
+    {
+      "title": "KMC España - Centro de Meditación Kadampa (Tripadvisor reviews, facilities and food)",
+      "url": "https://www.tripadvisor.com/Hotel_Review-g664991-d8616165-Reviews-KMC_Espana_Centro_de_Meditacion_Kadampa-Alhaurin_el_Grande_Costa_del_Sol_Province_of_M.html"
+    },
+    {
+      "title": "Meditación y budismo en Alhaurín el Grande",
+      "url": "https://www.ruralsierrasol.es/meditacion-y-budismo-en-alhaurin-el-grande/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

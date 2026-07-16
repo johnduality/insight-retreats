@@ -1,0 +1,102 @@
+{
+  "id": "tierra-de-budas",
+  "name": "Tierra de Budas",
+  "aka": [
+    "Centro de Retiros Tierra de Budas",
+    "Thubten Dhargye Ling - Tierra de Budas",
+    "Budismo Tibetano La Vera"
+  ],
+  "website": "https://budismotibetanolavera.com/",
+  "location": {
+    "address": "Ctra. Ex-203, km 76 (Paraje Mañero, Polígono 7, Parcela 308), 10470 Villanueva de la Vera",
+    "city": "Villanueva de la Vera",
+    "county": "Cáceres",
+    "region": "Extremadura, Spain",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 40.1298542,
+    "lng": -5.4627097
+  },
+  "tradition": "Tibetan Mahayana Buddhism, Gelugpa (Gelug) school, under the Thubten Dhargye Ling Buddhist Community",
+  "technique": "Guided meditation and Lam Rim teachings, communal group retreats, self-directed personal (silent) retreat, plus periodic yoga and Tibetan wellness programs",
+  "influences": [
+    "Lama Geshe Tsering Palden",
+    "Sera Monastery / Gelugpa lineage",
+    "Dalai Lama",
+    "Thubten Dhargye Ling Buddhist Community (Madrid)"
+  ],
+  "teacherAccess": "Scheduled group retreats and courses include teachings and guided practice led by visiting Gelug lamas and teachers from the Thubten Dhargye Ling community; self-directed personal retreats have no obligatory teacher contact",
+  "retreatOptions": "Weekend to multi-day group retreats, seminars, and courses (meditation, Buddhist philosophy, Tibetan medicine, yoga) scheduled through the year; self-directed personal retreat weeks (bookable individually or consecutively) especially in summer; accommodation for outside groups of up to about 30",
+  "about": "Tierra de Budas is the retreat center of the Thubten Dhargye Ling Buddhist Community, inaugurated in September 2018 on a forested hillside on the southern slope of the Sierra de Gredos, in the Comarca de la Vera near Villanueva de la Vera, Cáceres, about two hours from Madrid. It follows the Gelugpa school of Tibetan Mahayana Buddhism under the guidance of the Venerable Lama Geshe Tsering Palden, a Tibetan monk who trained at Sera Monastery, followed the Dalai Lama into exile in 1959, and founded Thubten Dhargye Ling in Madrid in 2003. The grounds span some 13 hectares of oak, olive, and fig trees near the Minchones gorge, and include a gompa (shrine hall) and a large Stupa of Peace. Alongside scheduled group retreats and courses on meditation, Buddhist philosophy, Tibetan medicine, and yoga, the center supports self-directed personal retreats bookable by the week and hosts outside groups. Accommodation ranges from single to triple rooms and an adapted accessible room, with an on-site vegetarian dining hall; a resident-volunteer program (minimum three months, with a two-week trial) offers free room and board in exchange for work.",
+  "schedule": "Organized retreats and courses follow a program of teachings, guided meditation, and communal vegetarian meals centered on the gompa and stupa; self-directed personal retreat weeks are self-paced, with optional participation in the center's daily rhythm",
+  "cost": "Room-only rates via the center's online booking engine (breakfast included) run roughly €69-137 per room per night depending on room type; organized retreats, courses, and seminars (yoga, Tibetan medicine, meditation) are priced per program with full board; resident volunteers receive free room and board in exchange for at least three months of work",
+  "pricePerDay": {
+    "min": 69,
+    "max": 95,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Standard online room booking (accommodation plus continental breakfast only, not a full retreat package): Individual €69/night, Doble Estándar €82/night, Doble Superior €95/night (Adaptada/accessible €99, Triple €137, both excluded as outliers). Organized multi-day retreat programs with full board are priced separately per event and were not itemized on the public site.",
+    "source": "https://budismotibetanolavera.com/habitaciones/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "On-site dining serves vegetarian meals described as healthy and balanced; standard room bookings include continental breakfast only, with half/full board available and typically included in organized retreat and course prices.",
+  "workRequired": "no",
+  "workNotes": "Not required of retreat guests or personal-retreat visitors. A separate voluntariado (resident volunteer) track exists for a minimum three-month commitment (two-week trial period), covering maintenance, cleaning, gardening, office, and outreach tasks in exchange for free accommodation and food.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "silent",
+    "long-retreats",
+    "self-guided",
+    "day-retreats",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "no-work-required",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Tierra de Budas - home page",
+      "url": "https://budismotibetanolavera.com/"
+    },
+    {
+      "title": "Habitaciones (room types and rates)",
+      "url": "https://budismotibetanolavera.com/habitaciones/"
+    },
+    {
+      "title": "Quiénes somos",
+      "url": "https://budismotibetanolavera.com/quienes-somos/"
+    },
+    {
+      "title": "Tierra de Budas (about the land/center)",
+      "url": "https://budismotibetanolavera.com/tierra-de-budas/"
+    },
+    {
+      "title": "Alojamiento",
+      "url": "https://budismotibetanolavera.com/alojamiento/"
+    },
+    {
+      "title": "Haz tu retiro",
+      "url": "https://budismotibetanolavera.com/haz-tu-retiro/"
+    },
+    {
+      "title": "Retiros personales",
+      "url": "https://budismotibetanolavera.com/retiros-personales/"
+    },
+    {
+      "title": "Voluntariado",
+      "url": "https://budismotibetanolavera.com/voluntariado/"
+    },
+    {
+      "title": "Muy Venerable Lama Geshe Tsering Palden (biography)",
+      "url": "https://budismotibetanomadrid.org/muy-venerable-lama-geshe-tsering-palden/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

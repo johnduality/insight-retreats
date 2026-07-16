@@ -1,0 +1,90 @@
+{
+  "id": "imc-austria",
+  "name": "International Meditation Centre (IMC) Austria",
+  "aka": [
+    "IMC-Österreich",
+    "Internationales Meditationszentrum Österreich",
+    "Sayagyi U Ba Khin Meditationsgesellschaft Österreich"
+  ],
+  "website": "https://www.imc-austria.com",
+  "location": {
+    "address": "Wabelsdorfer Straße 9, 9130 St. Michael ob der Gurk",
+    "city": "St. Michael ob der Gurk",
+    "county": "Klagenfurt-Land",
+    "region": "Carinthia, Austria",
+    "country": "Austria",
+    "state": "AT",
+    "lat": 46.6814,
+    "lng": 14.5024
+  },
+  "tradition": "Theravada Buddhist Vipassana in the lineage of Sayagyi U Ba Khin and Mother Sayamagyi",
+  "technique": "Anapana breath-awareness concentration followed by Vipassana body-scanning insight meditation, within the classical Sila-Samadhi-Panna framework",
+  "influences": [
+    "Sayagyi U Ba Khin",
+    "Mother Sayamagyi",
+    "IMC Yangon (Myanmar)"
+  ],
+  "teacherAccess": "Daily morning and evening Dhamma talks from the teacher, plus a mandatory one-on-one 'checking' interview at least once a day",
+  "retreatOptions": "Residential 10-day silent Vipassana courses held several times a year; students may also attend just the first weekend (three days, covering the Sila and Samadhi stages) rather than the full ten days",
+  "about": "International Meditation Centre (IMC) Austria is a Theravada Vipassana centre near the small village of St. Michael ob der Gurk in Carinthia, about 17 km east of Klagenfurt. It was founded in 1990 by the Sayagyi U Ba Khin Meditationsgesellschaft Österreich and belongs to the worldwide network of IMCs, including IMC Yangon in Myanmar, IMC England, IMC USA, and the IMC centres in Australia, that carry on the practical Buddha-Dhamma teaching of Sayagyi U Ba Khin as passed down through his successor, Mother Sayamagyi. The centre's main offering is a residential 10-day course teaching Anapana breath-concentration followed by Vipassana body-scanning insight meditation. Courses keep Noble Silence among students, run on a fixed daily timetable from 4am to 9pm with two daily Dhamma talks, and include a mandatory one-on-one interview ('checking') with the teacher. Newcomers may attend the full ten days or just the first three-day weekend, and no prior Buddhist belief or practice is required. The teaching itself is given free of charge, though a fixed cash contribution toward room and board is expected.",
+  "schedule": "10-day courses run a fixed timetable from 4:00am wake-up to 9:00pm lights-out with roughly 9-10 hours of group and individual sitting, two daily Dhamma talks, and one daily teacher 'checking' interview; Noble Silence is kept among students throughout.",
+  "cost": "Teaching is free; a cash-only contribution of EUR 350 toward room and board is expected for a 10-day course.",
+  "pricePerDay": {
+    "min": 35,
+    "max": 35,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "EUR 350 cash-only room-and-board contribution for a 10-day course works out to roughly EUR 35/night; this covers lodging and meals only, since instruction itself is offered free of charge.",
+    "source": "https://www.imc-austria.com/anmelden.html"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Varied vegetarian meals are served; special diets can only be accommodated for medically confirmed food allergies.",
+  "workRequired": "no",
+  "workNotes": "All work at the centre is volunteer-run rather than assigned; course participants may optionally help with light daily tasks, and kitchen help during courses is open to students who have already completed a previous course in the tradition.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "diet-vegetarian",
+    "fixed-fee",
+    "dana-donation",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "IMC-Austria home page",
+      "url": "https://www.imc-austria.com/"
+    },
+    {
+      "title": "IMC-Österreich (about the centre)",
+      "url": "https://www.imc-austria.com/imcaustria.html"
+    },
+    {
+      "title": "Die Meditation (technique overview)",
+      "url": "https://www.imc-austria.com/meditation.html"
+    },
+    {
+      "title": "Kursregeln (course rules and daily schedule)",
+      "url": "https://www.imc-austria.com/kursregeln.html"
+    },
+    {
+      "title": "Häufige Fragen (FAQ, incl. cost and food)",
+      "url": "https://www.imc-austria.com/fragen.html"
+    },
+    {
+      "title": "Anmeldung (registration form, cost and schedule details)",
+      "url": "https://www.imc-austria.com/anmelden.html"
+    },
+    {
+      "title": "Anreise (directions and exact address)",
+      "url": "https://www.imc-austria.com/anreise.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "kamalashila-institute",
+  "name": "Kamalashila Institute",
+  "aka": [
+    "Kamalashila Institut für buddhistische Studien und Meditation",
+    "Kamalashila Institute for Buddhist Studies and Meditation"
+  ],
+  "website": "https://kamalashila.de/",
+  "location": {
+    "address": "Kirchstraße 22a, 56729 Langenfeld/Eifel",
+    "city": "Langenfeld (Eifel)",
+    "county": "Mayen-Koblenz",
+    "region": "Eifel, Rhineland-Palatinate, Germany",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 50.3833,
+    "lng": 7.1
+  },
+  "tradition": "Tibetan Buddhism, Karma Kagyü lineage; European seat of the XVII Gyalwang Karmapa",
+  "technique": "Tibetan Vajrayana practice: daily pujas, guru yoga, tonglen, and deity meditation (e.g. Medicine Buddha, Amitabha/Bardo practice), plus visiting-teacher courses in mindfulness (MBSR-style) and Buddhist-informed psychotherapy",
+  "influences": [
+    "Dzogchen Ponlop Rinpoche (spiritual director)",
+    "XVII Gyalwang Karmapa, Ogyen Trinley Dorje",
+    "Karma Kagyü Gemeinschaft Deutschland e.V.",
+    "Acharya Lama Sönam Rabgye (resident lama)",
+    "Acharya Lama Kelzang Wangdi (resident lama)"
+  ],
+  "teacherAccess": "Two resident lamas lead daily pujas/meditation and are available for individual conversations about practice; visiting teachers (Tibetan lamas alongside Western Buddhist and secular teachers) lead scheduled weekend and multi-day courses",
+  "retreatOptions": "Weekend and multi-day courses and retreats (roughly 2-10 nights) with visiting or resident teachers, an annual 10-day silent retreat, open-ended personal/private retreats and self-organized group retreats without a course leader, multi-week volunteer work stays, and online courses via the Kamalashila Online Campus",
+  "about": "Kamalashila Institute is a Tibetan Buddhist study and meditation center in Langenfeld, a small village in the Eifel hills of Rhineland-Palatinate, about 30 minutes from Koblenz. Founded in 1981 as one of the first Tibetan Buddhist centers in Europe and based at this site since 1999, it serves as the European seat of the XVII Gyalwang Karmapa and is the principal center of the Karma Kagyü Gemeinschaft Deutschland, the German branch of the Karma Kagyü lineage. Two resident lamas, Acharya Lama Sönam Rabgye and Acharya Lama Kelzang Wangdi, live on site and lead daily pujas and meditation practice, while Dzogchen Ponlop Rinpoche serves as spiritual director and visits regularly from his own center in Seattle. Alongside a year-round program of weekend and multi-day courses taught by visiting Tibetan, European, and American teachers - ranging from traditional Kagyü practice and an annual silent retreat to mindfulness-based stress reduction and Buddhist-informed psychotherapy - the institute welcomes guests for self-directed personal retreats, offers multi-week volunteer work stays, and runs an online campus of livestreamed and self-study courses. On-site facilities include an extensive Buddhist library, a Dharma shop, and the weekend Café Stupa.",
+  "schedule": "Daily practice centers on morning pujas or silent meditation led by the resident lamas; course days combine teaching sessions with meals and a period of house or garden work for participants",
+  "cost": "Accommodation and food are billed as fixed daily rates by room type - shared dorm EUR10, double without shower EUR15, double with shower EUR20, plus a EUR10 single-room surcharge - and EUR42/day for vegetarian full board during courses (or a EUR3/day kitchen-use fee for self-catering guest stays); teaching/course fees are set per programme and are often offered on a dana (donation) basis, with a 20% rebate for sponsoring members, students, and the unemployed.",
+  "pricePerDay": {
+    "min": 52,
+    "max": 72,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Course-guest room + full board: shared dorm (EUR10/night) + vegetarian full board (EUR42/day) = EUR52/day at the low end; single room with shower (EUR20 double rate + EUR10 single surcharge = EUR30/night) + full board = EUR72/day at the high end. A separate flat rate applies to self-organized personal retreats of 7+ nights: EUR15/day room plus EUR18/day for self-catering meal contribution (EUR33/day total); a 4-week stay drops to EUR12+EUR18=EUR30/day.",
+    "source": "https://kamalashila.de/en/services/organisational-matters/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian full board (breakfast, lunch, dinner, plus free tea and hot water throughout the day) costs EUR42/day for course participants; guests staying without a course self-cater in the retreat kitchen for a EUR3/day usage fee instead. Allergies and intolerances can be accommodated with advance notice.",
+  "workRequired": "yes",
+  "workNotes": "Every course participant is asked to help out with a period of house or garden work each day, since the institute relies on guest and volunteer labor; separately, longer multi-week volunteer work stays can be arranged directly with the office.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "fixed-fee",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Kamalashila Institut - home page",
+      "url": "https://kamalashila.de/"
+    },
+    {
+      "title": "Das Kamalashila Institut (about/institute page)",
+      "url": "https://kamalashila.de/institut/"
+    },
+    {
+      "title": "Contact",
+      "url": "https://kamalashila.de/en/contact/"
+    },
+    {
+      "title": "Our office / contact persons",
+      "url": "https://kamalashila.de/en/services/office/"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://kamalashila.de/en/services/faq/"
+    },
+    {
+      "title": "Organisational Information (meals, accommodation, prices, directions)",
+      "url": "https://kamalashila.de/en/services/organisational-matters/"
+    },
+    {
+      "title": "Privat-Retreats (guest-stay pricing)",
+      "url": "https://kamalashila.de/privat-retreats/"
+    },
+    {
+      "title": "Langenfeld (Eifel) - Wikipedia",
+      "url": "https://de.wikipedia.org/wiki/Langenfeld_(Eifel)"
+    },
+    {
+      "title": "56729 Langenfeld, Eifel - geodata (postal code coordinates)",
+      "url": "https://www.geonum.de/postleitzahl-56729/langenfeld-eifel-19927.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

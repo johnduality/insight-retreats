@@ -1,0 +1,99 @@
+{
+  "id": "forest-hermitage-warwick",
+  "name": "The Forest Hermitage",
+  "aka": [
+    "Wat Pa Santidhamma",
+    "Santidhamma",
+    "Bhavana Dhamma",
+    "The Forest Hermitage Trust"
+  ],
+  "website": "https://foresthermitage.org.uk/",
+  "location": {
+    "address": "Fulbrook Lane, Lower Fulbrook, Warwick, CV35 8AS",
+    "city": "Lower Fulbrook",
+    "county": "Warwickshire",
+    "region": "Warwickshire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 52.243313,
+    "lng": -1.631563
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition in the lineage of Ajahn Chah (official branch no. 158 of Wat Nong Pah Pong)",
+  "technique": "Samatha-Vipassana (calm and insight) sitting and walking meditation woven into a monastic schedule of chanting and work",
+  "influences": [
+    "Ajahn Chah",
+    "Wat Nong Pah Pong",
+    "Luang Por Khemadhammo (Ajahn Khemadhammo / Chao Khun Bhavanaviteht OBE)",
+    "Thai Forest Tradition"
+  ],
+  "teacherAccess": "Monday and Friday evening meditation and Dhamma talks open to the public, in person and via Zoom; retreat participants get daily talks and a Q&A session with the monks, and overnight guests receive individual meditation instruction",
+  "retreatOptions": "Twice-weekly public meditation evenings (in person and online); occasional scheduled weekend, long-weekend, or week-long group retreats at Bhavana Dhamma; open-ended personal guest stays (currently minimum 2 weeks) for men at the Hermitage and women at Bhavana Dhamma",
+  "about": "The Forest Hermitage (Wat Pa Santidhamma) is a small Theravada Buddhist monastery in the Thai Forest Tradition, set in rural Warwickshire near Warwick. It was established in 1984 by Luang Por Khemadhammo (Ajahn Khemadhammo, Chao Khun Bhavanaviteht OBE), a British disciple of Ajahn Chah, and became an official branch, no. 158, of Wat Nong Pah Pong in 1999. The site comprises two properties: Santidhamma, where the monks live, and Bhavana Dhamma, a separate house for nuns, female devotees, and retreat guests. Alongside twice-weekly public meditation evenings, the hermitage occasionally runs scheduled group retreats at Bhavana Dhamma and accepts longer personal guest stays for serious practitioners willing to live by the eight precepts and follow the daily round of meditation, chanting, and work. It also serves as the headquarters of Angulimala, the Buddhist Prison Chaplaincy Organisation, and is entirely supported by dana (donations).",
+  "schedule": "Guest daily routine: 5:30am wake bell, 6am group sitting, 7:30am work period, 10:30-11am single daily meal, afternoon individual practice/work, 8pm evening sitting, 9pm free time; scheduled retreats follow a similar sitting/walking meditation timetable with Saturday/Sunday Dhamma talks and a Q&A session.",
+  "cost": "No fixed charge for guest stays, public meditation evenings, or scheduled retreats; the hermitage depends entirely on dana (voluntary donations).",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Strictly donation-based; personal guest stays currently require a minimum of 2 weeks, while scheduled group retreats at Bhavana Dhamma run for a weekend, long weekend, or week.",
+    "source": "https://foresthermitage.org.uk/staying-overnight/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "One vegetarian meal a day is served around 10:30-11am in line with the Thai Forest Tradition; special diets cannot be accommodated and milk, soya milk, Ovaltine, and Horlicks are avoided outside mealtime.",
+  "workRequired": "yes",
+  "workNotes": "Guests and retreatants join a daily work period (sometimes an afternoon one too) as an integral part of practice, alongside sitting/walking meditation, chanting, and strict observance of the eight precepts and noble silence.",
+  "tags": [
+    "theravada",
+    "day-retreats",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "The Forest Hermitage - home page",
+      "url": "https://foresthermitage.org.uk/"
+    },
+    {
+      "title": "About - The Forest Hermitage",
+      "url": "https://foresthermitage.org.uk/about/"
+    },
+    {
+      "title": "Community - The Forest Hermitage",
+      "url": "https://foresthermitage.org.uk/community/"
+    },
+    {
+      "title": "Staying Overnight - The Forest Hermitage",
+      "url": "https://foresthermitage.org.uk/staying-overnight/"
+    },
+    {
+      "title": "Retreats - The Forest Hermitage",
+      "url": "https://foresthermitage.org.uk/retreats/"
+    },
+    {
+      "title": "Directions - The Forest Hermitage",
+      "url": "https://foresthermitage.org.uk/directions/"
+    },
+    {
+      "title": "Forest Hermitage, Fulbrook Lane, Lower Fulbrook, Warwick, CV35 8AS - postcode lookup",
+      "url": "https://www.ukpostcodecheck.com/address/fff4ca94/forest-hermitage_fulbrook-lane_lower-fulbrook_warwick_cv35-8as"
+    },
+    {
+      "title": "Doogal UK postcode lookup for CV35 8AS (coordinates)",
+      "url": "https://www.doogal.co.uk/UKPostcodes?Search=CV35+8AS"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "dhamma-sumeru",
+  "name": "Dhamma Sumeru",
+  "aka": [
+    "Swiss Vipassana Meditation Centre",
+    "Vipassana Meditation Centre Dhamma Sumeru"
+  ],
+  "website": "https://sumeru.dhamma.org/",
+  "location": {
+    "address": "No. 140, 2610 Mont-Soleil, Switzerland",
+    "city": "Mont-Soleil",
+    "region": "Bernese Jura, Bern, Switzerland",
+    "country": "Switzerland",
+    "state": "CH",
+    "lat": 47.164,
+    "lng": 6.989
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded evening discourses and are available for brief questions.",
+  "retreatOptions": "Standard 10-day courses (held roughly twice a month year-round), plus shorter 3-day old-student courses, Satipatthana Sutta courses, sit-and-serve/work periods, and separate courses for children and teenagers.",
+  "about": "Dhamma Sumeru is Switzerland's dedicated Vipassana center, set at roughly 1,100 metres on the flank of Mont-Soleil ('Mount Sun') in the Bernese Jura, a short climb above the town of St-Imier between Biel/Bienne and La Chaux-de-Fonds. Founded in November 1999, it sits amid quiet pastures and forest in one of the sunniest spots in Switzerland. The center offers residential courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, most commonly the standard 10-day course held roughly twice a month year-round, with meditation instructions given in the student's own language (French, German, Italian, or English). Students live on site, observe Noble Silence for most of the course, and follow a fixed daily meditation schedule. Alongside the adult 10-day courses it runs shorter 3-day and Satipatthana Sutta courses for old students, work/service periods, and dedicated courses for children and teenagers. Like all centers in the Goenka network, it is run entirely by volunteers and funded purely by dana (voluntary donation), with courses offered free of charge to all who attend.",
+  "schedule": "Courses run continuously year-round, mainly 10-day courses about twice a month (alternating languages), plus periodic 3-day old-student courses, Satipatthana Sutta courses, work periods, and children's/teens' courses, all on a fixed published schedule.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CHF",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course.",
+    "source": "https://sumeru.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) may give work service (dhamma seva) during their stay, including dedicated sit-and-serve and work-period courses; new students generally are not required to work.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Sumeru - Vipassana Meditation Centre (official site)",
+      "url": "https://sumeru.dhamma.org/"
+    },
+    {
+      "title": "Dhamma Sumeru course schedule (dhamma.org)",
+      "url": "https://www.dhamma.org/en/schedules/schsumeru"
+    },
+    {
+      "title": "Mont Soleil (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mont_Soleil"
+    },
+    {
+      "title": "Saint-Imier (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Saint-Imier"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

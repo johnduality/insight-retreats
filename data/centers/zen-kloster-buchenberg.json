@@ -1,0 +1,97 @@
+{
+  "id": "zen-kloster-buchenberg",
+  "name": "Zen-Kloster Buchenberg",
+  "aka": [
+    "Daishin Zen Kloster und Seminarzentrum Buchenberg",
+    "Daishin Zen Kloster gGmbH",
+    "Daishin Zen"
+  ],
+  "website": "https://www.daishinzen.de/",
+  "location": {
+    "address": "Hölzlers 169, 87474 Buchenberg",
+    "city": "Buchenberg",
+    "region": "Allgäu, Bavaria",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 47.71167,
+    "lng": 10.22821
+  },
+  "tradition": "Daishin Zen — an independent Western order of Japanese Rinzai Zen",
+  "technique": "Zazen (seated meditation), kinhin (walking meditation), teisho (dharma talks), dokusan/darshan (teacher interviews), samu (work practice); Yin-Zen heart-centered practices also taught",
+  "influences": [
+    "Hinnerk (Syobu) Polenski, founding Zen master and abbot",
+    "Reiko Mukai Roshi, teacher and lineage co-founder",
+    "Oi Saidan Roshi, Hokoji Rinzai Zen monastery, Japan",
+    "Karlfried Graf Dürckheim's Initiatische Therapie"
+  ],
+  "teacherAccess": "Teisho (dharma talks) and darshan from the teacher during seminars; one-on-one dokusan interviews with the Zen master or an authorized Sensei offered during sesshins",
+  "retreatOptions": "One-day intro sessions and weekend seminars up to 5-day and traditional 7-day sesshins, plus online sesshins for members; committed practitioners can also join the community long-term as a live-in Shiroto",
+  "about": "Zen-Kloster Buchenberg is the monastery and seminar center of Daishin Zen, an independent Western order of Japanese Rinzai Zen founded by Hinnerk (Syobu) Polenski under his teacher Reiko Mukai Roshi, formally named in 1998 and self-standing since 2010. Set on a 30,000 square-metre hillside property near the hamlet of Hölzlers above the village of Buchenberg in the Bavarian Allgäu, the center has occupied its current site since 2014 and pairs a working monastery — home to resident monastics, nuns, and long-term lay residents called Shiroto — with a guesthouse and seminar operation. It hosts the order's traditional 7-day and 5-day sesshins and weekend seminars, alongside a Yin-Zen line of heart-centered practice, Zen Leadership courses for professionals, and online sesshins for members. Daishin Zen deliberately balances rigorous zazen with a gentler, more Yin-oriented approach meant to make traditional Rinzai training accessible to Western practitioners. Beyond structured group retreats, guests can also stay on as a Shiroto, contributing daily work (samu) to the life of the monastery.",
+  "schedule": "Sesshin days follow a traditional monastic structure beginning around 4:30am with silent zazen, then recitation, tea ceremony (sarei), further zazen, teisho, samu (work practice), darshan and dokusan interviews, running through evening zazen and recitation; weekend and 5-day seminars use a lighter version of the same daily rhythm",
+  "cost": "Course fees are billed separately from room and board on a fixed-fee basis: recent listings show a normal price of roughly EUR 290 for a weekend seminar and EUR 390 for a 5-day seminar (with a EUR 100 discount for members of affiliated local Zendo groups), plus accommodation and full board in the on-site Rinzai-Haus or Dakini-Haus guesthouse, with single rooms reported around EUR 74-94/night and a separate roughly EUR 30/day beverage flat rate",
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Full board is included with seminar stays; a breakfast buffet is offered, and lunch and dinner include a choice of vegetarian, vegan, and meat dishes.",
+  "workRequired": "yes",
+  "workNotes": "Samu (work practice) is a scheduled part of the daily sesshin program for all participants; long-term live-in Shiroto residents take on a fuller daily workload to support the monastery.",
+  "tags": [
+    "zen",
+    "silent",
+    "day-retreats",
+    "online-hybrid",
+    "diet-vegan",
+    "diet-vegetarian",
+    "diet-omnivore",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Daishin Zen — home page",
+      "url": "https://www.daishinzen.de/"
+    },
+    {
+      "title": "Das Zen-Kloster Buchenberg",
+      "url": "https://daishinzen.de/das-kloster/"
+    },
+    {
+      "title": "Daishin Zen — tradition and history",
+      "url": "https://daishinzen.de/daishin-zen/"
+    },
+    {
+      "title": "Zen-Meister Hinnerk Polenski",
+      "url": "https://daishinzen.de/hinnerk-polenski/"
+    },
+    {
+      "title": "Daishin Zen Schule — Zen-Meditation, Seminare, Sesshins (booking site)",
+      "url": "https://www.zen-kloster.de/"
+    },
+    {
+      "title": "7-Tages-Sesshin im Zen-Kloster Buchenberg",
+      "url": "https://zen-kloster.de/seminare_neu/sesshin/"
+    },
+    {
+      "title": "Wochenend-Seminar im Zen-Kloster Buchenberg",
+      "url": "https://zen-kloster.de/seminare_neu/Wochenend-Seminar/"
+    },
+    {
+      "title": "Zimmer / Unterkunft im Zen-Kloster Buchenberg",
+      "url": "https://zen-kloster.de/zimmer/"
+    },
+    {
+      "title": "Deutsche Buddhistische Union — Daishin Zen Kloster gGmbH",
+      "url": "https://buddhismus-deutschland.de/?zentren=daishin-zen-kloster-ggmbh"
+    },
+    {
+      "title": "Daishin Zen Kloster und Seminarzentrum — map/location",
+      "url": "https://mapcarta.com/W228853199"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

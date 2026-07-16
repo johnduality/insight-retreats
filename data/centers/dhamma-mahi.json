@@ -1,0 +1,76 @@
+{
+  "id": "dhamma-mahi",
+  "name": "Dhamma Mahī",
+  "aka": [
+    "Vipassana Meditation Centre Dhamma Mahi",
+    "Centre Vipassana Dhamma Mahī",
+    "Vipassana France"
+  ],
+  "website": "https://mahi.dhamma.org/",
+  "location": {
+    "address": "Le Bois Planté, 89350 Louesme (Champignelles), France",
+    "city": "Champignelles",
+    "region": "Yonne, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 47.777,
+    "lng": 3.17
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded (audio/video) evening discourses and are available for brief questions.",
+  "retreatOptions": "10-day courses (the standard offering, held once or twice a month year-round, in French, English, and occasionally Khmer); short 1-3 day courses for old students; and, for qualified returning students, longer Satipatthana Sutta, 20-, 30-, 45- and 60-day courses, plus separate courses for children and teenagers.",
+  "about": "Dhamma Mahī is France's founding and largest Vipassana center, set on roughly 100 acres of woods and meadows near the village of Villiers-Saint-Benoît in Champignelles, about 170 km south of Paris in the Yonne department of Burgundy. The property, originally a children's holiday camp, was purchased for Vipassana use in 1988 and named by S.N. Goenka himself (Dhamma Mahī means 'the land of Dhamma'); a neighboring farm was added in 1993, a new meditation hall accommodating 120 students and 30 servers was built in 2009, and further single-room accommodation buildings, including rooms designed for disabled students, opened in 2011-2012. The center runs one or two 10-day introductory Vipassana courses most months, taught in French, English, and occasionally Khmer, alongside longer courses for qualified returning students and separate courses for children and teenagers. As with all centers in the Goenka/dhamma.org network, courses follow the tradition of Sayagyi U Ba Khin, are held under Noble Silence on a fixed daily schedule, and are offered entirely free of charge, funded solely by voluntary donations from past students.",
+  "schedule": "One or two 10-day courses held most months year-round on a fixed published calendar, plus periodic longer courses (Satipatthana Sutta, 20-, 30-, 45-, 60-day) for qualified old students, short old-student courses, and separate children/teen courses.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students who completed a course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course with no set fee.",
+    "source": "https://mahi.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) are asked to give some work service (dhamma seva) during their stay; new students generally are not required to work, though volunteer servers run the kitchen and center.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "long-retreats",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Vipassana France - home page (mahi.dhamma.org)",
+      "url": "https://mahi.dhamma.org/"
+    },
+    {
+      "title": "Dhamma Mahī (Permanent center) - presentation",
+      "url": "https://fr.dhamma.org/en/dhamma-mahi-permanent-center/"
+    },
+    {
+      "title": "Travel guidance to Dhamma Mahī",
+      "url": "https://fr.dhamma.org/en/dhamma-mahi-permanent-center/travel-guidance/"
+    },
+    {
+      "title": "Course Qualification Requirements",
+      "url": "https://fr.dhamma.org/en/course-registration/registration/course-qualification-requirements/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

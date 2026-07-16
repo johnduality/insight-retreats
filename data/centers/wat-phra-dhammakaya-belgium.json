@@ -1,0 +1,83 @@
+{
+  "id": "wat-phra-dhammakaya-belgium",
+  "name": "Wat Phra Dhammakaya Belgium",
+  "aka": [
+    "Bron van Stilte",
+    "Wat Phra Dhammakaya Benelux",
+    "Centrum Dhammakaya",
+    "Huize Ronkenburg"
+  ],
+  "website": "https://www.bronvanstilte.be/",
+  "location": {
+    "address": "Ronkenburgstraat 25, 9340 Lede",
+    "city": "Lede",
+    "county": "Aalst",
+    "region": "East Flanders, Belgium",
+    "country": "Belgium",
+    "state": "BE",
+    "lat": 50.9741,
+    "lng": 3.9955
+  },
+  "tradition": "Dhammakaya Movement Thai Buddhism - a modern, Bangkok-founded reform tradition within Theravada, distinct from the older Thai Forest lineage, centred on visualization-based Dhammakaya meditation; this is the Belgian (Benelux) branch of the same movement as Wat Phra Dhammakaya London, run independently as a separate temple",
+  "technique": "Dhammakaya meditation: silently visualizing a bright crystal ball or Buddha image at the body's centre, often paired with the mantra 'samma arahang', to still and focus the mind",
+  "influences": [
+    "Wat Phra Dhammakaya (Pathum Thani, Thailand)",
+    "Luang Pu Sodh Candasaro",
+    "Dhammakaya Foundation",
+    "First Dhammakaya centre in Europe, founded in Ypres, Belgium in 1997"
+  ],
+  "teacherAccess": "Resident Thai monks trained at the movement's Thailand headquarters lead meditation sessions and give Dhamma talks, with time for questions after each session.",
+  "retreatOptions": "Weekly Monday evening meditation classes; single-day 'meditation days'; multi-day English-language residential retreats held at the temple; periodic multi-week European Ordination Programme (temporary monastic ordination for men, run since 2013).",
+  "about": "Wat Phra Dhammakaya Belgium, known locally as Bron van Stilte ('Source of Silence'), is a Thai Theravada Buddhist temple in Lede, East Flanders. It is a distinct, independently run branch of the same Bangkok-founded Dhammakaya movement as Wat Phra Dhammakaya London - officially named Wat Phra Dhammakaya Benelux - occupying Huize Ronkenburg, a historic moated manor estate that housed a community of Black Sisters nuns until 2010, before Thai Dhammakaya monks acquired the site and inaugurated its former chapel as a monastic ordination hall in 2012. Resident monks, trained at the movement's Thailand headquarters, teach Dhammakaya meditation - stilling the mind through visualization at the body's centre - alongside conventional Thai Buddhist practices such as chanting and merit-making. The centre runs weekly Dutch-language evening classes, single-day meditation days, and multi-day residential retreats conducted in English that follow a monastic-style timetable and the eight Buddhist precepts (no evening meal, alcohol, or entertainment, with men and women housed separately), though conversation is permitted. It also welcomes school groups for guided tours and introductory meditation, and periodically hosts a multi-week European Ordination Programme. Visitors of any background or experience level are welcome, in keeping with the wider international Dhammakaya network.",
+  "schedule": "Weekly Monday evening classes 19:00-21:00; single-day meditation days run 10:00-17:00; residential retreats follow a monastic timetable from roughly 5:30am wake-up to 10pm rest, with three meditation/Dhamma-talk blocks and no evening meal.",
+  "cost": "Weekly evening classes and temple visits are free or donation-based; meditation days and multi-day residential retreats require online registration, with fees not itemised on the Belgian site.",
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Retreats include a breakfast and a midday meal; in keeping with the eight precepts no dinner is served, though fruit juice, soy milk, and dairy such as chocolate milk or yoghurt are offered in the evening to ease the adjustment.",
+  "workRequired": "no",
+  "workNotes": "The published retreat schedule is filled entirely by meditation, yoga, Dhamma talks, and meals, with no work or service component asked of guests.",
+  "tags": [
+    "theravada",
+    "day-retreats",
+    "family-friendly",
+    "dana-donation",
+    "meals-included",
+    "no-work-required",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Bron van Stilte - Wat Phra Dhammakaya Belgium (official site)",
+      "url": "https://www.bronvanstilte.be/"
+    },
+    {
+      "title": "Voordelen (benefits of meditation, technique description)",
+      "url": "https://www.bronvanstilte.be/voordelen"
+    },
+    {
+      "title": "Meditatiedagen en retraites - Dhammakaya Nederland (retreat schedule, 8 precepts, sister-temple relationship)",
+      "url": "https://www.stichting-dhammakaya.nl/nl/retraites/"
+    },
+    {
+      "title": "Dhammakaya Worldwide Centers - Wat Phra Dhammakaya Benelux listing",
+      "url": "https://www.dhammakaya.net/modules/centers/worldwide-centers?country=be"
+    },
+    {
+      "title": "List of Dhammakaya branches - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Dhammakaya_branches"
+    },
+    {
+      "title": "Huize Ronkenburg met Centrum Dhammakaya - Gemeente Lede",
+      "url": "https://www.lede.be/ontspannen-en-beleven/toerisme/zien-en-doen/bezienswaardigheden/huize-ronkenburg-met-centrum-dhammakaya"
+    },
+    {
+      "title": "Huize Ronkenburg - Wikipedia (NL)",
+      "url": "https://nl.wikipedia.org/wiki/Huize_Ronkenburg"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

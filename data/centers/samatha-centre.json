@@ -1,0 +1,106 @@
+{
+  "id": "samatha-centre",
+  "name": "The Samatha Centre",
+  "aka": [
+    "Greenstreete",
+    "The National Samatha Centre",
+    "Samatha Trust, Greenstreete",
+    "The Samatha Trust"
+  ],
+  "website": "https://samatha.org/",
+  "location": {
+    "address": "Greenstreete, Llangunllo (near Knighton), Powys, LD7 1SP",
+    "city": "Llangunllo",
+    "county": "Powys",
+    "region": "Powys, Wales",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 52.334939,
+    "lng": -3.160134
+  },
+  "tradition": "Samatha-Vipassana tradition of Theravada Buddhism, rooted in the Thai Forest lineage brought to Britain by Nai Boonman",
+  "technique": "Breathing-mindfulness (anapanasati) samatha meditation, taught developmentally in stages toward jhana and insight",
+  "influences": [
+    "Nai Boonman Poonyathiro (Thai-Cambodian monk)",
+    "Pre-reform Thai/Southeast Asian Yogavacara jhana tradition",
+    "Acaan Mun and Luang Por Sodh lineages"
+  ],
+  "teacherAccess": "Group meetings, individual practice time, discussion, and one-to-one consultations with volunteer teachers throughout residential courses; teachers take no personal remuneration",
+  "retreatOptions": "Weekend (Friday evening-Sunday) and week-long Introductory residential courses for newcomers; Intermediate residential courses for those who have learned the practice's 16 stages; also local weekly classes and online/Zoom courses",
+  "about": "The Samatha Centre at Greenstreete is the national residential centre of the Samatha Trust, a Buddhist charity founded in 1973 to teach the Samatha-Vipassana meditation that the lay teacher Nai Boonman brought to Britain from Thailand in the 1960s, rooted in pre-reform Southeast Asian jhana practice. Set on an 88-acre former Welsh hill farm near Llangunllo and Knighton in Mid Wales, bought by the Trust in 1987, the centre has a converted farmhouse with individual accommodation, a purpose-built shrine hall and meditation hall, and forest meditation huts amid woodland, streams and a wetland created by members. It offers weekend and week-long residential Introductory courses teaching breathing-mindfulness meditation through group sessions, individual practice, discussion and one-to-one guidance, alongside Intermediate courses for more experienced practitioners. Members also pursue Pali chanting, textual study of the Abhidhamma, and land-management projects on the grounds. Teaching itself is always given freely; the Trust's wider activities, including local classes and Intermediate courses, run on voluntary donations, while Introductory residential courses carry a modest fixed fee.",
+  "schedule": "Weekend Introductory courses run Friday evening to Sunday after lunch (about 2pm); week-long Introductory and Intermediate courses also held; days include group meditation sessions, talks, discussion, one-to-one teacher consultations, and a daily kitchen work period",
+  "cost": "Teaching is always free; local classes and Intermediate residential courses are donation-only, while Introductory residential courses at Greenstreete charge a fixed two-tier fee (wage-earner vs. unwaged) payable six weeks in advance",
+  "pricePerDay": {
+    "min": 30,
+    "max": 60,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Weekend Introductory Course (Friday evening to Sunday ~2pm, 2 nights, meals and accommodation included): Unwaged GBP 60 to Wage-earner GBP 120, i.e. GBP 30-60/night. The week-long Introductory course is GBP 100 unwaged/GBP 200 waged; Intermediate courses and local classes are donation-only with no fixed fee.",
+    "source": "https://samatha.org/donations"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Meals are provided communally during residential courses and participants are generally asked to help in the kitchen; the site does not specify whether meals are vegetarian, vegan, or omnivore.",
+  "workRequired": "partial",
+  "workNotes": "Residential course participants are generally asked to help with kitchen duties, but this is a light communal chore rather than a formal work-retreat programme.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "online-hybrid",
+    "meals-included",
+    "work-practice",
+    "dana-donation",
+    "sliding-scale"
+  ],
+  "sources": [
+    {
+      "title": "Buddhist meditation in the Samatha tradition (home page)",
+      "url": "https://samatha.org/"
+    },
+    {
+      "title": "Meditation Centres",
+      "url": "https://samatha.org/3-centres"
+    },
+    {
+      "title": "The Samatha Trust",
+      "url": "https://samatha.org/samatha-trust"
+    },
+    {
+      "title": "Book a residential meditation course",
+      "url": "https://samatha.org/book-a-course"
+    },
+    {
+      "title": "Weekend or longer courses in meditation",
+      "url": "https://samatha.org/go-on-a-course"
+    },
+    {
+      "title": "Samatha Meditation - lineage and origins",
+      "url": "https://samatha.org/lineage-origins"
+    },
+    {
+      "title": "Samatha meditation (technique overview)",
+      "url": "https://samatha.org/what-we-offer/samatha-meditation"
+    },
+    {
+      "title": "Learn Samatha meditation",
+      "url": "https://samatha.org/learn-samatha-meditation"
+    },
+    {
+      "title": "Donations / How Are Courses Funded",
+      "url": "https://samatha.org/donations"
+    },
+    {
+      "title": "Contact Us (Greenstreete address)",
+      "url": "https://samatha.org/contact-us"
+    },
+    {
+      "title": "Postcode lookup for LD7 1SP (coordinates)",
+      "url": "https://www.doogal.co.uk/UKPostcodes?Search=LD7%201SP"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

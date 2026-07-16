@@ -1,0 +1,102 @@
+{
+  "id": "world-peace-stupa-retreat-center",
+  "name": "World Peace Stupa Retreat Center",
+  "aka": [
+    "World Peace Stupa Center Europe",
+    "WPSCE",
+    "Stupa Center Winterswijk"
+  ],
+  "website": "https://www.stupacenter.org/",
+  "location": {
+    "address": "Kreilweg 1, 7108 AK Winterswijk-Woold",
+    "city": "Winterswijk",
+    "region": "Gelderland, Netherlands",
+    "country": "Netherlands",
+    "state": "NL",
+    "lat": 51.928,
+    "lng": 6.717
+  },
+  "tradition": "Nyingma Tibetan Buddhism (Vajrayana), in the lineage of Lama Tarthang Tulku",
+  "technique": "Meditation, mantra and visualization practice, Kum Nye (Tibetan yoga), silent/digital-detox retreats, self-guided personal stays",
+  "influences": [
+    "Tarthang Tulku",
+    "Tibetan Nyingma Meditation Center (Berkeley, California)",
+    "Nyingma Amsterdam",
+    "Nyingma Zentrum Köln (Cologne)"
+  ],
+  "teacherAccess": "Weekend programs are led by visiting teachers/facilitators connected to the Nyingma centers in Amsterdam and Cologne; a fixed resident teacher is not indicated, and future longer retreats are planned with outside qualified teachers",
+  "retreatOptions": "Weekend group retreats (meditation, mantra, Kum Nye yoga, silent/digital-detox); midweek solo silent sabbaticals; self-guided 'open stay' visits; longer Buddhist retreats (Ngondro, Human Development, Lojong Mind Training, one week to three months) are planned in partnership with other Nyingma organizations but not yet a confirmed regular offering",
+  "about": "World Peace Stupa Retreat Center is a Nyingma Tibetan Buddhist retreat centre in Winterswijk-Woold, Gelderland, set in the rural National Landscape Winterswijk near the Dutch-German border. It is run by Stichting World Peace Stupa Center Europe (WPSCE), founded in Amsterdam in August 2024 as a joint initiative of the Nyingma centres in Amsterdam and Cologne, and stands in the lineage of Tibetan Lama Tarthang Tulku, founder of the Tibetan Nyingma Meditation Center in Berkeley, California. The centre opened in autumn 2025 with an opening weekend in October, and one of its central long-term projects is building a World Peace Stupa on the grounds to 'radiate hope and healing.' Its current programme consists mainly of weekend group retreats combining meditation, mantra and visualization practice, and Kum Nye (Tibetan yoga), plus midweek solo silent sabbaticals and self-guided 'open stay' visits, with longer partner-led Buddhist retreats planned but not yet regularly scheduled. The twelve-room house has a shared living room, dining room, library, two kitchens, and volunteer quarters, and is run largely by an on-site volunteer community who cook, garden, and maintain the grounds. As a very new centre, its retreat calendar and published pricing are still sparse and continuing to fill in.",
+  "schedule": "Weekend retreats typically run Friday evening to Sunday; midweek solo silent sabbaticals and self-guided open stays can be booked for a few nights outside the weekend programme; the full retreat calendar is still building out as the centre ramps up after its October 2025 opening",
+  "cost": "Weekend retreats are charged a fixed programme fee (not itemised in detail on the public calendar); partial scholarships are offered for at least some programmes, such as the Digital Detox weekend, when cost is a barrier",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Warm vegetarian ('healthy planet diet') meals are cooked on-site for groups of roughly 10-25 people, generally by volunteer cooks in one of the centre's two kitchens.",
+  "workRequired": "no",
+  "workNotes": "Paying retreat guests are not required to work; the centre instead relies on a separate volunteer programme (cooking, hospitality, gardening, building/maintenance) that people can apply to join, with dorm and bedroom space set aside for volunteers.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "World Peace Stupa Retreat Center - Home",
+      "url": "https://www.stupacenter.org/"
+    },
+    {
+      "title": "World Peace Stupa Center Europe (WPSCE)",
+      "url": "https://www.stupacenter.org/wpsce/"
+    },
+    {
+      "title": "Location",
+      "url": "https://www.stupacenter.org/location/"
+    },
+    {
+      "title": "Volunteering",
+      "url": "https://www.stupacenter.org/volunteering/"
+    },
+    {
+      "title": "Program",
+      "url": "https://www.stupacenter.org/program/"
+    },
+    {
+      "title": "Agenda",
+      "url": "https://www.stupacenter.org/agenda/"
+    },
+    {
+      "title": "Retreats",
+      "url": "https://www.stupacenter.org/buddhist-retreats/"
+    },
+    {
+      "title": "Organisations",
+      "url": "https://www.stupacenter.org/organisations/"
+    },
+    {
+      "title": "Mantra Retreat Weekend",
+      "url": "https://www.stupacenter.org/calendar/mantra-retreat-eekend/"
+    },
+    {
+      "title": "Silent Retreat - Digital Detox",
+      "url": "https://www.stupacenter.org/calendar/silent-retreat-digital-detox-2/"
+    },
+    {
+      "title": "Generating the Mind of Enlightenment",
+      "url": "https://www.stupacenter.org/calendar/generating_the_mind_of_enlightenment/"
+    },
+    {
+      "title": "World Peace Stupa Retreat Center - Nyingma Centrum listing",
+      "url": "https://www.nyingma.nl/stupa-center/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

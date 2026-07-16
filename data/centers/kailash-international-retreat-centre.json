@@ -1,0 +1,91 @@
+{
+  "id": "kailash-international-retreat-centre",
+  "name": "Kailash International Retreat Centre",
+  "aka": [
+    "Kailash IRC",
+    "Kailash Internationales Meditationszentrum"
+  ],
+  "website": "https://www.kailash.org/",
+  "location": {
+    "address": "Goldbiel 3, 3923 Törbel",
+    "city": "Törbel",
+    "region": "Valais, Switzerland",
+    "country": "Switzerland",
+    "state": "CH",
+    "lat": 46.2373,
+    "lng": 7.8521
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU): Modern Kadampa Buddhism in the Gelug-derived Ganden Oral Lineage",
+  "technique": "Guided Lamrim (stages of the path) meditation and teaching, Lojong mind-training, and tantric/Vajrayana practices such as Guru Yoga and Mahamudra, plus self-guided personal retreat",
+  "influences": [
+    "Venerable Geshe Kelsang Gyatso Rinpoche (founder)",
+    "Je Tsongkhapa / Ganden Oral Lineage",
+    "Atisha's Kadam lineage",
+    "Gen Kelsang Devi (Principal Teacher of Kailash IRC and KMC Switzerland)"
+  ],
+  "teacherAccess": "Principal Teacher Gen Kelsang Devi leads regular retreats and courses, with visiting NKT teachers (Gen-las and Kadams) brought in for festivals and themed retreats; retreat days include several teaching and guided-meditation sessions",
+  "retreatOptions": "Day visits and half-day/weekend courses; week-long thematic and Post-Festival retreats (roughly 5-9 nights); an annual Swiss Dharma Celebration festival weekend; a six-week Snow Mountain silent retreat each winter; plus year-round bed & breakfast stays for individual or self-guided personal retreat",
+  "about": "Kailash International Retreat Centre (Kailash IRC) is a Buddhist retreat centre set at about 1,502m above the historic village of Törbel in the Wallis (Valais) region of the Swiss Alps, with panoramic views up the Matter and Saas valleys toward the Weisshorn. Founded in 2008 by Geshe Kelsang Gyatso, it is the main centre for Kadampa retreats in Europe and belongs to the New Kadampa Tradition - International Kadampa Buddhist Union (NKT-IKBU), a modern Gelug-derived Mahayana lineage. The site combines Pension Goldbiel, a guesthouse opened in 2008, with a purpose-built Kadampa Temple and meditation house completed in 2016 that fuses traditional Wallis architecture with Buddhist design. Led by Principal Teacher Gen Kelsang Devi alongside visiting international teachers, Kailash IRC runs a year-round programme of day courses, weekend and week-long thematic retreats, Post-Festival retreats, an annual Swiss Dharma Celebration, and a six-week Snow Mountain silent retreat each winter, with events also live-streamed online. Outside course dates the centre operates as a vegetarian bed & breakfast open to any visitor seeking rest in the mountains, and it is run almost entirely by volunteers and helpers, including a visiting-volunteer programme for those who want to contribute their time.",
+  "schedule": "Group retreats run several daily guided-meditation and teaching sessions (around four a day) over the retreat period; bed & breakfast and personal-retreat guests set their own schedule, with a self-serve vegetarian breakfast provided each morning",
+  "cost": "Course/retreat fees are priced separately from accommodation, ranging from about CHF 100 for day or weekend courses up to CHF 350 for week-long thematic retreats; onsite bed & breakfast accommodation is billed per night across guest-house, ensuite-temple, and luxury-studio tiers, with community lunch and supper available for a small extra charge",
+  "pricePerDay": {
+    "min": 108,
+    "max": 148,
+    "unit": "night",
+    "currency": "CHF",
+    "notes": "Post Summer Festival Retreat 2026 (9-15 Aug, 6 nights): course-only fee CHF 228 (~CHF 38/night), plus onsite accommodation billed separately at current B&B rates from Guest House single CHF 70/night to Luxury Studio CHF 110/night, giving a combined total of roughly CHF 108-148/night; breakfast is bundled into the room rate, while lunch (CHF 12) and supper (CHF 8) are paid extra.",
+    "source": "https://www.kailash.org/post-spring-festival-retreat-2026-2/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "The centre is entirely vegetarian (no meat on the premises); B&B guests get a self-serve vegetarian breakfast included in the room rate, with vegetarian/vegan community lunch and supper available for a small extra charge using fresh, largely organic local produce.",
+  "workRequired": "partial",
+  "workNotes": "Not required for ordinary course, retreat, or bed & breakfast guests, but the centre is run almost entirely by volunteers and helpers and offers a separate visiting-volunteer application track for those who want to contribute service time.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "silent",
+    "long-retreats",
+    "self-guided",
+    "online-hybrid",
+    "diet-vegetarian",
+    "fixed-fee",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Kailash International Retreat Centre - home page",
+      "url": "https://www.kailash.org/"
+    },
+    {
+      "title": "Bed + Breakfast (accommodation tiers and rates)",
+      "url": "https://www.kailash.org/bed-breakfast/"
+    },
+    {
+      "title": "Kailash International Retreat Center - Kadampa Buddhism (overview, Principal Teacher)",
+      "url": "https://kadampa.org/center/kailash-international-retreat-center"
+    },
+    {
+      "title": "Post Summer Festival Retreat 2026 (dates and course fee)",
+      "url": "https://www.kailash.org/post-spring-festival-retreat-2026-2/"
+    },
+    {
+      "title": "The Superpower of Love retreat (dates and course fee)",
+      "url": "https://www.kailash.org/love/"
+    },
+    {
+      "title": "Away Retreat to Kailash International Retreat Centre (sample bundled retreat package, address, accommodation tiers)",
+      "url": "https://www.meditateinlondon.org/courses-retreats/swiss-alps-away-retreat/"
+    },
+    {
+      "title": "Kailash IRC - Kadampa Meditationszentrum Schweiz (elevation, building history)",
+      "url": "https://www.kadampa.ch/en/kailash-irc/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

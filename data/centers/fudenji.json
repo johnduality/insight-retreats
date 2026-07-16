@@ -1,0 +1,99 @@
+{
+  "id": "fudenji",
+  "name": "Fudenji (Istituto Italiano Zen Sōtō Shōbōzan Fudenji)",
+  "aka": [
+    "Shōbōzan Fudenji",
+    "Istituto Italiano Zen Soto Shobozan Fudenji",
+    "Monastero Zen Fudenji"
+  ],
+  "website": "https://www.fudenji.it",
+  "location": {
+    "address": "Strada Comunale Bargone 113, 43039 Salsomaggiore Terme PR",
+    "city": "Salsomaggiore Terme",
+    "county": "Parma",
+    "region": "Emilia-Romagna, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 44.826251,
+    "lng": 10.02969
+  },
+  "tradition": "Soto Zen Buddhism (Japanese, 13th-century Dogen/Sōtō lineage), in the line of Taisen Deshimaru and Narita Shūyū Rōshi, affiliated with Daihonzan Eiheiji",
+  "technique": "Zazen (seated meditation), formal monastic meals, sutra chanting, and work practice (samu)",
+  "influences": [
+    "Dōgen Zenji",
+    "Taisen Deshimaru Rōshi",
+    "Narita Shūyū Rōshi",
+    "Fausto Taiten Guareschi",
+    "Daihonzan Eiheiji"
+  ],
+  "teacherAccess": "Teachings and formal talks from resident teachers during sesshins, with individual interviews available during longer retreats such as the week-long Precepts (Jukai) retreat",
+  "retreatOptions": "One-day beginner 'Sabati di Zazen' Saturdays; monthly weekend sesshins (Fri-Sun); multi-day seasonal retreats from about 3 nights (e.g. Kesa sesshin, Shakyamuni Birth retreat) up to a week (Jukai Precepts retreat, Rohatsu, New Year sesshin, Gratitude retreat)",
+  "about": "Fudenji (Istituto Italiano Zen Sōtō Shōbōzan Fudenji) is a Soto Zen Buddhist temple and monastery set in the Apennine hills of the Parma countryside, between Fidenza and Salsomaggiore Terme, in Emilia-Romagna. It was founded in 1984 by Fausto Taiten Guareschi, the first Western Dharma heir in the lineage of Taisen Deshimaru, the pioneer of European Soto Zen, and of Narita Shūyū Rōshi, who became Fudenji's founding abbot. Since December 2016 it has held official affiliated-temple (Ojikimatsu) status with Daihonzan Eiheiji, the senior monastery of the Soto Zen school in Japan, and it is legally recognized as a place of worship by the Italian state and affiliated with the Unione Buddhista Italiana. Alongside daily and weekend zazen, the temple hosts monthly weekend sesshins and periodic multi-day retreats, such as the Kesa sesshin dedicated to sewing the monastic robe and the week-long Jukai (Precepts) retreat, built around zazen, formal meals, sutra chanting, teachings, and monastic work. Fudenji also runs a wider cultural and interfaith program, including a long-running Buddhist theological studies course and satellite zazen groups in Parma, Bologna, and Milan. Residential participation requires membership in the temple's association, and practical arrangements and costs are handled directly through the secretariat rather than published online.",
+  "schedule": "Zazen at dawn (5:15am) daily, plus evening sittings Monday-Friday and longer Saturday/Sunday sessions; monthly weekend sesshins and periodic multi-day seasonal retreats combine zazen, formal meals, chanting, teachings and work; one-day 'Sabati di Zazen' introductory Saturdays run roughly monthly",
+  "cost": "No fixed retreat fees are published on the site; residential stays (vitto e alloggio) require formal membership in the temple's association, with costs for individual sesshins, meals and lodging arranged directly with the secretariat",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Multi-day retreats include formal monastic meals (pasti formali) as part of the fixed daily schedule; the site does not itemize the menu, but Soto Zen temples in this Deshimaru/Eiheiji lineage conventionally serve shojin ryori-style vegetarian food, so this is a reasonable inference rather than an explicit site statement.",
+  "workRequired": "partial",
+  "workNotes": "Longer retreats such as the week-long Jukai (Precepts) sesshin explicitly include a daily work period (lavoro) alongside zazen, teachings and formal meals; shorter weekend sesshins and one-day zazen Saturdays do not mention a work requirement.",
+  "tags": [
+    "zen",
+    "silent",
+    "monastic-community",
+    "work-practice",
+    "day-retreats",
+    "diet-vegetarian",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Fudenji - home page",
+      "url": "https://www.fudenji.it"
+    },
+    {
+      "title": "Chi siamo (About us / history)",
+      "url": "https://www.fudenji.it/chi-siamo.php"
+    },
+    {
+      "title": "Tradizione e maestri (Lineage and teachers)",
+      "url": "https://www.fudenji.it/tradizione-maestri.php"
+    },
+    {
+      "title": "Contatti (Contact / how to reach us, address and map)",
+      "url": "https://www.fudenji.it/contatti.php"
+    },
+    {
+      "title": "Appuntamenti Fudenji (Events calendar, incl. daily zazen schedule)",
+      "url": "https://www.fudenji.it/prossimi-appuntamenti-tempio-fudenji.php"
+    },
+    {
+      "title": "Sesshin di giugno (monthly weekend sesshin example)",
+      "url": "https://www.fudenji.it/prossimo-appuntamento.php?id=325&cat=11"
+    },
+    {
+      "title": "Ritiro della gratitudine / Hoon Dai Sesshin",
+      "url": "https://www.fudenji.it/prossimo-appuntamento.php?id=254&cat=11"
+    },
+    {
+      "title": "Kesa sesshin (robe-sewing retreat)",
+      "url": "https://www.fudenji.it/prossimo-appuntamento.php?id=257&cat=11"
+    },
+    {
+      "title": "Ritiro dedicato ai precetti / Jukai Sesshin",
+      "url": "https://www.fudenji.it/prossimo-appuntamento.php?id=258&cat=11"
+    },
+    {
+      "title": "Sabati di zazen (one-day beginner retreat)",
+      "url": "https://www.fudenji.it/prossimo-appuntamento.php?id=216&cat=11"
+    },
+    {
+      "title": "Circolo di cultura Shobokai APS (cultural association events)",
+      "url": "https://www.fudenji.it/prossimi-appuntamenti-shobokai.php"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

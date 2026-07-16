@@ -1,0 +1,102 @@
+{
+  "id": "moulin-de-chaves",
+  "name": "Moulin de Chaves",
+  "website": "https://www.moulindechaves.org/",
+  "location": {
+    "address": "Le Moulin de Chaves, 24640 Cubjac-Auvézère-Val d'Ans, Dordogne",
+    "city": "Cubjac",
+    "region": "Dordogne, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 45.221844,
+    "lng": 0.943658
+  },
+  "tradition": "Theravada-rooted Insight Meditation, led by resident teacher Martin Aylward alongside a rotating international faculty of visiting teachers whose retreats also draw on Zen, yoga, Taoist Qigong, and other contemplative approaches",
+  "technique": "Silent sitting and walking meditation in the Insight/Vipassana style; some visiting-teacher retreats add yoga, Qigong, or embodied/movement practice",
+  "influences": [
+    "Martin Aylward (resident founding teacher)",
+    "Gail Aylward (co-founder)",
+    "Ian Davidson and Elizabeth Jacobs (co-founders)",
+    "Tapovan Dharma Community (the Aylwards' earlier retreat community in the Pyrenees)",
+    "Rotating visiting faculty including Pascal Auclair, Christopher Titmuss, Stephen and Martine Batchelor, Mark Coleman, and Ven. Bhante Gunaratna"
+  ],
+  "teacherAccess": "Daily Dharma talks and Q&A in the hall, plus small-group meetings and one-to-one interviews with the retreat teacher(s) during silent retreats",
+  "retreatOptions": "One-off personal (self-guided) silent retreat weeks; week-long silent group retreats with resident and visiting teachers year-round (occasional retreats up to 13 days); a multi-module year-long European Mindfulness Teacher Training; seasonal paid and volunteer work-retreat placements of 1 week to several months",
+  "about": "Moulin de Chaves is a Buddhist meditation retreat center on a riverside site just outside the village of Cubjac in the Dordogne region of southwest France. It was founded in 2005 by Gail and Martin Aylward together with Ian Davidson and Elizabeth Jacobs, in a former 19th-century jewelry factory that had earlier served as a Soto Zen monastery before falling into disuse. Teachings and practice are grounded in the Theravada-rooted Insight Meditation tradition, led principally by resident teacher Martin Aylward alongside a rotating international faculty of visiting teachers whose own retreats also draw on Zen, yoga, Taoist Qigong, and other contemplative approaches. Most programs are silent, week-long residential retreats with several daily group sitting periods, Dharma talks, and a short daily karma yoga work period, alongside occasional personal (self-guided) retreat weeks for experienced practitioners and a year-long European Mindfulness Teacher Training. The center runs on a hybrid model of fixed, all-inclusive accommodation fees plus a separate teaching fee and voluntary dana to visiting teachers, with bursary places (25-50% discounts) offered to those with limited means. Set in shaded grounds with bamboo groves and river swimming, Le Moulin also hosts a seasonal community of paid staff and volunteer work-retreatants who help run the kitchen, household, and gardens.",
+  "schedule": "Silent retreats run several daily group sessions of sitting, walking, and Dharma talks plus a daily 1-hour karma yoga work period; retreats begin with supper and an 8pm opening sit on arrival day (14h00-19h00 arrival window) and close around midday on departure day",
+  "cost": "Fixed, all-inclusive per-retreat accommodation fee that varies by room type (paid via Stripe at booking); externally-led retreats add a separate fixed teaching fee plus open dana to the teacher; up to 4 bursary places per retreat offering 25-50% discounts; a €10/year Association membership is required to book",
+  "pricePerDay": {
+    "min": 77,
+    "max": 122,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "6-night retreat 'Libre et libéré' with Martin Aylward (20-26 Jul 2026): accommodation-only tiers from a 3-person shared room at €460 (about €77/night) up to a single en-suite room at €730 (about €122/night); excludes the separate €200+VAT teaching fee and open dana paid directly to the teacher. Personal (self-guided) retreat weeks are priced comparably per night: €95 (shared-bath cabin) to €120 (en-suite single).",
+    "source": "https://moulindechaves.secure.retreat.guru/program/libre-et-libere-2/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three buffet-style vegetarian meals daily (fruit/muesli/porridge breakfast, a main lunch with salad and dessert, and a lighter soup supper), using organic and mostly locally sourced ingredients; the default menu is plant-based and gluten-free, with dishes containing gluten, dairy, and egg offered as a separate alternative, plus simple substitutions for other dietary needs.",
+  "workRequired": "yes",
+  "workNotes": "All retreatants, including personal-retreat guests, take part in a daily 1-hour karma yoga work period (washing up, food prep, cleaning, or gardening); separate seasonal volunteer work-retreatant and paid staff positions require about 5 hours of work a day, 5.5 days a week, for stays of one week up to several months.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "accessible",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Moulin de Chaves - home page",
+      "url": "https://www.moulindechaves.org/"
+    },
+    {
+      "title": "About Le Moulin",
+      "url": "https://www.moulindechaves.org/about/"
+    },
+    {
+      "title": "Staying at Le Moulin",
+      "url": "https://www.moulindechaves.org/staying-at-le-moulin/"
+    },
+    {
+      "title": "Retreats - booking, registration, bursary places and personal retreats",
+      "url": "https://www.moulindechaves.org/retreats/"
+    },
+    {
+      "title": "Working and Serving at Le Moulin",
+      "url": "https://www.moulindechaves.org/working-and-serving-at-le-moulin/"
+    },
+    {
+      "title": "Dana",
+      "url": "https://www.moulindechaves.org/dana/"
+    },
+    {
+      "title": "Travel Information",
+      "url": "https://www.moulindechaves.org/travel-information/"
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "url": "https://www.moulindechaves.org/frequently-asked-questions/"
+    },
+    {
+      "title": "Programs calendar (Retreat Guru)",
+      "url": "https://moulindechaves.secure.retreat.guru/programs/?lang=fr"
+    },
+    {
+      "title": "Libre et libéré retreat with Martin Aylward - accommodation pricing",
+      "url": "https://moulindechaves.secure.retreat.guru/program/libre-et-libere-2/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

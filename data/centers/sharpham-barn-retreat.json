@@ -1,0 +1,88 @@
+{
+  "id": "sharpham-barn-retreat",
+  "name": "The Barn Retreat, Sharpham Trust",
+  "aka": [
+    "Sharpham Trust",
+    "Barn Retreat",
+    "The Barn"
+  ],
+  "website": "https://www.sharphamtrust.org/retreat-venues/the-barn-retreat",
+  "location": {
+    "address": "Lower Sharpham Barton Farm, Ashprington",
+    "city": "Ashprington, Totnes",
+    "county": "Devon",
+    "region": "Devon, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 50.414283,
+    "lng": -3.672535
+  },
+  "tradition": "Non-sectarian Buddhist / Insight meditation, open to all faiths and none",
+  "technique": "Sitting, walking and metta meditation combined with mindful work practice",
+  "influences": [
+    "Maurice and Ruth Ash (founders, The Sharpham Trust, 1982)",
+    "visiting Dharma/Buddhist teachers"
+  ],
+  "teacherAccess": "Resident volunteer coordinators lead daily sits; visiting Dharma teachers give talks three evenings a week",
+  "retreatOptions": "4- and 6-night themed residential retreats running most weeks, plus occasional longer (up to ~10-night) programs",
+  "schedule": "Daily routine from 6:20am wake-up through movement, household tasks, three 40-minute meditations, mindful gardening and evening teaching; silence overnight and all day Wednesday",
+  "about": "The Barn Retreat is the original meditation retreat venue of The Sharpham Trust, a conservation and mindfulness charity founded in 1982 by Maurice and Ruth Ash on their Devon estate. Housed in a converted 18th-century stone barn on the banks of the River Dart, it has run accessible Buddhist meditation retreats since the mid-1980s, open to people of all faiths and none. Up to 11 participants live together in community for 4- to 6-night themed retreats, each with a single room, sharing cooking and gardening duties alongside sitting meditation and periods of silence under resident coordinators and visiting Dharma teachers. Days combine formal practice with simple communal work such as tending the organic vegetable gardens, and guests can also roam the wider 550-acre Sharpham Estate, its walking trails, and an outdoor unheated pool open in summer.",
+  "cost": "Choice of three set rates per retreat (Subsidised/Standard/Supporter) covering room, meals and bedding, with 50% hardship bursaries available",
+  "pricePerDay": {
+    "min": 82.5,
+    "max": 95.83,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "6-night 'Being and Belonging' retreat: Standard rate £495 to Supporter rate £575 (the £445 Subsidised/low-income rate is excluded as a scholarship-style tier)",
+    "source": "https://www.sharphamtrust.org/mindfulness-retreats/details/buddhist-meditation-retreat-belonging"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian kitchen including eggs and dairy; retreatants help prepare meals using produce grown in The Barn's own organic gardens; kitchen is not allergen-free",
+  "workRequired": "yes",
+  "workNotes": "Guests join daily household tasks, cooking and mindful gardening as part of the practice; simpler tasks can be arranged for those with health difficulties",
+  "tags": [
+    "insight-vipassana",
+    "silent",
+    "diet-vegetarian",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "The Barn Retreat Centre - Sharpham Trust",
+      "url": "https://www.sharphamtrust.org/retreat-venues/the-barn-retreat"
+    },
+    {
+      "title": "Being and Belonging: a 6-night Buddhist retreat at The Barn (costs, schedule)",
+      "url": "https://www.sharphamtrust.org/mindfulness-retreats/details/buddhist-meditation-retreat-belonging"
+    },
+    {
+      "title": "Buddhism for Beginners: a 6-night retreat at The Barn",
+      "url": "https://www.sharphamtrust.org/mindfulness-retreats/details/buddhism-for-beginners"
+    },
+    {
+      "title": "Facilities at The Barn retreat centre",
+      "url": "https://www.sharphamtrust.org/the-barn-facilities"
+    },
+    {
+      "title": "Food & Drink at The Barn",
+      "url": "https://www.sharphamtrust.org/food-drink-at-the-barn"
+    },
+    {
+      "title": "Accessibility in The Barn",
+      "url": "https://www.sharphamtrust.org/accessibility-in-the-barn"
+    },
+    {
+      "title": "The Sharpham Trust - Our History",
+      "url": "https://www.sharphamtrust.org/about-us/our-history"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "auto-verified"
+  }
+}

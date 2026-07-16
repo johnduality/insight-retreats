@@ -1,0 +1,77 @@
+{
+  "id": "dhamma-atala",
+  "name": "Dhamma Atala",
+  "aka": [
+    "Dhamma Aṭala",
+    "Vipassana Meditation Centre Dhamma Atala"
+  ],
+  "website": "https://atala.dhamma.org",
+  "location": {
+    "address": "Località Veriolo, Strada Prov.le 29, Lutirano, 50034 Marradi (FI), Italy",
+    "city": "Lutirano di Marradi",
+    "region": "Tuscany, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 44.0808,
+    "lng": 11.7091
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded evening discourses and are available for brief questions.",
+  "retreatOptions": "10-day courses (the standard offering, held roughly monthly year-round), plus 1-3 day short courses, Satipatthana Sutta courses and work/service periods for old students, and separate children's and teenagers' Anapana courses.",
+  "about": "Dhamma Atala is Italy's dedicated Vipassana center, set in the rural Tuscan-Emilian Apennines at Lutirano near Marradi, in the province of Florence, about 400 meters above sea level and roughly 75 km from Florence and 35 km from Faenza. It offers residential Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin, most commonly the standard 10-day course, alongside shorter courses, Satipatthana Sutta courses for experienced old students, work/service periods, and dedicated Anapana courses for children and teenagers. Students live on-site, observe Noble Silence for most of the course, and follow a fixed daily meditation schedule with no rites, rituals, or fees of any kind. The center is run entirely by volunteers through the Vipassana Italia Association, and like all centers in the Goenka network it operates purely on voluntary donations from past students who wish to give others the same opportunity they received.",
+  "schedule": "Courses run periodically throughout the year, primarily 10-day courses roughly once a month, plus short 1-3 day courses, work periods, and children's/teenagers' courses on a published annual schedule; enrollment is by application, with confirmation sent by email.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course.",
+    "source": "https://atala.dhamma.org/en/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) may serve courses or attend dedicated work/service periods to help maintain the center; new students are generally not required to work during their first course.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Atala - Vipassana Meditation (home)",
+      "url": "https://atala.dhamma.org/en/"
+    },
+    {
+      "title": "The centre in Italy",
+      "url": "https://atala.dhamma.org/en/the-centre-in-italy/the-centre/"
+    },
+    {
+      "title": "Courses",
+      "url": "https://atala.dhamma.org/en/courses/"
+    },
+    {
+      "title": "Course Schedule (Dhamma Atala) - dhamma.org",
+      "url": "https://www.dhamma.org/en/schedules/schatala"
+    },
+    {
+      "title": "Lutirano, Marradi, Province of Florence (coordinates)",
+      "url": "https://elevationmap.net/lutirano-marradi-firenze-it-1005543723"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

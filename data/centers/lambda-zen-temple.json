@@ -1,0 +1,85 @@
+{
+  "id": "lambda-zen-temple",
+  "name": "Lambda Zen Temple",
+  "aka": [
+    "Lambda Zen Tempel"
+  ],
+  "website": "https://zen-temple.net/",
+  "location": {
+    "address": "Im Stützli 5, 8750 Glarus",
+    "city": "Glarus",
+    "region": "Glarus, Switzerland",
+    "country": "Switzerland",
+    "state": "CH",
+    "lat": 47.0411,
+    "lng": 9.0679
+  },
+  "tradition": "Korean Seon (Zen) Buddhism, in the World Zen Fellowship / Insopor Zen Academy lineage",
+  "technique": "Zazen (seated meditation), kinhin (walking meditation), and samu (mindful work) — including gardening, cooking, cleaning, and open-source IT/software projects as practice",
+  "influences": [
+    "Zen Monk Munen Alain M. Lafon (founding abbot)",
+    "Monika Bieri (co-teacher)",
+    "World Zen Fellowship / Pohwa Sunim",
+    "Zen Master Myo Vong",
+    "Insopor Zen Academy"
+  ],
+  "teacherAccess": "Private interviews with the head monk (abbot) to discuss one's meditation; daily direct contact with the resident teachers built into the shared schedule",
+  "retreatOptions": "Monthly 3-day/2-night meditation retreat (mandatory first step for newcomers); after that, day visits, teas, or an open-ended templestay of days to months for lay people, monks and nuns; twice-yearly pilgrimage hikes",
+  "about": "Lambda Zen Temple is a small Zen Buddhist temple in the mountains above Glarus, Switzerland, unusual for combining traditional monastic Zen practice with software development. It was founded by Zen Monk Munen Alain M. Lafon, who trained for a decade in a Korean Seon lineage connected to the World Zen Fellowship before opening the temple, and is co-led by art therapist and meditation teacher Monika Bieri. Newcomers must first complete a monthly 3-day/2-night retreat of zazen, walking meditation, and work practice on a fixed schedule from Friday morning to Sunday afternoon; afterward, guests, lay practitioners, and ordained monks or nuns may return for anything from a single day to an open-ended templestay. Daily life alternates meditation with communal 'modules' of hiking, gardening, cooking, cleaning, and open-source software projects built by resident developers, since both manual and intellectual work are treated as meditation in action. Meals include meat and fish and are eaten communally with no special dietary accommodation, and the temple is explicit that it does not run silent retreats, since talking (especially during breaks) is part of temple life. The teachers describe life at the temple as physically and mentally demanding and ascetic, built around a strict early-rising daily schedule.",
+  "schedule": "Retreat/templestay days run 06:00-06:30 zazen, breakfast, a morning 'module' (meditation, IT projects, hiking, gardening, cleaning, cooking, or free time), lunch at noon, an afternoon module, dinner at 18:00, evening zazen around 19:00-19:15, and lights out at 21:45; Fridays are an off day outside retreat weeks.",
+  "cost": "Monthly 3-day retreat: CHF 250 plus CHF 8.80 visitor's tax; ongoing templestay: CHF 50/day plus CHF 1.20/day visitor's tax; these 'oblations' are fixed, non-refundable, and due before arrival.",
+  "pricePerDay": {
+    "min": 129,
+    "max": 129,
+    "unit": "night",
+    "currency": "CHF",
+    "notes": "Monthly 3-day/2-night retreat (Fri 10:00 - Sun 15:00): CHF 250 oblation + CHF 8.80 visitor's tax = CHF 258.80 total, roughly CHF 129/night on a single fixed rate rather than a sliding scale.",
+    "source": "https://zen-temple.net/zen-meditation-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "omnivore",
+  "foodNotes": "Communal meals include vegetables, meat, and fish; guests are told plainly to eat what is served, with no vegetarian-only option mentioned.",
+  "workRequired": "yes",
+  "workNotes": "The daily schedule is built around mandatory 'module' work periods (cleaning, cooking, gardening, hiking, and open-source IT projects) treated as a core form of meditation practice, not an optional add-on.",
+  "tags": [
+    "zen",
+    "day-retreats",
+    "long-retreats",
+    "diet-omnivore",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Lambda Zen Temple - home page",
+      "url": "https://zen-temple.net/"
+    },
+    {
+      "title": "Lambda Zen Temple - Introduction",
+      "url": "https://zen-temple.net/lambda-zen-temple/introduction/"
+    },
+    {
+      "title": "Templestay",
+      "url": "https://zen-temple.net/templestay/"
+    },
+    {
+      "title": "FAQ / Q&A",
+      "url": "https://zen-temple.net/faq/"
+    },
+    {
+      "title": "Zen Meditation Retreat Switzerland (3 Days)",
+      "url": "https://zen-temple.net/zen-meditation-retreat/"
+    },
+    {
+      "title": "Contact",
+      "url": "https://zen-temple.net/contact/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "merigar-west",
+  "name": "Merigar",
+  "aka": [
+    "Merigar West",
+    "Comunità Dzogchen di Merigar",
+    "International Dzogchen Community of Merigar West",
+    "Associazione Culturale Comunità Dzogchen – Merigar"
+  ],
+  "website": "https://www.merigar.it",
+  "location": {
+    "address": "Loc. Merigar, 58031 Arcidosso (GR)",
+    "city": "Arcidosso",
+    "county": "Grosseto",
+    "region": "Tuscany, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 42.846206,
+    "lng": 11.543192
+  },
+  "tradition": "Dzogchen (Nyingma / Tibetan Vajrayana), non-monastic International Dzogchen Community founded by Chögyal Namkhai Norbu",
+  "technique": "Dzogchen meditation and direct-transmission teachings; Yantra Yoga; Vajra Dance and Khaita joyful dances; library talks and cultural/personal-growth seminars",
+  "influences": [
+    "Chögyal Namkhai Norbu (1938-2018)",
+    "Namkhai Yeshi",
+    "Nyingma / Dzogchen lineage",
+    "International Dzogchen Community"
+  ],
+  "teacherAccess": "Periodic multi-day teaching retreats and courses led by visiting Dzogchen masters or community-certified instructors; Merigar's Spiritual Guide is Namkhai Yeshi (the founder's son), but there is no single resident teacher, and many restricted-programme retreats are livestreamed for those who cannot attend in person",
+  "retreatOptions": "Single-day guided tours, library talks and workshops; weekend to roughly two-week open courses (e.g. Khaita dance weekends, a multi-week Tibetan translator training); a separate calendar of longer teaching retreats reserved for practitioners who have received transmission from Chögyal Namkhai Norbu or Namkhai Yeshi; some courses run in parallel online and onsite",
+  "about": "Merigar (formally Merigar West, distinguishing it from its Romanian sister center Merigar East) is the founding Gar, or main center, of the International Dzogchen Community, established in 1981 on a hillside above Arcidosso in Tuscany's Monte Amiata region under the guidance of Tibetan master Chögyal Namkhai Norbu (1938-2018). The grounds hold the community's Temple of the Great Contemplation (Gönpa), stupas, a library and archive in the House of Zi, and a small shop, set among beech and chestnut woods where the slopes of Monte Amiata meet the Monte Labbro nature reserve. Merigar's Spiritual Guide is Namkhai Yeshi, the founder's son, and the center's year-round calendar of open courses covers Dzogchen meditation, Yantra Yoga, the Dance of the Vajra, Khaita Joyful Dances, library talks and other cultural programs, alongside a separate schedule of teaching retreats reserved for those who have received direct transmission from Chögyal Namkhai Norbu or Namkhai Yeshi. There is no on-site lodging or dining hall; visitors arrange accommodation and meals independently in Arcidosso and surrounding villages, including through Merigar's own small MeriRooms apartment. The association is largely volunteer-run through its Gakyil committees and funded by membership dues, course contributions and donations.",
+  "schedule": "Courses run on published dates through the year, concentrated May-September, typically meeting for morning and afternoon/evening sessions in the temple, Mandala Hall or library; longer intensives build in rest days, and the secretary/reception is open daily 9am-1pm and 3-6pm",
+  "cost": "No fee to visit; individual courses and seminars use a suggested 'contribution' set per event with a members' discount, e.g. about €80 for a weekend Khaita dance course or roughly €200-280 for a two-week Tibetan translation intensive (online cheaper than in-person); separate annual Dzogchen Community membership dues also help fund the center",
+  "pricePerDay": {
+    "min": 40,
+    "max": 70,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Merigar itself has no on-site accommodation; this reflects nightly rates at Merigar's own MeriRooms apartment in nearby Arcidosso (single €40, double/twin €70, triple €90), since course fees (see `cost`) are charged separately from lodging.",
+    "source": "https://www.merigar.it/en/visit/our-facilities/merirooms/"
+  },
+  "foodServed": "no",
+  "foodType": "mixed",
+  "foodNotes": "Merigar has no cafeteria or dining hall; participants lodge and eat independently in Arcidosso and nearby villages. Merigar's own MeriRooms apartment has a kitchen for self-catering, and Tuscan restaurants, cafés and a small on-site shop are within walking distance or a short drive.",
+  "workRequired": "no",
+  "workNotes": "No structured work-exchange or seva programme for visiting participants is advertised; day-to-day operations are carried out by volunteer members through the community's Gakyil committees and paid reception staff.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "fixed-fee",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Merigar - home page",
+      "url": "https://www.merigar.it/"
+    },
+    {
+      "title": "Merigar's Facilities",
+      "url": "https://www.merigar.it/en/visit/our-facilities/"
+    },
+    {
+      "title": "Where to stay near Merigar",
+      "url": "https://www.merigar.it/en/visit/alloggi/"
+    },
+    {
+      "title": "MeriRooms - Merigar's rooms in Arcidosso",
+      "url": "https://www.merigar.it/en/visit/our-facilities/merirooms/"
+    },
+    {
+      "title": "Places to stay near Merigar",
+      "url": "https://www.merigar.it/en/visit/alloggi/places-to-stay-near-merigar/"
+    },
+    {
+      "title": "Courses and Events",
+      "url": "https://www.merigar.it/en/courses-and-events/"
+    },
+    {
+      "title": "Khaita - Easy Dances for Everyone (2026 course, pricing)",
+      "url": "https://www.merigar.it/en/courses-and-events/khaita-joyful-dances-26/"
+    },
+    {
+      "title": "24th Training for Translator from Tibetan (2026 course, pricing)",
+      "url": "https://www.merigar.it/en/courses-and-events/24-training-for-translators-from-tibetan/"
+    },
+    {
+      "title": "International Dzogchen Community",
+      "url": "https://www.merigar.it/en/dzogchen-community/"
+    },
+    {
+      "title": "Membership",
+      "url": "https://www.merigar.it/en/dzogchen-community/membership/"
+    },
+    {
+      "title": "F.A.Q.",
+      "url": "https://www.merigar.it/en/f.a.q/"
+    },
+    {
+      "title": "Getting to Merigar",
+      "url": "https://www.merigar.it/en/visit/getting-to-merigar/"
+    },
+    {
+      "title": "Merigar West - OpenStreetMap node (coordinates)",
+      "url": "https://mapcarta.com/N2114554827"
+    },
+    {
+      "title": "Arcidosso - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arcidosso"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

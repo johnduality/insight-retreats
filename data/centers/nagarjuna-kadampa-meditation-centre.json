@@ -1,0 +1,99 @@
+{
+  "id": "nagarjuna-kadampa-meditation-centre",
+  "name": "Nagarjuna Kadampa Meditation Centre",
+  "aka": [
+    "Nagarjuna KMC",
+    "Nagarjuna Kadampa Meditation Center",
+    "Thornby Hall"
+  ],
+  "website": "https://meditateinnorthants.com/",
+  "location": {
+    "address": "Thornby Hall, Naseby Road, Thornby, NN6 8SW",
+    "city": "Thornby",
+    "county": "Northamptonshire",
+    "region": "Northamptonshire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 52.3753,
+    "lng": -1.0154
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU) — Tibetan Mahayana Buddhism (Kadampa lineage), combining Sutra and Highest Yoga Tantra",
+  "technique": "Lamrim (stages of the path) breathing and analytical meditation, mantra recitation, and Highest Yoga Tantra practice for advanced students",
+  "influences": [
+    "Venerable Geshe Kelsang Gyatso (Founder of the New Kadampa Tradition)",
+    "Je Tsongkhapa and Atisha (Kadampa lineage masters)",
+    "Kadam Bridget Heyes (Resident Teacher and NKT-IKBU National Spiritual Director for the UK)",
+    "Gen-la Jampa (General Spiritual Director, NKT-IKBU)"
+  ],
+  "teacherAccess": "Resident Teacher Kadam Bridget Heyes leads regular courses and the annual UK Dharma Celebration; visiting Kadampa teachers (e.g. Gen Kelsang Samten of KMC New York, Gen Kelsang Norden, Gen Kelsang Chö) lead specific retreats and festivals throughout the year",
+  "retreatOptions": "Weekend 'mini retreats', silent day retreats, half-day and day courses, multi-day festival retreats (e.g. Post Summer Festival retreat), the annual UK Dharma Celebration weekend, mid-week retreat breaks, and self-guided personal retreats booked as room-only stays",
+  "about": "Nagarjuna Kadampa Meditation Centre is a Buddhist retreat centre and registered charity based at Thornby Hall, a country house in rural Northamptonshire, England. It is affiliated with the New Kadampa Tradition – International Kadampa Buddhist Union (NKT-IKBU), founded by Venerable Geshe Kelsang Gyatso, and is led by Resident Teacher Kadam Bridget Heyes. The centre houses meditation halls, a shop, the World Peace Café, extensive gardens, and en-suite guest accommodation in a renovated Victorian coach house known as The Stables, alongside a resident lay community. Its year-round programme runs from weekly evening meditation classes and day courses to weekend 'mini retreats', silent retreat days, multi-day festival retreats, and the annual UK Dharma Celebration, plus self-guided personal retreats. No prior Buddhist background is required to attend, and teachings draw on the Lamrim (stages of the path) tradition as well as Highest Yoga Tantra for more experienced practitioners.",
+  "schedule": "Multi-day retreats run four roughly 75-minute teaching/meditation sessions a day (two in the morning, one late afternoon, one evening) with meals and free time between; silent day retreats and day courses run a single-day version without an evening session; weekly meditation classes meet Monday and Wednesday evenings, 7:15-8:30pm, plus weekday lunchtime livestream classes",
+  "cost": "Priced per event: the 3-night Post Summer Festival retreat runs from £100 (non-residential, lunches included) up to £175-£495 residential depending on room type, with all meals included; the UK Dharma Celebration weekend charges accommodation (from £24 camping to £420 triple en-suite), meals, and attendance fees (£100-£120) separately; personal-retreat room bookings (no course) cost £65/night single or £110/night twin/double, with a breakfast basket provided and other meals bought separately at the café",
+  "pricePerDay": {
+    "min": 58,
+    "max": 98,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Based on the 3-night, fully-inclusive Post Summer Festival retreat (10-13 Aug 2026): dormitory £175 total (£58/night) up to single en-suite £295 total (£98/night); the twin/double en-suite at £495 for the room works out to roughly £82/night per person if shared by two.",
+    "source": "https://meditateinnorthants.com/product/post-summer-festival-retreat-10-13th-august-2026/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals served are vegetarian; vegan options are available on request when booking. Course/retreat fees include three meals a day, while stand-alone personal room bookings include only a breakfast basket, with lunch and dinner purchased separately at the on-site World Peace Café or dining room.",
+  "workRequired": "no",
+  "workNotes": "No work is required of retreat or course participants; the centre runs a separate volunteer programme and a 'Moving In' option for those who want to live and work at the centre longer-term.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "silent",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "no-work-required",
+    "accessible",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Nagarjuna Kadampa Meditation Centre - home page",
+      "url": "https://meditateinnorthants.com/"
+    },
+    {
+      "title": "Retreats at Nagarjuna KMC",
+      "url": "https://meditateinnorthants.com/all-events/retreats-at-nagarjuna-kmc-thornby-hall/"
+    },
+    {
+      "title": "Post Summer Festival retreat (10-13 Aug 2026)",
+      "url": "https://meditateinnorthants.com/product/post-summer-festival-retreat-10-13th-august-2026/"
+    },
+    {
+      "title": "Room booking for courses and personal retreats",
+      "url": "https://meditateinnorthants.com/product/room-booking/"
+    },
+    {
+      "title": "UKDC 2026 - United Kingdom Dharma Celebration",
+      "url": "https://meditateinnorthants.com/product/ukdc-2026/"
+    },
+    {
+      "title": "About Us",
+      "url": "https://meditateinnorthants.com/about-us/"
+    },
+    {
+      "title": "Our Teachers & Tradition",
+      "url": "https://meditateinnorthants.com/our-tradition/"
+    },
+    {
+      "title": "NN6 8SW postcode coordinates",
+      "url": "https://checkmypostcode.uk/nn68sw"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

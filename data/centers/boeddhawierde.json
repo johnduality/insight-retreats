@@ -1,0 +1,107 @@
+{
+  "id": "boeddhawierde",
+  "name": "Boeddhawierde",
+  "aka": [
+    "De Boeddhawierde",
+    "Stichting Boeddhawierde"
+  ],
+  "website": "https://boeddhawierde.nl/en/",
+  "location": {
+    "address": "Kerkstraat, 9988 SN Usquert",
+    "city": "Usquert",
+    "county": "Het Hogeland",
+    "region": "Groningen, Netherlands",
+    "country": "Netherlands",
+    "state": "NL",
+    "lat": 53.404,
+    "lng": 6.6118
+  },
+  "tradition": "Triratna Buddhist Community: eclectic Western Buddhism in the tradition founded by Sangharakshita",
+  "technique": "Mindfulness of breathing (anapanasati), metta bhavana (loving-kindness), 'just sitting', and reflective/insight meditation, sometimes combined with themed practices such as writing",
+  "influences": [
+    "Sangharakshita (founder of the Triratna Buddhist Order)",
+    "Silavadin (Meynard Vasen), founder of Boeddhawierde, trained at Vajraloka Buddhist Retreat Centre",
+    "Triratna Buddhist Order / Community teachers"
+  ],
+  "teacherAccess": "Led retreats include Dharma talks and discussion from a small team of local Triratna Order members (including Silavadin and Jannike Oltmans); solitary retreatants have no formal teaching but a resident is generally on hand for questions",
+  "retreatOptions": "Day retreats for larger groups; led weekend and short themed retreats (roughly 2-3 nights, up to 10 people); a self-guided solitary retreat (typically booked by the week) in a private apartment; the whole house can also be rented by outside groups, self-catered or with a cook",
+  "about": "Boeddhawierde ('mound of Buddha') is a small residential Buddhist retreat centre in Usquert, a village in the far north of Groningen province, Netherlands, sitting on an ancient terp (raised mound) opposite the village church. It was built between 2018 and 2022 by Silavadin (Meynard Vasen), a Triratna Buddhist Order member who spent four years at Vajraloka Buddhist Retreat Centre in Wales, together with dozens of volunteers who converted an old house into a meditation hall, dormitory loft and guest rooms. The centre operates under the umbrella of the Triratna Buddhist Community, the eclectic Western Buddhist movement founded by Sangharakshita, and its small resident team leads day retreats and short themed weekends -- on subjects such as the life of the Buddha or meditation combined with writing practice -- for groups of up to ten people. Core practices taught include mindfulness of breathing, metta bhavana, 'just sitting' and reflective meditation. Alongside led retreats, an independent one-person apartment supports self-guided solitary retreats, and the whole house can be rented out to external groups for their own retreats or workshops, with only vegetarian or vegan food and no alcohol permitted on site. The setting is quiet despite being in the middle of the village, with walking and cycling routes across the Groningen polder toward the Wadden Sea.",
+  "schedule": "Led retreats combine group meditation sits, Dharma talks and discussion with periods of silence and free time for walks; solitary retreatants set their own schedule and are largely left alone, with no group programme running concurrently",
+  "cost": "Two-tier (full / reduced-student) per-retreat fee for led group retreats; separate flat per-night rates for self-organised group rentals (whole house self-catering or with a cook, or per-person for smaller groups); a flat weekly rate for solitary retreats with food and drinks extra",
+  "pricePerDay": {
+    "min": 60,
+    "max": 75,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "3-night 'From monkey mind to wild mind' writers/meditation retreat (26-29 Jun 2025): reduced EUR 180 to full EUR 225, i.e. EUR 60-75/night. A shorter 2-night 'Life of the Buddha' weekend retreat was priced similarly at EUR 110-140 (EUR 55-70/night), suggesting this is the centre's normal led-retreat range.",
+    "source": "https://boeddhawierde.nl/en/triratna-buddhist-community/events/writers-retreat/"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Only vegetarian or vegan food (no alcohol) is cooked on site; a guest review of a solitary retreat called the meals 'healthy, organic and delicious.' Led group retreats appear to include meals in the retreat fee, solitary retreatants self-cater in their own kitchenette (food/drinks not included in the weekly rate, though someone will do a shopping run if a list is left), and self-catering group rentals also exclude food.",
+  "workRequired": "unknown",
+  "workNotes": "No work rota is described for current led or solitary retreats. Between 2018 and 2022, before the centre opened, it hosted volunteer 'work-retreats' (including one with refugees connected to the World House in Amsterdam) where participants helped build and renovate the property.",
+  "tags": [
+    "day-retreats",
+    "silent",
+    "self-guided",
+    "diet-vegetarian",
+    "sliding-scale",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Boeddhawierde - home page",
+      "url": "https://boeddhawierde.nl/en/"
+    },
+    {
+      "title": "Who are we?",
+      "url": "https://boeddhawierde.nl/en/triratna-buddhist-community/who-are-we/"
+    },
+    {
+      "title": "Triratna Buddhist Community",
+      "url": "https://boeddhawierde.nl/en/triratna-buddhist-community/"
+    },
+    {
+      "title": "Buddhism",
+      "url": "https://boeddhawierde.nl/en/buddhism/"
+    },
+    {
+      "title": "The making of the Boeddhawierde",
+      "url": "https://boeddhawierde.nl/en/the-making-of-the-boeddhawierde/"
+    },
+    {
+      "title": "Retreat-centre for rent",
+      "url": "https://boeddhawierde.nl/en/retreat-centre-for-rent/"
+    },
+    {
+      "title": "Renting for groups",
+      "url": "https://boeddhawierde.nl/en/retreat-centre-for-rent/groups/"
+    },
+    {
+      "title": "Solitary retreat",
+      "url": "https://boeddhawierde.nl/en/retreat-centre-for-rent/solitary-retreat/"
+    },
+    {
+      "title": "Triratna events and retreats",
+      "url": "https://boeddhawierde.nl/en/triratna-buddhist-community/events/"
+    },
+    {
+      "title": "Weekend retreat: The life of the Buddha (rates)",
+      "url": "https://boeddhawierde.nl/en/triratna-buddhist-community/events/weekend-retreat-the-life-of-the-buddha/"
+    },
+    {
+      "title": "Writers retreat: From monkey mind to wild mind (rates)",
+      "url": "https://boeddhawierde.nl/en/triratna-buddhist-community/events/writers-retreat/"
+    },
+    {
+      "title": "Usquert - Wikidata (coordinates)",
+      "url": "https://www.wikidata.org/wiki/Q1889562"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

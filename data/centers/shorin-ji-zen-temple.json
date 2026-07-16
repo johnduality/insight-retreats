@@ -1,0 +1,74 @@
+{
+  "id": "shorin-ji-zen-temple",
+  "name": "Shorin-ji Zen Temple",
+  "aka": [
+    "Shorinji Zen Temple",
+    "Templo Zen Shorin-ji",
+    "Bárbara Kosen Zen Sangha - Shorin-ji"
+  ],
+  "website": "https://zenkan.com/en/shorinji-zen-temple/",
+  "location": {
+    "city": "Villanueva de la Vera",
+    "county": "Cáceres",
+    "region": "Extremadura, Spain",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 40.117,
+    "lng": -5.483
+  },
+  "tradition": "Sōtō Zen in the Deshimaru lineage (Association Zen Internationale / Taisen Deshimaru Zen Association)",
+  "technique": "Zazen (silent seated meditation) paired daily with samu (mindful manual work); monthly multi-day sesshin",
+  "influences": [
+    "Taisen Deshimaru",
+    "Bárbara Kosen",
+    "Stéphane Kosen Thibault",
+    "Bodhidharma / Sōtō Zen tradition"
+  ],
+  "teacherAccess": "Resident teacher Master Bárbara Kosen leads zazen and the monthly sesshin; newcomers get a 40-minute practice orientation before their first sitting",
+  "retreatOptions": "Drop-in morning and evening zazen and weekend stays open to beginners; a monthly multi-day sesshin for those who already practice; long residencies of one month, three months, or up to a year for practitioners already introduced to the Way",
+  "about": "Shorin-ji Zen Temple is a small Zen monastery on the forested south-west slope of the Sierra de Gredos, about ten kilometres from the village of Villanueva de la Vera in the province of Cáceres, Extremadura. It was established by the Taisen Deshimaru Zen Association, founded in Madrid in 1994 by Zen Master Bárbara Kosen, a disciple of Master Taisen Deshimaru who brought Sōtō Zen from Japan to Europe in the 1970s. Daily life follows a simple, repeating rhythm of zazen (seated meditation) at dawn and dusk, samu (manual work such as building, weeding, and planting), and shared meals, with Monday kept as a rest day (hosan). Newcomers can drop in for single sittings or a weekend with no prior experience, while a monthly sesshin gathers more established practitioners for several days of intensive practice, and longer residencies of a month to a year are open to those already introduced to the practice. The temple is run on modest contributions and donations (fuse) rather than commercial retreat fees, and membership in the Zen association is required to practice there.",
+  "schedule": "Zazen twice daily (mornings 7:00, or 7:30 on weekends; evenings 7:30 pm) Tuesday through Sunday, each followed by samu, with communal lunch and an optional dinner; Monday is hosan, a full rest day; a several-day sesshin is held once a month",
+  "cost": "Suggested contribution of 3€ per zazen sitting or 20€ per month for drop-in practice, and 25€ for a weekend; long residencies are priced by duration - 15€ per day, 250€ for a month, or 700€ for three months (the latter two include participation in that month's sesshin)",
+  "pricePerDay": {
+    "min": 8,
+    "max": 15,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Long-stay residency is billed by duration: 250€ for a month (~8.3€/night) and 700€ for three months (~7.8€/night), each including that period's sesshin, versus a flat 15€ for a single day of residency; a weekend stay for newcomers is 25€ (~12.5€/night). Range shown spans the discounted monthly rate to the flat day rate.",
+    "source": "https://zenkan.com/en/shorinji-zen-temple/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A communal lunch is included daily after morning samu; dinner is optional. As with other Deshimaru-lineage Association Zen Internationale temples, meals are understood to follow the tradition's simple vegetarian/macrobiotic style, though this specific menu detail is not spelled out on the temple's own pages.",
+  "workRequired": "yes",
+  "workNotes": "Samu (manual work - building, weeding, planting, cooking, cleaning) directly follows each zazen period every practice day and is treated as a continuation of the meditation itself, expected of all residents and multi-day retreatants.",
+  "tags": [
+    "zen",
+    "silent",
+    "day-retreats",
+    "long-retreats",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Shorin-ji Zen Temple (official page)",
+      "url": "https://zenkan.com/en/shorinji-zen-temple/"
+    },
+    {
+      "title": "Zenkan - Bárbara Kosen Zen Sangha / Taisen Deshimaru Zen Association (home)",
+      "url": "https://zenkan.com/en/"
+    },
+    {
+      "title": "Villanueva de la Vera - Wikipedia (coordinates)",
+      "url": "https://en.wikipedia.org/wiki/Villanueva_de_la_Vera"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

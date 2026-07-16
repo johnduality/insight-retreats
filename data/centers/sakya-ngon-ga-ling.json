@@ -1,0 +1,76 @@
+{
+  "id": "sakya-ngon-ga-ling",
+  "name": "Sakya Ngon Ga Ling",
+  "aka": [
+    "Samtenkhang",
+    "Casa Meditazione Samtenkhang di Sakya Ngon Ga Ling",
+    "Centro Sakya della Gioia Suprema"
+  ],
+  "website": "https://www.sakyangongaling.it",
+  "location": {
+    "address": "Via Castello di Cireglio, 54",
+    "city": "Cireglio",
+    "county": "Pistoia",
+    "region": "Tuscany, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 43.99214,
+    "lng": 10.85527
+  },
+  "tradition": "Tibetan Buddhism, Sakya lineage",
+  "technique": "Samatha and Vipassana meditation following a 17th-century manual by the 11th Karmapa as taught by Khenchen Thrangu Rinpoche; Vajrayana ritual practice (puja, tsog, Ngondro preliminaries); yoga",
+  "influences": [
+    "H.H. Sakya Trizin (founder, 2003)",
+    "H.H. Gongma Trichen / Ratna Vajra Sakya Rinpoche",
+    "Jetsun Chimey Luding",
+    "Gyana Vajra Rinpoche",
+    "Khenpo Kalsang Nyima Rinpoche",
+    "Khenchen Thrangu Rinpoche (Kagyu meditation manual used for the course)",
+    "Bert d'Arragon",
+    "Jessica Martensson Ngawang Dolkar"
+  ],
+  "teacherAccess": "Local lay teachers (Bert d'Arragon, Jessica Martensson Ngawang Dolkar) lead weekly and monthly meditation, philosophy, and yoga sessions; visiting Sakya lamas and rinpoches give initiations and teachings a few times a year at the center's locations",
+  "retreatOptions": "Weekly/monthly meditation, philosophy, and yoga evenings; weekend 'Thun' practice sessions (Friday evening to Sunday afternoon), done individually or in small groups of up to 5-6, residential or semi-residential; occasional multi-day teaching and initiation events when lamas visit; no long-term residential program",
+  "about": "Sakya Ngon Ga Ling is a Tibetan Buddhist center in the Sakya lineage, consecrated and named by His Holiness Sakya Trizin in 2003. Its retreat house, the Samtenkhang, sits in the mountain village of Cireglio in the Apennines above Pistoia, Tuscany, while the organization's main Dharma hall later relocated to Tresanti, Montespertoli, near Florence. The Cireglio house hosts the center's most intensive practice: weekend 'Thun' sessions of individual or small-group ritual practice, some of which are open only to those holding the relevant Sakya initiations (Ngondro preliminary-practice retreats are open to everyone). Alongside these it runs a year-round, three-level Samatha-then-Vipassana meditation course, monthly meditation evenings, weekly yoga classes, informal winter 'Tea with the Buddha' philosophy talks, and summer outdoor meditation days in the surrounding hills. Visiting Sakya lamas periodically give initiations and teachings at the center's two locations. The center is run mainly by lay volunteer teachers rather than resident monastics, and all activities are offered on a free-will donation basis.",
+  "schedule": "Monthly Samatha/Vipassana course sessions on Tuesdays (or weekend intensives for distant participants); meditation evenings on the 2nd and 4th Monday of the month; weekend 'Thun' retreats by advance booking; winter 'Tea with the Buddha' talks; summer outdoor practice days",
+  "cost": "All courses, meditation evenings, yoga classes, and weekend retreats are offered ad offerta libera (free-will donation); no fixed fee schedule is published on the website",
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Shared lunch is sometimes available at the center for participants staying through an afternoon session, but there is no stated formal meal program for the weekend 'Thun' retreats and dietary style is not specified.",
+  "workRequired": "unknown",
+  "workNotes": "A photo caption on the Tresanti center page references community 'karma yoga' (volunteer help preparing for a fire puja), but no work expectation is stated for retreat or course participants.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "self-guided",
+    "online-hybrid",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Home page",
+      "url": "https://www.sakyangongaling.it"
+    },
+    {
+      "title": "Home page (English)",
+      "url": "https://www.sakyangongaling.it/en"
+    },
+    {
+      "title": "Casa di Ritiro / Samtenkhang, Castello di Cireglio",
+      "url": "https://www.sakyangongaling.it/casa-di-ritiro"
+    },
+    {
+      "title": "Programma Casa Meditazione (Cireglio program)",
+      "url": "https://www.sakyangongaling.it/programma"
+    },
+    {
+      "title": "Centro Dharma (Tresanti) / history of the center",
+      "url": "https://www.sakyangongaling.it/about"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

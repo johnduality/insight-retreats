@@ -1,0 +1,80 @@
+{
+  "id": "tashi-rabten-institute",
+  "name": "Tashi Rabten Institute",
+  "aka": [
+    "Tashi Rabten",
+    "Letzehof",
+    "Buddhist Monastery Letzehof",
+    "Tashi Rabten – Buddhistisches Kloster Letzehof"
+  ],
+  "website": "https://www.rabten.eu/visitVlbg_en.htm",
+  "location": {
+    "address": "Im Buchholz 26, 6820 Frastanz",
+    "city": "Frastanz",
+    "county": "Feldkirch District",
+    "region": "Vorarlberg, Austria",
+    "country": "Austria",
+    "state": "AT",
+    "lat": 47.22886,
+    "lng": 9.58949
+  },
+  "tradition": "Gelug (Tibetan Buddhism), monastery and study centre in the lineage of Geshe Rabten Rinpoche, the Austrian branch of the wider Rabten network",
+  "technique": "Traditional monastic study of Buddhist philosophy, debate, and Tibetan language; daily prayers and pujas; public seminars and evening lectures on Buddhist philosophy and meditation for visitors",
+  "influences": [
+    "Geshe Tamdrin Rabten Rinpoche (founder, 1981)",
+    "Gonsar Rinpoche (spiritual guidance of the Rabten monasteries since 1986)",
+    "Helmut Gassner (donated the Letzehof estate to Geshe Rabten in 1980 and later became one of the resident monks)"
+  ],
+  "teacherAccess": "Guided tours and conversations with resident monks can be arranged for individuals and groups; public seminars and a monthly evening lecture on meditation are open to outsiders; no structured daily guidance program for casual guests",
+  "retreatOptions": "Day visits and guided tours; weekend seminars on Buddhist philosophy and meditation held throughout the year; guest-room stays for anyone wanting to experience monastery life or do a personal retreat, subject to availability; a multi-year (4-5 year) traditional monastic study program for resident monks",
+  "about": "Tashi Rabten is a small Gelug Tibetan Buddhist monastery housed in the Letzehof, a former farmhouse on the Letze hill above Frastanz in Vorarlberg, Austria, close to the Swiss and Liechtenstein borders. It was founded in 1981 by Geshe Tamdrin Rabten Rinpoche after Helmut Gassner, whose family had owned the farm for generations, offered the property to the Tibetan teacher as a study centre; Gassner later became one of its resident monks. It is the Austrian house of the wider network of monasteries Geshe Rabten established across Europe, which also includes Rabten Choeling in Switzerland, and like its sister centres it has been guided since his death in 1986 by his disciple Gonsar Rinpoche. Around ten monks and five lay students currently live and study there, following a traditional multi-year Gelug curriculum in philosophy, debate, and Tibetan language alongside daily prayers. The monastery is open to outside visitors for guided tours, weekend seminars, and guest-room stays, though there is no fixed program for casual guests. As with Rabten Choeling, Tashi Rabten sits within the broader Rabten lineage's historical association with the Dorje Shugden protector practice, a practice the 14th Dalai Lama has discouraged since the mid-1990s.",
+  "schedule": "Daily prayers at 8:30am and 6pm, Tuesday through Saturday; library/book shop open 15:00-17:00; meals served at noon and 7pm; fortnightly Tsok-offering on the 10th and 25th days of the Tibetan lunar calendar; an evening lecture on meditation on the first and second Wednesday of each month; periodic weekend seminars and guided-tour visits from schools and groups throughout the year",
+  "cost": "No published tariff for guest rooms; visitors who wish to stay or join a meal are asked to contact the monastery office or cook in advance, with costs arranged directly; the wider institution is financed mainly through donations",
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Meals are served in the monastery at noon and 7pm; guests who want to join are asked to notify the cook in advance so enough food is prepared. The official site does not specify whether meals are vegetarian, though sister Rabten houses typically serve vegetarian food.",
+  "workRequired": "unknown",
+  "workNotes": "No work requirement is stated for short-term guests or seminar visitors; resident monks and lay students follow the monastery's own daily routine of study, prayer, and upkeep, but this is not described as a condition of a guest stay.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "self-guided",
+    "meals-included",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Come and visit us! - Tashi Rabten, Letzehof (Vorarlberg, Austria) visit info",
+      "url": "https://www.rabten.eu/visitVlbg_en.htm"
+    },
+    {
+      "title": "From Farmhouse to Spiritual Center - history of the Letzehof",
+      "url": "https://www.rabten.eu/Letzehof_en.htm"
+    },
+    {
+      "title": "Letzehof - Wikipedia (German, history, founding, lineage)",
+      "url": "https://de.wikipedia.org/wiki/Letzehof"
+    },
+    {
+      "title": "Vom Bauernhaus zum buddhistischen Kloster - Vorarlberger Nachrichten",
+      "url": "https://www.vn.at/vorarlberg/2015/08/30/vom-bauernhaus-zum-buddhistischen-kloster.vn"
+    },
+    {
+      "title": "Besuch im buddhistische Kloster Tashi Rabten - Frastanz | VOL.AT",
+      "url": "https://www.vol.at/besuch-im-buddhistische-kloster-tashi-rabten/1843595"
+    },
+    {
+      "title": "Tashi Rabten - Dorje Shugden (temple network profile)",
+      "url": "https://www.dorjeshugden.org/temples/tashi-rabten"
+    },
+    {
+      "title": "Tashi Rabten Letzehof - Buddhist monastery in Frastanz, Austria (address, coordinates)",
+      "url": "https://aroundus.com/p/173578706-tashi-rabten-letzehof"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

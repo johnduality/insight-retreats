@@ -1,0 +1,103 @@
+{
+  "id": "vairochana-centre",
+  "name": "Vairochana Zentrum für Kadampa Buddhismus",
+  "aka": [
+    "Vairochana Centre",
+    "Vairochana Buddhist Centre",
+    "Buddhistisches Zentrum Vairochana"
+  ],
+  "website": "https://www.buddhismusschweiz.ch/",
+  "location": {
+    "address": "Amriswilerstrasse 96, 8589 Sitterdorf",
+    "city": "Sitterdorf",
+    "region": "Thurgau, Switzerland",
+    "country": "Switzerland",
+    "state": "CH",
+    "lat": 47.5004,
+    "lng": 9.2389
+  },
+  "tradition": "Tibetan Buddhism: New Kadampa Tradition (Gelug lineage of Atisha and Je Tsongkhapa)",
+  "technique": "Kadampa lamrim (stages of the path) meditation, combining analytical and placement meditation, with mantra recitation and study of Buddhist mind-training texts",
+  "influences": [
+    "Geshe Kelsang Gyatso (founder, New Kadampa Tradition / IKBU)",
+    "Gen Kelsang Lachpa (resident teacher since 2008)",
+    "Atisha",
+    "Je Tsongkhapa"
+  ],
+  "teacherAccess": "Resident teacher Gen Kelsang Lachpa gives talks and teachings during weekly classes and retreats, with individual conversations offered during Days of Silence retreats",
+  "retreatOptions": "Weekly evening classes and day courses; weekend to 5-night 'Days of Silence' (Tage der Stille) retreats; flexible self-guided individual retreats of any length; a month-long silent retreat held every January for experienced practitioners",
+  "about": "Vairochana Centre (Vairochana Zentrum für Kadampa Buddhismus) is a Buddhist meditation centre in the rural village of Sitterdorf, near Bischofszell in the canton of Thurgau, Switzerland, run by a residential community since 2002. It belongs to the New Kadampa Tradition (NKT-IKBU), a modern Gelug-lineage school founded by Geshe Kelsang Gyatso that teaches the lamrim mind-training of Atisha and Je Tsongkhapa. Its resident teacher since 2008 is the Buddhist monk Gen Kelsang Lachpa, who undertook a five-year silent retreat before taking up the post. Alongside weekly evening classes and day courses, the centre's guest house on the edge of the village hosts periodic 'Days of Silence' weekend retreats, flexible self-guided individual retreats, and a month-long silent retreat every January for experienced practitioners. The setting is quiet countryside with walks through fields, meadows, and forest, and structured retreats include vegetarian meals and access to the resident teacher for individual conversations.",
+  "schedule": "Weekly Tuesday evening meditation class (19:45-21:00); periodic 'Tage der Stille' weekend retreats running Friday afternoon check-in to Monday or Wednesday check-out; self-guided individual retreats scheduled by arrangement; an annual month-long silent retreat every January",
+  "cost": "Weekly evening classes cost CHF 10 per session; 'Days of Silence' retreats are billed as an all-inclusive package that varies by room type; self-guided individual retreats are billed at a flat daily rate",
+  "pricePerDay": {
+    "min": 148,
+    "max": 165,
+    "unit": "night",
+    "currency": "CHF",
+    "notes": "3-night 'Tage der Stille' weekend (Friday check-in to Monday check-out): CHF 445 for a smaller single room to CHF 495 for a single room with garden view, all-inclusive (room, vegetarian meals, meditations, teachings, individual conversations), i.e. roughly CHF 148-165/night. Self-guided individual retreats are billed separately at a flat CHF 120/day (single room, 3 vegetarian meals, guided meditations, individual support), plus a CHF 20 surcharge for single-night stays.",
+    "source": "https://www.buddhismusschweiz.ch/tage-der-stille"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All-inclusive 'Days of Silence' retreat packages and individual retreats both include 3 vegetarian meals a day.",
+  "workRequired": "unknown",
+  "workNotes": "No work expectation for retreat guests is described on the centre's website; the property is maintained by its resident Kadampa community rather than by retreatant labour.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "silent",
+    "long-retreats",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Vairochana Zentrum - home page",
+      "url": "https://www.buddhismusschweiz.ch/"
+    },
+    {
+      "title": "Kontaktinformation",
+      "url": "https://www.buddhismusschweiz.ch/kontaktinformation"
+    },
+    {
+      "title": "Meditation und Buddhismus, Sitterdorf",
+      "url": "https://www.buddhismusschweiz.ch/meditation-und-buddhismus"
+    },
+    {
+      "title": "Einzelretreats (Individual retreats)",
+      "url": "https://www.buddhismusschweiz.ch/einzelretreats"
+    },
+    {
+      "title": "Tage der Stille (Days of Silence)",
+      "url": "https://www.buddhismusschweiz.ch/tage-der-stille"
+    },
+    {
+      "title": "Im Meditationskurs in Sitterdorf bei Bischofszell meditieren",
+      "url": "https://www.buddhismusschweiz.ch/sitterdorf-bei-bischofszell"
+    },
+    {
+      "title": "Zentrums Lehrer - Kelsang Lachpa",
+      "url": "https://www.buddhismusschweiz.ch/zentrums-lehrer-kelsang-lachpa"
+    },
+    {
+      "title": "Anfahrt",
+      "url": "https://www.buddhismusschweiz.ch/anfahrt"
+    },
+    {
+      "title": "Kadam Dharma in Switzerland and Austria - Kadampa Buddhism",
+      "url": "https://kadampa.org/kadam-dharma-in-switzerland-and-austria"
+    },
+    {
+      "title": "Sitterdorf coordinates - Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q15847690"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -105,6 +105,32 @@ a:hover { color: var(--blue-deep); }
 .chip.is-active { background: var(--blue); border-color: var(--blue); color: #fff; }
 .chip.is-excluded { background: #c0392b; border-color: #c0392b; color: #fff; text-decoration: line-through; }
 .chip.is-excluded:hover { background: #a93226; border-color: #a93226; color: #fff; }
+
+/* Price-per-night range filter — sits under the tag chips */
+.price-filter { display: flex; align-items: center; gap: 12px; margin-top: 14px; flex-wrap: wrap; }
+.price-label { font-family: var(--serif); font-size: 14px; color: var(--muted); font-style: italic; }
+.price-inputs {
+  display: inline-flex; align-items: center; gap: 4px;
+  padding: 6px 12px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--surface);
+  transition: border-color .12s ease, box-shadow .12s ease;
+}
+.price-inputs:focus-within { border-color: var(--blue); box-shadow: 0 0 0 3px var(--blue-soft); }
+.price-input {
+  width: 62px; font-family: var(--serif); font-size: 15px; color: var(--text);
+  border: 0; background: transparent; padding: 2px 4px; text-align: center;
+}
+.price-input::placeholder { color: var(--muted); }
+.price-input:focus { outline: none; }
+/* drawn dash keeps the range separator perfectly centered between the fields */
+.price-dash { width: 12px; height: 0; border-top: 1.5px solid var(--muted); flex: none; }
+.price-clear {
+  font-family: var(--serif); font-size: 14px; cursor: pointer;
+  padding: 6px 15px; border-radius: 999px; border: 1px solid var(--border);
+  background: var(--surface); color: var(--muted); transition: all .12s ease;
+}
+.price-clear:hover { border-color: var(--blue); color: var(--blue); background: var(--blue-soft); }
+
 .result-count { color: var(--muted); font-size: 14px; margin: 16px 2px 0; font-style: italic; }
 .supported-states { color: var(--muted); font-size: 14px; margin: 4px 2px 0; font-style: italic; }
 

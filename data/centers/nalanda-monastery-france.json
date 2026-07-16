@@ -1,0 +1,100 @@
+{
+  "id": "nalanda-monastery-france",
+  "name": "Nalanda Monastery",
+  "website": "https://nalanda-monastery.eu/",
+  "location": {
+    "address": "36 rue du Dr Emery Compayre, 81500 Labastide-Saint-Georges",
+    "city": "Labastide-Saint-Georges",
+    "county": "Tarn",
+    "region": "Tarn, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 43.7011,
+    "lng": 1.8453
+  },
+  "tradition": "Tibetan Buddhist (Vajrayana), Gelug school, affiliated with the FPMT (Foundation for the Preservation of the Mahayana Tradition)",
+  "technique": "Lamrim (stages of the path) study and formal debate; calm abiding (shamatha) and analytical meditation; guru yoga and tantric sadhana practice",
+  "influences": [
+    "Lama Thubten Yeshe (founder)",
+    "Lama Zopa Rinpoche (spiritual director of the FPMT)",
+    "Je Tsongkhapa / Gelug tradition",
+    "Sera Je Monastic University, India",
+    "FPMT (Foundation for the Preservation of the Mahayana Tradition)"
+  ],
+  "teacherAccess": "Resident Geshes teach daily classes and debate for the Basic and Masters Programs; group retreats include individual interviews with the guiding teacher, and visiting Rinpoches and Geshes give teachings and initiations throughout the year",
+  "retreatOptions": "Open Sunday visits (2-5pm, guided tour or chat); short group retreats of roughly 5-16 nights (e.g. Mahamudra, Calm Abiding & Lamrim); a 5-year FPMT Basic Program and 7-year Masters Program of full-time residential study culminating in month(s)-long retreats, also offered online; self-guided/personal stays booked by the day, week, fortnight or month",
+  "about": "Nalanda Monastery is a Tibetan Buddhist monastery in the Gelug tradition, set in the village of Labastide-Saint-Georges near Lavaur in the Tarn department of southern France. Founded in 1981 by Lama Yeshe and Lama Zopa Rinpoche, it was the first Western monastery of the FPMT and is now one of Europe's largest Buddhist monasteries, home to a resident community of monks led by Abbot Geshe Jamphel. Alongside its multi-year FPMT Basic and Masters Programs of philosophical study, debate and meditation (also available online), Nalanda hosts short group meditation retreats, teachings and initiations from visiting Rinpoches, pujas, a sacred-art (tsa-tsa and statue) workshop, and free guided visits every Sunday afternoon. Because it is a male monastery, only men may stay overnight on the monastery grounds itself; women and mixed groups instead stay at the affiliated Maitreya Pure Land retreat center about 300 metres away. Visitors of any background can book individual or group stays lasting anywhere from a single day to a month, with room and board billed on a published fee scale.",
+  "schedule": "Daily monastic rhythm of prayers, teachings, debate and meditation for resident students; multi-day retreats typically run about 6am-8pm with 5-7 sitting/teaching sessions, a daily Q&A, and periods of silence, as in the 15-night Calm Abiding & Lamrim retreat or the 5-night Mahamudra retreat",
+  "cost": "Room and board follow a published daily/weekly/half-month/monthly fee scale (discounted the longer you stay) across five accommodation tiers from camping to a private ensuite suite, with a 50% discount for Sangha and family; the FPMT Basic Program uses a separate Scholarship/Standard/Sponsor monthly sliding scale; short retreats add a modest suggested donation for the teaching on top of the standard accommodation-and-food rate",
+  "pricePerDay": {
+    "min": 47.71,
+    "max": 54.86,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Standard 'Full board at Nalanda' weekly rate (7 nights, room plus 3 meals/day), effective Dec 2025: Double room EUR 334 (EUR 47.71/night) to Individual room EUR 384 (EUR 54.86/night). Short group retreats such as the 5-night Mahamudra retreat (Jul 2026) are billed on these same accommodation-and-food rates plus a separate EUR 50 suggested donation for the teaching, which is excluded here as a donation floor; cheaper camping/caravan/hut tiers and the discounted half-month and month packages are also excluded.",
+    "source": "https://nalanda-monastery.eu/about-nalanda-monastery/accommodation-and-fees/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Full board (three meals a day plus tea/coffee) is included in the standard accommodation rate; retreat meals are vegetarian or vegan (e.g. the Calm Abiding & Lamrim retreat serves three vegetarian/vegan meals daily). Meals can also be booked separately from lodging.",
+  "workRequired": "partial",
+  "workNotes": "Retreat participants are typically asked to do about 30 minutes of light karma yoga (chores) daily; live-in volunteers and Basic/Masters Program students contribute regular work service (cooking, cleaning, gardening, maintenance, IT) as part of community life, though short-stay guests are not required to work.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "diet-vegan",
+    "fixed-fee",
+    "sliding-scale",
+    "scholarships",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "monastic-community",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Nalanda Monastery - home page",
+      "url": "https://nalanda-monastery.eu/"
+    },
+    {
+      "title": "About Nalanda Monastery",
+      "url": "https://nalanda-monastery.eu/about-nalanda-monastery/"
+    },
+    {
+      "title": "Accommodation and Fees",
+      "url": "https://nalanda-monastery.eu/about-nalanda-monastery/accommodation-and-fees/"
+    },
+    {
+      "title": "FPMT Basic Program",
+      "url": "https://nalanda-monastery.eu/basic-program/"
+    },
+    {
+      "title": "Volunteering at Nalanda",
+      "url": "https://nalanda-monastery.eu/volunteering/"
+    },
+    {
+      "title": "Mahamudra Retreat 07/26",
+      "url": "https://nalanda-monastery.eu/mahamudra-07-26/"
+    },
+    {
+      "title": "Calm Abiding and Lamrim Retreat with Ven. René Feusi (08/25)",
+      "url": "https://nalanda-monastery.eu/calm-abiding-lamrim-retreat-2025/"
+    },
+    {
+      "title": "Labastide-Saint-Georges (coordinates)",
+      "url": "https://en.wikipedia.org/wiki/Labastide-Saint-Georges"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

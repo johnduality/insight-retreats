@@ -1,0 +1,90 @@
+{
+  "id": "dhamma-dipa",
+  "name": "Dhamma Dīpa",
+  "aka": [
+    "Dhamma Dipa Vipassana Meditation Centre",
+    "Vipassana Trust – Herefordshire Centre"
+  ],
+  "website": "https://uk.dhamma.org/",
+  "location": {
+    "address": "Pencoyd, St Owens Cross, Hereford HR2 8NG",
+    "city": "St Owens Cross",
+    "county": "Herefordshire",
+    "region": "Herefordshire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 51.937,
+    "lng": -2.718
+  },
+  "tradition": "Goenka tradition Vipassana, in the lineage of Sayagyi U Ba Khin",
+  "technique": "Anapana (breath awareness) followed by Vipassana body-scanning as taught by S.N. Goenka",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; instruction is delivered via S.N. Goenka's recorded audio/video discourses, with certified resident assistant teachers present at every course to give the nightly public discourse and answer brief questions.",
+  "retreatOptions": "10-day courses for new and returning students (the standard entry point); shorter 3-day and Satipatthana courses plus longer 20/30/45/60-day courses for experienced old students; periodic one-day courses for children and teenagers; and separate Dhamma service (volunteer work) periods.",
+  "about": "Dhamma Dīpa, meaning \"Island of Dhamma\" in Pali, is a Vipassana meditation centre in the Wye Valley of Herefordshire, England, between Hereford and Ross-on-Wye, on a former riding-school site purchased by the Vipassana Trust in 1991. It is one of the two main UK centres in the worldwide network founded to preserve and teach Vipassana meditation exactly as presented by the late S.N. Goenka in the tradition of Sayagyi U Ba Khin. The centre can accommodate around 130 students at a time, hosts more than 2,500 people a year, and runs courses almost continuously, with the 10-day residential course as its core offering alongside shorter and longer courses for returning students. All courses follow a fixed, unbroken daily timetable and a Code of Discipline that includes Noble Silence for most of the stay. As with all centres in the Goenka network, teaching, food, and accommodation are offered entirely free of charge, funded solely by the voluntary donations (dana) of past students.",
+  "schedule": "Fixed daily timetable of roughly 10 hours of seated meditation, running from about 4:00am to 9:00pm with one evening discourse; Noble Silence is observed by all students for most of the course; students must arrive between 2-5pm on the start day and the course concludes around 7:30am on the final morning, with all students required to stay until the end.",
+  "cost": "No fee of any kind for teaching, food, or accommodation; run strictly on dana (voluntary donation) — first-time students are only invited to donate after completing a course, so that their gift can help fund the courses of future students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "notes": "Donation-based (dana); no fixed or suggested fee at any Goenka tradition (dhamma.org) centre.",
+    "source": "https://uk.dhamma.org/about-vipassana/how-to-learn/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are prepared on-site by volunteer kitchen servers using locally sourced produce and herbs grown in the centre's own garden; included at no charge for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "New students are not assigned chores beyond keeping their own space tidy; returning (\"old\") students may separately apply to give Dhamma service — volunteering as servers, cooks, or managers — either while sitting a course or during dedicated service periods.",
+  "tags": [
+    "goenka",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Home | Vipassana meditation as taught by S.N. Goenka in the UK",
+      "url": "https://uk.dhamma.org/"
+    },
+    {
+      "title": "Herefordshire Centre | UK Dhamma",
+      "url": "https://uk.dhamma.org/herefordshire-centre/"
+    },
+    {
+      "title": "The Site | Dhamma Dīpa",
+      "url": "https://uk.dhamma.org/centres/the-site/"
+    },
+    {
+      "title": "Travel to Dhamma Dīpa, Herefordshire | Getting Here",
+      "url": "https://uk.dhamma.org/centres/getting-here/"
+    },
+    {
+      "title": "Contact | UK Dhamma (address, phone)",
+      "url": "https://uk.dhamma.org/contact/"
+    },
+    {
+      "title": "Courses Available | UK Dhamma",
+      "url": "https://uk.dhamma.org/courses-available/"
+    },
+    {
+      "title": "10-Day Courses | UK Dhamma",
+      "url": "https://uk.dhamma.org/courses-available/10-day-courses/"
+    },
+    {
+      "title": "How to Learn | About Vipassana",
+      "url": "https://uk.dhamma.org/about-vipassana/how-to-learn/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

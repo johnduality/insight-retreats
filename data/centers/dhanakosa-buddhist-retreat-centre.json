@@ -1,0 +1,108 @@
+{
+  "id": "dhanakosa-buddhist-retreat-centre",
+  "name": "Dhanakosa Buddhist Retreat Centre",
+  "aka": [
+    "Dhanakosa",
+    "Dhanakosa Retreat Centre"
+  ],
+  "website": "https://www.dhanakosa.com/",
+  "location": {
+    "address": "Balquhidder, Lochearnhead, FK19 8PQ, Scotland",
+    "city": "Balquhidder",
+    "county": "Stirling",
+    "region": "Perthshire/Stirling, Scotland",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 56.345974,
+    "lng": -4.453898
+  },
+  "tradition": "Triratna Buddhist Order (formerly Friends of the Western Buddhist Order): an eclectic, lay-led Western Buddhist community drawing on Theravada, Zen, and Tibetan/Vajrayana sources under the synthesis taught by founder Sangharakshita",
+  "technique": "Sitting and walking meditation (mindfulness of breathing, metta bhavana/loving-kindness) and Buddhist study, often paired with complementary practices such as yoga, hillwalking, qi gong, or creative arts",
+  "influences": [
+    "Sangharakshita (founder of the Triratna Buddhist Order)",
+    "Triratna Buddhist Order / Community",
+    "Glasgow Buddhist Centre"
+  ],
+  "teacherAccess": "Daily talks, group meditation, and discussion groups led by the retreat's teaching team (often Triratna Order members); more intensive 'Regulars' meditation retreats may include one-to-one meditation interviews",
+  "retreatOptions": "Weekend (2-3 night) and week-long (5-9 night) group retreats ranging from introductory meditation-plus-activity retreats (yoga, hillwalking, qi gong, wild swimming, creative arts) to more intensive Buddhist study and meditation retreats for experienced practitioners; plus self-guided solitary retreats from one to two weeks (Vajra Sheilin hut) or three weeks or more (the remote Crotha Bothy)",
+  "about": "Dhanakosa Buddhist Retreat Centre is a residential retreat centre run under the auspices of the Triratna Buddhist Order, occupying a former hotel beside Loch Voil in the Loch Lomond and Trossachs National Park in the southern Scottish Highlands. It was established by the Glasgow Buddhist Centre in 1992 and has operated on a dana (donation) financial model since its first retreat; the Dhanakosa Trust, now a Scottish charity, has owned the property since 2002. Alongside more traditional meditation and Buddhist study retreats for experienced practitioners, it runs a wide programme of introductory retreats that pair meditation teaching with activities such as yoga, hillwalking, qi gong, wild swimming, and creative arts. Two on-site solitary retreat facilities, the Vajra Sheilin hut and the more remote Crotha Bothy, support self-guided personal retreats from about a week up to several months. Guests share single-gender rooms in the centrally heated main house (single rooms are very limited), and the centre does not admit casual visitors outside of a booked retreat.",
+  "schedule": "Typical week-long retreat day: morning meditation, breakfast, a theme-related activity, lunch, a free afternoon, then an evening talk, discussion, or activity after dinner; all retreatants take a daily washing-up rota plus a work period on week-long retreats, and periods of silence are introduced, longer on 'Regulars' meditation retreats",
+  "cost": "Dana (donation) model: a non-refundable booking fee (£100 for week-long retreats, £75 for weekends) plus a suggested donation set annually on a higher/lower sliding scale, with an explicit invitation to give what you can afford if the suggested amount isn't possible",
+  "pricePerDay": {
+    "min": 78,
+    "max": 113,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Based on the 2026 suggested donation for a 7-night retreat (£445 lower / £690 higher) plus the £100 week-long booking fee: (£445+£100)/7 nights ≈ £78, (£690+£100)/7 nights ≈ £113. These are 'give what you can' suggested amounts, not fixed fees, and exclude camping/solitary-hut rates; published 2027 suggested donations are slightly higher (£450-£700 for 7 nights).",
+    "source": "https://www.dhanakosa.com/index.php/dana-economy-paying-your-retreat"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "All meals are included in the retreat and are vegan (vegetarian, no eggs or dairy), with soya and oat milk provided for hot drinks; genuine medical dietary needs (e.g. coeliac) can be catered for on request, and retreatants help with washing up after meals.",
+  "workRequired": "yes",
+  "workNotes": "All retreatants take a roughly 30-minute daily turn on the washing-up rota, and week-long retreats add a 1.5-2 hour work period (cleaning, gardening, general maintenance) once during the retreat to help run the centre.",
+  "tags": [
+    "mahayana",
+    "silent",
+    "long-retreats",
+    "self-guided",
+    "diet-vegan",
+    "dana-donation",
+    "sliding-scale",
+    "meals-included",
+    "work-practice",
+    "accessible",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Dhanakosa Buddhist Retreat Centre - home page",
+      "url": "https://www.dhanakosa.com/"
+    },
+    {
+      "title": "About Dhanakosa",
+      "url": "https://www.dhanakosa.com/index.php/about-dhanakosa"
+    },
+    {
+      "title": "About Triratna",
+      "url": "https://www.dhanakosa.com/index.php/about-triratna"
+    },
+    {
+      "title": "Dana Economy: paying for your retreat",
+      "url": "https://www.dhanakosa.com/index.php/dana-economy-paying-your-retreat"
+    },
+    {
+      "title": "Retreat Calendar",
+      "url": "https://www.dhanakosa.com/index.php/retreats"
+    },
+    {
+      "title": "How to book",
+      "url": "https://www.dhanakosa.com/index.php/how-book"
+    },
+    {
+      "title": "Frequently Asked Questions",
+      "url": "https://www.dhanakosa.com/index.php/faq-page"
+    },
+    {
+      "title": "Solitary retreats",
+      "url": "https://www.dhanakosa.com/index.php/solitary-retreats"
+    },
+    {
+      "title": "Working at Dhanakosa",
+      "url": "https://www.dhanakosa.com/index.php/working-dhanakosa"
+    },
+    {
+      "title": "Visiting Dhanakosa",
+      "url": "https://www.dhanakosa.com/index.php/visiting-dhanakosa"
+    },
+    {
+      "title": "Postcode lookup for FK19 8PQ (coordinates)",
+      "url": "https://www.doogal.co.uk/UKPostcodes?Search=FK19%208PQ"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

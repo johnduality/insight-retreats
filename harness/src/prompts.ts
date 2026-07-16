@@ -75,6 +75,12 @@ suggested amount.
 STYLE: Only `about` is a paragraph. Keep technique, schedule, cost, foodNotes, and workNotes
 to a single concise line each. Do not write a long `description`.
 
+TAGS: After drafting, go group-by-group through the controlled vocabulary above and apply
+every tag that clearly applies — cross-check the structured fields (foodServed -> diet-* /
+meals-included, workRequired -> work-practice / no-work-required, pricePerDay / cost -> the
+cost-model tags). Completeness matters, but only for tags that genuinely fit; keep the
+"accuracy over quantity, never invent a tag inline" rule.
+
 PROPOSING NEW TAGS: Strongly prefer the existing vocabulary. But if a center has a genuinely
 important, reusable attribute that no existing tag captures (something other centers would
 also plausibly share — NOT a one-off), you may propose new tag(s) via a top-level

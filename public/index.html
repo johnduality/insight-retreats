@@ -6,7 +6,7 @@
     <title>Insight Retreats</title>
     <meta
       name="description"
-      content="A map and catalogue of United States insight meditation centers that offer residential retreats of two nights or more — traditions, schedules, cost, and practical details, with list and map views."
+      content="A map and catalogue of insight meditation centers that offer residential retreats of two nights or more — traditions, schedules, cost, and practical details, with list and map views. Covers the United States, with Europe, Oceania, and the rest of North America a work-in-progress."
     />
     <link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text x="50" y="55" font-size="80" text-anchor="middle" dominant-baseline="central">🏔️</text></svg>' />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -26,15 +26,18 @@
       </div>
     </header>
 
-    <p id="intro" class="intro wrap-narrow">A map of insight meditation retreat centers in the United States.</p>
+    <p id="intro" class="intro wrap-narrow">A big map of insight meditation retreat centers.</p>
 
     <!-- Catalogue view (list + map share the same filters) -->
     <main id="catalogue" class="wrap view">
       <section class="controls">
         <div class="controls-row">
           <input id="search" class="search" type="search" placeholder="Search by name, tradition, city…" autocomplete="off" />
-          <select id="stateFilter" class="select" aria-label="Filter by state">
-            <option value="">All states</option>
+          <select id="regionFilter" class="select" aria-label="Filter by region">
+            <option value="">All regions</option>
+          </select>
+          <select id="stateFilter" class="select" aria-label="Filter by subregion">
+            <option value="">All subregions</option>
           </select>
           <div class="viewtoggle" role="tablist" aria-label="View mode">
             <button id="tabList" class="viewtoggle-btn is-active" role="tab" type="button">List</button>
@@ -42,6 +45,15 @@
           </div>
         </div>
         <div id="tagFilters" class="tag-filters" aria-label="Filter by tag"></div>
+        <div class="price-filter" aria-label="Filter by price per night">
+          <span class="price-label">Price per night</span>
+          <div class="price-inputs">
+            <input id="priceMin" class="price-input" type="number" min="0" step="1" inputmode="numeric" placeholder="Min" aria-label="Minimum price per night" />
+            <span class="price-dash" aria-hidden="true"></span>
+            <input id="priceMax" class="price-input" type="number" min="0" step="1" inputmode="numeric" placeholder="Max" aria-label="Maximum price per night" />
+          </div>
+          <button id="priceClear" class="price-clear" type="button">Clear</button>
+        </div>
         <p id="resultCount" class="result-count"></p>
       </section>
 
@@ -62,9 +74,9 @@
       <div class="detail-head"><h1>About</h1></div>
       <div class="detail-main about-page">
         <p>
-          This site is a map of United States insight meditation centers that offer
-          residential retreats of two nights or more. It covers the 50 states plus
-          Washington D.C.
+          This site is a map of insight meditation centers that offer
+          residential retreats of two nights or more. It covers the United States,
+          with Europe, Oceania, and the rest of North America as a work-in-progress.
         </p>
         <p>
           Claude, an AI assistant, discovered and catalogued these centers

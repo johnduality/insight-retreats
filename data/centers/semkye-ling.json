@@ -1,0 +1,102 @@
+{
+  "id": "semkye-ling",
+  "name": "Semkye Ling",
+  "aka": [
+    "Meditationshaus Semkye Ling",
+    "Tibetisches Zentrum Hamburg – Semkye Ling"
+  ],
+  "website": "https://www.tibet.de/zentrum/standorte/standort-semkye-ling",
+  "location": {
+    "address": "Lünzener Str. 4, 29640 Schneverdingen (Lünzen)",
+    "city": "Schneverdingen",
+    "county": "Heidekreis",
+    "region": "Lüneburg Heath, Lower Saxony, Germany",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 53.1585,
+    "lng": 9.8249
+  },
+  "tradition": "Tibetan Buddhism, Gelugpa lineage — the rural retreat house of the Tibetisches Zentrum e.V. Hamburg, under the patronage of the 14th Dalai Lama",
+  "technique": "Lam-rim study, guided group meditation and Tibetan Buddhist ritual practice on seminars; unstructured solitary meditation for guests in the private retreat huts",
+  "influences": [
+    "Geshe Thubten Ngawang (founding teacher)",
+    "H.H. the 14th Dalai Lama (patron)",
+    "Tibetisches Zentrum e.V. Hamburg",
+    "Gelugpa/Geluk lineage"
+  ],
+  "teacherAccess": "Qualified visiting and resident teachers lead scheduled seminars, group retreats and the summer camp with talks and guided practice; guests in the six private retreat huts practice solo, without teacher contact during the retreat",
+  "retreatOptions": "Weekend to multi-day Buddhist seminars and group retreats, open meditation days, and an annual ~10-day family Dharma summer camp; six private huts for self-guided individual retreats (Einzelklausur) from a few days up to several years",
+  "about": "Semkye Ling is the countryside retreat house of the Tibetisches Zentrum e.V., a Gelugpa-tradition Tibetan Buddhist center in Hamburg founded in 1977 under the patronage of the 14th Dalai Lama. Set on a former farmstead near Schneverdingen in the Lüneburg Heath, it was leased in 1996 and later purchased at the wish of the center's founding teacher, Geshe Thubten Ngawang, to give students a quiet complement to the academic study program in Hamburg; the Dalai Lama himself stayed here for ten days in 1998 and consecrated its temple, and the grounds now also hold a stupa and a Tsongkhapa shrine built in his memory. The main house sleeps about 20 guests in single, double and multi-bed rooms and hosts weekend and multi-day seminars, group retreats and an annual family-oriented Dharma summer camp, with tent and motorhome spaces also available. Since 2010 the site has additionally offered six private retreat cabins, each with its own kitchenette, bathroom and altar, that experienced practitioners can rent for solitary, self-catered retreats. A cook prepares vegetarian full board for group programs (vegan, lactose-free or gluten-free on request), while individual retreatants cook for themselves, and all guests are asked to keep the basic lay precepts during their stay.",
+  "schedule": "Seminars and group retreats run a set daily schedule of teachings, guided meditation and communal vegetarian meals led by the visiting teacher; individual retreatants in the private huts set their own daily practice",
+  "cost": "Group seminars charge a course fee (e.g. ~26-33 EUR/day for a 10-day program, with a reduced rate) plus a separate daily food/lodging contribution; camping costs about 6 EUR/night; the six private retreat huts charge a flat daily contribution for self-catered stays of up to 30 days",
+  "pricePerDay": {
+    "min": 23,
+    "max": 23,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Rate for the six private individual-retreat huts (Einzelklausur): a flat 23 EUR/day contribution for stays up to 30 days, self-catered using the hut's own kitchenette (food not included). By contrast, the 2025/2026 group Dharma summer camp (~10 nights) charges a separate 330 EUR standard / 264 EUR reduced course fee plus a 12 EUR/day food contribution, and simple camping is 6 EUR/night.",
+    "source": "https://docplayer.org/116220199-Klausurhaeuser-fuer-semkye-ling-ein-projekt-des-tibetischen-zentrums.html"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "A cook prepares varied vegetarian full board for seminar and group-retreat guests, with vegan, lactose-free or gluten-free options on request; guests in the six private retreat huts self-cater using an in-room kitchenette.",
+  "workRequired": "no",
+  "workNotes": "No work or service period is required of guests; meals for group programs are prepared by a cook, and individual retreatants are otherwise free to use their time for practice.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "long-retreats",
+    "family-friendly",
+    "self-guided",
+    "diet-vegetarian",
+    "sliding-scale",
+    "fixed-fee",
+    "meals-included",
+    "no-work-required",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Tibetisches Zentrum e.V.: Standort Semkye Ling",
+      "url": "https://www.tibet.de/zentrum/standorte/standort-semkye-ling"
+    },
+    {
+      "title": "Die Geschichte von Semkye Ling",
+      "url": "https://www.tibet.de/zentrum/standorte/die-geschichte-von-semkye-ling"
+    },
+    {
+      "title": "Logis-Liste - Standort Semkye Ling",
+      "url": "https://www.tibet.de/zentrum/standorte/standort-semkye-ling/logis"
+    },
+    {
+      "title": "Retreat - Standort Semkye Ling",
+      "url": "https://www.tibet.de/zentrum/standorte/standort-semkye-ling/retreat"
+    },
+    {
+      "title": "Gästeinformationen - Semkye Ling",
+      "url": "https://www.tibet.de/zentrum/standorte/standort-semkye-ling/gaesteinformationen"
+    },
+    {
+      "title": "Dharma-Sommercamp in Semkye Ling (2025/2026)",
+      "url": "https://www.tibet.de/programm/aktuelles-programm/dharma-sommercamp-2025"
+    },
+    {
+      "title": "Tibetisches Zentrum e.V. – Startseite",
+      "url": "https://www.tibet.de/"
+    },
+    {
+      "title": "Klausurhäuser für Semkye Ling: Ein Projekt des Tibetischen Zentrums",
+      "url": "https://docplayer.org/116220199-Klausurhaeuser-fuer-semkye-ling-ein-projekt-des-tibetischen-zentrums.html"
+    },
+    {
+      "title": "Stadt Schneverdingen – Meditationshaus Semkye Ling",
+      "url": "https://www.schneverdingen.de/desktopdefault.aspx/tabid-8869/15223_read-60549/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "zen-zentrum-eisenbuch",
+  "name": "Zen-Zentrum Eisenbuch & Zen-Kloster Daihizan Fumonji",
+  "aka": [
+    "Kloster Daihizan Fumonji",
+    "Zen-Kloster Eisenbuch",
+    "Daihizan Fumonji"
+  ],
+  "website": "https://www.eisenbuch.de/",
+  "location": {
+    "address": "Eisenbuch 7, 84567 Erlbach",
+    "city": "Erlbach",
+    "county": "Altötting",
+    "region": "Altötting, Bavaria",
+    "country": "Germany",
+    "state": "DE",
+    "lat": 48.3071,
+    "lng": 12.7864
+  },
+  "tradition": "Soto Zen Buddhism (Japanese lineage via Antaiji and Eiheiji), practiced within a 'Heilsames Leben' (healing life) framework open to non-specialists",
+  "technique": "Zazen (seated meditation), kinhin (walking meditation), samu (mindful work practice), sutra recitation, and Dharma talks",
+  "influences": [
+    "Fumon Shoju Nakagawa Roshi (founder)",
+    "Kodo Sawaki Roshi",
+    "Soko Morinaga Roshi",
+    "Tokugen Sakai Roshi",
+    "Kosho Uchiyama Roshi / Antaiji",
+    "Eiheiji Soto head monastery (Ekiho Miyazaki Zenji)",
+    "Thich Nhat Hanh"
+  ],
+  "teacherAccess": "Evening Dharma talks and Zendo introductions led by Fumon S. Nakagawa Roshi or senior Sangha members on most retreats; first-time practitioners can put questions to the Roshi directly",
+  "retreatOptions": "Weekly open meditation evening; weekend Sesshin (3 nights); week-long Samu-, study- and 'Heilsames Leben' theme retreats; roughly two-week Nirvana- and Rohatsu-Sesshin for experienced students (by the Roshi's permission); month-long winter and summer Ango monastic retreats; short 'Kloster auf Zeit' stays",
+  "about": "Zen-Zentrum Eisenbuch & Zen-Kloster Daihizan Fumonji is a Soto Zen monastery and retreat center set in a converted country inn in the wooded Holzland hills near Erlbach, Bavaria, about 110 km east of Munich. It was founded in 1996 by Fumon Shoju Nakagawa Roshi, a Japanese monk ordained by Tokugen Sakai Roshi and trained at Antaiji under Kosho Uchiyama Roshi and at the Soto head monastery Eiheiji, who envisioned the site as a 'Heilsames Leben' (healing life) path open to everyone, not only committed Zen trainees; the monastery was formally established in 2006 with the blessing of Eiheiji's 78th abbot, Ekiho Miyazaki Zenji. A resident monastic community and lay Sangha (Shobo-Kai) live on site and lead the year-round program of zazen, kinhin, samu (mindful work) and Dharma talks. Offerings range from a weekly open meditation evening and weekend Sesshin to week-long study and 'Heilsames Leben' courses, advanced multi-week Nirvana- and Rohatsu-Sesshin, and month-long winter and summer Ango monastic retreats. Meals are full-board, predominantly regional, organic and vegetarian, billed together with lodging separately from the course fee.",
+  "schedule": "Typical retreat day runs roughly 5:00am-9:00pm with alternating periods of zazen, kinhin, samu (work practice), meals and an evening Dharma talk from the abbot; multi-day Sesshin are held mostly or entirely in silence.",
+  "cost": "A fixed course fee (Kursgebühr) is charged per retreat (e.g. ~90 EUR for a weekend Sesshin, 120-240 EUR for week-long courses) and excludes accommodation and food, which are billed separately per night by room type; some community and self-catering Sesshins waive the course fee entirely, and the center also relies on voluntary dana at the close of courses.",
+  "pricePerDay": {
+    "min": 133,
+    "max": 159,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Derived from the 3-night Wochenend-Sesshin (26-29 Mar 2026): course fee 90 EUR (~30 EUR/night) plus separately billed room-and-full-board rates ranging 103 EUR/night (shared double room, Zenhaus, shared bath) to 129 EUR/night (single room, private bath); combined total is roughly 133-159 EUR/night. A single-occupancy monk's apartment runs 150 EUR/night, and a 5 EUR/night surcharge applies for special diets.",
+    "source": "https://www.eisenbuch.de/jahresprogramm/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Full board of predominantly regional, organic vegetarian meals is included in the nightly room rate; a 5 EUR/night surcharge applies for special dietary needs such as intolerances.",
+  "workRequired": "yes",
+  "workNotes": "Samu (mindful work in the house and garden) is built into the daily schedule of most retreats, from roughly 1-1.5 hours on a weekend Sesshin up to several hours a day on the dedicated Samu-Sesshin, alongside zazen and Dharma talks.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "family-friendly",
+    "day-retreats",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Zen-Zentrum Eisenbuch & Zen-Kloster Daihizan Fumonji - home page",
+      "url": "https://www.eisenbuch.de/"
+    },
+    {
+      "title": "Kontakt und Anreise",
+      "url": "https://www.eisenbuch.de/kontakt-und-anreise/"
+    },
+    {
+      "title": "Fumon S. Nakagawa Roshi (biography)",
+      "url": "https://www.eisenbuch.de/abt/"
+    },
+    {
+      "title": "Dharma-Linie",
+      "url": "https://www.eisenbuch.de/dharma-linie/"
+    },
+    {
+      "title": "Was ist ZEN?",
+      "url": "https://www.eisenbuch.de/was-ist-zen/"
+    },
+    {
+      "title": "Wochenend-Sesshin",
+      "url": "https://www.eisenbuch.de/wochenend-sesshin/"
+    },
+    {
+      "title": "Samu-Sesshin",
+      "url": "https://www.eisenbuch.de/samu-sesshin/"
+    },
+    {
+      "title": "Jahresprogramm 2026 (course dates and fees)",
+      "url": "https://www.eisenbuch.de/jahresprogramm/"
+    },
+    {
+      "title": "Infos zur Anmeldung (registration, cost model, accommodation rates)",
+      "url": "https://www.eisenbuch.de/infos-zur-anmeldung/"
+    },
+    {
+      "title": "Erlbach (Oberbayern) - Wikipedia (municipality, Landkreis Altötting)",
+      "url": "https://de.wikipedia.org/wiki/Erlbach_(Oberbayern)"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

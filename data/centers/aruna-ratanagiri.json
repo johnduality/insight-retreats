@@ -1,0 +1,91 @@
+{
+  "id": "aruna-ratanagiri",
+  "name": "Aruna Ratanagiri",
+  "aka": [
+    "Harnham Buddhist Monastery",
+    "Aruna Ratanagiri Buddhist Monastery"
+  ],
+  "website": "https://www.ratanagiri.org.uk/",
+  "location": {
+    "address": "2 Harnham Hall Cottages, Harnham, Belsay, Northumberland, NE20 0HF",
+    "city": "Harnham",
+    "county": "Northumberland",
+    "region": "Northumberland, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 55.128,
+    "lng": -1.838
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition in the lineage of Ajahn Chah",
+  "technique": "Silent sitting and walking meditation woven into monastic daily life, chanting (puja), and communal work",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Sumedho",
+    "Ajahn Munindo",
+    "Thai Forest Tradition"
+  ],
+  "teacherAccess": "Sunday evening Dhamma talks and teachings at Evening Puja from resident Ajahns; guests may ask the Guestmaster to request a one-to-one interview with an Ajahn, though availability is not guaranteed",
+  "retreatOptions": "Not a dedicated retreat centre: a handful of One Day Retreats each year (English and Thai-language) at Kusala House, plus guest stays ranging from a night or two up to several weeks for those who join the full monastic schedule",
+  "about": "Aruna Ratanagiri, also known as Harnham Buddhist Monastery, is a Theravada Buddhist monastery of the Thai Forest Tradition in the hamlet of Harnham, near Belsay in rural Northumberland close to the Scottish border. It was founded in 1981 after local supporters offered a farm cottage to the sangha of Ajahn Sumedho, a Western disciple of Ajahn Chah, with Ajahn Sucitto as its first resident monk; it is now led by abbot Ajahn Munindo, who received bhikkhu ordination from Ajahn Chah in 1976, and houses around eight monks, novices and postulants. Rather than running a conventional retreat programme, the monastery centres on communal monastic life: day visitors and overnight guests are welcomed into the daily round of chanting, silent sitting and walking meditation, and work periods, staying at Kusala House, the adjacent lay guest facility. A few One Day Retreats are held each year led by senior monks or nuns, alongside regular Dhamma talks and meditation groups, and the community observes a quieter Winter Retreat each February-March when guest space is limited. As with other monasteries in the Ajahn Chah lineage, there is no charge for staying; the monastery is supported entirely by dana (voluntary offerings of food, money and skills) from the lay community.",
+  "schedule": "Daily monastic timetable (5am rising and personal practice, 5:30am morning puja, 8am work period, 11:30am meal offering, 7pm evening puja) runs year-round, with occasional One Day Retreats and a quieter Winter Retreat period each February-March",
+  "cost": "No charge to visit or stay; entirely dana (donation) supported, covering One Day Retreats, guest stays and monastic training alike",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "No suggested amount; guests support the monastery through dana (food, money, or skills) as they are able. One Day Retreat attendees are asked to bring food to share for the communal lunch rather than pay a fee.",
+    "source": "https://www.ratanagiri.org.uk/participate-visiting-and-staying"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "One communal midday meal (around 11:30am) offered by the lay community as alms, plus tea at 5pm; the kitchen's welcomed-donations list is meat-free, and the monastery states it cannot accommodate special dietary needs or personal food brought by guests.",
+  "workRequired": "yes",
+  "workNotes": "Overnight guests join the monastery's roughly three-hour morning work period alongside residents as part of communal monastic training; day-only One Day Retreat attendees are not required to work.",
+  "tags": [
+    "theravada",
+    "day-retreats",
+    "long-retreats",
+    "silent",
+    "monastic-community",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Aruna Ratanagiri - home page",
+      "url": "https://www.ratanagiri.org.uk/"
+    },
+    {
+      "title": "Visiting and Staying",
+      "url": "https://www.ratanagiri.org.uk/participate-visiting-and-staying"
+    },
+    {
+      "title": "Retreats",
+      "url": "https://www.ratanagiri.org.uk/participate-retreats"
+    },
+    {
+      "title": "The Monastery",
+      "url": "https://www.ratanagiri.org.uk/about-monastery"
+    },
+    {
+      "title": "Contact (address and directions)",
+      "url": "https://www.ratanagiri.org.uk/contact"
+    },
+    {
+      "title": "Dana (offerings and food policy)",
+      "url": "https://www.ratanagiri.org.uk/offerings-dana"
+    },
+    {
+      "title": "Aruna Ratanagiri - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aruna_Ratanagiri"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

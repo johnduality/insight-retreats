@@ -1,0 +1,91 @@
+{
+  "id": "mandala-samten-ling",
+  "name": "Mandala Samten Ling",
+  "aka": [
+    "Monastero Buddista di Graglia",
+    "Monastero Mandala Samten Ling",
+    "Mandala Samten Ling Centro Studi Tibetani"
+  ],
+  "website": "https://www.mandalasamtenling.org",
+  "location": {
+    "address": "Casale Campiglie 84, 13895 Graglia Santuario, Biella (BI)",
+    "city": "Graglia",
+    "county": "Biella",
+    "region": "Piemonte, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 45.5586,
+    "lng": 7.9817
+  },
+  "tradition": "Tibetan Buddhism, Drikung Kagyu lineage (Mahayana/Vajrayana)",
+  "technique": "Guided sitting meditation, Mahamudra practice, and introductory posture/breath instruction, taught through Dharma seminars and residential retreats",
+  "influences": [
+    "Ven. Lama Paljin Tulku Rinpoche (founder)",
+    "H.H. the 14th Dalai Lama",
+    "H.H. Chetsang Rinpoche (head of the Drikung Kagyu lineage)",
+    "H.E. Garchen Rinpoche",
+    "Ven. Drubpön Tsering Rinpoche (Garchen Institute, Munich)",
+    "Drikung Kagyu monasteries of Ladakh and India"
+  ],
+  "teacherAccess": "Retreats and seminars are taught directly by the resident Lama and visiting Drikung Kagyu teachers; no separate one-on-one interview program is advertised",
+  "retreatOptions": "Single introductory days on meditation, posture and breathing; weekend seminars; and week-long intensive residential retreats (e.g. a Sunday-to-Sunday Mahamudra retreat)",
+  "about": "Mandala Samten Ling is a Tibetan Buddhist monastery of the Drikung Kagyu lineage set at about 800 meters in the Biellese Alps above the village of Graglia, in Italy's Piemonte region. It was founded in 1991 by Lama Paljin Tulku Rinpoche, an Italian-born monk who in 1995 was recognized in Ladakh as the reincarnation of the 17th-century yogin Je Paljin, and it is considered the first Tibetan monastery of Northern Italy. The monastery runs a year-round programme of Dharma seminars and residential retreats, ranging from single introductory days on relaxation, posture and breathing to weekend courses and week-long intensive retreats such as Mahamudra practice, led primarily by Lama Paljin Tulku Rinpoche and visiting teachers linked to the wider Drikung Kagyu lineage, including H.E. Garchen Rinpoche's European representative, Drubpön Tsering Rinpoche. It is affiliated with sister centres in Milan and Merano and belongs to the Unione Buddhista Italiana and the European Buddhist Union. Participation in courses and retreats requires annual membership in the nonprofit religious association that runs the monastery, and practitioners can also support the centre through informal volunteer work known as Karma Yoga.",
+  "schedule": "Semester/quarterly programme of single-day teachings, weekend seminars, and occasional week-long residential retreats, mostly led by the resident Lama; retreat check-in is typically mid-afternoon on the first day",
+  "cost": "Attending any teaching or retreat requires annual association membership (EUR 30/year); residential retreats are then priced as a fixed 'contributo' (contribution) per retreat rather than a nightly rate",
+  "pricePerDay": {
+    "min": 100,
+    "max": 100,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Derived from the 2026 week-long Mahamudra summer retreat with Lama Paljin Tulku Rinpoche (9-16 Aug 2026, check-in 17:00 Day 1 to check-out 13:00 Day 8, i.e. 7 nights): a single fixed contributo of EUR 700, or about EUR 100/night. This is a flat one-tier fee (no sliding scale published) and is charged on top of the required EUR 30 annual membership.",
+    "source": "https://www.mandalasamtenling.org/eventi/ritiro-estivo-2026-2/"
+  },
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "The website does not publish specific catering or dietary details for residential retreats; meals are presumably included in the retreat contributo but this is not stated explicitly on the site.",
+  "workRequired": "no",
+  "workNotes": "Retreats themselves do not require work. Separately, the centre offers 'Karma Yoga', a voluntary way for practitioners to contribute personal labour toward the monastery's upkeep as a form of generosity practice.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "fixed-fee",
+    "no-work-required",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Mandala Samten Ling - home page",
+      "url": "https://www.mandalasamtenling.org/"
+    },
+    {
+      "title": "Mandala Samten Ling (Chi siamo / about the monastery)",
+      "url": "https://www.mandalasamtenling.org/il-monastero-buddista-di-graglia/"
+    },
+    {
+      "title": "Attivita del Centro",
+      "url": "https://www.mandalasamtenling.org/attivita-centro/"
+    },
+    {
+      "title": "Ven. Lama Paljin Tulku Rinpoce (founder biography)",
+      "url": "https://www.mandalasamtenling.org/il-nostro-lama/"
+    },
+    {
+      "title": "Ven. Drubpon Tsering Rinpoche",
+      "url": "https://www.mandalasamtenling.org/ven-drubpon-tsering-rinpoche/"
+    },
+    {
+      "title": "Ritiro estivo 2026 - Vincere gli inganni delle apparenze (retreat pricing)",
+      "url": "https://www.mandalasamtenling.org/eventi/ritiro-estivo-2026-2/"
+    },
+    {
+      "title": "Diventa socio (membership requirements/fee)",
+      "url": "https://www.mandalasamtenling.org/diventa-socio/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

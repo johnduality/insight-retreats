@@ -1,0 +1,91 @@
+{
+  "id": "wat-phra-dhammakaya-london",
+  "name": "Wat Phra Dhammakaya London",
+  "aka": [
+    "Woking Meditation Centre",
+    "The Meditation Surrey Centre",
+    "Dhammakaya International Society of the UK (DISUK)"
+  ],
+  "website": "https://www.watphradhammakayalondon.co.uk/",
+  "location": {
+    "address": "1-2 Brushfield Way, Knaphill, Woking, Surrey, GU21 2TG",
+    "city": "Knaphill",
+    "county": "Surrey",
+    "region": "Surrey, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 51.3139237,
+    "lng": -0.6170961
+  },
+  "tradition": "Dhammakaya Movement Thai Buddhism - a modern, Bangkok-founded reform tradition within Theravada, distinct from the older Thai Forest lineage, centred on visualization-based Dhammakaya meditation",
+  "technique": "Dhammakaya meditation: silently visualizing a crystal ball or Buddha image at the body's centre to still and focus the mind",
+  "influences": [
+    "Wat Phra Dhammakaya (Pathum Thani, Thailand)",
+    "Luang Pu Sodh Candasaro",
+    "Dhammakaya Foundation"
+  ],
+  "teacherAccess": "Resident Thai monks lead daily guided meditation and Dhamma talks on retreats, with an optional one-to-one interview session with a monk.",
+  "retreatOptions": "Seasonal 2-night weekend meditation retreats (Spring, Summer, Autumn); a separate 2-night Temple Stay programme; weekly Tuesday/Thursday evening classes; occasional one-day workshops.",
+  "about": "Wat Phra Dhammakaya London, also known locally as the Woking Meditation Centre, is a Thai Buddhist temple in Knaphill, Surrey, run by the Dhammakaya International Society of the UK. It occupies a former Victorian hospital chapel bought in 2004 and converted into a temple that opened in 2007, with a resident community of Thai monks. The centre teaches Dhammakaya meditation, a visualization-based technique associated with the modern Dhammakaya movement founded at Wat Phra Dhammakaya in Thailand, alongside conventional Thai Buddhist practices such as chanting and merit-making. Alongside free weekly evening meditation classes, it runs seasonal weekend retreats and a separate Temple Stay programme, both including dormitory-style accommodation and Thai meals. Visitors of any background or experience level are welcome, and the temple is one of several Dhammakaya branches in the UK, alongside centres in Manchester, Newcastle, and Scotland.",
+  "schedule": "Three residential weekend retreats a year (Spring, Summer, Autumn) plus year-round Tuesday (beginner) and Thursday (regular) evening meditation classes, roughly 7-9pm.",
+  "cost": "Weekend retreats charge a flat GBP 75 registration fee covering all meals and dormitory accommodation; weekly classes and the Temple Stay programme are free/donation-based.",
+  "pricePerDay": {
+    "min": 37.5,
+    "max": 37.5,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Weekend retreat registration fee is a flat GBP 75 for the full 2-night stay (Friday evening to Sunday afternoon), including all meals and bunk-bed dormitory accommodation - a single fixed price, not tiered by room type or income, equating to roughly GBP 37.50/night.",
+    "source": "https://www.watphradhammakayalondon.co.uk/meditation-courses/the-weekend-meditation-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "omnivore",
+  "foodNotes": "Thai buffet breakfast and lunch with fresh fruit, plus light evening refreshments (tea, hot chocolate, juice), are included on retreats; food is mostly non-vegetarian, though vegetarian or special diets can be catered for if requested in advance.",
+  "workRequired": "partial",
+  "workNotes": "No work is required during the paid weekend retreats; the separate donation-based Temple Stay programme includes optional volunteering alongside meditation, chanting, and observance of the 8 precepts.",
+  "tags": [
+    "theravada",
+    "day-retreats",
+    "family-friendly",
+    "diet-omnivore",
+    "fixed-fee",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Wat Phra Dhammakaya London - official site",
+      "url": "https://www.watphradhammakayalondon.co.uk/"
+    },
+    {
+      "title": "The Weekend Meditation Retreat",
+      "url": "https://www.watphradhammakayalondon.co.uk/meditation-courses/the-weekend-meditation-retreat/"
+    },
+    {
+      "title": "The Weekend Meditation Retreat #20 (fees, schedule, cancellation policy)",
+      "url": "https://www.watphradhammakayalondon.co.uk/the-weekend-meditation-retreat-20/"
+    },
+    {
+      "title": "Temple Stay Programme",
+      "url": "https://www.watphradhammakayalondon.co.uk/temple-stay-programme/"
+    },
+    {
+      "title": "Dhammakaya Tradition UK - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dhammakaya_Tradition_UK"
+    },
+    {
+      "title": "Tuesday Meditation Class for Beginners, Wat Phra Dhammakaya London",
+      "url": "https://en.dhammakaya.net/tuesday-meditation-class-for-beginners-wat-phra-dhammakaya-london/"
+    },
+    {
+      "title": "Wat Phra Dhammakaya London - location, hours, and map",
+      "url": "https://wat-phra-dhammakaya-london.wheree.com/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

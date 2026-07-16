@@ -1,0 +1,109 @@
+{
+  "id": "templo-zen-luz-serena",
+  "name": "Templo Zen Luz Serena",
+  "aka": [
+    "Monasterio Zen Luz Serena",
+    "Comunidad Budista Soto Zen",
+    "Comunidad Buddhista Soto Zen (CBSZ)"
+  ],
+  "website": "https://sotozen.es/",
+  "location": {
+    "address": "Camino de Casas del Río, km 6.5, 46356 Requena, Valencia",
+    "city": "Requena",
+    "county": "Valencia",
+    "region": "Valencia, Spain",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 39.3256,
+    "lng": -1.1256
+  },
+  "tradition": "Sōtō Zen Buddhism, in the Deshimaru–Narita lineage carried to Spain by founder Dokushō Villalba",
+  "technique": "Zazen (seated meditation) and kinhin (walking meditation); sutra chanting; oryoki formal meal ritual; samu (mindful work); MBTB (Mindfulness Based on Buddhist Tradition) practice",
+  "influences": [
+    "Dokushō Villalba (founder)",
+    "Taisen Deshimaru",
+    "Shuyū Narita Rōshi",
+    "Eihei Dōgen",
+    "Daizan Soriano (resident teacher)"
+  ],
+  "teacherAccess": "Daily teishō (dharma talks) and mondo Q&A with the guiding teacher, typically Daizan Soriano; some retreats also include a personal interview with founder Dokushō Villalba.",
+  "retreatOptions": "Weekend 'Retiros de Sosiego' respite/work retreats; beginner 'Retiros de Acercamiento' followed by 'Retiros de Introducción'; deeper 'Retiros de Profundización'; extended sesshins of up to 20-30 days each August; plus online MBTB mindfulness courses via the Soto Zen virtual campus.",
+  "about": "Templo Zen Luz Serena is a Sōtō Zen monastery in the Hoces del Cabriel Natural Park near Requena, in inland Valencia, Spain. It was founded in 1989 by Francisco Dokushō Villalba, the first Spaniard recognized as a Sōtō Zen master, who ordained under Taisen Deshimaru in Paris and later received Dharma transmission from Shuyū Narita Rōshi in Japan. The temple is the spiritual and administrative headquarters of the Comunidad Budista Soto Zen, a religious community registered in Spain since 1990, and it has run meditation retreats continuously since its first sesshin in August 1989. A small resident community lives and trains there year-round, and the temple offers a graded ladder of retreats built around zazen, oryoki ritual meals, sutra chanting, and samu (mindful work), from beginner weekends up to month-long August sesshins. Alongside its Zen program it also teaches Mindfulness Based on Buddhist Tradition (MBTB) courses developed by Villalba, both on-site and online, and it hosts outside groups for yoga, psychotherapy, and other personal-growth retreats.",
+  "schedule": "Retreat days are built around 4-6 half-hour zazen sittings, kinhin walking meditation, oryoki formal meals, a daily samu work period, and teishō/mondo sessions with the teacher; silence is generally kept from morning until after dinner.",
+  "cost": "Most retreats use a fixed registration fee (around €25) plus a per-night contribution (around €25/night), with the daily rate reduced for participants who take on more hours of samu (conscious work) each day; specialty workshops and courses are priced separately.",
+  "pricePerDay": {
+    "min": 25,
+    "max": 31,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "4-night 'Retiro de Sosiego' (Wed 18:00 arrival to Sun 15:00 departure): €25 flat registration plus €25/day, totalling €125 for 4 nights (~€25-31/night depending on whether the registration fee is amortised). The more heavily work-traded Option B (€25 total for 6 work-hours/day) is a subsidised rate and is excluded.",
+    "source": "https://sotozen.es/en/buddhismo-zen/retiros-de-sosiego/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Communal vegetarian meals - no meat is served, in the monastery or at retreats - eaten formally in the oryoki (ceremonial bowl) style during sesshins, based on the notion of shoshinriori (pure, simple food).",
+  "workRequired": "yes",
+  "workNotes": "Samu (mindful work such as grounds cleaning, weeding, and maintenance) is a standard daily part of retreats; some formats let participants choose 3 or 6 work-hours a day, with more work hours lowering the daily fee.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Inicio SotoZen - Comunidad Buddhista Soto Zen (home)",
+      "url": "https://sotozen.es/"
+    },
+    {
+      "title": "Presentación - Templo Zen Luz Serena",
+      "url": "https://sotozen.es/en/templo-luz-serena/presentacion/"
+    },
+    {
+      "title": "¿Dónde estamos? - location and directions",
+      "url": "https://sotozen.es/en/templo-luz-serena/donde-estamos/"
+    },
+    {
+      "title": "La vida en Luz Serena - Life in Serene Light",
+      "url": "https://sotozen.es/en/templo-luz-serena/la-vida-en-luz-serena/"
+    },
+    {
+      "title": "Retiros de sosiego (Tranquility/respite retreats)",
+      "url": "https://sotozen.es/en/buddhismo-zen/retiros-de-sosiego/"
+    },
+    {
+      "title": "Tranquility Retreat Contribution (pricing)",
+      "url": "https://sotozen.es/en/donacion/retiro-de-sosiego/"
+    },
+    {
+      "title": "Retiros de Acercamiento al Zen - 2025",
+      "url": "https://sotozen.es/en/actividades-2025/retiros-de-acercamiento-al-zen/"
+    },
+    {
+      "title": "Dokushō Villalba, fundador del Templo Zen Luz Serena - Buddhistdoor en Español",
+      "url": "https://espanol.buddhistdoor.net/dokusho-villalba-fundador-del-templo-zen-luz-serena/"
+    },
+    {
+      "title": "Qué sucede al participar en un retiro de introducción al zazen - experiencia personal en el Templo Luz Serena",
+      "url": "https://isragarcia.es/la-practica-de-zazen-templo-luz-serena-retiro-zen-experiencia-personal/"
+    },
+    {
+      "title": "Templo Zen Luz Serena (Requena) - Opiniones",
+      "url": "https://puntozen.es/templo-zen-luz-serena/"
+    },
+    {
+      "title": "Meditación Zen y Estados Expandidos - Campus Virtual Soto Zen",
+      "url": "https://campus.sotozen.es/meditacion-zen-y-estados-expandidos/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

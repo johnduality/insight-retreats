@@ -1,0 +1,87 @@
+{
+  "id": "centro-milarepa",
+  "name": "Centro Milarepa",
+  "aka": [
+    "Centro Milarepa - Associazione Buddhista Vajrayana",
+    "Centro Ritiri di Angrogna (Centro Milarepa retreat house)"
+  ],
+  "website": "https://www.centromilarepa.net",
+  "location": {
+    "address": "Localita Martel 288, 10060 Angrogna (TO), Italy — retreat house of Centro Milarepa; the association's main teaching center (Gompa) is at Via Fratelli De Maistre 43/C, 10127 Torino",
+    "city": "Angrogna",
+    "region": "Piemonte, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 44.8375848,
+    "lng": 7.2426859
+  },
+  "tradition": "Tibetan Buddhism, Kagyu (Shangpa and Karma Kagyu) Vajrayana, taught with a non-sectarian (Rimé) openness to all four schools",
+  "technique": "Vajrayana ritual and meditation practice: Ngöndro preliminaries, yidam deity sadhana, Mahamudra, Chöd, and the Six Yogas of Niguma, alongside general teachings on calm-abiding meditation and love/compassion",
+  "influences": [
+    "Kalu Rinpoche (founder, 1980)",
+    "S.S. Gyalwa Karmapa (spiritual head of the Karma Kagyu lineage)",
+    "Ven. Shartrul (Sciartrul) Rinpoche (resident teacher since 2007/2008)",
+    "Ven. Lama Giang Giub Sondup (resident Lama, 1982-2006)",
+    "Khenpo Thubten Jampal",
+    "Jamgön Kongtrül Lodrö Thâyé and the Rimé (non-sectarian) movement"
+  ],
+  "teacherAccess": "Weekly weekend courses with the resident Lama, Ven. Shartrul Rinpoche, at the Turin center; residential retreats at Angrogna offer daily teaching and practice alongside the teacher in small groups of about 12-15",
+  "retreatOptions": "Weekend courses, empowerments, and study sessions at the Turin center; periodic week-long (roughly 7-8 night) residential retreats at the Angrogna retreat house during holiday periods",
+  "about": "Centro Milarepa is a Tibetan Buddhist Vajrayana center founded in 1980 by the Kagyu master Kalu Rinpoche, one of the first Buddhist centers established in Italy. Its home base and main teaching hall (Gompa) are in central Turin, where the resident teacher Lama Shartrul Rinpoche leads weekend courses, empowerments, and ongoing study in the Shangpa and Karma Kagyu traditions, with a non-sectarian (Rimé) approach that also draws on the Nyingma, Sakya, Gelug, and Kadam schools. During holiday periods the center runs intensive residential retreats at a dedicated retreat house it acquired in 2022 in the hamlet of Martel, in the mountain comune of Angrogna, at about 1,000 meters in the Val Pellice, roughly 50 km from Turin. Programs emphasize the Ngöndro preliminary practices, yidam deity practices, Mahamudra, Chöd, and the Six Yogas of Niguma, alongside more general teachings on calm-abiding meditation and love and compassion that are open to non-Buddhists. Attendance requires an annual membership, and the Angrogna retreats are kept small (about 12-15 participants), who share rotating chores such as cooking and cleaning.",
+  "schedule": "Weekend courses in Turin run Saturday about 15:30-18:30 and Sunday about 9:30-12:30 and 15:30-18:30; residential retreats at Angrogna follow a daily group teaching and practice schedule, typically with an evening Chöd session",
+  "cost": "Attendance requires annual membership (Socio Ordinario EUR 40, Socio Sostenitore EUR 70, or Socio Benemerito EUR 500, the last covering all courses without further offerings); course fees are a modest contribution to running costs since teachings are traditionally given freely by the Lama; residential retreats at Angrogna charge a flat fee per retreat, with a voluntary dana offering to the teacher encouraged at the end",
+  "pricePerDay": {
+    "min": 44,
+    "max": 44,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "8-night residential retreat 'Ritiro sulla terza pratica speciale alla Mahamudra: Mandala' at Angrogna (18-26 Jul 2026): flat fee of EUR 350 total, i.e. about EUR 44/night; this is a single flat rate rather than a tiered scale, and excludes the separate voluntary dana offering to the teacher and the required annual membership fee.",
+    "source": "https://www.centromilarepa.net/index.php"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Only vegetarian food is permitted during residential retreats at Angrogna; the closing communal lunch on the final day also offers meat dishes for those who want them.",
+  "workRequired": "yes",
+  "workNotes": "Retreatants at Angrogna take turns handling practical retreat tasks such as cleaning common areas and preparing breakfast.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "diet-vegetarian",
+    "fixed-fee",
+    "dana-donation",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Centro Milarepa - home page (retreat program, Angrogna retreat house details, pricing)",
+      "url": "https://www.centromilarepa.net/"
+    },
+    {
+      "title": "Chi Siamo (history, founder Kalu Rinpoche, tradition, teachers)",
+      "url": "https://www.centromilarepa.net/chi-siamo.html"
+    },
+    {
+      "title": "Informazioni generali (membership fees, course schedule, house rules)",
+      "url": "https://www.centromilarepa.net/informazioni.html"
+    },
+    {
+      "title": "Contatti (Turin address, contact info)",
+      "url": "https://www.centromilarepa.net/contatti.html"
+    },
+    {
+      "title": "Google Maps - Località Martel, 288, 10060 Angrogna TO (coordinates for retreat house)",
+      "url": "https://maps.app.goo.gl/YkSGF3qZwZJTw5Zo6"
+    },
+    {
+      "title": "Wikipedia - Angrogna (comune location, ~45 km SW of Turin)",
+      "url": "https://en.wikipedia.org/wiki/Angrogna"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

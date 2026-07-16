@@ -1,0 +1,105 @@
+{
+  "id": "gomde-austria",
+  "name": "Rangjung Yeshe Gomde Germany-Austria",
+  "aka": [
+    "Gomde Austria",
+    "Gomde Deutschland-Österreich",
+    "Gomde Germany-Austria",
+    "Rangjung Yeshe Gomde"
+  ],
+  "website": "https://gomde.eu",
+  "location": {
+    "address": "Bäckerberg 18, 4644 Scharnstein",
+    "city": "Scharnstein",
+    "county": "Almtal, Salzkammergut",
+    "region": "Upper Austria, Austria",
+    "country": "Austria",
+    "state": "AT",
+    "lat": 47.926689,
+    "lng": 13.945844
+  },
+  "tradition": "Tibetan Vajrayana Buddhism, Kagyü and Nyingma schools (Chokling Tersar lineage), under the Ka-Nying Shedrub Ling Monastery tradition",
+  "technique": "Guided meditation, daily Vajrayana sadhana practice (Thugdrub Barche Kunsel, Vajrakilaya, Chöd, Tonglen), dharma study and seminars",
+  "influences": [
+    "Chökyi Nyima Rinpoche",
+    "Tulku Urgyen Rinpoche",
+    "Tsikey Chokling Rinpoche",
+    "Phakchok Rinpoche",
+    "Chokgyur Lingpa / Chokling Tersar lineage",
+    "Ka-Nying Shedrub Ling Monastery, Kathmandu",
+    "Nagi Gompa Nunnery, Kathmandu"
+  ],
+  "teacherAccess": "Resident teacher Lama Thierry offers daily practice guidance and can be booked for one-on-one conversations; visiting monks, nuns and Khenpos from Ka-Nying Shedrub Ling and Nagi Gompa give periodic teachings, and founder Chökyi Nyima Rinpoche, together with Phakchok Rinpoche, returns for annual seminars and retreats",
+  "retreatOptions": "Open-ended individual dharma stays from a few days to several weeks; weekend seminars; multi-day retreats (e.g. a 3-day 'Kindful Wisdom' retreat) with visiting Rinpoches; an annual month-long Ngöndro retreat and summer seminar; weekly open meditation, Chöd, and Tonglen sessions (some offered online)",
+  "about": "Rangjung Yeshe Gomde Germany-Austria (commonly called Gomde Austria) is a Tibetan Buddhist meditation and study center in Scharnstein, in the Almtal valley of Upper Austria's Salzkammergut region -- a distinct location from the Gomde centers in England, California and Scotland, though part of the same international Gomde network. Founded in 2004 under the guidance of Chökyi Nyima Rinpoche, abbot of Ka-Nying Shedrub Ling Monastery in Kathmandu, the center occupies a converted former farmhouse with a meditation hall, multipurpose hall, dining room, café-lounge, library and gift shop, and is a registered member of the Austrian Buddhist Religious Community (ÖBR). Its teaching lineage centers on the Kagyü and Nyingma traditions, particularly the Chokling Tersar lineage founded by the 19th-century tertön Chokgyur Lingpa, with resident teacher Lama Thierry leading daily practice and visiting monks, nuns and Khenpos from Ka-Nying Shedrub Ling and the Nagi Gompa nunnery offering periodic instruction. Visitors can drop in for open-ended individual dharma stays of a few days to several weeks, join weekend seminars, or attend larger annual events -- including a month-long Ngöndro retreat and periodic seminars/retreats led by Chökyi Nyima Rinpoche and Phakchok Rinpoche -- with accommodation ranging from shared dormitories and camping to private en-suite rooms. Meals (offering meat, vegetarian and vegan choices) are included in the donation-based or tiered seminar fees, and guests are asked to contribute about an hour a day of light 'karma yoga' service such as garden or housekeeping tasks.",
+  "schedule": "Daily dharma-stay rhythm: 7:30 short practice and Sang offering, 8:30 breakfast, 12:00 lunch, optional afternoon teachings with Lama Thierry, 17:00 Vajrakilaya and dharma-protector practice, plus a weekly Monday evening meditation and Tuesday Tonglen session; seminar weeks with visiting Rinpoches follow a denser program of practice sessions between meals",
+  "cost": "Individual dharma stays run on a suggested daily donation (around EUR75/day covering room, board and program, adjustable on request); named seminars/retreats with visiting Rinpoches instead use tiered per-day fees by accommodation type, with reduced rates for students, seniors, unemployed people and people with disabilities, and volunteering-based fee waivers for those with limited means",
+  "pricePerDay": {
+    "min": 100,
+    "max": 110,
+    "unit": "day",
+    "currency": "EUR",
+    "notes": "3-day 'Kindful Wisdom' retreat with Chökyi Nyima Rinpoche (19-21 Jul 2026): tiered per-day fees are EUR90/day (EUR270 total) without accommodation, EUR100/day (EUR300 total) with camping, and EUR110/day (EUR330 total) with dormitory accommodation, all including meals. Using the residential camping/dormitory tiers (EUR100-110/day) as representative; the EUR90/day non-residential fee is excluded as a self-catered/off-site alternative, and the EUR70/day reduced fee for students, seniors, unemployed and disabled participants is excluded as a subsidised rate.",
+    "source": "https://gomde.eu/en/event/loving-wisdom-retreat-with-choekyi-nyima-rinpoche/"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Three buffet-style meals a day (breakfast ~8-9am, lunch ~12-1:30pm, dinner ~6pm) are included in stay/retreat fees; the kitchen cooks meat, vegetarian, and vegan dishes daily, and guests with allergies or special diets (e.g. gluten-free, lactose-free) are asked to flag this at registration and may need to bring their own substitute items.",
+  "workRequired": "partial",
+  "workNotes": "During seminars, guests are asked for about 1 hour/day of 'karma yoga' (e.g. garden work or cleaning communal rooms) framed as a generosity practice; separate, more substantial volunteer/workaway placements with free room and board are also available by individual arrangement.",
+  "tags": [
+    "tibetan-vajrayana",
+    "diet-vegan",
+    "diet-vegetarian",
+    "diet-omnivore",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "camping",
+    "accessible",
+    "family-friendly",
+    "long-retreats",
+    "self-guided",
+    "online-hybrid"
+  ],
+  "sources": [
+    {
+      "title": "Rangjung Yeshe Gomde - home page (DE)",
+      "url": "https://gomde.eu/"
+    },
+    {
+      "title": "Das Zentrum / The Center",
+      "url": "https://gomde.eu/das-zentrum/"
+    },
+    {
+      "title": "Dharma Aufenthalte / Dharma Stays",
+      "url": "https://gomde.eu/dein-dharma-aufenthalt/"
+    },
+    {
+      "title": "Der Ort und seine Möglichkeiten / Venue & Facilities",
+      "url": "https://gomde.eu/das-haus/"
+    },
+    {
+      "title": "Mithelfen & Gemeinschaft / Volunteer & Community",
+      "url": "https://gomde.eu/mithelfen-gemeinschaft/"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://gomde.eu/faqs/"
+    },
+    {
+      "title": "Lehrende / Teachers",
+      "url": "https://gomde.eu/lehrende/"
+    },
+    {
+      "title": "Kindful Wisdom Retreat with Chökyi Nyima Rinpoche (event/pricing page)",
+      "url": "https://gomde.eu/en/event/loving-wisdom-retreat-with-choekyi-nyima-rinpoche/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

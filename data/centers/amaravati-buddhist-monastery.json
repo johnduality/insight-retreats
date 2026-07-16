@@ -1,0 +1,105 @@
+{
+  "id": "amaravati-buddhist-monastery",
+  "name": "Amaravati Buddhist Monastery",
+  "aka": [
+    "Amaravati Retreat Centre"
+  ],
+  "website": "https://amaravati.org/",
+  "location": {
+    "address": "St Margarets, Great Gaddesden, Hemel Hempstead, Hertfordshire HP1 3BZ",
+    "city": "Great Gaddesden",
+    "county": "Hertfordshire",
+    "region": "Hertfordshire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 51.7917,
+    "lng": -0.5206
+  },
+  "tradition": "Theravada Buddhist monastery, Thai Forest Tradition (lineage of Ajahn Chah)",
+  "technique": "Samatha-vipassana sitting and walking meditation, monastic chanting, working meditation",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Sumedho",
+    "Ajahn Amaro",
+    "Thai Forest Tradition"
+  ],
+  "teacherAccess": "Nightly Dhamma talks and Q&A on all retreats; small-group discussions with the teacher on 10-day retreats; informal meeting with the teacher at retreat's end.",
+  "retreatOptions": "Seasonal group silent retreats (weekend, 5-day, and 10-day) run roughly April to December; monastery also takes overnight lay guests for 4-7 day stays outside retreat periods; no online/hybrid option currently offered.",
+  "about": "Amaravati Buddhist Monastery is a Theravada monastery in the Thai Forest Tradition, set on a rural Chilterns site near the Hertfordshire village of Great Gaddesden. It was established in 1984 by Ajahn Sumedho at the encouragement of his teacher Ajahn Chah, and Ajahn Amaro has served as abbot since 2010. A resident community of roughly twenty to thirty monks and nuns, plus lay anagarikas and residents, lives according to the monastic Vinaya and welcomes lay visitors to stay as guests or join community life. A separate, independently run Retreat Centre on the same grounds offers a seasonal programme of monastic-led weekend, five-day, and ten-day silent retreats built around Noble Silence, the Eight Precepts, and a full daily schedule of sitting and walking meditation. The monastery and its retreats operate entirely on dana (freely-given donations), with no fees charged for teachings, food, or accommodation.",
+  "schedule": "Retreats run seasonally April-December (monastery closed to retreatants Jan-Mar for winter retreat); each has an ~8-hour daily schedule of sitting/walking meditation, chanting, and working meditation, held in Noble Silence, ending Sunday evening for weekends or after lunch for longer retreats.",
+  "cost": "No fee for the monastery or Retreat Centre; entirely dana (voluntary donation)-based, per Thai Forest Tradition custom, with no one turned away for inability to give.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Donations may be given as cash, card, cheque, or standing order at the retreat, or online via the Dona platform afterward; UK taxpayers can Gift Aid their gift.",
+    "source": "https://amaravati.org/retreat-centre/support/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Breakfast and one midday meal only, per the Eight Precepts (no food after noon, aside from a medical-need exception); meals are mainly vegan and gluten-free, with some dairy (milk, cheese); simple allergy adjustments possible but menu preferences are not catered for.",
+  "workRequired": "yes",
+  "workNotes": "Roughly 45 minutes of daily working meditation (cleaning, kitchen, general chores) is built into the retreat schedule; overnight monastery guests likewise join community work periods alongside the monastics.",
+  "tags": [
+    "theravada",
+    "silent",
+    "day-retreats",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Amaravati Buddhist Monastery - home",
+      "url": "https://amaravati.org/"
+    },
+    {
+      "title": "Visiting - Amaravati Buddhist Monastery",
+      "url": "https://amaravati.org/visiting/"
+    },
+    {
+      "title": "Staying overnight - Amaravati Buddhist Monastery",
+      "url": "https://amaravati.org/visiting/staying-overnight/"
+    },
+    {
+      "title": "Food dana - offering - Amaravati Buddhist Monastery",
+      "url": "https://amaravati.org/visiting/food-dana-offering/"
+    },
+    {
+      "title": "Coming on Retreat - Amaravati Buddhist Monastery",
+      "url": "https://amaravati.org/coming-on-retreat/"
+    },
+    {
+      "title": "Retreat Centre - Support and Donations",
+      "url": "https://amaravati.org/retreat-centre/support/"
+    },
+    {
+      "title": "Booking - Amaravati Buddhist Monastery",
+      "url": "https://amaravati.org/retreat-centre/booking/"
+    },
+    {
+      "title": "Retreat Centre - Frequently Asked Questions",
+      "url": "https://amaravati.org/retreat-centre/frequently-asked-questions/"
+    },
+    {
+      "title": "History of the Monastery - Amaravati Buddhist Monastery",
+      "url": "https://amaravati.org/about/"
+    },
+    {
+      "title": "Getting Here - Maps and Directions",
+      "url": "https://amaravati.org/visiting/getting-here/"
+    },
+    {
+      "title": "Amaravati Retreat Centre booking site (retreat calendar)",
+      "url": "https://bookings.amaravati.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "auto-verified"
+  }
+}

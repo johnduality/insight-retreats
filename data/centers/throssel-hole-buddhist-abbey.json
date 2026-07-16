@@ -1,0 +1,103 @@
+{
+  "id": "throssel-hole-buddhist-abbey",
+  "name": "Throssel Hole Buddhist Abbey",
+  "aka": [
+    "Throssel Hole Abbey",
+    "Throssel"
+  ],
+  "website": "https://throssel.org.uk/",
+  "location": {
+    "address": "Carrshield, Hexham, Northumberland, NE47 8AL",
+    "city": "Carrshield",
+    "county": "Northumberland",
+    "region": "Northumberland, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 54.84253,
+    "lng": -2.31736
+  },
+  "tradition": "Sōtō Zen (Serene Reflection Meditation Tradition), Order of Buddhist Contemplatives",
+  "technique": "Zazen (seated meditation) combined with liturgy/ceremony, working meditation (samu), and Dharma teaching",
+  "influences": [
+    "Rev. Master Jiyu-Kennett (founder)",
+    "Rev. Master Daishin Morgan",
+    "Dogen",
+    "Order of Buddhist Contemplatives"
+  ],
+  "teacherAccess": "Senior monastics lead all retreats with daily talks, meditation instruction and 'tea and questions' sessions; the resident community is also available for guidance outside scheduled retreats",
+  "retreatOptions": "Weekend Introductory Retreats, monthly Festival Sundays, weekend/3-day retreats, week-long sesshins (including Jukai, Segaki and New Year retreats), plus open-ended residential stays from a few days to a month or more, and online Zoom retreats",
+  "about": "Throssel Hole Buddhist Abbey is a Sōtō Zen monastery and retreat centre set in the remote hills of the North Pennines near Carrshield, Northumberland, England. Founded in 1972 by Rev. Master Jiyu-Kennett, an Englishwoman who trained in Japan and was authorised to teach and ordain as a roshi, it is a senior temple of the Order of Buddhist Contemplatives following what it calls the Serene Reflection Meditation Tradition, a Western adaptation of Dogen's Sōtō Zen. A resident community of monks and priests, currently under Abbot Rev. Master Berwyn Watson, lives and trains at the Abbey year-round and leads a programme of Introductory Retreats, Festival Sundays, weekend and three-day retreats, week-long sesshins, and open-ended residential stays. Newcomers typically begin with a weekend Introductory Retreat combining zazen instruction, working meditation and talks on Buddhist ethics before being welcomed to the Abbey's wider programme. True to Zen monastic custom, no fees are charged for teaching, food or lodging; the Abbey depends entirely on voluntary donations from retreatants and its lay congregation. It also runs a substantial online programme of Zoom retreats, Dharma talks and festival broadcasts for its wider UK and international congregation.",
+  "schedule": "Retreat days typically run from 6am rising to 10pm lights out, structured around periods of zazen, silent meals, working meditation, ceremonies and a Dharma talk or 'tea and questions' session",
+  "cost": "No fees are charged for teaching, food or accommodation; the Abbey relies entirely on voluntary, anonymous donations, with suggested guideline amounts of GBP 200 for Introductory Retreats, GBP 225 for weekend retreats, GBP 275 for Intensive retreats, GBP 450 for week-long sesshins, GBP 35/night for other residential stays, and GBP 20/night for stays of a month or longer",
+  "pricePerDay": {
+    "min": 64,
+    "max": 75,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Derived from the suggested week-long sesshin donation of GBP 450: roughly GBP 75/night if treated as 6 nights (e.g. Sunday-Saturday) or GBP 64/night if treated as 7 nights; donations are voluntary and lower amounts are welcomed if that suggested level isn't affordable.",
+    "source": "https://throssel.org.uk/alms-bowl/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are provided at no charge during retreats and stays; dairy-free alternatives are offered but a fully vegan, no-wheat or no-gluten diet cannot always be guaranteed except for medical needs such as Coeliac disease.",
+  "workRequired": "yes",
+  "workNotes": "Retreat schedules include scheduled periods of 'working meditation' (samu), such as grounds, garden and kitchen work; guests are advised to bring work gloves for outdoor tasks.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "family-friendly",
+    "online-hybrid",
+    "self-guided",
+    "day-retreats",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "accessible",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Throssel | Monastery and retreat centre in the Soto Zen Buddhist tradition (home page)",
+      "url": "https://throssel.org.uk/"
+    },
+    {
+      "title": "About Throssel Hole Buddhist Abbey",
+      "url": "https://throssel.org.uk/about-throssel-hole-buddhist-abbey/"
+    },
+    {
+      "title": "Guest information",
+      "url": "https://throssel.org.uk/guests/"
+    },
+    {
+      "title": "Getting Started",
+      "url": "https://throssel.org.uk/getting-started-2/"
+    },
+    {
+      "title": "Alms Bowl (donations and suggested retreat amounts)",
+      "url": "https://throssel.org.uk/alms-bowl/"
+    },
+    {
+      "title": "Week retreats",
+      "url": "https://throssel.org.uk/week-retreats/"
+    },
+    {
+      "title": "Residential stays",
+      "url": "https://throssel.org.uk/residential-stays/"
+    },
+    {
+      "title": "Weekend and 3 day retreats",
+      "url": "https://throssel.org.uk/weekend-and-3-day-retreats/"
+    },
+    {
+      "title": "Throssel Hole Buddhist Abbey - Wikipedia (coordinates)",
+      "url": "https://en.wikipedia.org/wiki/Throssel_Hole_Buddhist_Abbey"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

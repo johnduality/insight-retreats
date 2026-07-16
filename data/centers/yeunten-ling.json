@@ -1,0 +1,99 @@
+{
+  "id": "yeunten-ling",
+  "name": "Yeunten Ling",
+  "aka": [
+    "Kagyu Yeunten Gyamtso Ling",
+    "Institut Tibétain Yeunten Ling",
+    "Tibetan Institute Yeunten Ling"
+  ],
+  "website": "https://yeuntenling.tibinst.be/",
+  "location": {
+    "address": "Promenade Saint-Jean l'Agneau 4, 4500 Huy (Tihange), Château du Fond l'Évêque",
+    "city": "Huy",
+    "region": "Liège, Belgium",
+    "country": "Belgium",
+    "state": "BE",
+    "lat": 50.5162646,
+    "lng": 5.2662277
+  },
+  "tradition": "Tibetan Buddhism, Karma Kagyu / Shangpa Kagyu lineage, founded 1983 by Kalu Rinpoche",
+  "technique": "Shamatha (calm-abiding) meditation, ngöndro preliminary practices, and Vajrayana deity/puja retreats (e.g. Mahakala, Green Tara, Amitabha, Manjushri, Milarepa)",
+  "influences": [
+    "Kalu Rinpoche",
+    "Lama Zeupa",
+    "Lama Tashi Nyima",
+    "Lama Sonam Chopel",
+    "Karma Kagyu and Shangpa Kagyu lineages"
+  ],
+  "teacherAccess": "Resident and visiting Lamas lead teachings, pujas and guided practice during retreats, with some individual guidance available by arrangement",
+  "retreatOptions": "Free Sunday guided temple tours; weekend and family weekends; themed 3-5 night deity/ritual retreats; week-long group retreats (including silent); self-arranged individual/personal retreats from 2 nights",
+  "about": "Yeunten Ling, officially Kagyu Yeunten Gyamtso Ling and meaning 'Garden of Qualities,' is a Tibetan Buddhist dharma centre founded in 1983 by Kalu Rinpoche, housed in the Château du Fond l'Évêque near Huy in Belgium's Liège province. It is one of the largest Buddhist centres in Europe, with a Tibetan-style temple - inaugurated by the Dalai Lama in 2006 - that can seat up to 700 people, plus a stupa and a large Buddha statue on the grounds. Resident and visiting Lamas, including Lama Zeupa (teaching there since 1993) and Lama Tashi Nyima, lead a year-round programme of teachings, pujas and retreats in the Kagyu tradition, ranging from weekend and family retreats to themed deity retreats, week-long silent retreats, Tibetan art courses, hatha yoga, and a research collaboration studying meditation's effects on the brain. Guests stay in shared rooms or private studios and take vegetarian buffet meals included in a fixed per-stay package, with discounted rates for paying members. The centre also welcomes day visitors, offering free guided tours of the temple grounds every Sunday afternoon.",
+  "schedule": "Group retreats run set daily teaching and practice sessions around communal buffet meals at 8am, noon and 7pm with an afternoon tea break; personal retreatants arrange their own practice schedule",
+  "cost": "Fixed per-stay fee covering full board (accommodation plus three daily meals), with a two-tier rate: lower prices for paying members (EUR 35/year) than non-members; some day-only teachings/pujas are free aside from a meal charge",
+  "pricePerDay": {
+    "min": 105,
+    "max": 131,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "3-night 'Mahakala' retreat (22-25 Feb 2025): non-member full-board rate EUR 316 (shared-bath room) to EUR 394 (private studio), i.e. roughly EUR 105-131/night; discounted member rates (EUR 229-289 for the same stay, ~EUR 76-96/night) require a EUR 35/year membership and are excluded here as a subsidised tier.",
+    "source": "https://www.yeuntenling.tibinst.be/event/rituels-intensifs-de-mahakala-avec-lama-tashi-nyima-plusieurs-lamas-invites-niv3-2025-02-22-2025-02-25-2091/register"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian buffet-style meals (breakfast, lunch, dinner) plus an afternoon tea/coffee break are included in the retreat package; bed linens are also included.",
+  "workRequired": "unknown",
+  "workNotes": "No work/service (seva) programme is mentioned on the official site; stays are booked and paid for as a full-board package rather than a work exchange.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "silent",
+    "family-friendly",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Yeunten Ling - official site",
+      "url": "https://yeuntenling.tibinst.be/"
+    },
+    {
+      "title": "Yeunten Ling - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Yeunten_Ling"
+    },
+    {
+      "title": "Yeunten Ling Tibetan Institute - Huy, Province de Liège (address, GPS, visiting hours)",
+      "url": "https://belgiqueinsolite.com/en/guide/yeunten-ling-tibetan-institute/"
+    },
+    {
+      "title": "Accommodation | Kagyu Yeunten Gyamtso Ling",
+      "url": "https://www.tibinst.be/en_GB/accommodation"
+    },
+    {
+      "title": "Foire aux questions (FAQ) | Kagyu Yeunten Gyamtso Ling",
+      "url": "https://www.tibinst.be/en_GB/foire-aux-questions-faq"
+    },
+    {
+      "title": "Cotisation de membre | Kagyu Yeunten Gyamtso Ling",
+      "url": "https://www.tibinst.be/en_GB/cotisation-de-membre"
+    },
+    {
+      "title": "Méditation | Kagyu Yeunten Gyamtso Ling",
+      "url": "https://www.tibinst.be/en_GB/meditation"
+    },
+    {
+      "title": "Rituels intensifs de Mahakala, avec Lama Tashi Nyima (event registration, pricing)",
+      "url": "https://www.yeuntenling.tibinst.be/event/rituels-intensifs-de-mahakala-avec-lama-tashi-nyima-plusieurs-lamas-invites-niv3-2025-02-22-2025-02-25-2091/register"
+    },
+    {
+      "title": "Summer retreat, with Lama Sonam Chopel (event page)",
+      "url": "https://www.yeuntenling.tibinst.be/en_GB/event/summer-retreat-with-lama-sonam-chopel-655/register"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

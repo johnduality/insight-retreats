@@ -1,0 +1,81 @@
+{
+  "id": "dhamma-neru",
+  "name": "Dhamma Neru",
+  "aka": [
+    "Centre Dhamma Neru",
+    "Dhamma Neru Vipassana Meditation Centre"
+  ],
+  "website": "https://neru.dhamma.org/",
+  "location": {
+    "address": "Disseminat Quarter Sanata 12, 08460 Santa Maria de Palautordera (Barcelona)",
+    "city": "Santa Maria de Palautordera",
+    "region": "Catalonia, Spain",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 41.684978,
+    "lng": 2.434615
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka, in the tradition of Sayagyi U Ba Khin",
+  "technique": "Anapana (breath awareness) and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded evening discourses by S.N. Goenka and are available for brief private interviews (12:00-1:00pm) and public questions (9:00-9:30pm).",
+  "retreatOptions": "10-day residential courses are the standard offering, run regularly year-round, with occasional longer courses for old students; a satellite site, Dhamma Sacca, hosts additional courses under the same trust.",
+  "about": "Dhamma Neru was the first dedicated Vipassana centre in Spain, purchased by the Spanish Vipassana Association in 1999 and named by S.N. Goenka himself; \"Dhamma Neru\" means \"Heavenly Mountain of Dhamma.\" It sits on a flat 3.6-acre plot about 1km from the village of Santa Maria de Palautordera, roughly 35 miles northwest of Barcelona, at the foot of the Montseny massif and about 30 minutes from the Mediterranean coast. The main building is arranged around an open courtyard and can currently house 62 students, with a Dhamma Hall that seats 80. Like all centers in the Goenka network, it offers residential Vipassana courses on a strictly voluntary donation basis, with students living on-site, observing Noble Silence for most of the course, and following a fixed daily schedule of roughly ten hours of meditation. The centre is run by volunteers and receives no fees; teachers serve without pay and courses are entirely funded by dana from past students.",
+  "schedule": "Fixed daily timetable from 4:00am wake-up to 9:30pm lights-out, with about ten hours of meditation, a recorded evening discourse by S.N. Goenka, and a brief public question period; 10-day courses span 12 calendar days including arrival and departure.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with teaching, food, and lodging given freely, funded solely by donations from students who have completed at least one prior course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course funded entirely by voluntary dana from past students.",
+    "source": "https://neru.dhamma.org/en/reference/code-of-discipline/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Simple vegetarian meals are prepared and served on-site at no charge; students are asked to accept the set menu rather than bring their own food, though special diets for medical reasons can sometimes be accommodated with advance notice.",
+  "workRequired": "unknown",
+  "workNotes": "The site materials describe volunteer-run courses supported by returning students who serve on staff, but no explicit work/service requirement for ordinary course participants is stated on the website.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "long-retreats"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Neru - Vipassana Meditation Centre (home/contact)",
+      "url": "https://neru.dhamma.org/"
+    },
+    {
+      "title": "Dhamma Neru - About / History",
+      "url": "https://neru.dhamma.org/en/"
+    },
+    {
+      "title": "Code of Discipline",
+      "url": "https://neru.dhamma.org/en/reference/code-of-discipline/"
+    },
+    {
+      "title": "Questions & Answers",
+      "url": "https://neru.dhamma.org/en/reference/questions-answers/"
+    },
+    {
+      "title": "How to get to Dhamma Neru",
+      "url": "https://neru.dhamma.org/en/how-to-get-there/"
+    },
+    {
+      "title": "Centers in Spain (es.dhamma.org)",
+      "url": "https://es.dhamma.org/en/centers-in-spain/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

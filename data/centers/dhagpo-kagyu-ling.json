@@ -1,0 +1,97 @@
+{
+  "id": "dhagpo-kagyu-ling",
+  "name": "Dhagpo Kagyu Ling",
+  "aka": [
+    "Institut Karma Ling Dhagpo",
+    "Karme Dharma Chakra"
+  ],
+  "website": "https://dhagpo.org/en/",
+  "location": {
+    "address": "4430 Route de la Côte de Jor, Lieu dit Landrevie, 24290 Saint-Léon-sur-Vézère",
+    "city": "Saint-Léon-sur-Vézère",
+    "county": "Dordogne",
+    "region": "Dordogne, France",
+    "country": "France",
+    "state": "FR",
+    "lat": 45.0114,
+    "lng": 1.0894
+  },
+  "tradition": "Tibetan Buddhism, Karma Kagyu lineage",
+  "technique": "Study of Buddhist texts (Institute curriculum), guided sitting meditation (calm-abiding/Shine, deity practices such as Chenrezig, Green Tara), and daily temple ritual/chanting",
+  "influences": [
+    "16th Karmapa, Rangjung Rigpe Dorje (founder, 1975)",
+    "Thaye Dorje, 17th Gyalwa Karmapa (current spiritual head)",
+    "Lama Jigme Rinpoche (Karmapa's representative for Europe)",
+    "Gendun Rinpoche",
+    "Gampopa / Milarepa (Dhagpo Kagyu lineage)"
+  ],
+  "teacherAccess": "Courses are led in person by Lama Jigme Rinpoche and a rotating faculty of visiting Kagyu lamas, khenpos and rinpoches, with daily teaching sessions; the temple's daily rituals (Green Tara 7am, Mahakala 6pm, Chenrezik 8pm) are open to all, but one-on-one interviews are not a standard feature",
+  "retreatOptions": "Single-day and weekend Discovery courses; multi-day Institute study sessions and Meditation retreats; some sessions run in parts across several weeks (e.g. an 18-day summer study retreat); year-round 'regular practices' open to all with no course registration required",
+  "about": "Dhagpo Kagyu Ling is Europe's largest Tibetan Buddhist center, occupying a former farmhouse estate above the Vézère valley near Sarlat in the Dordogne, southwest France. The 16th Karmapa was offered the land in 1975 and in 1977 named it Dhagpo Kagyu Ling, 'the place of transmission of Gampopa's lineage,' making it his European seat; today it remains the European seat of Thaye Dorje, the 17th Gyalwa Karmapa, under the spiritual guidance of his representative, Lama Jigme Rinpoche. Its monastic congregation, Karmé Dharma Chakra, was the first Buddhist monastic body recognized by the French government, in 1988. The year-round program is organized around three pillars -- study, meditation and daily practice -- spanning weekend introductory courses to multi-week study retreats taught by resident and visiting Kagyu teachers. The grounds include a temple, stupas, a large library, and a stupa garden that are open to visitors, and the center is a member of the French Buddhist Union (UBF) and European Buddhist Union (EBU).",
+  "schedule": "Courses follow a published seasonal calendar across three tracks (Discovery, Institute, Meditation); daily temple rituals run at 7am (Green Tara), 6pm (Mahakala) and 8pm (Chenrezik), open to all regardless of course enrollment",
+  "cost": "Three-tier sliding-scale contribution (Reduced/Basic/Support) covers meals and accommodation separately, billed per meal and per night; a separate course fee is set per program; a 780€/year 'PASS' gives free access to most courses; membership in the association (15€, 10€ reduced) is legally required to participate",
+  "pricePerDay": {
+    "min": 39,
+    "max": 49,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Derived from the standard (non-reduced) tiers on the general rates table: a single-bed room is 20€ (Basic) to 25€ (Support) per night, and a full day of meals (breakfast+lunch+dinner) is 19€ (Basic) to 24€ (Support), giving roughly 39-49€/night for lodging plus food. This excludes the separate per-course teaching contribution and the one-time 15€/10€ membership fee.",
+    "source": "https://dhagpo.org/en/registration/"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Meals are reserved separately from lodging and paid per meal on a three-tier scale; both vegetarian and non-vegetarian options can be reserved for each meal.",
+  "workRequired": "no",
+  "workNotes": "During courses, helping with tasks like post-meal clean-up or tidying accommodation areas is offered as optional participation, not required; longer-term volunteers can also get involved in the center's operations year-round.",
+  "tags": [
+    "tibetan-vajrayana",
+    "day-retreats",
+    "long-retreats",
+    "online-hybrid",
+    "diet-vegetarian",
+    "diet-omnivore",
+    "sliding-scale",
+    "meals-included",
+    "no-work-required",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Dhagpo Kagyu Ling - home page",
+      "url": "https://dhagpo.org/en/"
+    },
+    {
+      "title": "Dhagpo Kagyu Ling (history and lineage)",
+      "url": "https://dhagpo.org/en/buddhism/dhagpo-kagyu-ling/"
+    },
+    {
+      "title": "Registration Information (rates, meals, accommodation)",
+      "url": "https://dhagpo.org/en/registration/"
+    },
+    {
+      "title": "Come Visit",
+      "url": "https://dhagpo.org/en/come-visit/"
+    },
+    {
+      "title": "Program (course calendar and structure)",
+      "url": "https://dhagpo.org/en/program/"
+    },
+    {
+      "title": "Regular Practices (daily temple schedule)",
+      "url": "https://dhagpo.org/en/program/regular-practices/"
+    },
+    {
+      "title": "Dhagpo Kagyu Ling - French Wikipedia",
+      "url": "https://fr.wikipedia.org/wiki/Dhagpo_Kagyu_Ling"
+    },
+    {
+      "title": "Saint-Léon-sur-Vézère - Wikipedia (coordinates)",
+      "url": "https://en.wikipedia.org/wiki/Saint-L%C3%A9on-sur-V%C3%A9z%C3%A8re"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

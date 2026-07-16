@@ -1,0 +1,99 @@
+{
+  "id": "kagyu-samye-ling",
+  "name": "Kagyu Samye Ling Monastery and Tibetan Centre",
+  "aka": [
+    "Samye Ling",
+    "Kagyu Samye Ling",
+    "Kagyu Samye Ling Monastery"
+  ],
+  "website": "https://samyeling.org/",
+  "location": {
+    "address": "Eskdalemuir, Langholm, Dumfries, DG13 0QL, Scotland, United Kingdom",
+    "city": "Eskdalemuir",
+    "county": "Dumfries and Galloway",
+    "region": "Dumfriesshire, Scotland",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 55.287456,
+    "lng": -3.189322
+  },
+  "tradition": "Tibetan Buddhism: Karma Kagyu lineage (Vajrayana), founded by Chögyam Trungpa Rinpoche and Akong Tulku Rinpoche",
+  "technique": "Traditional Tibetan Buddhist practice: daily pujas (Green Tara, Mahakala, Chenrezik, Amitabha), silent sitting meditation, mantra and visualization practice, empowerments and teachings within the Karma Kagyu lineage",
+  "influences": [
+    "Chögyam Trungpa Rinpoche (co-founder)",
+    "Khyabje Akong Tulku Rinpoche (co-founder)",
+    "Choje Lama Yeshe Losal Rinpoche (current Abbot)",
+    "Lama Katen (Deputy Abbot)",
+    "17th Gyalwang Karmapa, Ogyen Trinley Dorje",
+    "Chamgon Kenting Tai Situpa",
+    "Khyabje Kalu Rinpoche"
+  ],
+  "teacherAccess": "Daily temple pujas and open silent meditation are led by the resident Sangha; visiting Khenpos and Rinpoches give periodic teaching series (days to months) with group Dharma talks, but one-to-one meetings are limited and arranged case-by-case via the event booking enquiry form",
+  "retreatOptions": "Year-round personal retreat stays (online booking for up to 6 nights, longer by arrangement); free Dharma teachings, empowerments and transmissions from visiting Khenpos lasting days to several months; weekend courses and workshops (e.g. yoga); week-long annual intensives (Losar Protector Prayers, UK Kagyu Monlam, Nyungney fasting practice, October Memorial Retreat); multi-year monastic retreats (including 3-4 year retreats and one-year retreats on Holy Isle and Arran) for committed practitioners",
+  "about": "Kagyu Samye Ling Monastery and Tibetan Centre is a Tibetan Buddhist monastery and retreat centre in Eskdalemuir, a remote valley in Dumfriesshire, southern Scotland. Founded in 1967 by Chögyam Trungpa Rinpoche and Akong Tulku Rinpoche, it was the first Tibetan Buddhist centre established in the West and today houses a resident community of roughly 40 monastic and lay practitioners within the Karma Kagyu lineage. The monastery is open to visitors 365 days a year, offering a full daily temple schedule of pujas and silent meditation alongside free Dharma teachings, empowerments and transmissions from visiting Khenpos and Rinpoches under the guidance of Abbot Choje Lama Yeshe Losal Rinpoche. Guests can book a simple full-board personal retreat stay, join scheduled courses and workshops, or attend annual intensives such as the UK Kagyu Monlam and the Nyungney fasting retreat. Samye Ling is also home to long-term monastic retreatants, including practitioners undertaking multi-year solitary retreats at its affiliated island centres, Holy Isle and Arran. It operates under Rokpa Trust, a charity that also carries out humanitarian aid and Tibetan medicine work internationally.",
+  "schedule": "Daily temple schedule: Green Tara Puja 6-7am, breakfast 7am, silent meditation 8-9am, lunch 12:30pm, Mahakala Puja 4:30-5:30pm, supper 6pm, Chenrezik Puja 7-7:45pm (Amitabha Puja precedes it on Sundays), temple closes 9pm, quiet time from 10pm; weekend courses run Friday evening check-in through Sunday, with evening course sessions and prayers/teachings generally held in the main Temple.",
+  "cost": "Dharma teachings, retreats and transmissions are offered free of charge; guests pay only for full-board accommodation, priced per night by room type from a shared dormitory bed to an en-suite Superior Twin (all including breakfast, lunch and vegetarian supper); separate course/workshop tuition fees apply on top of accommodation for hosted courses.",
+  "pricePerDay": {
+    "min": 35,
+    "max": 120,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "2026 full-board room rates (unchanged from prior year): GBP 35 shared 6-bed dormitory (Johnstone House) up to GBP 120 en-suite Superior Twin with WiFi (Retreat Rooms); standard single and twin rooms in between run roughly GBP 50-90. These are the flat nightly accommodation rates for the online-bookable personal-retreat stay (up to 6 nights); attendees of free Dharma teachings/retreats pay the same room rates on top of the no-cost teaching, while separate hosted courses (e.g. weekend yoga workshops) add a tuition fee of roughly GBP 63-100 on top.",
+    "source": "https://samyeling.org/visiting/accommodation/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Full board is included with every accommodation booking: breakfast, lunch and a vegetarian supper are automatically provided; the centre notes it is a working monastic community rather than a caterer for special medical diets.",
+  "workRequired": "no",
+  "workNotes": "Retreat and course guests are not required to work. A separate resident-volunteer pathway exists for those wishing to live and work long-term at the monastery, arranged directly with the Volunteer Team rather than as part of a standard retreat stay.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "long-retreats",
+    "family-friendly",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee",
+    "dana-donation",
+    "meals-included",
+    "no-work-required",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Kagyu Samye Ling - home page",
+      "url": "https://samyeling.org/"
+    },
+    {
+      "title": "About Kagyu Samye Ling",
+      "url": "https://samyeling.org/about/"
+    },
+    {
+      "title": "Dharma Study & Practice in Kagyu Samye Ling",
+      "url": "https://samyeling.org/about/dharma-study-practice-in-kagyu-samye-ling/"
+    },
+    {
+      "title": "A Brief History of Kagyu Samye Ling",
+      "url": "https://samyeling.org/about/history/"
+    },
+    {
+      "title": "Meditation (Buddhism section)",
+      "url": "https://samyeling.org/buddhism/meditation/"
+    },
+    {
+      "title": "Guest Accommodation & Pricing",
+      "url": "https://samyeling.org/visiting/accommodation/"
+    },
+    {
+      "title": "Travel Information & Daily Timetable",
+      "url": "https://samyeling.org/visiting/travel-info-daily-timetable/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

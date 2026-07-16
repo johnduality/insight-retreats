@@ -1,0 +1,121 @@
+{
+  "id": "tara-ikrc",
+  "name": "Tara International Kadampa Retreat Centre",
+  "aka": [
+    "Tara IKRC",
+    "Tara Centre",
+    "Tara International Kadampa Retreat Center"
+  ],
+  "website": "https://taraikrc.org/",
+  "location": {
+    "address": "Ashe Hall, Ash Lane",
+    "city": "Etwall",
+    "county": "Derbyshire",
+    "region": "Derbyshire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 52.891032,
+    "lng": -1.616013
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU): Gelug-derived Kadampa Mahayana/Vajrayana Buddhism",
+  "technique": "Lamrim (stages of the path) meditation, sutra and tantra teachings, empowerments, and Kadampa prayer/puja practice",
+  "influences": [
+    "Venerable Geshe Kelsang Gyatso Rinpoche (founder)",
+    "Gen-la Kelsang Khyenrab (Resident Teacher)",
+    "Je Tsongkhapa / Ganden Oral Lineage",
+    "Atisha's Lamrim tradition"
+  ],
+  "teacherAccess": "Every retreat is guided throughout by its named teacher, most often Resident Teacher Gen-la Kelsang Khyenrab, who also teaches weekly classes and the Foundation and Teacher Training Programmes on site",
+  "retreatOptions": "Weekend and 3-5 day beginners' retreats; week-long Lamrim, empowerment and in-depth retreats; special Nyungnay fasting retreats; and extended multi-week Post-Festival and Winter retreats (up to six weeks), alongside free daily meditation and weekly drop-in classes",
+  "about": "Tara International Kadampa Retreat Centre (Tara IKRC) is the principal UK retreat centre of the New Kadampa Tradition (NKT-IKBU), founded in 1984 by Venerable Geshe Kelsang Gyatso Rinpoche and based since 1996 at Ashe Hall, a historic manor house set in 38 acres of parkland near Etwall, Derbyshire. Formally designated an International Kadampa Retreat Centre in 2020, the site now includes a purpose-built meditation hall, the historic hall (27 bedrooms), an 18-bedroom retreat barn, several houses, a book and gift shop, and the volunteer-run World Peace Cafe. Its year-round programme ranges from free daily meditation and weekly Lamrim classes to weekend, week-long, and multi-week residential retreats, including empowerments, Nyungnay fasting retreats, and extended Post-Festival and Winter retreats, open to complete beginners and experienced Kadampa practitioners alike. Gen-la Kelsang Khyenrab, a retired General Spiritual Director of the NKT-IKBU and one of Geshe Kelsang Gyatso's most senior students, lives on site as Resident Teacher and leads many of the retreats and weekly classes, with visiting teachers from other Kadampa centres worldwide leading others. Tara IKRC also hosts the annual UK Dharma Celebration, the largest Kadampa Buddhist gathering in Britain outside the international Spring and Summer Festivals.",
+  "schedule": "Residential retreats run two to four teaching and meditation sessions a day led by the retreat teacher, alongside free daily lunchtime meditation and weekly evening or weekend drop-in classes for the wider community",
+  "cost": "Accommodation for residential retreats is charged per retreat on a fixed scale by room type (shared dormitory through single, en-suite, studio and twin rooms), with meals booked and paid as a separate add-on; short weekly classes are priced individually from about £3-£7 per session",
+  "pricePerDay": {
+    "min": 22,
+    "max": 60,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Based on the 6-night Lamrim Retreat - Week One (27 Jun-3 Jul 2025): dormitory bed £132 total (£22/night) up to single en-suite room £360 total (£60/night); studio (£420) and twin en-suite (£660 per room) options cost more. Figures are accommodation only; meals are billed separately.",
+    "source": "https://taraikrc.org/products/lamrim-retreat-week-one-27th-june-3rd-july-2025"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian and vegan meals only (no meat options); on residential retreats meals are booked as a separate add-on covering three meals a day from supper on the first evening to lunch on the last day. The on-site World Peace Cafe also serves vegetarian food daily, with vegan and gluten-free options.",
+  "workRequired": "no",
+  "workNotes": "No work is required of retreat participants. A separate, optional volunteer programme exists in which visitors help with cooking, gardening, decorating, maintenance and cleaning in exchange for their stay.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "long-retreats",
+    "family-friendly",
+    "diet-vegetarian",
+    "diet-vegan",
+    "fixed-fee",
+    "no-work-required",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Tara International Kadampa Centre - home page",
+      "url": "https://taraikrc.org/"
+    },
+    {
+      "title": "Our Founder - Venerable Geshe Kelsang Gyatso Rinpoche",
+      "url": "https://taraikrc.org/pages/our-founder"
+    },
+    {
+      "title": "Our Precious Resident Teacher",
+      "url": "https://taraikrc.org/pages/our-tradition"
+    },
+    {
+      "title": "All Retreats",
+      "url": "https://taraikrc.org/pages/all-retreats"
+    },
+    {
+      "title": "Week Long Retreats",
+      "url": "https://taraikrc.org/pages/week-long-retreats-1"
+    },
+    {
+      "title": "Accommodation",
+      "url": "https://taraikrc.org/products/room"
+    },
+    {
+      "title": "Lamrim Retreat - Week One, with Gen Kelsang Losel | 27th June - 3rd July 2025 (accommodation pricing)",
+      "url": "https://taraikrc.org/products/lamrim-retreat-week-one-27th-june-3rd-july-2025"
+    },
+    {
+      "title": "How to be a Kadampa, with Gen-la Kelsang Khyenrab | 10th - 16th Aug 2025 (Post-Summer Festival Retreat, meal/accommodation policy)",
+      "url": "https://taraikrc.org/products/how-to-be-a-kadampa-with-gen-la-kelsang-khyenrab-10th-16th-aug-2025"
+    },
+    {
+      "title": "Volunteer",
+      "url": "https://taraikrc.org/pages/volunteer"
+    },
+    {
+      "title": "Tara International Kadampa Retreat Center - Kadampa Buddhism",
+      "url": "https://kadampa.org/center/tara-ikrc"
+    },
+    {
+      "title": "The story of IKRC Tara - Kadampa Buddhism",
+      "url": "https://kadampa.org/2023/08/the-story-of-ikrc-tara"
+    },
+    {
+      "title": "Relax into Reality: Away Retreat at Tara IKRC (venue address, weekend pricing example)",
+      "url": "https://www.meditateinlondon.org/courses-retreats/tara-away-retreat/"
+    },
+    {
+      "title": "Postcode map for DE65 6HT (coordinates)",
+      "url": "https://www.doogal.co.uk/ShowMap?postcode=DE65+6HT"
+    },
+    {
+      "title": "Ashe Hall, Ash - Historic England listing (building history)",
+      "url": "https://historicengland.org.uk/listing/the-list/list-entry/1334529"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

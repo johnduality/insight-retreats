@@ -1,0 +1,115 @@
+{
+  "id": "cittaviveka-chithurst-buddhist-monastery",
+  "name": "Cittaviveka (Chithurst Buddhist Monastery)",
+  "aka": [
+    "Chithurst Buddhist Monastery",
+    "Chithurst"
+  ],
+  "website": "https://www.cittaviveka.org/",
+  "location": {
+    "city": "Chithurst",
+    "county": "West Sussex",
+    "region": "West Sussex, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 51.002,
+    "lng": -0.7928
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition in the lineage of Ajahn Chah",
+  "technique": "Silent sitting and walking meditation woven into monastic daily life, chanting, and communal work",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Sumedho",
+    "Thai Forest Tradition"
+  ],
+  "teacherAccess": "Weekend Dhamma talks and guided meditations, plus informal opportunities to talk with resident monks and nuns",
+  "retreatOptions": "Not a retreat centre: open day visits year-round plus guest stays (currently 3-night minimum for men) booked in advance with no fixed maximum length",
+  "about": "Cittaviveka, also known as Chithurst Buddhist Monastery, was established in 1979 by Ajahn Chah and Ajahn Sumedho as the first branch monastery of Wat Pah Pong outside Thailand. Set on around 175 acres of woodland and heath in rural West Sussex, it is a residence for Theravada bhikkhus and siladhara nuns rather than a purpose-built retreat centre. Visitors can drop in for the day or apply to stay as guests, joining the community's silent meditation, chanting, and work periods within a schedule of precepts and observances. Men and women lodge in separate buildings, with the main house and Dhamma Hall used for teachings and the shared midday meal. Guests are expected to be self-motivated, as periods of solitude and monastery-wide silence are part of the routine.",
+  "schedule": "Daily rhythm of 5am chanting and meditation, morning work period, 11:30am meal offering, free afternoon, evening puja, plus full/new moon all-night vigils",
+  "cost": "No charge to visit or stay; entirely dana (donation) supported, with food and requisite offerings welcomed but not required",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Donation (dana) only; guests are asked for a 3-night minimum stay and bookings open no more than two months ahead",
+    "source": "https://www.cittaviveka.org/male-guest-form"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "One main vegetarian meal offered around 11:30am, prepared from lay almsgiving; breakfast is typically a hot drink with porridge, muesli, and yoghurt; special diets cannot be accommodated",
+  "workRequired": "yes",
+  "workNotes": "Guests join communal work periods (kitchen, garden, workshop, forest) alongside the monastic community as part of the daily routine",
+  "tags": [
+    "theravada",
+    "day-retreats",
+    "silent",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "accessible",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Cittaviveka - Home",
+      "url": "https://www.cittaviveka.org/"
+    },
+    {
+      "title": "About Cittaviveka",
+      "url": "https://www.cittaviveka.org/about-cittaviveka"
+    },
+    {
+      "title": "Staying as a Guest",
+      "url": "https://www.cittaviveka.org/staying-overnight"
+    },
+    {
+      "title": "Our Practice",
+      "url": "https://www.cittaviveka.org/our-practice"
+    },
+    {
+      "title": "Daily Routine",
+      "url": "https://www.cittaviveka.org/daily-routine"
+    },
+    {
+      "title": "Offering Dana",
+      "url": "https://www.cittaviveka.org/dana"
+    },
+    {
+      "title": "How to Book a Guest Stay",
+      "url": "https://www.cittaviveka.org/guest-stay-booking"
+    },
+    {
+      "title": "Male Guest Booking Enquiry",
+      "url": "https://www.cittaviveka.org/male-guest-form"
+    },
+    {
+      "title": "Visiting for the Day",
+      "url": "https://www.cittaviveka.org/day-visit"
+    },
+    {
+      "title": "Practical Considerations",
+      "url": "https://www.cittaviveka.org/practical-considerations"
+    },
+    {
+      "title": "Accessibility",
+      "url": "https://www.cittaviveka.org/copy-of-visiting-for-the-day"
+    },
+    {
+      "title": "Guiding Elders",
+      "url": "https://www.cittaviveka.org/guiding-elders"
+    },
+    {
+      "title": "Chithurst Buddhist Monastery - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chithurst_Buddhist_Monastery"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "sanbo-ji",
+  "name": "SanboJi – Tempio dei Tre Gioielli",
+  "aka": [
+    "Sanbo-ji",
+    "Sanboji",
+    "Monastero Zen SanboJi",
+    "Sanboji Zen Monastery",
+    "Il Cerchio (Berceto)",
+    "Tempio dei Tre Gioielli"
+  ],
+  "website": "https://www.monasterozen.it",
+  "location": {
+    "address": "Località Pradaiolo, 27 – Pagazzano, 43040 Berceto (PR)",
+    "city": "Berceto",
+    "county": "Parma",
+    "region": "Emilia-Romagna, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 44.51228,
+    "lng": 9.99785
+  },
+  "tradition": "Soto Zen, lineage of Harada Daiun Sogaku, taught by Maestro Tetsugen Serra",
+  "technique": "Zazen (seated meditation), kinhin (walking meditation), samu (work practice), and teisho (dharma talks) in the Soto Zen tradition",
+  "influences": [
+    "Harada Daiun Sogaku",
+    "Tetsugen Serra",
+    "Toshoji Monastery (Japan)"
+  ],
+  "teacherAccess": "Teisho (dharma talks) from Maestro Tetsugen Serra or resident Dharma teachers Issan Tetsuji Lobell and Koren Tetsuko Montemurro, plus optional one-on-one zen counseling interviews with monks",
+  "retreatOptions": "Weekend to 6-night 'Ospitalità Zen' introductory stays; traditional sesshin of roughly 3-7 days held most months; an annual multi-day summer camp; ongoing residential monastic training for lay and monastic members",
+  "about": "SanboJi – Tempio dei Tre Gioielli is a Soto Zen monastery in the wooded hills above Berceto, in the Parma Apennines of Emilia-Romagna. It was founded in 1996 by Maestro Tetsugen Serra, a Soto Zen teacher trained at the Toshoji monastery in Japan in the lineage of Harada Daiun Sogaku, and today houses a mixed lay and monastic residential community known as the Sangha della Foresta di Bambu. Built from restored rural buildings alongside new construction in traditional Japanese monastic style, the grounds include Zen gardens, meadows and forest, plus a 250-square-metre tatami meditation hall that stays open around the clock. Throughout the year SanboJi hosts weekend and multi-day 'Ospitalità Zen' stays for newcomers, traditional multi-day sesshin retreats, and an annual summer camp, alongside the ongoing training of resident monastics. Days follow a bell-marked monastic rhythm of zazen, walking meditation, work practice in the fields and woods, silent vegetarian meals, and dharma teachings from Tetsugen Serra or one of the center's Dharma teachers. It is one of several Zen temples in Italy under Tetsugen Serra's guidance, collectively run as the non-profit Il Cerchio.",
+  "schedule": "Bell-marked monastic day of zazen, kinhin, samu (work practice in the fields and woods), silent vegetarian meals, and dharma talks, with the 250 sqm meditation hall open day and night for personal practice",
+  "cost": "Donation-based fixed tiers: short 'Ospitalità Zen' stays run about €180 (3 days) to €360 (6 days), plus a one-time €40 annual membership card (tessera) required of newcomers; traditional sesshin cost about €150 (reduced, for triennial-course students, under-25s, monks and Bodhisattva members) to €220 (standard), all including full board, lodging and the tessera; a private single room adds €30/night.",
+  "pricePerDay": {
+    "min": 60,
+    "max": 90,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Derived from the two published 'Ospitalità Zen' stay lengths: the 3-day/2-night tier costs €180 (≈€90/night) plus a one-time €40 tessera for first-timers, while the 6-day tier costs €360 (≈€60/night) with the tessera waived, showing the rate drops for longer stays; figures exclude the €30/night single-room supplement.",
+    "source": "https://www.monasterozen.it/ospitalita-zen-al-monastero-sanboji/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Fully vegetarian meals prepared and served by the resident monks, using stone-ground organic flour and produce grown on site, eaten in silence; no self-catering kitchen access, though allergies/intolerances can be flagged in advance.",
+  "workRequired": "yes",
+  "workNotes": "Daily samu (work practice) in the gardens, fields and woods is part of the schedule for all guests, assigned and supervised by a monk, alongside meditation and study periods.",
+  "tags": [
+    "zen",
+    "silent",
+    "monastic-community",
+    "work-practice",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Il Cerchio – home page",
+      "url": "https://www.monasterozen.it/"
+    },
+    {
+      "title": "SanboJi – Tempio dei Tre Gioielli (center page)",
+      "url": "https://www.monasterozen.it/centri/zen-parma-berceto-sanboji-tempio-dei-tre-gioielli/"
+    },
+    {
+      "title": "Ospitalità Zen (residential stay overview)",
+      "url": "https://www.monasterozen.it/servizi/ospitalita-zen/"
+    },
+    {
+      "title": "Sesshin e Zenkai. I ritiri Zen",
+      "url": "https://www.monasterozen.it/pratica-zen/ritiri-zen/"
+    },
+    {
+      "title": "Maestro Tetsugen Serra",
+      "url": "https://www.monasterozen.it/chi-siamo/maestro-tetsugen-serra/"
+    },
+    {
+      "title": "Ospitalità 14-16 Luglio 2026 (event page)",
+      "url": "https://www.monasterozen.it/eventi/ospitalita-14-16-luglio-2026/"
+    },
+    {
+      "title": "Ospitalità 17-19 Luglio 2026 (event page)",
+      "url": "https://www.monasterozen.it/eventi/ospitalita-17-19-luglio-2026/"
+    },
+    {
+      "title": "Ospitalità 30-31 Maggio 2026 (event page)",
+      "url": "https://www.monasterozen.it/eventi/ospitalita-30-31-maggio-2026/"
+    },
+    {
+      "title": "Corso di Zen Shiatsu – aperto a tutti (pricing example)",
+      "url": "https://www.monasterozen.it/eventi/corso-di-zen-shiatsu-aperto-a-tutti/"
+    },
+    {
+      "title": "Ospitalità Zen al Monastero SanboJi (pricing detail)",
+      "url": "https://www.monasterozen.it/ospitalita-zen-al-monastero-sanboji/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

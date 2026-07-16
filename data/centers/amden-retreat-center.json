@@ -1,0 +1,100 @@
+{
+  "id": "amden-retreat-center",
+  "name": "Amden Diamond Way Buddhist Retreat Center",
+  "aka": [
+    "Amden-Retreat",
+    "Retreat- und Seminarzentrum Bellevue",
+    "Buddhistisches Retreat- und Meditationszentrum Amden"
+  ],
+  "website": "https://amden-retreat.ch/en/",
+  "location": {
+    "address": "Bellevue, 8873 Amden",
+    "city": "Amden",
+    "region": "St. Gallen, Switzerland",
+    "country": "Switzerland",
+    "state": "CH",
+    "lat": 47.1492,
+    "lng": 9.1401
+  },
+  "tradition": "Diamond Way Buddhism, a lay Buddhist movement within the Karma Kagyu school of Tibetan Vajrayana Buddhism",
+  "technique": "Guru yoga meditation on the 16th Karmapa; Ngondro foundational practices (prostrations, Vajrasattva purification, mandala offerings); group meditation and Buddhist philosophy talks",
+  "influences": [
+    "Lama Ole Nydahl",
+    "16th Karmapa Rangjung Rigpe Dorje",
+    "17th Karmapa Thaye Dorje",
+    "Karma Kagyu lineage",
+    "Swiss Karma Kagyu Foundation"
+  ],
+  "teacherAccess": "No resident teacher; the regular program and weekend courses are led by a rotating roster of roughly 80 lay Diamond Way teachers authorized by Lama Ole Nydahl, with occasional visits and teachings from senior Karma Kagyu lamas including the 17th Karmapa, Thaye Dorje",
+  "retreatOptions": "Monthly weekend retreats (Friday evening to Sunday afternoon) and monthly multi-day '16th Karmapa' retreats (Thursday evening to Sunday midday), both open to newcomers; occasional multi-day courses with visiting lamas; unscheduled individual/personal retreats and weekday stays without a program, reserved for established Diamond Way practitioners, including long-term stays of 1-2 months for volunteers",
+  "about": "The Amden Diamond Way Buddhist Retreat Center is a lay Buddhist retreat centre run by the Swiss Karma Kagyu Foundation, set on a hillside above the village of Amden in the Swiss Alps overlooking Lake Walensee. The property, known as Bellevue, was bought in October 2003 by the Swiss Diamond Way Sangha under the guidance of Lama Ole Nydahl and has operated as a retreat and course centre since November 2003. It belongs to the worldwide Diamond Way Buddhism network within the Karma Kagyu school of Tibetan Vajrayana, and its grounds include a public Lotus stupa, a large meditation hall with mountain and lake views, around 30 mostly en-suite retreat rooms, two multi-bed rooms by the stupa, a forest retreat house, sauna, pool and shop. A regular program of monthly weekend and multi-day retreats is open to newcomers and led by a rotating roster of roughly 80 lay Diamond Way teachers authorized by Lama Ole Nydahl, with occasional visits from senior Karma Kagyu lamas including the 17th Karmapa, Thaye Dorje. Practice centers on guru yoga meditation on the 16th Karmapa and the Ngondro foundational exercises of the Karma Kagyu lineage; unscheduled individual retreats and weekday stays without a program are reserved for practitioners already established in Diamond Way Buddhism, and the centre runs largely on volunteer effort from its Sangha rather than paid staff.",
+  "schedule": "Daily 20:00 guided 16th Karmapa meditation open to all; monthly weekend retreats add Friday and Saturday 20:15 evening programs of teachings, Q&A and meditation; occasional multi-day courses run several times a year with visiting Karma Kagyu lamas",
+  "cost": "Room and board are billed separately per night rather than as a retreat package: accommodation is CHF 32-37/person/night depending on room type, discounted to CHF 23-33 for stays of 3+ or 11+ nights; full board is a flat CHF 35/day (or breakfast/lunch/dinner booked individually); evening lectures cost CHF 10-12 each; self-caterers pay a CHF 10/day kitchen-use fee instead of board.",
+  "pricePerDay": {
+    "min": 63,
+    "max": 68,
+    "unit": "night",
+    "currency": "CHF",
+    "notes": "Nightly rate for a stay of 3+ nights: multi-bed room CHF 28/person plus full board CHF 35/day (CHF 63) to single room CHF 33/person (CHF 28 + CHF 5 single supplement) plus full board (CHF 68). Shorter 1-2 night stays cost CHF 4/person more (CHF 32 multi-bed / CHF 37 single, undiscounted). Evening lecture fees (CHF 10-12 each) are billed separately and not included.",
+    "source": "https://amden-retreat.ch/anmeldung/preise/"
+  },
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "Full board (breakfast, lunch, dinner) is offered as a rule on retreat weekends and, resources permitting, on weekdays too, for a flat daily rate; meals can also be booked individually, and self-caterers may use the kitchen for a daily fee. The site does not state whether meals are vegetarian, omnivore, or mixed.",
+  "workRequired": "partial",
+  "workNotes": "The centre runs on volunteer labour rather than paid staff and guests are encouraged to help with daily kitchen and house tasks; structured volunteer roles (e.g. a rotating 'day duty' host) and 1-2 month long-term volunteer stays are available, but this is presented as communal cooperation rather than a fixed mandatory work requirement for every overnight guest.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "family-friendly",
+    "self-guided",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Amden-retreat (English homepage)",
+      "url": "https://amden-retreat.ch/en/"
+    },
+    {
+      "title": "About us - Amden Retreat",
+      "url": "https://amden-retreat.ch/about-us/"
+    },
+    {
+      "title": "History - Amden Retreat",
+      "url": "https://amden-retreat.ch/about-us/history/"
+    },
+    {
+      "title": "Karma Kagyu Stiftung - Amden Retreat",
+      "url": "https://amden-retreat.ch/ueber-uns-2/foundation/"
+    },
+    {
+      "title": "I am new - Amden Retreat",
+      "url": "https://amden-retreat.ch/buddhistisches-retreat-und-meditationszentrum-der-karma-kagyu-line-schweiz/i-am-new/"
+    },
+    {
+      "title": "Regular Program - Amden Retreat",
+      "url": "https://amden-retreat.ch/buddhistisches-retreat-und-meditationszentrum-der-karma-kagyu-line-schweiz/regelmassiges-programm/"
+    },
+    {
+      "title": "Preise (Prices) - Amden Retreat",
+      "url": "https://amden-retreat.ch/anmeldung/preise/"
+    },
+    {
+      "title": "Unterstuetzung (Support / volunteering) - Amden Retreat",
+      "url": "https://amden-retreat.ch/ueber-uns-2/unterstutzung/"
+    },
+    {
+      "title": "Our practice - Amden Retreat",
+      "url": "https://amden-retreat.ch/meditationsretreat/unsere-praxis/"
+    },
+    {
+      "title": "Amden Diamond Way Buddhist Retreat Center - The 17th Karmapa (Thaye Dorje) official site",
+      "url": "https://www.karmapa.org/centers/amden/amden-diamond-way-buddhist-retreat-center/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

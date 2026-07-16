@@ -1,0 +1,92 @@
+{
+  "id": "rivendell-buddhist-retreat-centre",
+  "name": "Rivendell Buddhist Retreat Centre",
+  "website": "https://rivendellretreatcentre.com/",
+  "location": {
+    "address": "Chillies Lane, High Hurstwood, East Sussex, TN22 4AB",
+    "city": "High Hurstwood",
+    "county": "East Sussex",
+    "region": "East Sussex, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 51.019665,
+    "lng": 0.128691
+  },
+  "tradition": "Triratna Buddhist Community, an eclectic Western Buddhist movement founded by Sangharakshita, drawing on the whole Buddhist tradition without identifying with one school",
+  "technique": "Mindfulness of Breathing and Metta Bhavana (loving-kindness) meditation, alongside Buddhist ritual, devotional practice and yoga",
+  "influences": [
+    "Sangharakshita",
+    "Triratna Buddhist Order"
+  ],
+  "teacherAccess": "Visiting teams of Triratna teachers lead each retreat, giving talks, small-group discussion and being on hand throughout to answer questions",
+  "retreatOptions": "Weekend and long-weekend retreats through week-long and two-week intensives, ranging from introductory to experienced Order-member retreats, plus a solitary retreat chalet",
+  "schedule": "Retreats run to a structured daily programme of meditation sittings, talks and discussion groups, with arrival 5-7pm the first evening and departure by mid-morning or early afternoon on the last day",
+  "about": "Rivendell is a Triratna Buddhist Community retreat centre housed in a former Victorian rectory on the edge of a small East Sussex village near Ashdown Forest, established for nearly 40 years. It offers introductory meditation weekends, yoga and meditation retreats, and more intensive Triratna retreats for regular practitioners and Order members, alongside creativity and writing retreats. Guests sleep in shared single-sex bedrooms and eat vegan meals prepared by volunteer cooks, with a beautiful shrine room at the heart of the house and gardens and woodland surrounding it. Retreats are run on principles of community, generosity and cooperation, and guests are asked to help with light domestic tasks such as washing up. There is no wifi or phone use during retreats, and alcohol, smoking and intoxicants are not permitted.",
+  "cost": "Fixed per-retreat fee with a full price and a lower concessionary rate for those on low income; deposit required to book, with balance due six weeks before the retreat",
+  "pricePerDay": {
+    "min": 51.29,
+    "max": 65.57,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "7-night Yoga & Meditation Week (10-17 July 2026): Concessions GBP 359 to Full price GBP 459. A 2-night Introductory Weekend runs GBP 215 concessions to GBP 259 full price.",
+    "source": "https://rivendellretreatcentre.com/retreat/146/balancing-the-moon-sun-yoga-meditation-week"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "foodNotes": "All meals are vegan (vegetarian without eggs or dairy), prepared by volunteer cooks; soya and oat milk provided, no cow's milk; restricted diets accommodated only for genuine medical reasons",
+  "workRequired": "yes",
+  "workNotes": "Retreatants are asked to share light domestic tasks such as washing up, laying tables and serving food, and help with clear-up at the end of the retreat",
+  "tags": [
+    "mahayana",
+    "long-retreats",
+    "diet-vegan",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Rivendell Buddhist Retreat Centre - Home",
+      "url": "https://rivendellretreatcentre.com/"
+    },
+    {
+      "title": "About Rivendell",
+      "url": "https://rivendellretreatcentre.com/about/"
+    },
+    {
+      "title": "Bookings - terms, accommodation, food & drink",
+      "url": "https://rivendellretreatcentre.com/bookings/"
+    },
+    {
+      "title": "Rivendell and the Triratna Buddhist Community",
+      "url": "https://rivendellretreatcentre.com/triratna-buddhist-community/"
+    },
+    {
+      "title": "Introductory Weekend to Buddhist Meditation - August 2026",
+      "url": "https://rivendellretreatcentre.com/retreat/121/introductory-weekend-to-buddhist-meditation-august-2026"
+    },
+    {
+      "title": "Introductory Buddhist Meditation Retreats",
+      "url": "https://rivendellretreatcentre.com/introductory-buddhist-meditation-retreats/"
+    },
+    {
+      "title": "Balancing the Moon & Sun: Yoga & Meditation Week",
+      "url": "https://rivendellretreatcentre.com/retreat/146/balancing-the-moon-sun-yoga-meditation-week"
+    },
+    {
+      "title": "Retreat Leaders & Teachers",
+      "url": "https://rivendellretreatcentre.com/teachers/"
+    },
+    {
+      "title": "Postcode geolocation (TN22 4AB)",
+      "url": "https://api.postcodes.io/postcodes/TN224AB"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

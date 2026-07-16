@@ -1,0 +1,98 @@
+{
+  "id": "manjushri-kadampa-meditation-centre",
+  "name": "Manjushri Kadampa Meditation Centre",
+  "aka": [
+    "Manjushri KMC",
+    "Conishead Priory"
+  ],
+  "website": "https://manjushri.org/",
+  "location": {
+    "address": "Conishead Priory, Priory Road (A5087 Coast Road), Ulverston, Cumbria, LA12 9QQ",
+    "city": "Ulverston",
+    "county": "Cumbria",
+    "region": "Cumbria, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 54.173502,
+    "lng": -3.067669
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU): Modern Kadampa Buddhism in the Gelug-derived Ganden Oral Lineage",
+  "technique": "Guided Lamrim (stages of the path) meditation and teaching, Lojong mind-training, and Tantric sadhana practice, plus short daily guided sittings",
+  "influences": [
+    "Venerable Geshe Kelsang Gyatso Rinpoche (founder)",
+    "Je Tsongkhapa / Ganden Oral Lineage",
+    "Atisha's Kadam lineage",
+    "Trijang Rinpoche",
+    "Gen-la Kelsang Jampa (Resident Teacher and NKT General Spiritual Director)"
+  ],
+  "teacherAccess": "Resident Teacher Gen-la Kelsang Jampa and a team of ordained and lay Kadampa teachers lead weekly classes, courses and retreats with Q&A opportunities; other NKT teachers lead most weekend and day events",
+  "retreatOptions": "Day retreats, weekend and 'mini retreat break' weekends, guided multi-day retreats (e.g. an 8-night Summer Retreat split into bookable halves), month-long In-Depth retreats (e.g. Migtsema Prayer Close Retreat), structured Study Programme courses, week-plus Teacher Training programmes, and periodic International Festivals; non-course overnight stays and week-plus volunteering placements are also bookable",
+  "about": "Manjushri Kadampa Meditation Centre (Manjushri KMC) occupies Conishead Priory, a Grade II*-listed Gothic Revival mansion set in 70 acres of woodland on the shore of Morecambe Bay near Ulverston, Cumbria, on the edge of the Lake District. It is the mother centre of the New Kadampa Tradition - International Kadampa Buddhist Union (NKT-IKBU), founded when Venerable Geshe Kelsang Gyatso Rinpoche arrived from Tibet via India in 1977 to become Resident Teacher, and it is now led by Gen-la Kelsang Jampa, the NKT's General Spiritual Director. The grounds house the Kadampa Temple for World Peace, opened in 1997, alongside a café, gift shop, and buildings that also host Tharpa Publications and the Kadampa Art Studio. Manjushri KMC runs a year-round programme of weekly meditation classes, day and weekend retreats, guided multi-day residential retreats, month-long In-Depth retreats, structured Study Programmes (General, Foundation and Teacher Training), and periodic international festivals, all teaching Geshe Kelsang Gyatso's 'Modern Buddhism' presentation of Lamrim, Lojong and Tantric practice. Visitors can also book non-course overnight stays or apply for week-plus volunteering placements that exchange community work for free dormitory accommodation and meals.",
+  "schedule": "Guided retreats combine teachings, contemplation and meditation sessions bookended by short chanted prayers (booklets provided, chanting optional); the temple offers daily guided 15-minute meditations, and volunteers additionally follow a shared work schedule (about 30 hours over five days) alongside the class programme",
+  "cost": "Courses and retreats charge a flat tuition/event fee (day retreats and weekend courses each have a set price; longer retreats charge one flat fee for the whole event) plus separate nightly accommodation ranging from dormitory to en-suite rooms and optional paid meals; breakfast is included with any booked accommodation",
+  "pricePerDay": {
+    "min": 56,
+    "max": 91,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Based on the 7-night 'Freedom Within' retreat (28 Aug-4 Sep 2026, £125 flat event fee for the whole week): accommodation ranges from Dormitory £25/night to Ensuite Single £60/night, and non-breakfast meals (lunch £7 + dinner £6) add roughly £13/day; totalling and dividing by 7 nights gives about £56/night (dorm + meals) up to £91/night (ensuite single + meals). Twin, double and triple rooms cost less per person when shared.",
+    "source": "https://manjushri.org/events/summer-retreat"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals served are vegetarian, with vegan and gluten-free/wheat-free options available on request. Breakfast is included with booked accommodation; lunch (~£7) and dinner (~£6) are booked and paid separately.",
+  "workRequired": "partial",
+  "workNotes": "Not required for ordinary course or retreat guests, but a separate volunteering track requires about 30 hours of work over five days a week (minimum one-week trial) in exchange for free dormitory accommodation and three vegetarian meals a day.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included",
+    "work-practice",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Manjushri Kadampa Meditation Centre - home page",
+      "url": "https://manjushri.org/"
+    },
+    {
+      "title": "About Manjushri KMC",
+      "url": "https://manjushri.org/about-manjushri-kmc"
+    },
+    {
+      "title": "Venerable Geshe Kelsang Gyatso Rinpoche",
+      "url": "https://manjushri.org/venerable-geshe-kelsang-gyatso-rinpoche"
+    },
+    {
+      "title": "Staying over",
+      "url": "https://manjushri.org/staying-over"
+    },
+    {
+      "title": "Volunteering",
+      "url": "https://manjushri.org/volunteering"
+    },
+    {
+      "title": "Courses & Retreats",
+      "url": "https://manjushri.org/courses"
+    },
+    {
+      "title": "Freedom Within: Discover Lasting Peace through Meditation (Summer Retreat, pricing)",
+      "url": "https://manjushri.org/events/summer-retreat"
+    },
+    {
+      "title": "Postcode lookup for LA12 9QQ (coordinates)",
+      "url": "https://api.postcodes.io/postcodes/LA129QQ"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

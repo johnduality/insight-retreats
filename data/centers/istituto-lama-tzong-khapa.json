@@ -1,0 +1,76 @@
+{
+  "id": "istituto-lama-tzong-khapa",
+  "name": "Istituto Lama Tzong Khapa",
+  "aka": [
+    "ILTK",
+    "Lama Tzong Khapa Institute"
+  ],
+  "website": "https://www.iltk.org",
+  "location": {
+    "address": "Via Poggiberna 9, 56040 Pomaia, Santa Luce (PI)",
+    "city": "Pomaia",
+    "county": "Province of Pisa",
+    "region": "Tuscany, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 43.35,
+    "lng": 10.6833
+  },
+  "tradition": "Tibetan Buddhism, Gelug school (Mahayana), affiliated with the Foundation for the Preservation of the Mahayana Tradition (FPMT)",
+  "technique": "Lamrim study and meditation, lojong (mind training), and Vajrayana practice within a structured philosophy curriculum",
+  "influences": [
+    "Lama Thubten Yeshe",
+    "Lama Thubten Zopa Rinpoche",
+    "Je Tsongkhapa / Gelug lineage",
+    "14th Dalai Lama",
+    "Foundation for the Preservation of the Mahayana Tradition (FPMT)"
+  ],
+  "teacherAccess": "Resident and visiting Tibetan lamas and geshes teach weekend courses and long-form programs; the multi-year Basic Program and Masters Program give sustained daily access to a resident teacher; His Holiness the Dalai Lama has taught at the Institute on five occasions",
+  "retreatOptions": "Weekend and short thematic courses; multi-week seminars; a residential Basic Program (about 3-4 years) and Masters Program (6-7 years) for in-depth study and teacher training, also offered online; guests may also book a stay without enrolling in a course",
+  "about": "Istituto Lama Tzong Khapa (ILTK) is a Tibetan Buddhist study and retreat center set in the hills of Pomaia, Tuscany, about 40 km south of Pisa. It was founded in 1977 by Lama Thubten Yeshe and Lama Thubten Zopa Rinpoche as part of the Foundation for the Preservation of the Mahayana Tradition (FPMT) and follows the Gelug school established by Je Tsongkhapa, growing into one of the largest Buddhist centers in Europe. A resident community of monks and nuns lives alongside lay staff, long-term students, and visiting guests from around the world. Programs range from weekend introductions to Buddhist philosophy and meditation up to the multi-year residential Basic Program and Masters Program that train FPMT teachers, and His Holiness the Dalai Lama has taught here on five occasions. Guests can stay in shared or private rooms, dormitories, or wooden cabins on the grounds with vegetarian full board included, and may take part in optional volunteer service (karma yoga). Courses with the Institute's teachers are offered by donation, while accommodation is charged at a fixed nightly rate.",
+  "schedule": "Courses run as weekend or intensive multi-day blocks with daily teaching sessions and meditation practice; check-in from 3pm, check-out before 10:30am, with a 2-night minimum stay in summer (June-August)",
+  "cost": "Teachings from the Institute's masters are offered by donation ('offerta libera'); lodging is billed separately at a fixed per-person, per-night full-board rate (contact the secretary for current adult room rates), with children ages 5-16 charged €10-18/night, under-5s free, and a 20% discount for ordained sangha",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Full board (breakfast, lunch, dinner) is included in the nightly accommodation rate and is vegetarian; non-resident guests can buy a single vegetarian lunch or dinner for €13-15.",
+  "workRequired": "no",
+  "workNotes": "Selfless service (karma yoga) supporting the community is available to anyone who wants to take part but is not required of course participants or overnight guests.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "long-retreats",
+    "family-friendly",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "fixed-fee",
+    "meals-included",
+    "no-work-required",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "ILTK - home page",
+      "url": "https://www.iltk.org/"
+    },
+    {
+      "title": "Chi siamo (About the Institute)",
+      "url": "https://www.iltk.org/chi-siamo"
+    },
+    {
+      "title": "Accomodation and Booking",
+      "url": "https://www.iltk.org/en/chi-siamo/alloggio-e-prenotazione/"
+    },
+    {
+      "title": "Istituto Lama Tzong Khapa - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Istituto_Lama_Tzong_Khapa"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

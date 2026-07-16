@@ -1,0 +1,104 @@
+{
+  "id": "maenllwyd",
+  "name": "Maenllwyd Buddhist Retreat Centre",
+  "aka": [
+    "Maenllwyd",
+    "The Maenllwyd",
+    "Maenllwyd Retreat Centre"
+  ],
+  "website": "https://maenllwyd.org/",
+  "location": {
+    "address": "Maenllwyd, near Pant-y-Dwr, St Harmon, Llangurig, Powys",
+    "city": "Llangurig",
+    "county": "Powys",
+    "region": "Powys, Wales",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 52.369,
+    "lng": -3.497
+  },
+  "tradition": "Chan (Chinese Zen) Buddhism, Dharma Drum lineage of Chan Master Sheng Yen, as taught by the Western Chan Fellowship; also occasionally hired for Tibetan Mahamudra and yoga retreats",
+  "technique": "Silent Illumination (Mozhao/Shikantaza-style 'just sitting'), Huatou and Gongan (Koan) investigation, the Western Zen Retreat 'Communication Exercise', qigong and walking meditation",
+  "influences": [
+    "Dr John Crook",
+    "Chan Master Sheng Yen (Dharma Drum Mountain, Taiwan)",
+    "Chan Master Simon Child",
+    "Western Chan Fellowship"
+  ],
+  "teacherAccess": "On the Chan/Zen retreats historically held here, scheduled one-to-one interviews with the retreat leader on two or three days of a longer retreat, plus daily Dharma talks; access on retreats run by outside groups hiring the centre varies by teacher",
+  "retreatOptions": "Residential silent retreats of up to about 7 nights (historically Western Zen, Silent Illumination and Koan retreats), plus solitary winter retreats in a separate hillside hut; about 10 retreats a year for up to 14 people, now also hired out to other Buddhist teachers and yoga groups",
+  "about": "Maenllwyd is a centuries-old stone farmhouse and hill farm in a remote, wooded valley above Pant-y-Dwr in the hills near Llangurig, Powys, mid-Wales. Bought in the early 1970s by the ethologist and Buddhist teacher Dr John Crook, it became a base for silent Zen and Mahamudra retreats, and after 1993, when Chan Master Sheng Yen of Taiwan's Dharma Drum Mountain authorised Crook to teach, it grew into the founding retreat centre of the Western Chan Fellowship. The farmhouse and converted barn (Chan Hall) have no mains electricity, phone signal or internet; heat and light come from a wood stove, candles, and gas or paraffin lamps, and retreatants sleep dormitory-style with composting toilets. The Western Chan Fellowship's main residential programme has since moved mostly to Shawbottom Farm in England, so Maenllwyd today is also hired out for retreats by other teachers, such as Tibetan Mahamudra courses, and for yoga courses. A separate stone hut on the hillside is kept for solitary winter retreats. John Crook died in 2011 and his ashes are scattered on the hillside above the farmhouse.",
+  "schedule": "Traditional intensive retreat day: rising around 5am for exercise and 30-minute meditation periods (with movement breaks), morning chanting, work periods after breakfast and lunch, an afternoon silent walk, and lights out about 10pm",
+  "cost": "Fees are not published on the Maenllwyd site itself; bookings are arranged directly by email with whichever group is currently hiring the centre. Under the Western Chan Fellowship's standard model used for equivalent-length retreats elsewhere, each event has a fixed Standard fee plus a 50%-off Supported fee (no means-testing) and an optional higher Supporting fee",
+  "pricePerDay": {
+    "min": 68,
+    "max": 73,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "No fee schedule is published for Maenllwyd itself. Estimated from the Western Chan Fellowship's current Standard fees for equivalent-length residential retreats (now mostly run at its Shawbottom Farm venue): 7-night Zen Koan Retreat GBP 475 (~GBP 68/night) and 5-night Western Zen Retreat GBP 365 (~GBP 73/night); the 50%-off Supported tier is excluded as a subsidised rate.",
+    "source": "https://westernchanfellowship.org/events-and-retreats/event/zen-koan-retreat-500/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A trained vegetarian cook prepares three meals a day plus home-baked bread and cake from fresh, largely organic ingredients; meals include milk and cheese, with vegan, gluten-free and other special diets catered for if the cook is given advance notice.",
+  "workRequired": "yes",
+  "workNotes": "Retreat days include a work period of about 45-60 minutes after both breakfast and lunch, with tasks such as washing up, food preparation, cleaning and garden work shared among all retreatants.",
+  "tags": [
+    "zen",
+    "mahayana",
+    "silent",
+    "self-guided",
+    "diet-vegetarian",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Maenllwyd Buddhist Retreat - home page",
+      "url": "https://maenllwyd.org/"
+    },
+    {
+      "title": "Maenllwyd - Welcome / Events and Retreats",
+      "url": "https://maenllwyd.org/index.html"
+    },
+    {
+      "title": "Introduction to Mahamudra retreat, Maenllwyd (example current booking, non-WCF)",
+      "url": "https://www.maenllwyd.org/mahamudra-retreat-june-2025"
+    },
+    {
+      "title": "Maenllwyd Retreat Centre in Wales - Western Chan Fellowship venue page",
+      "url": "https://westernchanfellowship.org/events-and-retreats/venues-chan-and-zen-retreats/maenllwyd-retreat-centre/"
+    },
+    {
+      "title": "What you need to know about Zen retreats (schedule, food, silence)",
+      "url": "https://westernchanfellowship.org/events-and-retreats/general-information-on-our-silent-retreats/"
+    },
+    {
+      "title": "How to prepare for a meditation retreat",
+      "url": "https://westernchanfellowship.org/events-and-retreats/preparing-for-retreats/"
+    },
+    {
+      "title": "How to book on a Western Chan Fellowship meditation retreat (fees, concessions)",
+      "url": "https://westernchanfellowship.org/events-and-retreats/retreat-booking/"
+    },
+    {
+      "title": "7-night Zen Koan Retreat event page (fees)",
+      "url": "https://westernchanfellowship.org/events-and-retreats/event/zen-koan-retreat-500/"
+    },
+    {
+      "title": "5-night Western Zen Retreat event page (fees)",
+      "url": "https://westernchanfellowship.org/events-and-retreats/event/western-zen-retreat-493/"
+    },
+    {
+      "title": "Maenllwyd - St Harmon Community Council (local history)",
+      "url": "http://www.stharmoncommunitycouncil.gov.uk/?page_id=99"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

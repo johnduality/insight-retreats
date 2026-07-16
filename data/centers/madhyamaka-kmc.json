@@ -1,0 +1,107 @@
+{
+  "id": "madhyamaka-kmc",
+  "name": "Madhyamaka Kadampa Meditation Centre",
+  "aka": [
+    "Madhyamaka KMC",
+    "Kilnwick Percy Hall"
+  ],
+  "website": "https://madhyamaka.org/",
+  "location": {
+    "address": "Kilnwick Percy Hall, Pocklington, YO42 1UF",
+    "city": "Pocklington",
+    "county": "East Riding of Yorkshire",
+    "region": "Yorkshire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 53.941256,
+    "lng": -0.74462
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU): Mahayana / Vajrayana Kadampa Buddhism",
+  "technique": "Kadampa Buddhist meditation: lamrim (stages of the path) contemplation, guru yoga, tantric sadhanas (e.g. Heruka Body Mandala), and chanted prayers",
+  "influences": [
+    "Venerable Geshe Kelsang Gyatso Rinpoche (founder of the New Kadampa Tradition)",
+    "Je Tsongkhapa",
+    "Atisha",
+    "Gen-la Kelsang Jampa (General Spiritual Director, NKT-IKBU)",
+    "Kadam Bridget Heyes (National Spiritual Director)",
+    "Gen-la Kelsang Kunsang (Resident Teacher)"
+  ],
+  "teacherAccess": "Resident Teacher Gen-la Kelsang Kunsang and visiting Kadampa teachers (e.g. Gen Kelsang Ananda) lead scheduled retreat sessions and Dharma talks, alongside a team of teachers running the centre's regular weekly classes",
+  "retreatOptions": "Weekend Relaxation and Silent Retreats, midweek Rest and Reflect breaks, tantric retreats (e.g. Guru Yoga and Mandala Offerings), week-long Post-Festival retreats tied to international NKT festivals, plus non-residential day/half-day courses and ongoing meditation classes",
+  "about": "Madhyamaka Kadampa Meditation Centre occupies Kilnwick Percy Hall, a Grade II*-listed Georgian mansion set in 47 acres of parkland, lakes and woodland in the Yorkshire Wolds near Pocklington. It belongs to the New Kadampa Tradition - International Kadampa Buddhist Union (NKT-IKBU), founded in 1991 by the late Venerable Geshe Kelsang Gyatso Rinpoche, and has occupied the hall since 1986, teaching the Mahayana lamrim and Vajrayana practices transmitted by Je Tsongkhapa and Atisha. Alongside a full programme of weekly drop-in meditation classes and day courses, it runs residential Relaxation and Silent weekend retreats, midweek Rest and Reflect breaks, tantric retreats such as Guru Yoga and Mandala Offerings, and week-long Post-Festival retreats led by visiting NKT teachers. The grounds, World Peace Cafe, gift shop and on-site B&B are open to the public daily, and the centre relies heavily on volunteers, including live-in Volunteering Visits of two weeks or more in exchange for work. It is led by resident Teacher Gen-la Kelsang Kunsang together with a team of ordained and lay teachers, and is a registered UK charity (No. 509746).",
+  "schedule": "Weekend retreats run Friday evening to Sunday or Monday with three to four guided sessions a day (talks, guided meditation, Q&A); week-long retreats add an extra evening session; weekly drop-in classes and Sunday Prayers for World Peace continue outside retreat periods",
+  "cost": "Fixed per-person course fees scaled by room type (camping/dorm through single, twin, double and en-suite garden or courtyard rooms) and by number of nights, with all meals included for residential bookings; standard and benefactor members attend free (excluding lunch); non-residential day attendance is booked separately via Ticket Tailor",
+  "pricePerDay": {
+    "min": 24,
+    "max": 86,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Post-International Summer Festival Retreat (9-15 Aug 2026, 7 nights, all meals included): listed price range GBP170-600 across room/occupancy options from camping/dorm up to a double en-suite room for two, i.e. roughly GBP24-86/night depending on room type and occupancy. Shorter 2-night Relaxation and Silent weekend retreats range GBP70-328 over the same room tiers.",
+    "source": "https://madhyamaka.org/product/post-international-summer-festival-retreat-2026/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All residential retreat fees include meals; the kitchen currently caters for vegetarian or vegan diets (other dietary needs must be arranged in advance); the on-site World Peace Cafe serves cakes, paninis and light lunches to day visitors.",
+  "workRequired": "no",
+  "workNotes": "Meditation retreats themselves involve no work requirement; separately, live-in 'Volunteering Visits' (minimum two weeks) exchange 30 hours/week of cafe, garden, household or maintenance work for free dorm accommodation, three vegetarian meals a day and free class attendance.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "day-retreats",
+    "silent",
+    "family-friendly",
+    "diet-vegetarian",
+    "diet-vegan",
+    "fixed-fee",
+    "meals-included",
+    "no-work-required",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Madhyamaka KMC - home page",
+      "url": "https://madhyamaka.org/"
+    },
+    {
+      "title": "Kilnwick Percy Hall - historic building & grounds",
+      "url": "https://madhyamaka.org/historic-building-and-grounds/"
+    },
+    {
+      "title": "Silent Retreats",
+      "url": "https://madhyamaka.org/product/silent-retreats/"
+    },
+    {
+      "title": "Relaxation Retreats",
+      "url": "https://madhyamaka.org/product/relaxation-retreats-2026/"
+    },
+    {
+      "title": "Post-International Summer Festival Retreat 2026",
+      "url": "https://madhyamaka.org/product/post-international-summer-festival-retreat-2026/"
+    },
+    {
+      "title": "New Kadampa Tradition",
+      "url": "https://madhyamaka.org/new-kadampa-tradition/"
+    },
+    {
+      "title": "Course accommodation",
+      "url": "https://madhyamaka.org/course-accommodation/"
+    },
+    {
+      "title": "Volunteering",
+      "url": "https://madhyamaka.org/volunteering-visits-pocklington-york/"
+    },
+    {
+      "title": "Resident Teacher - Gen-la Kelsang Kunsang",
+      "url": "https://madhyamaka.org/teacher/"
+    },
+    {
+      "title": "Postcode lookup for YO42 1UF (coordinates)",
+      "url": "https://api.postcodes.io/postcodes/YO421UF"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -19,8 +19,9 @@
         "address": { "type": "string" },
         "city": { "type": "string" },
         "county": { "type": "string" },
-        "region": { "type": "string", "description": "Coarse geographic bucket for the list filter, e.g. 'Bay Area', 'Southern California'." },
-        "state": { "type": "string", "description": "Two-letter US state code." },
+        "region": { "type": "string", "description": "Coarse geographic bucket for the list filter, e.g. 'Bay Area', 'Southern California', or 'Devon, England'." },
+        "country": { "type": "string", "description": "Full country name, e.g. 'United Kingdom', 'France'. Omitted (or 'United States'/'USA') for US entries; REQUIRED for all non-US entries so the site's region grouping (see app.js regionOf()) works correctly." },
+        "state": { "type": "string", "description": "Two-letter US state code for US entries. For non-US entries, the two-letter ISO 3166-1 country code (e.g. 'GB', 'FR', 'DE', 'IS') is used in this slot as a pseudo-code." },
         "lat": { "type": "number", "minimum": -90, "maximum": 90 },
         "lng": { "type": "number", "minimum": -180, "maximum": 180 }
       }
@@ -39,9 +40,10 @@
       "description": "REQUIRED where determinable: a representative per-day (per-night) dollar rate for a STANDARD multi-day residential retreat (use a weeklong retreat option where possible). Base it on the ordinary published tiers (e.g. basic to standard/sustainer), dividing the total by the number of nights. IGNORE scholarship/subsidised rates, donation floors, and one-time or day-only events. Use null min/max only for centers that are strictly donation-only with no suggested amount.",
       "additionalProperties": false,
       "properties": {
-        "min": { "type": ["number", "null"], "description": "Low end of the per-night USD rate (e.g. the basic, non-scholarship tier)." },
-        "max": { "type": ["number", "null"], "description": "High end of the per-night USD rate (e.g. the standard/sustainer tier)." },
+        "min": { "type": ["number", "null"], "description": "Low end of the per-night rate (e.g. the basic, non-scholarship tier), in `currency`." },
+        "max": { "type": ["number", "null"], "description": "High end of the per-night rate (e.g. the standard/sustainer tier), in `currency`." },
         "unit": { "type": "string", "enum": ["night", "day"], "default": "night" },
+        "currency": { "type": "string", "description": "ISO 4217 currency code for min/max, e.g. 'USD', 'EUR', 'GBP', 'ISK'. Defaults to USD when omitted (US entries); include explicitly for all non-US entries.", "default": "USD" },
         "notes": { "type": "string", "description": "How the figure was derived, e.g. '9-night retreat: Basic $2,205 to Sustainer $3,330'." },
         "source": { "type": "string", "description": "URL of the specific retreat/registration page the rate came from." }
       }

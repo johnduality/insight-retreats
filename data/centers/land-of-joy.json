@@ -1,0 +1,119 @@
+{
+  "id": "land-of-joy",
+  "name": "Land of Joy",
+  "aka": [
+    "Land of Joy Retreat Centre",
+    "LOJ"
+  ],
+  "website": "https://landofjoy.co.uk/",
+  "location": {
+    "address": "Greenhaugh Hall, Greenhaugh",
+    "city": "Hexham",
+    "county": "Northumberland",
+    "region": "Northumberland, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 55.177427,
+    "lng": -2.323031
+  },
+  "tradition": "Tibetan Buddhist (Gelug lineage), affiliated with the Foundation for the Preservation of the Mahayana Tradition (FPMT)",
+  "technique": "Lamrim study, Lam Rim-based analytic meditation, guru yoga and deity sadhana practice, plus introductory mindfulness and secular retreats",
+  "influences": [
+    "Lama Zopa Rinpoche",
+    "Lama Yeshe",
+    "Foundation for the Preservation of the Mahayana Tradition (FPMT)",
+    "His Holiness the Dalai Lama",
+    "Gelug tradition of Tibetan Buddhism"
+  ],
+  "teacherAccess": "Visiting FPMT-affiliated teachers (geshes, ordained sangha, and senior lay teachers) lead each residential retreat with daily group teachings, meditation sessions and discussion; teachers are not centre staff and vary retreat to retreat",
+  "retreatOptions": "Weekend to 9-night group retreats and courses year-round (introductory Buddhism, Lamrim, guru yoga, tantric/HYT practices requiring prior initiation, family retreats, secular wellbeing weekends), plus onsite personal retreats of up to three months in a private retreat hut or the Coachhouse, and residential volunteer placements of 1+ months",
+  "about": "Land of Joy is a residential Tibetan Buddhist retreat centre set in Greenhaugh Hall, a former manor house in the Northumberland National Park near Hexham, England. Founded in 2010 under the spiritual guidance of Lama Zopa Rinpoche, it held its first retreat in 2015 and is affiliated with the Foundation for the Preservation of the Mahayana Tradition (FPMT), following the Gelug school of Tibetan Buddhism associated with the Dalai Lama. The centre is run almost entirely by volunteers and operates on a total-generosity (dana) model, charging nothing for teachings, food or accommodation and instead inviting retreatants to offer what they can to the centre, the visiting teacher and the volunteer team. Its year-round programme spans introductory Buddhism weekends, Lamrim and guru yoga retreats, advanced tantric practices for those with the relevant initiations, family retreats and secular wellbeing courses, taught by a rotating roster of FPMT-affiliated teachers, geshes and nuns/monks. Beyond group retreats, Land of Joy offers private solitary retreat huts and Coachhouse rooms for personal practice, and hosts longer-term residential volunteers who help run the centre in exchange for accommodation and meals.",
+  "schedule": "Group retreats typically run from evening arrival through several days of teachings, guided meditation sessions and discussion, with some periods of silence observed outside group sessions; personal retreatants set their own schedule with lunch and supper provided by the onsite team",
+  "cost": "Donation-only 'generosity model': there is no set fee for teachings, food or accommodation on group or personal retreats; retreatants are simply invited to offer what they can afford to the centre (which needs roughly GBP 90,000/year to run) and separately to the visiting teacher and volunteer team",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Strictly donation-based with no suggested or minimum amount published anywhere on the site; retreat pages state cost is 'Generosity Model - Donation only' with meals, accommodation, workshops and materials all provided regardless of what is offered.",
+    "source": "https://landofjoy.co.uk/generosity/generosity-model/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian meals a day, which may include eggs and dairy; the kitchen team can generally accommodate other dietary requirements if notified in advance of arrival.",
+  "workRequired": "no",
+  "workNotes": "Retreat and course attendees are not required to work; a daily work commitment (6-8 hours, 5 days/week) applies only to residential volunteers, who are a separate group living onsite for a month or more in exchange for a room and meals.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "silent",
+    "family-friendly",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "meals-included",
+    "no-work-required",
+    "accessible",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Land of Joy - home page",
+      "url": "https://landofjoy.co.uk/"
+    },
+    {
+      "title": "About LoJ - Land of Joy",
+      "url": "https://landofjoy.co.uk/about/about-loj/"
+    },
+    {
+      "title": "Our History - Land of Joy",
+      "url": "https://landofjoy.co.uk/our-history/"
+    },
+    {
+      "title": "Generosity Model - Land of Joy",
+      "url": "https://landofjoy.co.uk/generosity/generosity-model/"
+    },
+    {
+      "title": "2026 Programme - Retreats & Courses at Land of Joy",
+      "url": "https://landofjoy.co.uk/2026-programme/"
+    },
+    {
+      "title": "The Two Wings of Wisdom & Bodhichitta (retreat page with cost/food/teacher details)",
+      "url": "https://landofjoy.co.uk/two-wings-of-wisdom-bodhichitta/"
+    },
+    {
+      "title": "Accommodation - Land of Joy",
+      "url": "https://landofjoy.co.uk/being-here/accommodation/"
+    },
+    {
+      "title": "FAQ - Land of Joy",
+      "url": "https://landofjoy.co.uk/about/faq/"
+    },
+    {
+      "title": "Residential Volunteering - Land of Joy",
+      "url": "https://landofjoy.co.uk/residential-volunteering/"
+    },
+    {
+      "title": "Individual/Personal Retreat - Land of Joy",
+      "url": "https://landofjoy.co.uk/personal-stay/"
+    },
+    {
+      "title": "About FPMT - Land of Joy",
+      "url": "https://landofjoy.co.uk/about/about-fpmt/"
+    },
+    {
+      "title": "Land of Joy Retreat Centre - FPMT UK",
+      "url": "https://fpmt.org.uk/centers/land-of-joy-retreat-centre/"
+    },
+    {
+      "title": "Land of Joy: The Unforeseen Wonders of Founding a Retreat Center - Mandala Publications",
+      "url": "https://fpmt.org/mandala/archives/mandala-for-2017/january/land-of-joy-the-unforeseen-wonders-of-founding-a-retreat-center/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "holy-isle",
+  "name": "Holy Isle — Centre for World Peace and Health",
+  "aka": [
+    "Holy Isle Project",
+    "Holy Island Centre for World Peace and Health"
+  ],
+  "website": "https://www.holyisle.org/",
+  "location": {
+    "address": "Centre for World Peace and Health, Holy Isle, Lamlash Bay, KA27 8GB",
+    "city": "Lamlash",
+    "county": "North Ayrshire",
+    "region": "Isle of Arran, Scotland",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 55.5311,
+    "lng": -5.0672
+  },
+  "tradition": "Tibetan Buddhist (Kagyu), non-sectarian and interfaith in practice; affiliated with Kagyu Samye Ling Monastery and the Rokpa Trust",
+  "technique": "Optional Tibetan Buddhist pujas (chanting) and silent sitting meditation; visiting-teacher courses in Shinè (calm-abiding) meditation, mindfulness, yoga and tai chi",
+  "influences": [
+    "Lama Yeshe Losal Rinpoche",
+    "Kagyu Samye Ling Monastery and Tibetan Centre",
+    "Rokpa Trust",
+    "Karma Kagyu lineage"
+  ],
+  "teacherAccess": "Each course is led by a visiting teacher who runs the daily sessions for that retreat; resident volunteers also lead optional twice-daily pujas and sits that any guest can join",
+  "retreatOptions": "Day visits; residential courses and retreats of roughly 5-8 nights (Buddhism, meditation, yoga, tai chi, mindfulness) running April to October; a 10-week Winter Retreat when the Centre is otherwise closed; a separate multi-year closed Inner Light Retreat for dedicated Buddhist retreatants is not open to guests",
+  "about": "Holy Isle is a small island in Lamlash Bay off the Isle of Arran, on Scotland's west coast, with a history as a sacred site going back to the 6th-century hermit St Molaise. In 1992 the island was bought by the Rokpa Trust, and it is now directed by Lama Yeshe Losal Rinpoche, a Tibetan Buddhist meditation master in the Kagyu tradition and abbot of Kagyu Samye Ling Monastery. At the island's north end, the Centre for World Peace and Health runs a spring-to-autumn programme of Buddhist, meditation, yoga, tai chi and mindfulness courses led by a rotating roster of visiting teachers, and is open to people of any faith or none. A separate closed, multi-year Buddhist retreat occupies the island's south end and is off-limits to visitors. The Centre is run entirely by volunteers, reachable only by a short private ferry from Lamlash on Arran, and guests are asked to observe the Five Golden Rules (no killing, stealing, lying, intoxicants, or harmful sexual activity) and to contribute about an hour of daily volunteer work.",
+  "schedule": "Optional daily programme of a 6am Green Tara puja, 7:30am silent meditation, 5pm silent meditation and 7pm Chenrezig puja around set mealtimes; each course's visiting teacher additionally runs their own daily sessions for retreat participants",
+  "cost": "Course/retreat teaching fees are typically by donation (dana); accommodation is billed separately per night on a full-board basis across dorm, single, twin and sea-view room tiers, with 2024 published rates of £37/night (dorm) to £110/night (sea-view twin)",
+  "pricePerDay": {
+    "min": 37,
+    "max": 66,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "'A Meditation Retreat' with Lama Zangpo, 7 nights (15-22 Jun 2026): dorm bed £259 total (£37/night) to single room £462 total (£66/night), full board; twin rooms are billed per room at £686 (£98/night) and the sea-view twin/double at £770 (£110/night) or £55 per person (£83 for single occupancy). The teaching itself is separate and by voluntary dana, not included in these accommodation figures.",
+    "source": "https://www.holyisle.org/index.php/courses/buddhism/view/lama-zangpo.html"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals (vegetarian and vegan) are included in the room rate; gluten-free can be catered but the kitchen generally cannot accommodate other special diets.",
+  "workRequired": "yes",
+  "workNotes": "All guests, including course participants, are asked to help with about one hour of daily 'karma yoga' after breakfast (kitchen, house care, gardening, beach cleaning) alongside the resident volunteer community.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "diet-vegetarian",
+    "dana-donation",
+    "fixed-fee",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Welcome to Holy Isle",
+      "url": "https://www.holyisle.org/"
+    },
+    {
+      "title": "About",
+      "url": "https://www.holyisle.org/index.php/the-project/about/index.html"
+    },
+    {
+      "title": "Staying at the Centre for World Peace and Health",
+      "url": "https://www.holyisle.org/index.php/the-project/the-centre/index.html"
+    },
+    {
+      "title": "Buddhism on Holy Isle",
+      "url": "https://www.holyisle.org/index.php/the-project/buddhism/index.html"
+    },
+    {
+      "title": "Vision",
+      "url": "https://www.holyisle.org/index.php/the-project/vision/index.html"
+    },
+    {
+      "title": "Guests",
+      "url": "https://www.holyisle.org/index.php/visiting/guests/index.html"
+    },
+    {
+      "title": "Daily Programme",
+      "url": "https://www.holyisle.org/index.php/visiting/guests/daily-programme/index.html"
+    },
+    {
+      "title": "Meditation Courses",
+      "url": "https://www.holyisle.org/index.php/courses/meditation/index.html"
+    },
+    {
+      "title": "A Meditation Retreat - Lama Zangpo (course rates)",
+      "url": "https://www.holyisle.org/index.php/courses/buddhism/view/lama-zangpo.html"
+    },
+    {
+      "title": "Getting Here",
+      "url": "https://www.holyisle.org/index.php/getting-here/index.html"
+    },
+    {
+      "title": "Get in touch (address)",
+      "url": "https://www.holyisle.org/index.php/contact/index.html"
+    },
+    {
+      "title": "Holy Island, Firth of Clyde - Wikipedia (coordinates, history cross-check)",
+      "url": "https://en.wikipedia.org/wiki/Holy_Island,_Firth_of_Clyde"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

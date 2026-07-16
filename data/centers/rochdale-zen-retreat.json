@@ -1,0 +1,101 @@
+{
+  "id": "rochdale-zen-retreat",
+  "name": "Rochdale Zen Retreat",
+  "aka": [
+    "The Rochdale Zen Retreat Trust",
+    "The Briars"
+  ],
+  "website": "https://obcon.org/rochdale-zen-retreat/",
+  "location": {
+    "address": "The Briars, Grange Lane",
+    "city": "Hutton, Preston",
+    "county": "Lancashire",
+    "region": "Lancashire, England",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 53.7398,
+    "lng": -2.7864
+  },
+  "tradition": "Soto Zen (Serene Reflection Meditation) - Order of Buddhist Contemplatives lineage",
+  "technique": "Serene Reflection Meditation (shikantaza-style zazen) with monastic liturgy, sesshin sitting and work practice",
+  "influences": [
+    "Rev. Master Jiyu-Kennett",
+    "Throssel Hole Buddhist Abbey",
+    "Order of Buddhist Contemplatives (Soto Zen lineage of Keizan and Dogen)"
+  ],
+  "teacherAccess": "Chief Priest Rev. Peter Bonati, MOBC (Throssel Hole-trained) leads all retreats and is available for spiritual direction by appointment; there is no rotating outside-teacher programme",
+  "retreatOptions": "A monthly 4-day sesshin (Thursday 5am to Sunday noon) and a monthly day retreat (9:45am-4pm); all stays are arranged individually by appointment rather than open online booking",
+  "about": "Rochdale Zen Retreat is a small residential Zen Buddhist temple of the Order of Buddhist Contemplatives, based at The Briars, a former house in the village of Hutton near Preston, Lancashire. The community was formed in 2000, registered as a charity in 2002, and purchased its current premises in 2013; it is led by Chief Priest Rev. Peter Bonati, MOBC, trained in the Serene Reflection Meditation (Soto Zen) tradition established in Britain by Rev. Master Jiyu-Kennett at Throssel Hole Buddhist Abbey. The temple functions as a working monastic training centre for both ordained and lay practitioners, following a daily round of zazen, liturgy and work practice, and hosting a monthly four-day sesshin alongside a monthly day retreat. As with other OBC temples, no fixed fees are charged for retreats or teaching; the community is sustained entirely by dana (voluntary donation) from supporters and retreatants. Because retreats are arranged individually by appointment rather than through a published booking system, prospective visitors are asked to telephone or email in advance to discuss dates and practicalities.",
+  "schedule": "Daily monastic schedule of zazen, liturgy and work practice, punctuated by a monthly 4-day sesshin (Thu 5am-Sun noon) and a monthly day retreat (9:45am-4pm); exact dates given on enquiry",
+  "cost": "No set fees: the temple runs entirely on dana (voluntary donation) for retreats, accommodation and its wider charitable work, with regular supporters' pledges funding day-to-day running",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "Donation-based with no suggested minimum published anywhere; charity accounts for the year ending 31 March 2025 show total income of GBP 73,854 against expenditure of GBP 16,194, with regular monthly pledges of roughly GBP 700 supporting the community, but no per-night or per-retreat rate is set for the monthly sesshin or day retreats.",
+    "source": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3987377/accounts-and-annual-returns"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Communal meals are provided as part of the monastic daily schedule during sesshin and retreats, in keeping with the vegetarian norm typical of OBC training temples; specific menu details are not published and are best confirmed by phone.",
+  "workRequired": "yes",
+  "workNotes": "As at all OBC training temples, retreatants join the community's work practice (samu) as part of the daily monastic schedule; this is standard for OBC-style retreats even though it is not separately itemised on the temple's own listing.",
+  "tags": [
+    "zen",
+    "day-retreats",
+    "silent",
+    "dana-donation",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Rochdale Zen Retreat - Order of Buddhist Contemplatives",
+      "url": "https://obcon.org/rochdale-zen-retreat/"
+    },
+    {
+      "title": "United Kingdom Temples - Order of Buddhist Contemplatives",
+      "url": "https://obcon.org/temples-and-meditation-groups/uk-temple-locations/"
+    },
+    {
+      "title": "Rochdale Zen Retreat | Charity Directory - Charity Choice",
+      "url": "https://www.charitychoice.co.uk/rochdale-zen-retreat-62872"
+    },
+    {
+      "title": "ROCHDALE ZEN RETREAT - Charity 1091415: Contact information",
+      "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3987377/contact-information"
+    },
+    {
+      "title": "ROCHDALE ZEN RETREAT - Charity 1091415: Charity overview",
+      "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3987377/charity-overview"
+    },
+    {
+      "title": "ROCHDALE ZEN RETREAT - Charity 1091415: What, who, how, where",
+      "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3987377/what-who-how-where"
+    },
+    {
+      "title": "ROCHDALE ZEN RETREAT - Charity 1091415: Full print",
+      "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3987377/full-print"
+    },
+    {
+      "title": "ROCHDALE ZEN RETREAT - Charity 1091415: Accounts and annual returns",
+      "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/3987377/accounts-and-annual-returns"
+    },
+    {
+      "title": "World Buddhist Directory - Lancashire (BuddhaNet)",
+      "url": "https://www.buddhanet.info/wbd/province.php?province_id=104"
+    },
+    {
+      "title": "Map/postcode lookup for PR4 5JE (coordinates)",
+      "url": "https://www.doogal.co.uk/ShowMap?postcode=PR4+5JE"
+    }
+  ],
+  "meta": {
+    "generatedBy": "harness/1.0 (claude)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

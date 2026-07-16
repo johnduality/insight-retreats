@@ -1,0 +1,82 @@
+{
+  "id": "sunyata-buddhist-centre",
+  "name": "Sunyata Buddhist Centre",
+  "website": "https://www.sunyatacentre.org/",
+  "location": {
+    "address": "Snaty, Sixmilebridge, Co. Clare, Ireland V95 EP80",
+    "city": "Sixmilebridge",
+    "county": "Clare",
+    "region": "County Clare, Ireland",
+    "country": "Ireland",
+    "state": "IE",
+    "lat": 52.7436,
+    "lng": -8.7776
+  },
+  "tradition": "Theravada Buddhist: Thai Forest tradition in the lineage of Ajahn Chah and Ajahn Sumedho",
+  "technique": "Vipassana / Insight meditation - silent sitting and walking meditation, guided practice, chanting, and mindful daily work",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Sumedho",
+    "Amaravati Buddhist Monastery",
+    "Bhante Bodhidhamma"
+  ],
+  "teacherAccess": "Daily dharma talks, guided meditation, and chanting led by resident or visiting monastic and lay teachers during retreats",
+  "retreatOptions": "Monthly weekend residential retreats; a monthly Day of Mindfulness; occasional longer retreats (up to around 10 days); a monthly Women's Day retreat; monthly Beginner's workshops; weekly Wednesday evening group sits; periodic multi-week stretches when the centre operates fully as a monastery under visiting monastics",
+  "about": "Sunyata Buddhist Centre is a small residential meditation centre on a ten-acre rural property near Sixmilebridge in County Clare, Ireland, devoted to Vipassana (Insight) meditation as taught in the Thai Forest tradition of Theravada Buddhism in the lineage of Ajahn Chah and Ajahn Sumedho. Visitors have come here since 1998, and the centre's Dhamma hall opened in July 2000; it is run entirely by volunteers and hosts both monastic teachers, mostly from Amaravati Buddhist Monastery in England, and lay teachers from Ireland and abroad. The core programme is a monthly weekend residential retreat plus a monthly Day of Mindfulness, occasional longer retreats, a Women's Day retreat, and a Wednesday evening sit, alongside periodic stretches when the centre runs as a full monastery under visiting monastics. Retreats are held mostly in Noble Silence and follow the Eight Precepts, with periods of sitting and walking meditation, dharma talks, chanting, and short daily work periods such as cooking, cleaning, or weeding that help keep the centre running. All retreats are offered on a dana (donation) basis with no fixed fee, though the centre suggests roughly EUR55 per person per day as a guideline to cover running costs. Accommodation is dormitory-style across three dorms, a cottage, and a farmhouse with no single rooms, and meals are vegetarian, with main dishes typically vegan and gluten-free.",
+  "schedule": "Typical weekend retreat: 6am wake bell and meditation, breakfast, a period of mindful chore work, morning and afternoon sitting/walking practice, a midday main meal, and evening chanting, meditation, and a dharma talk, mostly kept in Noble Silence",
+  "cost": "Dana (donation) basis with no fixed charge; the centre suggests approximately EUR55 per person per day as a guideline to cover running costs, but retreatants may give more or less within their means",
+  "pricePerDay": {
+    "min": 55,
+    "max": 55,
+    "unit": "day",
+    "currency": "EUR",
+    "notes": "No fixed fee; retreats run on dana (donation). The centre states it calculates that about EUR55 per person per day meets its running costs and offers this as a giving guideline, not a required amount.",
+    "source": "https://www.sunyatacentre.org/dana-at-sunyata/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Two meals a day (breakfast and a midday main meal) in keeping with the Eight Precepts, with nothing solid taken after midday except for medical need. Meals are vegetarian, with main dishes typically vegan and gluten-free; other special diets can be accommodated on request.",
+  "workRequired": "yes",
+  "workNotes": "Retreatants join a daily period of mindful work (about 30-45 minutes), such as food preparation, cleaning, or weeding, since the centre is run entirely by volunteers.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "day-retreats",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Sunyata Buddhist Centre - home page",
+      "url": "https://www.sunyatacentre.org/"
+    },
+    {
+      "title": "What Sunyata offers",
+      "url": "https://www.sunyatacentre.org/about"
+    },
+    {
+      "title": "Contact - Sunyata Buddhist Centre",
+      "url": "https://www.sunyatacentre.org/contact"
+    },
+    {
+      "title": "Coming on Retreat at Sunyata",
+      "url": "https://www.sunyatacentre.org/coming-on-retreat-at-sunyata/"
+    },
+    {
+      "title": "Dana at Sunyata",
+      "url": "https://www.sunyatacentre.org/dana-at-sunyata/"
+    },
+    {
+      "title": "Four Buddhist Retreat Centres In Ireland - The Travel Buddhist (history/founding detail)",
+      "url": "https://thetravelbuddhist.com/four-buddhist-retreat-centres-in-ireland/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

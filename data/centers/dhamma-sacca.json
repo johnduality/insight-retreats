@@ -1,0 +1,74 @@
+{
+  "id": "dhamma-sacca",
+  "name": "Dhamma Sacca",
+  "aka": [
+    "Vipassana Meditation Centre Dhamma Sacca",
+    "Centro de Vipassana Dhamma Sacca"
+  ],
+  "website": "https://sacca.dhamma.org/",
+  "location": {
+    "address": "CL-501 Km. 85,6, 05480 Candeleda, Ávila",
+    "city": "Candeleda",
+    "county": "Ávila",
+    "region": "Castilla y León, Spain",
+    "country": "Spain",
+    "state": "ES",
+    "lat": 40.147617,
+    "lng": -5.284953
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded evening discourses and are available for brief questions.",
+  "retreatOptions": "10-day courses for new and old students (the main, most frequent offering), plus 1-3 day courses and Satipatthana courses for experienced old students, dedicated courses for children and teenagers, and work/service periods between courses.",
+  "about": "Dhamma Sacca is Spain's second Goenka-tradition Vipassana center, set on a 10-hectare site at the foot of the Sierra de Gredos mountains near Candeleda in the province of Ávila, about two hours from Madrid. Built from 2015 by the Vipassana Private Foundation of Spain and opened for its first course in 2016, it can now house up to 120 students and 30 servers and runs 10-day courses continuously throughout the year, alongside shorter courses for old students, Satipatthana courses, and separate courses for children and teenagers. Its proximity to Portugal also allows it to host a few courses each year taught in Portuguese. As with all centers in the Goenka network, courses follow a fixed daily schedule of silent meditation under Noble Silence and are offered entirely free of charge, funded solely by voluntary donations from past students who wish to make the technique available to others. Neither the teacher nor assistant teachers receive any payment, and the center is run largely by volunteer service (dhamma seva).",
+  "schedule": "10-day courses run nearly continuously year-round (roughly monthly or more often), bracketed by short inter-course service periods; periodic 1-3 day and Satipatthana courses for old students, plus separate short courses for children and teenagers, mostly in summer.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students who have completed a course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course, entirely donation-based.",
+    "source": "https://sacca.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; vegetarian meals included.",
+  "workRequired": "partial",
+  "workNotes": "New students are not required to work during their 10-day course; old students may volunteer for dhamma seva during dedicated work/service periods between courses and during the course itself.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Sacca - Vipassana Meditation Centre (official site)",
+      "url": "https://sacca.dhamma.org/"
+    },
+    {
+      "title": "Dhamma Sacca - How to get there",
+      "url": "https://sacca.dhamma.org/how-to-get-there/"
+    },
+    {
+      "title": "Dhamma Sacca course schedule (dhamma.org)",
+      "url": "https://www.dhamma.org/en/schedules/schsacca"
+    },
+    {
+      "title": "Centers in Spain (es.dhamma.org)",
+      "url": "https://es.dhamma.org/centers-in-spain/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

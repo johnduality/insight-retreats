@@ -1,0 +1,91 @@
+{
+  "id": "pian-dei-ciliegi",
+  "name": "Pian dei Ciliegi",
+  "website": "https://www.piandeiciliegi.it",
+  "location": {
+    "address": "Loc. Bulla di Montesanto 1, 29028 Ponte dell'Olio (PC), Italia",
+    "city": "Ponte dell'Olio",
+    "county": "Piacenza",
+    "region": "Emilia-Romagna, Italy",
+    "country": "Italy",
+    "state": "IT",
+    "lat": 44.83237,
+    "lng": 9.635956
+  },
+  "tradition": "Theravada Buddhist: Satipatthana Vipassana and Metta meditation in the Mahasi Sayadaw (Burmese) lineage",
+  "technique": "Silent sitting and walking meditation (Satipatthana Vipassana) alternating with loving-kindness (Metta) practice",
+  "influences": [
+    "Mahasi Sayadaw",
+    "Sayadaw U Pandita",
+    "Panditarama tradition",
+    "Ayya Vīrañāṇi",
+    "Hannes Huber"
+  ],
+  "teacherAccess": "Daily evening Dhamma talk plus periodic one-on-one interviews with the visiting teacher (with a translator when needed); a volunteer Retreat Manager handles practical matters",
+  "retreatOptions": "Weekend to roughly 9-11 night formal group retreats; an intensive month-long retreat each November; private and self-managed retreats for experienced practitioners; weekend to week-long online retreats over Zoom",
+  "about": "Pian dei Ciliegi is a residential meditation centre run by a lay Buddhist association in the hills above Ponte dell'Olio, about 30km south of Piacenza in Emilia-Romagna, northern Italy. Founded in 1996, it now focuses on Satipatthana Vipassana and Metta retreats in the Theravada tradition of the Venerable Mahasi Sayadaw, hosted in a rural retreat house surrounded by oak woods at 600m elevation. A rotating roster of visiting teachers, many trained at Panditarama and other Mahasi-lineage centres in Myanmar and Nepal, lead silent group retreats of roughly a week to eleven nights, alongside shorter weekend events, an intensive month-long retreat in November, and online retreats held over Zoom. Days follow a demanding schedule of alternating sitting and walking meditation from 5am to 10pm, with a daily work period, an evening Dhamma talk, and periodic personal interviews with the teacher. Teachers offer their teaching freely as dana and receive no fee; the daily retreat charge instead covers food, lodging, and running costs.",
+  "schedule": "Formal retreats run alternating hour-long sitting and walking periods from 5am wake-up to 10pm rest, with a daily work period, an evening Dhamma talk, and Metta practice before bed",
+  "cost": "Fixed daily fee of EUR 35/day for in-person retreats (covering food, lodging, and running costs, not the teacher), plus an annual EUR 25 membership fee; teachers are supported separately by dana. Online retreats use a recommended donation of about EUR 5/day plus a EUR 5 admin fee (EUR 20 flat for weekend online retreats). Sponsorships and reduced contributions can be arranged for those in financial need.",
+  "pricePerDay": {
+    "min": 35,
+    "max": 35,
+    "unit": "day",
+    "currency": "EUR",
+    "notes": "The published daily retreat fee is a flat EUR 35/day for every in-person retreat regardless of length or teacher (e.g. a 10-night retreat totals EUR 350); this is a facility/food fee only, separate from the annual EUR 25 membership and from any dana offered directly to the teacher.",
+    "source": "https://www.piandeiciliegi.it/en/retreats-informations/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals (porridge/muesli breakfast, a full lunch with cooked and raw vegetables, bread and fruit); vegan meals can be requested. Following the traditional eight precepts, no solid food is eaten after lunch, though fruit juice, tea, and an optional light snack are offered in the afternoon.",
+  "workRequired": "yes",
+  "workNotes": "A daily work period (about an hour, paired with walking meditation) is built into the retreat schedule for all participants; separate live-in volunteers instead work 2-3 hours/day in exchange for room and board.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "online-hybrid",
+    "self-guided",
+    "diet-vegetarian",
+    "dana-donation",
+    "fixed-fee",
+    "scholarships",
+    "meals-included",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Pian dei Ciliegi - home page",
+      "url": "https://www.piandeiciliegi.it/"
+    },
+    {
+      "title": "The association",
+      "url": "https://www.piandeiciliegi.it/en/the-center/the-association/"
+    },
+    {
+      "title": "Where we are",
+      "url": "https://www.piandeiciliegi.it/en/the-center/where-we-are/"
+    },
+    {
+      "title": "In-person Retreats",
+      "url": "https://www.piandeiciliegi.it/en/in-person-retreats/"
+    },
+    {
+      "title": "Online retreats",
+      "url": "https://www.piandeiciliegi.it/en/online-retreats/"
+    },
+    {
+      "title": "Information and FAQ",
+      "url": "https://www.piandeiciliegi.it/en/retreats-informations/"
+    },
+    {
+      "title": "Insegnanti (Teachers)",
+      "url": "https://www.piandeiciliegi.it/en/insegnanti"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

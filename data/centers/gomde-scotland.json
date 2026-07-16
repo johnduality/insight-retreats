@@ -1,0 +1,119 @@
+{
+  "id": "gomde-scotland",
+  "name": "Gomde Scotland",
+  "aka": [
+    "The Woodland Hermitage",
+    "Rangjung Yeshe Gomde Trust",
+    "Gomde Scotland Woodland Hermitage"
+  ],
+  "website": "https://gomdescotland.org/",
+  "location": {
+    "address": "The Woodland Hermitage, Hardmuir of Boath, Nairn, Highland, Scotland, IV12 5QG",
+    "city": "Nairn",
+    "county": "Highland",
+    "region": "Highland, Scotland",
+    "country": "United Kingdom",
+    "state": "GB",
+    "lat": 57.582231,
+    "lng": -3.768648
+  },
+  "tradition": "Non-sectarian Vajrayana (Tibetan) Buddhism, Chokling Tersar lineage (Kagyü and Nyingma)",
+  "technique": "Guided meditation, dharma study, communal group practice, and periods of solitary/silent practice in the Tibetan Vajrayana tradition",
+  "influences": [
+    "Chökyi Nyima Rinpoche",
+    "Tulku Urgyen Rinpoche",
+    "Phakchok Rinpoche",
+    "Chokgyur Lingpa / Chokling Tersar lineage",
+    "Ka-Nying Shedrub Ling Monastery, Kathmandu"
+  ],
+  "teacherAccess": "Visiting teachers from the Gomde/Ka-Nying Shedrub Ling network lead daily morning teaching-and-meditation sessions and evening group practice during retreats; Chökyi Nyima Rinpoche visits periodically for seminars and empowerments",
+  "retreatOptions": "Themed group retreats of roughly 5-7 nights (e.g. walking-meditation and mindfulness retreats) plus occasional multi-day seminars and empowerments with Chökyi Nyima Rinpoche; year-round community sangha nights and volunteer land-care days",
+  "about": "Gomde Scotland, also known as The Woodland Hermitage, is a Shedrub Mandala Center run by the Rangjung Yeshe Gomde Trust (Scottish Charity SC040361) on 50 acres of rewilded, sustainably managed broadleaf woodland near Nairn and the Findhorn area of the Scottish Highlands. It is part of the international Gomde network founded to make Tibetan Vajrayana Buddhism accessible to a global audience, with Chökyi Nyima Rinpoche, Abbot of Ka-Nying Shedrub Ling Monastery in Kathmandu, as spiritual head; its teachers hold lineages within the Chokling Tersar tradition practised by the Kagyü and Nyingma schools. Group retreats run through the year, blending guided meditation, dharma study, communal practice, and periods of solitary or silent time, with visiting teachers such as Lama Gerry and Ven. Upali Sraman, alongside occasional visits and empowerments from Chökyi Nyima Rinpoche himself. Accommodation ranges from off-site lodging and on-site camping to shared or single cabins and rooms, with retreat fees set on a tiered, accommodation-based suggested-donation basis and bursaries available so no one is turned away for lack of funds. The setting is rustic and largely off-grid, with little mobile signal, and guests are asked to come prepared for outdoor conditions and some practical work around the land. Beyond residential retreats, the centre hosts weekly and monthly sangha gatherings, volunteer days, and an annual All Sangha Day open to practitioners of any Buddhist lineage.",
+  "schedule": "Retreats run for the full booked stay (afternoon arrival to midday departure) with daily teaching/meditation sessions -- e.g. roughly 2 hours of morning study plus guided meditation, free or optional-silent-practice afternoons, and about 1 hour of evening practice and chanting -- with some outdoor/practical work woven in",
+  "cost": "Tiered, accommodation-based suggested-donation fee (self-catered off-site lodging up to a private on-grid room), covering 3 meals a day and facility use; bursaries available and no one is turned away for lack of funds",
+  "pricePerDay": {
+    "min": 50,
+    "max": 75,
+    "unit": "night",
+    "currency": "GBP",
+    "notes": "5-night 'Sacred Steps' retreat with Lama Gerry (24-29 Jul 2026) registration form: suggested donations by accommodation tier are GBP175 staying off-site, GBP200 camping/campervan, GBP250 residential off-grid twin/triple room, GBP300 residential off-grid single cabin, GBP350 residential on-grid twin room, GBP375 residential on-grid single room, all including 3 meals/day, facility use, and a contribution to the visiting teacher's travel costs. Using the residential tiers (GBP250 to GBP375) as representative gives roughly GBP50-75/night; the cheaper off-site and camping options are excluded as non-residential/self-catered alternatives, and bursary rates are excluded as subsidised.",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSdSU1KyYoRH9C4-eV54LQLzl-7j7HbJfsAgOZtX6SkQDjLL8g/viewform"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "3 meals a day are included in the retreat fee; food is vegetarian, with allergies and dietary needs accommodated on request.",
+  "workRequired": "partial",
+  "workNotes": "The centre's packing guidance tells retreatants to bring clothes they don't mind getting dirty because 'there's outdoor and practical work involved' in a stay; separately, the centre also runs open volunteer days for grounds, planting, and habitat work that are not tied to a specific retreat booking.",
+  "tags": [
+    "tibetan-vajrayana",
+    "diet-vegetarian",
+    "sliding-scale",
+    "scholarships",
+    "meals-included",
+    "work-practice",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Gomde Scotland - home page",
+      "url": "https://gomdescotland.org/"
+    },
+    {
+      "title": "About Gomde Scotland",
+      "url": "https://gomdescotland.org/gomde-scotland/"
+    },
+    {
+      "title": "Lineage and Teachers",
+      "url": "https://gomdescotland.org/teachers/"
+    },
+    {
+      "title": "Learning and Practice",
+      "url": "https://gomdescotland.org/learning-practice/"
+    },
+    {
+      "title": "Community and Environment",
+      "url": "https://gomdescotland.org/aims/"
+    },
+    {
+      "title": "What to bring to Gomde",
+      "url": "https://gomdescotland.org/what-to-bring-to-gomde/"
+    },
+    {
+      "title": "Getting Here",
+      "url": "https://gomdescotland.org/getting-here/"
+    },
+    {
+      "title": "Supporting Gomde Scotland (donations)",
+      "url": "https://gomdescotland.org/gomde/"
+    },
+    {
+      "title": "Programme Calendar (2026)",
+      "url": "https://gomdescotland.org/events/"
+    },
+    {
+      "title": "Sacred Steps - Retreat with Lama Gerry (event page)",
+      "url": "https://gomdescotland.org/event/sacred-steps-walking-meditation-in-the-highland-forest/"
+    },
+    {
+      "title": "Sacred Steps registration form (accommodation/fee tiers)",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdSU1KyYoRH9C4-eV54LQLzl-7j7HbJfsAgOZtX6SkQDjLL8g/viewform"
+    },
+    {
+      "title": "Mindfulness in Theory and Practice - with Ven. Upali Sraman (event page)",
+      "url": "https://gomdescotland.org/event/mindfulness-in-theory-and-practice/"
+    },
+    {
+      "title": "Chökyi Nyima Rinpoche's Summer Seminar (event page)",
+      "url": "https://gomdescotland.org/event/seminar-by-chokyi-nyima-rinpoche/"
+    },
+    {
+      "title": "Postcode lookup for IV12 5QG (coordinates)",
+      "url": "https://www.doogal.co.uk/UKPostcodes?Search=IV12%205QG"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

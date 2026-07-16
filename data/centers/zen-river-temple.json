@@ -1,0 +1,87 @@
+{
+  "id": "zen-river-temple",
+  "name": "Zen River Temple",
+  "website": "https://www.zenrivertemple.org/",
+  "location": {
+    "address": "Oldörpsterweg 3, 9981 NL Uithuizen",
+    "city": "Uithuizen",
+    "region": "Groningen, Netherlands",
+    "country": "Netherlands",
+    "state": "NL",
+    "lat": 53.4067,
+    "lng": 6.6778
+  },
+  "tradition": "Soto Zen: White Plum Lineage and Japanese Soto School",
+  "technique": "Zazen (shikantaza and koan practice), liturgy and chanting, oryoki-style formal meals, and daily samu (work practice)",
+  "influences": [
+    "Taizan Maezumi Roshi",
+    "Genpo Merzel Roshi",
+    "Junyu Kuroda Roshi",
+    "White Plum Lineage",
+    "Japanese Soto School"
+  ],
+  "teacherAccess": "Dokusan (private interview) with Tenkei Roshi or a Dharma successor during sesshin and Gyoji weeks, plus daily Dharma talks; online dokusan available to remote members by appointment",
+  "retreatOptions": "Weekend, 5-day, and 7-day sesshin; weeklong 'Gyoji' introductory/practice weeks; a 4-week summer month-long intensive; and open-ended long-term residential training for those pursuing ordination",
+  "about": "Zen River Temple is a residential Soto Zen training centre in Uithuizen, a small village near the Wadden Sea coast in the Dutch province of Groningen. It was founded in 2002 by Abbot Tenkei Coppens Roshi and Myoho Gabrysch Roshi, who trained for many years with Genpo Merzel Roshi and Taizan Maezumi Roshi in the United States and with Junyu Kuroda Roshi in Japan, and are recognised teachers of both the White Plum Lineage and the Japanese Soto School. Around ten to fifteen monastics and lay residents live and train full-time at the temple, following a schedule of zazen, liturgy, oryoki meals, scriptural study and daily work, with capacity for up to forty participants during larger events. The year-round programme runs on an ango (practice period) cycle of sesshin, Gyoji weeks and a four-week summer intensive, alongside longer-term residential training. Zen River also runs an online membership with streamed zazen, study classes and dokusan, and has affiliated groups in Groningen, the Catalan Pyrenees, Madrid and Lima. Classes are held in English given the temple's international community, and meals are vegetarian.",
+  "schedule": "Daily rhythm of wake 5:25, zazen 6:00, morning service 7:30, breakfast 8:00, samu (work) 9:30, lunch 13:00, evening zazen 19:30, lights out 21:45; sesshin days start earlier (wake 4:55) with additional zazen blocks, a Dharma talk, and dokusan",
+  "cost": "Fixed per-event fees: weekend sesshin EUR 145, 5-day sesshin EUR 270, 7-day sesshin EUR 375, Gyoji week EUR 250 (EUR 40-45/day), summer month-long EUR 1,000; long-term residential training is billed monthly (EUR 800 tapering to EUR 570 after 6 months, including room, board and training); online membership is EUR 25/month",
+  "pricePerDay": {
+    "min": 53.57,
+    "max": 54,
+    "unit": "night",
+    "currency": "EUR",
+    "notes": "Derived from the published sesshin fees: 5-day sesshin (5 nights) EUR 270 = EUR 54/night; 7-day sesshin (7 nights) EUR 375 = EUR 53.57/night. These figures come from the site's 'Contributions 2021' price list, the only published rate sheet found, so current 2026 rates may differ slightly.",
+    "source": "https://www.zenrivertemple.org/contact/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are vegetarian and served in the traditional Zen oryoki style during formal training; the resident tenzo (head cook) has published two Zen River cookbooks of recipes used in the temple kitchen.",
+  "workRequired": "yes",
+  "workNotes": "Samu (work practice) is built into the daily and sesshin schedule, and the temple's published guidelines require all participants to take part in samu and cleaning jobs and to help maintain the buildings and grounds.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "monastic-community",
+    "work-practice",
+    "online-hybrid",
+    "diet-vegetarian",
+    "fixed-fee",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Zen River Temple - home page",
+      "url": "https://www.zenrivertemple.org/"
+    },
+    {
+      "title": "Contact & Information (address, guidelines, contributions price list)",
+      "url": "https://www.zenrivertemple.org/contact/"
+    },
+    {
+      "title": "Daily Schedule / Year-Round Programme",
+      "url": "https://www.zenrivertemple.org/program/"
+    },
+    {
+      "title": "Retreat Calendar",
+      "url": "https://www.zenrivertemple.org/calendar/"
+    },
+    {
+      "title": "Teachers",
+      "url": "https://www.zenrivertemple.org/teachers/"
+    },
+    {
+      "title": "Lineage",
+      "url": "https://www.zenrivertemple.org/lineage/"
+    },
+    {
+      "title": "Uithuizen (coordinates)",
+      "url": "https://en.wikipedia.org/wiki/Uithuizen"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}
