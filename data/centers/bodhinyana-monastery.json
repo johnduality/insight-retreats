@@ -1,0 +1,70 @@
+{
+  "id": "bodhinyana-monastery",
+  "name": "Bodhinyana Monastery",
+  "aka": [
+    "Bodhinyana Forest Monastery",
+    "Bodhinyana Buddhist Monastery"
+  ],
+  "website": "https://bswa.org/location/bodhinyana-monastery/",
+  "location": {
+    "address": "216 Kingsbury Drive, Serpentine WA 6125, Australia",
+    "city": "Serpentine",
+    "region": "Western Australia, Australia",
+    "country": "Australia",
+    "state": "WA",
+    "lat": -32.395,
+    "lng": 116.03
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition (Ajahn Chah lineage)",
+  "technique": "Silent sitting and walking meditation in the Thai Forest tradition of Ajahn Chah; no formal group teaching program at the monastery itself, so guests are expected to already have a daily meditation practice.",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Brahm (senior resident teacher)"
+  ],
+  "teacherAccess": "Informal guidance from the resident community of about twenty monks, including Ajahn Brahm, during almsround, communal meals, and the weekly public Dhamma talk; there is no structured teaching program for short-term guests.",
+  "retreatOptions": "Residential guest stays of up to 2 weeks for local guests and up to 4 weeks for interstate/international guests, sharing the monastic schedule; applicants should already be Buddhist with prior retreat experience and an independent meditation practice.",
+  "about": "Bodhinyana Monastery is nestled in the forested Darling Range near the small town of Serpentine, about an hour's drive southeast of Perth. The Buddhist Society of Western Australia (BSWA) purchased the rural property in 1983, establishing Bodhinyana on 1 December of that year in the lineage of the great Thai Forest teacher Ajahn Chah; it is now home to around twenty monks living in huts scattered across 242 acres, with a large public meditation hall, kitchen and dining hall, and accommodation for long-term lay residents (anagarikas) and guests. The senior resident teacher, Ajahn Brahm, is one of the best-known Western Theravada monks. Bodhinyana offers short-term residential stays for practising Buddhists with prior retreat experience and an established independent meditation practice, sharing directly in the monastery's daily monastic rhythm; there is no formal teaching program on-site, though the adjoining Jhana Grove Retreat Centre hosts BSWA's structured group retreats.",
+  "schedule": "Daily monastic schedule of group sitting and walking meditation, chanting, and a main meal before noon, with a weekly public Dhamma talk; guests generally follow the resident monks' rhythm.",
+  "cost": "No set fee; guest stays and the monastery are supported by dana (donation) from visitors and supporters.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No suggested per-night amount is published; guest stays are supported by donation only.",
+    "source": "https://bswa.org/our-locations/staying-at-bodhinyana/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A main vegetarian meal is offered before noon daily, in keeping with Theravada monastic practice of not eating after midday.",
+  "workRequired": "partial",
+  "workNotes": "Resident guests are generally expected to help with communal chores and monastery upkeep as part of the daily schedule.",
+  "tags": [
+    "theravada",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Bodhinyana Monastery | Buddhist Society of Western Australia",
+      "url": "https://bswa.org/location/bodhinyana-monastery/"
+    },
+    {
+      "title": "staying at bodhinyana | Buddhist Society of Western Australia",
+      "url": "https://bswa.org/our-locations/staying-at-bodhinyana/"
+    },
+    {
+      "title": "about bodhinyana | Buddhist Society of Western Australia",
+      "url": "https://bswa.org/our-locations/about-bodhinyana/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

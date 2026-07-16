@@ -1,0 +1,68 @@
+{
+  "id": "dhammasara-monastery",
+  "name": "Dhammasara Monastery",
+  "aka": [
+    "Dhammasara Nuns Monastery",
+    "Dhammasara Buddhist Nuns Monastery"
+  ],
+  "website": "https://bswa.org/location/dhammasara-monastery/",
+  "location": {
+    "address": "203 Reen Road, Gidgegannup WA 6083, Australia",
+    "city": "Gidgegannup",
+    "region": "Western Australia, Australia",
+    "country": "Australia",
+    "state": "WA",
+    "lat": -31.75,
+    "lng": 116.28
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition (Ajahn Chah lineage)",
+  "technique": "Silent sitting and walking meditation and chanting in the Thai Forest tradition; no formal meditation-teaching program on-site, so guests are expected to already have an independent meditation practice.",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Brahm",
+    "Ajahn Vayama and the resident bhikkhuni community"
+  ],
+  "teacherAccess": "Informal guidance from the resident bhikkhuni (fully ordained nun) community during the daily lunch dana ceremony and group meditation/chanting; there is no structured teaching program for short-term guests.",
+  "retreatOptions": "Residential guest stays of up to 2 weeks for local women and up to 4 weeks for interstate/international guests to experience monastic life on 8 precepts, subject to room availability and prior retreat experience.",
+  "about": "Dhammasara Monastery is a Theravada Buddhist nuns' (bhikkhuni) monastery in the Thai Forest tradition of Ajahn Chah, set in forested land at Gidgegannup, in the hills northeast of Perth, Western Australia. Run by the Buddhist Society of Western Australia, it provides a rare opportunity for women to experience monastic life firsthand, offering short-term residential stays of up to two weeks for local guests and up to four weeks for interstate and international guests, subject to room availability. Guests keep the 8 precepts, join the community for the daily lunch dana ceremony and group meditation and chanting, and are expected to participate in daily work activities alongside the resident nuns; applicants should already be Buddhist with some grounding in meditation practice and prior retreat experience, as there is no formal teaching program on site.",
+  "schedule": "Daily monastic schedule centred on the 10:30am lunch dana ceremony, group meditation and chanting, and assigned daily work; the monastery is open to day visitors from 10am-1pm.",
+  "cost": "No set fee; guest stays and the monastery are supported by dana (donation) from visitors and supporters.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No suggested per-night amount is published; guest stays are supported by donation only.",
+    "source": "https://bswa.org/our-locations/staying-at-dhammasara/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Food is donated by supporters and served at the main lunch dana ceremony at 10:30am, in keeping with Theravada monastic practice of not eating after midday.",
+  "workRequired": "yes",
+  "workNotes": "Guests are expected to participate in daily work before dana (commonly kitchen or outside/forest work) alongside the resident nuns.",
+  "tags": [
+    "theravada",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Dhammasara Monastery | Buddhist Society of Western Australia",
+      "url": "https://bswa.org/location/dhammasara-monastery/"
+    },
+    {
+      "title": "staying @ dhammasara | Buddhist Society of Western Australia",
+      "url": "https://bswa.org/our-locations/staying-at-dhammasara/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

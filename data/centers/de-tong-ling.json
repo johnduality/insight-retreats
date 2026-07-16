@@ -1,0 +1,65 @@
+{
+  "id": "de-tong-ling",
+  "name": "De-Tong Ling Retreat Centre",
+  "aka": [
+    "De-Tong Ling Buddhist Retreat Centre"
+  ],
+  "website": "https://detongling.org/",
+  "location": {
+    "address": "433 Snug Cove Road, Gosse, Kangaroo Island SA 5223, Australia",
+    "city": "Gosse, Kangaroo Island",
+    "region": "South Australia, Australia",
+    "country": "Australia",
+    "state": "SA",
+    "lat": -35.72,
+    "lng": 136.68
+  },
+  "tradition": "Tibetan Buddhism, Gelug lineage (FPMT)",
+  "technique": "Tibetan Buddhist lamrim (graduated path) meditation and individual retreat practice, offered through both self-guided individual retreats and organised group retreats (including the annual Lam Rim retreat).",
+  "influences": [
+    "Lama Zopa Rinpoche",
+    "FPMT (Foundation for the Preservation of the Mahayana Tradition)"
+  ],
+  "teacherAccess": "Teacher-led group retreats held at least twice a year (an Easter retreat and the annual October Lam Rim retreat); individual retreatants practise largely self-guided, supported by FPMT study materials.",
+  "retreatOptions": "Individual self-guided retreats of flexible length in private self-contained retreat houses, plus at least two organised group retreats a year - a four-day Easter retreat and a ten-day Lam Rim retreat each October.",
+  "about": "De-Tong Ling Retreat Centre, meaning 'Place of Bliss and Emptiness,' is a Tibetan Buddhist retreat centre affiliated with the FPMT, set on 1,300 acres of pristine native bush at the north-western end of Kangaroo Island, South Australia. Established in 1988, the centre offers individual retreat accommodation in four private, self-contained rammed-earth and timber houses, each designed to blend into the bush and powered by solar energy with rainwater supply, giving retreatants long views over native forest to the ocean and Investigator Strait beyond. The site also houses the largest completed stupa in Australia, a 14-metre Enlightenment Stupa with an underground gompa (shrine room). De-Tong Ling follows the spiritual direction of Lama Zopa Rinpoche and FPMT's educational programs, hosting at least two organised group retreats a year - a four-day retreat over Easter and a ten-day Lam Rim retreat each October - alongside ongoing individual self-guided retreats.",
+  "schedule": "Individual retreatants set their own daily meditation schedule in their private retreat house; organised group retreats (Easter and the October Lam Rim retreat) follow a structured program of teachings and guided practice with visiting teachers.",
+  "cost": "Individual retreat accommodation and organised group retreats are charged per stay/event; exact rates are set per program and published on the centre's website.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No single published nightly rate; individual retreat house stays and group retreats (Easter, October Lam Rim) are priced separately per booking.",
+    "source": "https://detongling.org/retreat/individual-retreat/"
+  },
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "Catering arrangements are not detailed on the public retreat pages; individual retreatants in the self-contained houses may be responsible for their own food.",
+  "workRequired": "unknown",
+  "workNotes": "No structured work/service requirement is published for retreat guests.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "De-Tong Ling Buddhist Retreat Centre",
+      "url": "https://detongling.org/"
+    },
+    {
+      "title": "Individual Retreat | De-Tong Ling Retreat Centre",
+      "url": "https://detongling.org/retreat/individual-retreat/"
+    },
+    {
+      "title": "De-Tong Ling Retreat Centre: Down Under, a Meditator's Paradise - Mandala Publications",
+      "url": "https://fpmt.org/mandala/archives/mandala-for-2017/january/de-tong-ling-retreat-centre-down-under-a-meditators-paradise/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

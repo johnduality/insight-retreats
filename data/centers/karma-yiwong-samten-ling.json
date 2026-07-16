@@ -1,0 +1,62 @@
+{
+  "id": "karma-yiwong-samten-ling",
+  "name": "Karma Yiwong Samten Ling",
+  "aka": [
+    "KYSL"
+  ],
+  "website": "https://kysl.org/",
+  "location": {
+    "address": "Central West NSW (near Orange), on the traditional lands of the Wiradjuri Nation, New South Wales, Australia",
+    "city": "Orange area",
+    "region": "New South Wales, Australia",
+    "country": "Australia",
+    "state": "NSW",
+    "lat": -33.3,
+    "lng": 149.25
+  },
+  "tradition": "Tibetan Buddhism, Karma Kagyu lineage",
+  "technique": "Mahamudra meditation and Karma Kagyu Vajrayana practices, taught through teachings and group retreats under the Centre's spiritual director.",
+  "influences": [
+    "Ven. Dekhung Gyaltsey Tulku Rinpoche"
+  ],
+  "teacherAccess": "Teachings and retreat guidance from the Centre's spiritual director, Ven. Dekhung Gyaltsey Tulku Rinpoche, and visiting teachers during scheduled retreats.",
+  "retreatOptions": "Group meditation retreats and teachings held on-site through the year, with basic shared dormitory accommodation; the Centre is expanding its accommodation with planned self-contained retreat cabins.",
+  "about": "Karma Yiwong Samten Ling is a young Tibetan Buddhist retreat centre in the Karma Kagyu tradition, set on an untouched bush block in the Central West of New South Wales on the traditional lands of the Wiradjuri Nation, about 30 minutes from Orange. The community is guided by its spiritual director, Ven. Dekhung Gyaltsey Tulku Rinpoche, and practises Mahamudra meditation and other Karma Kagyu teachings. The rocky, forested property has never been farmed and is shared with a wide range of native wildlife. Facilities are currently basic - shared dormitory accommodation, rainwater tanks, and a communal kitchen - suited to retreatants comfortable with simple, close-to-the-elements living; the Centre is planning to add self-contained retreat cabins to expand its accommodation options. All meals served on retreat are vegetarian.",
+  "schedule": "Retreat schedules are set per teaching/retreat event and typically combine group meditation sessions with teachings from the visiting or resident teacher; exact daily timetables vary by retreat.",
+  "cost": "Course fees are charged per retreat/teaching event, with separate cash offerings customary for the teacher.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No single published nightly rate; course fees are set per retreat event and teacher offerings are given separately in cash.",
+    "source": "https://kysl.org/retreat-info"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals served during retreats are vegetarian only.",
+  "workRequired": "unknown",
+  "workNotes": "No structured work/service requirement is published for retreat participants.",
+  "tags": [
+    "tibetan-vajrayana",
+    "meals-included",
+    "diet-vegetarian",
+    "camping",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Karma Yiwong Samten Ling: Tibetan Buddhist Retreat Centre in NSW Australia",
+      "url": "https://kysl.org/"
+    },
+    {
+      "title": "About Meditation Retreats at Karma Yiwong Samten Ling",
+      "url": "https://kysl.org/retreat-info"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

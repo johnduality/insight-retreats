@@ -1,0 +1,63 @@
+{
+  "id": "dhamma-ujjala",
+  "name": "Dhamma Ujjala",
+  "aka": [],
+  "website": "https://ujjala.dhamma.org",
+  "location": {
+    "address": "Lot 52, Emu Flat Road, Clare SA 5453, Australia",
+    "city": "Clare",
+    "region": "South Australia, Australia",
+    "country": "Australia",
+    "state": "SA",
+    "lat": -33.85,
+    "lng": 138.62
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions and give interviews during the rest period.",
+  "retreatOptions": "Ten-day residential Vipassana courses held several times a year (the centre's standard and primary offering), plus 1- to 3-day refresher courses and longer old-student courses for students who have already completed a ten-day course, and one-day children's and teenagers' Anapana courses.",
+  "about": "Dhamma Ujjala is the Goenka-tradition Vipassana meditation centre for South Australia, Australia, Set on 50 acres of gently sloping land in the tranquil Clare Valley, around 140km north of Adelaide.  Centre facilities include a mixture of accommodation types, ablution blocks, a commercial kitchen, and a meditation hall connected by pathways. The centre offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin several times a year, conducted using audio and video recordings of Goenka's instructions and discourses with certified assistant teachers on site to give interviews and answer meditation-related questions. Students live on site for the full course, observe Noble Silence until the morning of the last full day, and follow the standard Goenka daily schedule of roughly ten hours of sitting practice a day. As at every centre in the worldwide Goenka network, there are no fees of any kind — courses, food, and lodging are offered purely on a dana (voluntary donation) basis by past students who have completed at least one prior course.",
+  "schedule": "Standard Goenka ten-day course schedule: arrival and registration on the start day, followed by ten full days of silent sitting meditation (roughly 4am-9:30pm) with recorded evening discourses, and course close around 7am on the final day followed by breakfast and departure by mid-morning; Noble Silence is observed by all students until the morning of the last full day.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food, and accommodation are offered freely, funded by donations from past students who have completed at least one prior course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students, none of whom - including teachers and organisers - receive any payment for their service.",
+    "source": "https://ujjala.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; simple vegetarian meals throughout, with old students keeping the no-eating-after-midday precept while new students may have tea and fruit at the evening break.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses as Dhamma volunteers or join dedicated old-student work periods for centre maintenance; new students are not required to work during their first course.",
+  "tags": [
+    "goenka",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Ujjala - Vipassana Meditation as Taught by S.N. Goenka",
+      "url": "https://ujjala.dhamma.org/"
+    },
+    {
+      "title": "Vipassana meditation in Australia",
+      "url": "https://au.dhamma.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

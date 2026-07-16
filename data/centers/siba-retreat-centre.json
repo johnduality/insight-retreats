@@ -1,0 +1,65 @@
+{
+  "id": "siba-retreat-centre",
+  "name": "SIBA Retreat Centre",
+  "aka": [
+    "Sakya International Buddhist Academy",
+    "ONTOS"
+  ],
+  "website": "https://sakya.com.au/siba-retreat-centre-victoria/",
+  "location": {
+    "address": "2592 Gelantipy Road, W Tree VIC 3885, Australia",
+    "city": "W Tree",
+    "region": "Victoria, Australia",
+    "country": "Australia",
+    "state": "VIC",
+    "lat": -37.31,
+    "lng": 148.36
+  },
+  "tradition": "Tibetan Buddhism, Sakya lineage",
+  "technique": "Tibetan Buddhist meditation, contemplation, and study in the Sakya lineage, offered through workshops and both group and private retreats guided by resident and visiting teachers.",
+  "influences": [
+    "Lama Choedak Rinpoche (founder)",
+    "His Eminence Chogye Trichen Rinpoche",
+    "43rd Sakya Trizin"
+  ],
+  "teacherAccess": "Teachings, empowerments, and retreat guidance from visiting Sakya lineage teachers (including His Holiness the 43rd Sakya Trizin) and the centre's resident volunteer community.",
+  "retreatOptions": "Group and private meditation retreats and teaching weekends held on the property year-round, with en-suite accommodation units and solo cabins.",
+  "about": "SIBA Retreat Centre is a Tibetan Buddhist retreat centre in the Sakya lineage set in the Snowy River country of East Gippsland, Victoria, on 108 acres that include a vegetable garden, orchard, and pasture for rescued animals alongside native bush. Founded by Lama Choedak Rinpoche as ONTOS and formally consecrated by His Eminence Chogye Trichen Rinpoche in 2006, it is run by the Tibetan Buddhist Society of Canberra (Sakya Losal Choe Dzong). The centre has three meditation halls (the largest seating over 300), a geodesic-domed dining room and commercial kitchen, and accommodation in 16 en-suite units plus six solo cabins. As a volunteer-run, not-for-profit centre, SIBA hosts study, contemplation, and meditation retreats and workshops, including empowerments and retreats led by senior Sakya lineage teachers, with vegetarian food largely sourced from its own garden.",
+  "schedule": "Retreat and teaching schedules are set per event, typically combining group meditation sessions with teachings, empowerments, or contemplative study led by the visiting or resident teacher.",
+  "cost": "Retreat and teaching fees are set per event and generally include accommodation and vegetarian meals.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No single published nightly rate; fees are set per retreat/teaching event.",
+    "source": "https://sakya.com.au/siba-retreat-centre-victoria/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All food served is vegetarian, much of it grown in the centre's own one-acre vegetable garden and five-acre orchard.",
+  "workRequired": "unknown",
+  "workNotes": "No structured work/service requirement is published for retreat guests; the centre relies on volunteer support to operate.",
+  "tags": [
+    "tibetan-vajrayana",
+    "meals-included",
+    "diet-vegetarian",
+    "camping",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "SIBA Retreat Centre Victoria - Tibetan Buddhist Society of Canberra",
+      "url": "https://sakya.com.au/siba-retreat-centre-victoria/"
+    },
+    {
+      "title": "Further Information about SIBA Retreat Centre",
+      "url": "https://sakya.com.au/siba-list/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

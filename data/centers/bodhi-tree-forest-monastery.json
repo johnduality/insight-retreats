@@ -1,0 +1,69 @@
+{
+  "id": "bodhi-tree-forest-monastery",
+  "name": "Bodhi Tree Forest Monastery and Vipassana Retreat Centre",
+  "aka": [
+    "Bodhi Tree Forest Monastery",
+    "Bodhi Tree Retreat Centre, Tullera"
+  ],
+  "website": "https://bodhitreemonastery.org/",
+  "location": {
+    "address": "78 Bentley Road, Tullera NSW 2480, Australia",
+    "city": "Tullera",
+    "region": "New South Wales, Australia",
+    "country": "Australia",
+    "state": "NSW",
+    "lat": -28.755,
+    "lng": 153.28
+  },
+  "tradition": "Theravada Buddhism / Insight Meditation",
+  "technique": "Vipassana (Insight) meditation combining silent sitting and walking practice with daily Dhamma talks, taught in the Theravada tradition on structured 2-, 10-, and 20-day residential retreats.",
+  "influences": [
+    "Venerable Pannyavaro (founder)"
+  ],
+  "teacherAccess": "Daily Dhamma talks and group or individual guidance from the resident teacher, Venerable Pannyavaro, and visiting teachers during retreats.",
+  "retreatOptions": "Residential Vipassana retreats of 2, 10, or 20 days held through the year, all on a donation basis, with vegetarian meals and accommodation provided.",
+  "about": "Bodhi Tree Forest Monastery and Vipassana Retreat Centre sits on ninety-five acres of land at Tullera, about ten minutes from Lismore in the Northern Rivers region of New South Wales. It was founded in 2005 by Venerable Pannyavaro, an Australian monk with over 25 years in robes and a long-time teacher of Insight Meditation. The centre has developed its retreat facilities in stages, with a multipurpose meditation hall, a pagoda, and purpose-built accommodation units (including a unit with an ensuite for retreatants with disabilities) progressively added to house meditators on retreat. Retreats are residential, with vegetarian meals and accommodation provided, and run on a donation basis; Vipassana retreats range from short 2-day sits up to 10- and 20-day silent courses combining sitting and walking meditation with daily Dhamma talks from Venerable Pannyavaro and visiting teachers.",
+  "schedule": "Structured daily retreat schedule alternating periods of silent sitting and walking meditation with a daily Dhamma talk, communal vegetarian meals, and rest periods; Noble Silence is generally observed for the duration of the longer retreats.",
+  "cost": "All retreats are offered on a donation basis; no fixed fee is charged for teaching, food, or accommodation.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No suggested per-night amount is published on the retreat schedule; retreatants are asked to offer dana as they are able.",
+    "source": "https://bodhitreemonastery.org/retreat-schedule/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are provided for all retreatants for the duration of a residential retreat.",
+  "workRequired": "unknown",
+  "workNotes": "No structured work/service requirement is published for retreatants beyond general communal courtesy.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Bodhi Tree - Forest Monastery and Vipassana Retreat Centre",
+      "url": "https://bodhitreemonastery.org/"
+    },
+    {
+      "title": "Retreat Schedule - Bodhi Tree",
+      "url": "https://bodhitreemonastery.org/retreat-schedule/"
+    },
+    {
+      "title": "Building Projects - Bodhi Tree",
+      "url": "https://bodhitreemonastery.org/building-projects/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

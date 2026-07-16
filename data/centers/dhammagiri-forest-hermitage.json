@@ -1,0 +1,68 @@
+{
+  "id": "dhammagiri-forest-hermitage",
+  "name": "Dhammagiri Forest Hermitage",
+  "aka": [
+    "Dhammagiri Forest Monastery"
+  ],
+  "website": "https://www.dhammagiri.net/",
+  "location": {
+    "address": "10 Ben Varden Avenue, Kholo QLD 4306, Australia",
+    "city": "Kholo",
+    "region": "Queensland, Australia",
+    "country": "Australia",
+    "state": "QLD",
+    "lat": -27.57,
+    "lng": 152.75
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition (Ajahn Chah lineage)",
+  "technique": "Silent sitting and walking meditation in the Thai Forest tradition of Ajahn Chah, combined with chanting, guided meditation, and Dhamma talks from the resident sangha.",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Dhammasiha (founding abbot)"
+  ],
+  "teacherAccess": "Chanting, Dhamma talks, and guided meditation from resident monastics during Weekend Programs and by arrangement for guests staying to experience monastic life.",
+  "retreatOptions": "Weekend Programs with chanting, Dhamma talks, and guided meditation; one-day retreats; and longer residential stays (several days to weeks) for lay guests keeping 8 precepts to experience monastic life, with limited accommodation for a small number of male and female guests.",
+  "about": "Dhammagiri Forest Hermitage is a Theravada Buddhist monastery in the lineage of Ajahn Chah, close to D'Aguilar National Park about 45 minutes from Brisbane's CBD in the Kholo district of Queensland. It was founded in 2007 under the leadership of Ajahn Dhammasiha. The hermitage provides secluded accommodation for a small number of male and female lay guests wishing to experience monastic life on 8 precepts for several days or weeks, alongside a regular program of Weekend Programs (chanting, Dhamma talks, and guided meditation) and one-day retreats. Daily opportunities are also offered for visitors to bring almsfood to the resident sangha.",
+  "schedule": "Weekend Programs combine chanting, Dhamma talks, and guided meditation sessions; longer guest stays follow the resident sangha's daily monastic schedule of sitting and walking meditation, chanting, and a main meal before noon.",
+  "cost": "No set fee; the hermitage and its programs are supported by dana (donation) from visitors and guests.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No suggested per-night amount is published; guest stays and programs are supported by donation only.",
+    "source": "https://www.dhammagiri.net/retreats-page"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A main vegetarian meal is offered before noon daily to resident guests, in keeping with Theravada monastic practice of not eating after midday.",
+  "workRequired": "partial",
+  "workNotes": "Longer-term lay guests keeping 8 precepts are generally expected to help with communal chores and hermitage upkeep as part of monastic life.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Dhammagiri | Buddhist Monastery | Brisbane",
+      "url": "https://www.dhammagiri.net/"
+    },
+    {
+      "title": "Retreats | Dhammagiri Forest Hermitage",
+      "url": "https://www.dhammagiri.net/retreats-page"
+    },
+    {
+      "title": "Ajahn Chah Monasteries | Dhammagiri",
+      "url": "https://www.dhammagiri.net/about-3-11"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

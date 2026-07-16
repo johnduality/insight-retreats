@@ -1,0 +1,66 @@
+{
+  "id": "newbury-buddhist-monastery",
+  "name": "Newbury Buddhist Monastery",
+  "aka": [
+    "NBM"
+  ],
+  "website": "https://www.bsv.net.au/retreat-centre/",
+  "location": {
+    "address": "107 Beaches Lane, Newbury VIC 3458, Australia",
+    "city": "Newbury",
+    "region": "Victoria, Australia",
+    "country": "Australia",
+    "state": "VIC",
+    "lat": -37.4,
+    "lng": 144.35
+  },
+  "tradition": "Theravada Buddhism (early Suttas and Vinaya)",
+  "technique": "Silent sitting and walking meditation grounded in the early Buddhist Suttas and Vinaya shared across Theravada traditions, with monastics from multiple traditions and countries welcomed to teach and reside.",
+  "influences": [
+    "Buddhist Society of Victoria",
+    "Bhante Jag",
+    "Ayya Upekkha",
+    "Ajahn Ariyasilo"
+  ],
+  "teacherAccess": "Guidance from resident monastics during retreats; the monastery is supported by teachers including Bhante Jag, Ayya Upekkha, and visiting monastics from Bodhinyana and other Theravada communities.",
+  "retreatOptions": "Residential retreats focused on meditation and solitude held on-site, run under 8 precepts by the Buddhist Society of Victoria (BSV), Australia's oldest Theravada Buddhist teaching centre (established 1953).",
+  "about": "Newbury Buddhist Monastery is set on 150 acres of rolling countryside in the Wombat State Forest, between Trentham and Blackwood about 70 minutes from central Melbourne. It is the monastery of the Buddhist Society of Victoria (BSV), founded in 1953 as Australia's oldest Theravada Buddhist teaching centre, and follows the early Suttas and Vinaya shared across Theravada traditions, welcoming monastics from any country or lineage to stay and teach. Resident monastics including Bhante Jag and Ayya Upekkha, assisted by visiting teachers such as Achan Api from Bodhinyana Monastery, lead residential retreats focused on meditation and solitude in a natural bushland setting, observing the 8 precepts.",
+  "schedule": "Retreat schedule follows a Theravada monastic rhythm of sitting and walking meditation, chanting, and a main meal before noon, observing the 8 precepts for the duration of the stay.",
+  "cost": "Retreats are run on a donation basis in keeping with BSV's broader Theravada practice; exact arrangements are set per retreat.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No suggested per-night amount is published; retreats are supported by dana (donation).",
+    "source": "https://www.bsv.net.au/retreat-centre/about-us/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A main vegetarian meal is offered before noon, in keeping with Theravada monastic practice of not eating after midday.",
+  "workRequired": "partial",
+  "workNotes": "Retreatants observing the 8 precepts are generally expected to help with communal chores as part of monastery life.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "About Retreat Centre | Buddhist Society Of Victoria (BSV)",
+      "url": "https://www.bsv.net.au/retreat-centre/about-us/"
+    },
+    {
+      "title": "Retreat Centre | Buddhist Society Of Victoria (BSV)",
+      "url": "https://www.bsv.net.au/retreat-centre/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

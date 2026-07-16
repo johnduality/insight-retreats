@@ -1,0 +1,68 @@
+{
+  "id": "atisha-centre",
+  "name": "Atisha Centre",
+  "aka": [
+    "Atisha Buddhist Centre Bendigo"
+  ],
+  "website": "https://atishacentre.org.au/",
+  "location": {
+    "address": "25 Sandhurst Town Road, Myers Flat VIC 3556, Australia",
+    "city": "Myers Flat",
+    "region": "Victoria, Australia",
+    "country": "Australia",
+    "state": "VIC",
+    "lat": -36.85,
+    "lng": 144.2
+  },
+  "tradition": "Tibetan Buddhism, Gelug lineage (FPMT)",
+  "technique": "Tibetan Buddhist meditation including lamrim (graduated path) contemplations, taught through courses, teachings, and residential retreats in the FPMT (Foundation for the Preservation of the Mahayana Tradition) style.",
+  "influences": [
+    "Lama Thubten Yeshe",
+    "Lama Zopa Rinpoche",
+    "FPMT"
+  ],
+  "teacherAccess": "Teachings and guidance from resident and visiting FPMT teachers during courses and retreats; the centre is closely linked with the neighbouring Thubten Shedrup Ling Monastery.",
+  "retreatOptions": "A regular program of meditation retreats, courses, and teachings held on-site, from weekend programs to longer residential retreats, with a range of accommodation options including camping.",
+  "about": "Atisha Centre is a Mahayana Buddhist retreat centre and hub of Buddhist education affiliated with the FPMT (Foundation for the Preservation of the Mahayana Tradition), set in quiet native bushland at Myers Flat near Bendigo in central Victoria. Founded in 1981, it sits close to the Great Stupa of Universal Compassion and Thubten Shedrup Ling Monastery, where monks devote themselves to study and meditation. Facilities include a meditation hall, native gardens, a library, and an accommodation block with twin-share and multi-share rooms in its 'She Di Kang Sar House of Blissful Peace', as well as camping options for unpowered tents and caravans. The centre runs a year-round program of meditation retreats, teachings on Buddhism, and courses drawing on the lamrim graduated-path tradition, supported by a vegetarian catering service.",
+  "schedule": "Retreat schedules vary by program, typically combining group meditation and lamrim teaching sessions with discussion and personal practice time.",
+  "cost": "Accommodation is charged per night by room type (single or shared, with or without ensuite) or camping, in addition to course/retreat fees.",
+  "pricePerDay": {
+    "min": 20,
+    "max": 90,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "Published per-night accommodation rates: single room shared bathroom $70, shared room shared bathroom $50, single room ensuite $90, double room ensuite $60 (per person), unpowered camping/caravan sites $20; course/retreat fees are additional.",
+    "source": "https://atishacentre.org.au/accommodation/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are available through the centre's catering service for course and retreat participants.",
+  "workRequired": "unknown",
+  "workNotes": "No structured work/service requirement is published for short-term retreat guests.",
+  "tags": [
+    "tibetan-vajrayana",
+    "meals-included",
+    "diet-vegetarian",
+    "camping",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Atisha Centre - Buddhist Meditation, Education and Retreat Centre",
+      "url": "https://atishacentre.org.au/"
+    },
+    {
+      "title": "Accommodation - Atisha Centre",
+      "url": "https://atishacentre.org.au/accommodation/"
+    },
+    {
+      "title": "About Us - Atisha Centre Bendigo",
+      "url": "https://atishacentre.org.au/about-us/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

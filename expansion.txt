@@ -582,7 +582,44 @@ centers as of 2026-07-16.
 
 OCEANIA
 -------
-1.  Australia
+1.  Australia   [DONE 2026-07-16: 28 centers across 6 states -- NSW (10): Dhamma
+    Bhumi (Blackheath, Goenka), Dhamma Pasada (Lower Portland, Goenka), Wat Buddha
+    Dhamma (Wisemans Ferry, Theravada, Ayya Khema's 1978 forest monastery), Bodhi
+    Tree Forest Monastery and Vipassana Retreat Centre (Tullera, Theravada/Insight),
+    Santi Forest Monastery (Bundanoon, Theravada nuns), Sunnataram Forest Monastery
+    (Bundanoon, Thai Forest), Blue Mountains Insight Meditation Centre (Medlow Bath,
+    Insight), Nan Tien Temple (Berkeley/Wollongong, Fo Guang Shan Chan), Kodoji/Sydney
+    Zen Centre (Upper Macdonald, Zen/Diamond Sangha), Karma Yiwong Samten Ling (near
+    Orange, Karma Kagyu); QLD (4): Dhamma Rasmi (Pomona, Goenka), Chenrezig Institute
+    (Eudlo, FPMT), Ananda Palli (Severnlea, Ananda Marga), Dhammagiri Forest Hermitage
+    (Kholo, Thai Forest/Ajahn Chah); VIC (6): Dhamma Aloka (Woori Yallock, Goenka),
+    Atisha Centre (Myers Flat/Bendigo, FPMT), Newbury Buddhist Monastery (Wombat
+    State Forest, Theravada/BSV), SIBA Retreat Centre (W Tree, Sakya), Buddha
+    Bodhivana Monastery (East Warburton, Thai Forest/Ajahn Chah), Kadampa Meditation
+    Centre Australia (Monbulk, NKT); WA (4): Dhamma Padipa (Brookton, Goenka),
+    Bodhinyana Monastery (Serpentine, Thai Forest/Ajahn Brahm), Jhana Grove Retreat
+    Centre (Serpentine, BSWA), Dhammasara Monastery (Gidgegannup, Theravada nuns);
+    SA (2): Dhamma Ujjala (Clare Valley, Goenka), De-Tong Ling Retreat Centre
+    (Kangaroo Island, FPMT); TAS (2): Dhamma Pabha (near Hobart, Goenka), Dorje Ling
+    Retreat Centre (Lorinna Valley, Gelug -- Australia's oldest retreat centre).
+    Considered and rejected: Dhamma Passaddhi (Northern NSW/Gold Coast Goenka group,
+    runs courses at hired facilities, no owned land); Diamond Way Buddhism Australia/
+    "Land Down Under" (still fundraising to purchase land, no physical centre yet);
+    Melbourne Buddhist Centre/Triratna (rents outside venues); Vajrayana Institute
+    Ashfield (urban FPMT centre, no dedicated retreat land); Chag Tong Chen Tong Snug,
+    TAS (explicitly non-residential, offsite accommodation with shuttle); Kusala
+    Hermitage Roleystone WA (day-hermitage, ~2-guest capacity, no structured retreat
+    program); Bodhinyana Great Southern Elleker WA (day-visit only, no overnight);
+    Maitripa Centre Healesville VIC (shifted to general multi-purpose hire venue);
+    Bodhicitta Dakini Monastery Western Tiers TAS (very new/small, no established
+    retreat program); Bao Lin Chan Monastery Melbourne (small suburban temple, no
+    residential program evidence); Gawler Foundation/Yarra Valley Living Centre (now
+    Brahma Kumaris-run health/wellness retreats, not meditation-centred); Kagyu E-Vam
+    Buddhist Institute Carlton North (urban centre, no owned retreat land); Christian
+    contemplative sites (New Norcia, Sevenhill, etc., out of scope); numerous urban
+    dharma/meditation groups without dedicated land (Tara Institute, Buddha House
+    Adelaide, Dhammaloka City Centre, etc.) excluded per scope focus on centers with
+    genuine dedicated retreat property.]
 2.  New Zealand
 
 

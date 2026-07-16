@@ -1,0 +1,67 @@
+{
+  "id": "sunnataram-forest-monastery",
+  "name": "Sunnataram Forest Monastery",
+  "aka": [
+    "Sunnatarama Forest Monastery"
+  ],
+  "website": "https://www.sunnataram.org/",
+  "location": {
+    "address": "225 Teudts Road, Bundanoon NSW 2578, Australia",
+    "city": "Bundanoon",
+    "region": "New South Wales, Australia",
+    "country": "Australia",
+    "state": "NSW",
+    "lat": -34.62,
+    "lng": 150.31
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition",
+  "technique": "Silent sitting and walking meditation in the Thai Forest style, combined with chanting and Dhamma teaching from resident monks during structured meditation retreats.",
+  "influences": [
+    "Phra Ajahn Yantra (founding teacher)"
+  ],
+  "teacherAccess": "Guidance and Dhamma talks from resident monks during organised retreats and by arrangement for guests staying at the monastery.",
+  "retreatOptions": "Scheduled multi-day residential meditation retreats through the year (including retreats for university students), plus longer guest stays sharing the monastic routine by arrangement.",
+  "about": "Sunnataram Forest Monastery sits on 100 acres of bushland on the outskirts of Bundanoon in the New South Wales Southern Highlands, bordering Morton National Park. It was established in 1989 after the property's owner, Elizabeth Gorski (later the Buddhist nun Ayya Nirodha), invited Phra Ajahn Yantra and his disciples to found a Thai Forest Tradition monastery in Australia; the monastery was incorporated as a Buddhist educational institution in 1990 and registered as a place of worship in 1992. Sunnataram runs entirely on the efforts of its resident monks and volunteers, without government funding from either Thailand or Australia. It hosts a regular program of residential meditation retreats combining silent sitting and walking meditation with chanting and Dhamma talks from the resident sangha, alongside guest stays for those wishing to share more fully in monastic life.",
+  "schedule": "Retreat days combine periods of silent sitting and walking meditation with chanting and a Dhamma talk from a resident monk, and a main vegetarian meal taken before noon in keeping with Theravada monastic practice.",
+  "cost": "No fixed fee; the monastery and its retreats are supported by dana (donation) from retreatants and supporters.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No suggested per-night amount is published; retreats and guest stays are supported by donation only.",
+    "source": "https://www.sunnataram.org/meditation-retreats"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A main vegetarian meal is offered before noon daily to retreatants, in keeping with Theravada monastic practice of not eating after midday.",
+  "workRequired": "unknown",
+  "workNotes": "No structured work requirement is published for retreat guests beyond general communal courtesy; longer-term guests may be asked to help with monastery upkeep.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Thai Forest Monastery Bundanoon - Sunnataram Forest Monastery",
+      "url": "https://www.sunnataram.org/"
+    },
+    {
+      "title": "Meditation Retreats - Sunnataram Forest Monastery",
+      "url": "https://www.sunnataram.org/meditation-retreats"
+    },
+    {
+      "title": "Brief History - Sunnataram Forest Monastery",
+      "url": "https://www.sunnataram.org/about-us/brief-history"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

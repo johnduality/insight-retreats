@@ -1,0 +1,68 @@
+{
+  "id": "dorje-ling-retreat-centre",
+  "name": "Dorje Ling Retreat Centre",
+  "aka": [
+    "Illusion Farm",
+    "Hobart Buddhist Meditation Centre",
+    "Tashi Choling Dharma Foundation"
+  ],
+  "website": "https://www.tashicholing.net/dorje-ling-retreat-centre/",
+  "location": {
+    "address": "Lorinna Valley, Lorinna TAS 7306, Australia",
+    "city": "Lorinna",
+    "region": "Tasmania, Australia",
+    "country": "Australia",
+    "state": "TAS",
+    "lat": -41.66,
+    "lng": 146.18
+  },
+  "tradition": "Tibetan Buddhism, Gelug lineage",
+  "technique": "Tibetan Buddhist meditation and lamrim (graduated path) practice, offered through both self-guided personal retreats and periodic group retreats led by the centre's spiritual director.",
+  "influences": [
+    "Zasep Tulku Rinpoche (spiritual director)",
+    "Gaden lineage"
+  ],
+  "teacherAccess": "Periodic teacher-led retreats with Zasep Tulku Rinpoche, spiritual director of the Tashi Choling Dharma Foundation, alongside self-guided personal/solo retreats supported by the caretaker.",
+  "retreatOptions": "Self-guided solo and small-group retreats of flexible length in retreat huts or the teacher's residence, plus periodic group retreats with Zasep Tulku Rinpoche; camping space is also available.",
+  "about": "Dorje Ling Retreat Centre, previously known as Illusion Farm, is regarded as Australia's oldest Buddhist retreat centre, established in the mid-1970s in the remote and secluded Lorinna Valley in the heart of Tasmania, near the Cradle Mountain World Heritage area. Run by the Tashi Choling Dharma Foundation under spiritual director Zasep Tulku Rinpoche in the Gelug lineage, the 48-acre property includes a hexagonal log meditation hall (gompa), a kitchen/dining building, a caretaker's/manager's house, a self-contained long-term retreat house used as the teacher's residence, solar-powered showers, several retreat huts, and ample camping space, all connected by walking and meditation tracks through native forest above a lake. The centre supports both self-guided personal retreats booked through the caretaker and periodic group retreats and teachings led by Zasep Tulku Rinpoche.",
+  "schedule": "Self-guided retreatants set their own daily meditation schedule; organised group retreats follow a structured program of teachings and guided practice with Zasep Tulku Rinpoche when he visits.",
+  "cost": "Bookings and donations are arranged directly with the centre to cover the retreat house/huts and contribute to loan repayments and upkeep; no fixed nightly rate is published.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No suggested per-night amount is published; bookings and contributions are arranged directly with the centre via its booking page.",
+    "source": "https://www.tashicholing.net/dorje-ling-retreat-centre/bookings/"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "The centre is self-catered; retreatants are generally responsible for bringing and preparing their own food in the on-site kitchen/dining building.",
+  "workRequired": "unknown",
+  "workNotes": "No structured work/service requirement is published for retreat guests.",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "camping",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Dorje Ling - Hobart Buddhist Meditation Centre",
+      "url": "https://www.tashicholing.net/dorje-ling-retreat-centre/"
+    },
+    {
+      "title": "Booking Dorje Ling Retreat Centre for a Retreat",
+      "url": "https://www.tashicholing.net/dorje-ling-retreat-centre/bookings/"
+    },
+    {
+      "title": "Hobart Buddhist Meditation Centre - Incorporating Dorje Ling Retreat Centre",
+      "url": "https://www.tashicholing.net/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,81 +1,18 @@
 {
-  "name": "Karma Dechen Ösel Ling",
-  "aka": [
-    "Solbo Retreat Center",
-    "Solbo Buddhistiska Kurs- och Retreatgård",
-    "KDÖL",
-    "Karme Tenpe Gyaltsen Retreat Center"
-  ],
-  "website": "https://tibetanbuddhism.se/",
-  "location": {
-    "address": "Solbo, Oppeby 246, 732 73 Fellingsbro, Sweden",
-    "city": "Fellingsbro",
-    "region": "Örebro County, Sweden",
-    "country": "Sweden",
-    "state": "SE",
-    "lat": 59.5,
-    "lng": 15.633
-  },
-  "tradition": "Tibetan Buddhism, Karma Kagyu lineage",
-  "technique": "Karma Kagyu meditation and ritual practice, including Chenrezig/Nyungne fasting retreats, guru yoga, and shamatha meditation instruction",
-  "influences": [
-    "Kalu Rinpoche",
-    "H.H. the 16th Karmapa",
-    "Lama Ngawang",
-    "Lama Tsultim Gyaltso Rinpoche"
-  ],
-  "teacherAccess": "Teachings, empowerments and meditation instruction given directly by the resident lama during retreats; Lama Tsultim Gyaltso Rinpoche leads major retreats such as Nyungne.",
-  "retreatOptions": "Multi-day residential retreats through the year, including the traditional two-and-a-half-day Nyungne fasting-and-meditation retreat (often run as consecutive sets), a multi-day summer retreat, and periodic longer group retreats; the site has also hosted traditional three-year retreats.",
-  "about": "Karma Dechen Ösel Ling, known locally as Solbo, is the countryside retreat centre of the Buddhist Community Karme Tenpe Gyaltsen (KTG), a Karma Kagyu organisation founded in Sweden in 1976 under the guidance of H.H. the 16th Karmapa. Established in 1980 by Kalu Rinpoche and the 16th Karmapa, the rural property near Fellingsbro (about two hours from Stockholm) houses several retreat cottages and an 11-metre stupa, the first of its kind in Scandinavia, inaugurated by the Dalai Lama in 1988. Since its founding the centre has hosted traditional three-year retreats as well as many shorter teachings and group retreats, including regular Nyungne retreats, a Njungne temple project, and a multi-day summer retreat with simple vegetarian meals. The centre was led for decades by resident meditation master Lama Ngawang until his death in 2011, and is today led by Lama Tsultim Gyaltso Rinpoche. It operates alongside KTG's city dharma centre in Stockholm (Karma Shedrup Dargye Ling) and a group in Örebro, serving as the community's dedicated site for residential retreat practice.",
-  "schedule": "Retreats run at scheduled points through the year, including a multi-day summer retreat (late June/early July) and periodic Nyungne fasting retreats run in consecutive two-and-a-half-day sets, alongside occasional visits and teachings from senior Karma Kagyu lamas.",
-  "cost": "Modest per-day and per-retreat fees (e.g. around 200 SEK/day for the summer retreat, with separate published rates for Nyungne sets, discounted for members), covering simple vegetarian meals and accommodation in retreat cottages.",
-  "pricePerDay": {
-    "min": 200,
-    "max": 200,
-    "unit": "day",
-    "currency": "SEK",
-    "notes": "Summer retreat at Solbo: 200 SEK/day, including simple vegetarian meals and coffee/tea breaks; separate published rates apply for Nyungne retreat sets.",
-    "source": "https://tibetanbuddhism.se/event/sommarretreat-solbo/"
-  },
-  "foodServed": "yes",
-  "foodType": "vegetarian",
-  "foodNotes": "Simple vegetarian meals plus coffee/tea breaks are included in the daily retreat fee.",
-  "workRequired": "unknown",
-  "workNotes": "No published work/service requirement found for retreat participants; the site is maintained by the KTG community.",
-  "tags": [
-    "tibetan-vajrayana",
-    "silent",
-    "diet-vegetarian",
-    "meals-included",
-    "fixed-fee",
-    "camping"
-  ],
-  "sources": [
-    {
-      "title": "Karma Dechen Ösel Ling - retreat of Karme Tenpe Gyaltsen (karmapa.org)",
-      "url": "https://www.karmapa.org/centers/fellingsbro/karma-dechen-osel-ling-retreat-karme-tenpe-gyaltsen/"
-    },
-    {
-      "title": "In English | Buddhistiska gemenskapen",
-      "url": "https://tibetanbuddhism.se/english/"
-    },
-    {
-      "title": "Retreatcentret | Buddhistiska gemenskapen",
-      "url": "https://tibetanbuddhism.se/retreatcentret/"
-    },
-    {
-      "title": "Sommarretreat - Solbo | Buddhistiska gemenskapen",
-      "url": "https://tibetanbuddhism.se/event/sommarretreat-solbo/"
-    },
-    {
-      "title": "The White Stupa of Karma Dechen Osel Ling - Karmapa News",
-      "url": "https://www.karmapa-news.org/white-stupa-karma-dechen-osel-ling-sweden/"
-    }
-  ],
   "id": "karma-dechen-osel-ling",
+  "name": "placeholder (duplicate, cleared) - see deletions.txt",
+  "location": {
+    "city": "placeholder",
+    "state": "CA",
+    "lat": 0,
+    "lng": 0
+  },
+  "tradition": "duplicate placeholder - see deletions.txt",
+  "about": "cleared in place 2026-07-17 per deletions.txt; filename persists because this mount blocks unlink (see CLAUDE.md) -- content is intentionally empty/inert",
+  "tags": [],
   "meta": {
     "generatedBy": "claude (cowork)",
-    "lastUpdated": "2026-07-16",
+    "lastUpdated": "2026-07-17",
     "reviewStatus": "unverified"
   }
 }

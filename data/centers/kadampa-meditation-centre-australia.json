@@ -1,0 +1,64 @@
+{
+  "id": "kadampa-meditation-centre-australia",
+  "name": "Kadampa Meditation Centre Australia",
+  "aka": [
+    "KMCA",
+    "Monbulk Kadampa"
+  ],
+  "website": "https://www.meditateinmelbourne.org/pages/our-centres-kmca",
+  "location": {
+    "address": "25 McCarthy Road, Monbulk VIC 3793, Australia",
+    "city": "Monbulk",
+    "region": "Victoria, Australia",
+    "country": "Australia",
+    "state": "VIC",
+    "lat": -37.864,
+    "lng": 145.397
+  },
+  "tradition": "Tibetan Buddhism, Kadampa lineage (New Kadampa Tradition)",
+  "technique": "Kadampa Buddhist meditation combining guided analytical and placement meditation with lamrim (stages of the path) teachings, taught through weekend and multi-day residential retreats, some held in silence.",
+  "influences": [
+    "Geshe Kelsang Gyatso Rinpoche",
+    "New Kadampa Tradition - International Kadampa Buddhist Union (NKT-IKBU)"
+  ],
+  "teacherAccess": "Guided meditations and teachings from the resident teacher, Gen Kelsang Rabten, and visiting Kadampa teachers during retreats and courses.",
+  "retreatOptions": "A regular calendar of residential retreats at the centre's own temple property, including weekend meditation retreats, silent weekend retreats, and longer retreats (multi-day silent retreats and month-long counting retreats).",
+  "about": "Kadampa Meditation Centre Australia (KMCA) is the national centre for Kadampa Buddhism in Australia, an hour outside Melbourne in the Dandenong Ranges at Monbulk. The centre is built around a purpose-built Buddhist Temple for World Peace and is home to a residential community of monks, nuns, and lay practitioners within the New Kadampa Tradition founded by Geshe Kelsang Gyatso Rinpoche. KMCA runs a year-round program of classes, workshops, and residential retreats - including weekend meditation retreats, silent weekend retreats, and longer retreats such as a multi-day silent retreat on the Heart Sutra and a month-long Vajrayogini counting retreat - led by resident teacher Gen Kelsang Rabten and visiting Kadampa teachers. On-site accommodation ranges from ensuite and shared rooms to dorm rooms, pre-erected tents, and camping.",
+  "schedule": "Retreat days combine guided meditation sessions with Buddhist teachings; silent retreats add periods of Noble Silence between sessions, while longer retreats (e.g. the Vajrayogini counting retreat) follow an extended practice schedule over several weeks.",
+  "cost": "Retreat and course fees are charged per event and cover teaching; accommodation is booked and charged separately by room type.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No single published nightly rate; retreat/course fees and accommodation (ensuite, shared, dorm, or camping) are booked and priced separately per event on the online shop.",
+    "source": "https://www.meditateinmelbourne.org/pages/our-centres-kmca"
+  },
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "Catering arrangements are not detailed on the public retreat pages; check individual retreat listings for meal inclusions.",
+  "workRequired": "unknown",
+  "workNotes": "No structured work/service requirement is published for short retreat guests.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "long-retreats",
+    "camping",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Our Centres | KMCA - kmc australia",
+      "url": "https://www.meditateinmelbourne.org/pages/our-centres-kmca"
+    },
+    {
+      "title": "Kadampa Meditation Centre, Australia - Tibetan Buddhist Encyclopedia",
+      "url": "http://tibetanbuddhistencyclopedia.com/en/index.php/Kadampa_Meditation_Centre,_Australia"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

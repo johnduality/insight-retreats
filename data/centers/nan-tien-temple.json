@@ -1,0 +1,68 @@
+{
+  "id": "nan-tien-temple",
+  "name": "Nan Tien Temple",
+  "aka": [
+    "Fo Guang Shan Nan Tien Temple"
+  ],
+  "website": "https://www.nantien.org.au/",
+  "location": {
+    "address": "180 Berkeley Road, Berkeley NSW 2506, Australia",
+    "city": "Berkeley",
+    "region": "New South Wales, Australia",
+    "country": "Australia",
+    "state": "NSW",
+    "lat": -34.4989,
+    "lng": 150.8215
+  },
+  "tradition": "Chan (Chinese Zen) / Humanistic Buddhism (Fo Guang Shan)",
+  "technique": "Chan sitting and walking meditation combined with Tai Chi, chanting, and Dharma talks from resident monastics, in the Humanistic Buddhism style of the Taiwan-based Fo Guang Shan order.",
+  "influences": [
+    "Venerable Master Hsing Yun (Fo Guang Shan founder)"
+  ],
+  "teacherAccess": "Dharma talks and guided instruction from resident monastics during weekend and longer meditation retreats, plus daily morning chanting open to overnight guests.",
+  "retreatOptions": "Weekend meditation retreats emphasising sitting and walking meditation plus Tai Chi, alongside longer cultivation courses and advanced meditation retreats, with overnight accommodation at the temple's own Pilgrim Lodge.",
+  "about": "Nan Tien Temple, meaning 'Paradise of the South', is the largest Buddhist temple in the Southern Hemisphere, a branch temple of the Taiwan-based Fo Guang Shan order founded by Venerable Master Hsing Yun, set on its own grounds at Berkeley on the southern outskirts of Wollongong, about 90 km south of Sydney. The temple complex includes its own 100-room Pilgrim Lodge overlooking the lotus pond, temple gardens, and the Illawarra escarpment, purpose-built to house retreat and pilgrimage guests on site. Regular retreats include weekend meditation retreats emphasising sitting and walking meditation alongside Tai Chi, and longer cultivation and advanced meditation retreats, all featuring vegetarian meals, Dharma talks from resident monastics, and overnight stays at the Pilgrim Lodge, in the Humanistic Buddhism style that blends traditional Chan practice with contemporary community engagement.",
+  "schedule": "Weekend retreat schedule combines periods of sitting and walking Chan meditation with Tai Chi sessions, chanting, and Dharma talks, together with vegetarian meals and overnight stays at the Pilgrim Lodge.",
+  "cost": "Retreat and Pilgrim Lodge accommodation are charged per program/night; exact rates are published per retreat and per room type on the temple's booking pages.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "Weekend Meditation Retreat and Pilgrim Lodge rates are set per program/room type rather than a single published nightly figure; check the current retreat and accommodation pages for pricing.",
+    "source": "https://www.nantien.org.au/en/retreats/weekend-meditation-retreat"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are included for retreat participants and Pilgrim Lodge guests.",
+  "workRequired": "no",
+  "workNotes": "No work or service requirement for retreat or Pilgrim Lodge guests.",
+  "tags": [
+    "mahayana",
+    "meals-included",
+    "diet-vegetarian",
+    "no-work-required",
+    "fixed-fee",
+    "accessible",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Home | Nan Tien Temple",
+      "url": "https://www.nantien.org.au/en/"
+    },
+    {
+      "title": "Weekend Meditation Retreat | Nan Tien Temple",
+      "url": "https://www.nantien.org.au/en/retreats/weekend-meditation-retreat"
+    },
+    {
+      "title": "Pilgrim Lodge / Accommodation | Nan Tien Temple",
+      "url": "https://www.nantien.org.au/en/visitor-info/accommodation"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

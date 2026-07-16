@@ -1,0 +1,64 @@
+{
+  "id": "jhana-grove-retreat-centre",
+  "name": "Jhana Grove Retreat Centre",
+  "aka": [],
+  "website": "https://bswa.org/location/jhana-grove-retreat-centre/",
+  "location": {
+    "address": "Adjacent Bodhinyana Monastery, Serpentine WA 6125, Australia",
+    "city": "Serpentine",
+    "region": "Western Australia, Australia",
+    "country": "Australia",
+    "state": "WA",
+    "lat": -32.39,
+    "lng": 116.02
+  },
+  "tradition": "Theravada Buddhism / Insight Meditation (Buddhist Society of Western Australia)",
+  "technique": "Silent sitting and walking meditation (the Basic Method of Meditation taught by Ajahn Brahm) with a strong emphasis on stillness and letting go, supported by daily teaching, personal interviews, and long hours of solitary practice.",
+  "influences": [
+    "Ajahn Brahm",
+    "Buddhist Society of Western Australia"
+  ],
+  "teacherAccess": "3-4 hours of daily teaching, personal interviews (via an interview roster on 9-day retreats), and guided meditation from BSWA teachers including Ajahn Brahm.",
+  "retreatOptions": "BSWA weekend (3-day) retreats functioning as an introduction to meditation, and longer 5-day and 9-day silent retreats for more experienced meditators; self-retreats and group self-retreats are also available between scheduled programs.",
+  "about": "Jhana Grove is a purpose-built meditation retreat centre in a valley of the Darling Scarp adjacent to Bodhinyana Monastery in Serpentine, run by the Buddhist Society of Western Australia (BSWA). It can house up to 60 guests at a time across ten cottages of six ensuite rooms each, connected by a covered walkway to a large air-conditioned meditation hall with adjoining halls for walking meditation, plus a dedicated kitchen and dining area. BSWA retreats at Jhana Grove range from 3-day weekend retreats (which can serve as an introduction to meditation) to 5-day and 9-day silent retreats for more experienced practitioners, built around many hours of daily sitting and walking meditation interspersed with teaching and personal interviews, under Noble Silence and the 8 precepts. Retreatants must be 18 or older and BSWA members, and 9-day retreats require prior retreat experience.",
+  "schedule": "Retreat days are built around long periods of sitting and walking meditation interrupted only by 3-4 hours of daily teaching, personal interviews, and vegetarian meals (light breakfast, lunch, and evening tea); Noble Silence and the 8 precepts are observed throughout.",
+  "cost": "A refundable room bond is charged per retreat, which retreatants may choose to donate: $300 for 9-day retreats, $180 for 5-day retreats, and $120 for weekend retreats; self-retreatants are asked to donate around $30 per person per day toward the centre's upkeep.",
+  "pricePerDay": {
+    "min": 30,
+    "max": 33,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "Derived from the published $300 refundable bond for a 9-night retreat (~$33/night) and the ~$30/person/day suggested donation for self-retreats; retreats themselves are otherwise donation-based, with the bond returnable as a donation.",
+    "source": "https://bswa.org/our-locations/bswa-retreats-jhana-grove/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are provided (light breakfast, lunch, and an evening drink, with a light evening meal sometimes served on weekend retreats), largely from donated food.",
+  "workRequired": "partial",
+  "workNotes": "Retreatants are asked to help with jobs such as cleaning cottages and common areas during and at the end of the retreat.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "work-practice",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Jhana Grove Retreat Centre | Buddhist Society of Western Australia",
+      "url": "https://bswa.org/location/jhana-grove-retreat-centre/"
+    },
+    {
+      "title": "BSWA Retreats at Jhana Grove",
+      "url": "https://bswa.org/our-locations/bswa-retreats-jhana-grove/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

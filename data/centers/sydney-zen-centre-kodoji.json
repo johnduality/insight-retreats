@@ -1,0 +1,66 @@
+{
+  "id": "sydney-zen-centre-kodoji",
+  "name": "Kodoji (Sydney Zen Centre)",
+  "aka": [
+    "Sydney Zen Centre",
+    "Gorricks Run Zendo",
+    "Ancient Ground Temple"
+  ],
+  "website": "https://szc.org.au/",
+  "location": {
+    "address": "374 Gorricks Run, Upper Macdonald NSW 2775, Australia",
+    "city": "Upper Macdonald",
+    "region": "New South Wales, Australia",
+    "country": "Australia",
+    "state": "NSW",
+    "lat": -33.13,
+    "lng": 151.02
+  },
+  "tradition": "Zen Buddhism (Diamond Sangha lineage)",
+  "technique": "Zazen (seated Zen meditation) in structured sesshin retreats, with walking meditation (kinhin), teisho (Dharma talks), and dokusan (private teacher interviews), in the Diamond Sangha lineage founded by Robert Aitken Roshi.",
+  "influences": [
+    "Robert Aitken Roshi",
+    "Diamond Sangha"
+  ],
+  "teacherAccess": "Daily teisho (Dharma talks) and dokusan (private interviews with the teacher) offered during sesshin retreats.",
+  "retreatOptions": "Multi-day silent sesshin retreats held several times a year (including Spring and Autumn Sesshin), typically 5-7 days, at the Sydney Zen Centre's own bush retreat property.",
+  "about": "Kodoji, also known as the Sydney Zen Centre's 'bush zendo', is a Zen retreat property in a remote valley called Gorricks Run in the Upper MacDonald Valley, about two hours northwest of Sydney via Wisemans Ferry and St Albans. Sangha members purchased the land in 1984, and it has since been the Sydney Zen Centre's dedicated site for sesshin (intensive silent meditation retreats) in the Diamond Sangha lineage established by Robert Aitken Roshi. The property is off-grid, powered by solar energy and cooking gas with rainwater collection, and includes a cottage with dormitory-style sleeping quarters, a smaller building (hojo), and an architecturally recognised meditation hall (dojo). Sesshin retreats combine seated zazen and walking kinhin meditation with teisho (Dharma talks) and dokusan (private interviews) with the teacher, held in silence for the body of the retreat.",
+  "schedule": "Sesshin days are built around alternating blocks of seated zazen and walking kinhin from early morning until evening, with periods for meals, work practice, teisho, and dokusan interviews; Noble/Zen silence is kept throughout.",
+  "cost": "A set registration fee covers food and accommodation for each sesshin; dana for the teacher is typically offered separately.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "Sesshin fees are published per retreat (a multi-day flat fee covering food and lodging) rather than as a single nightly figure; check current sesshin listings for pricing.",
+    "source": "https://szc.org.au/classes/spring-sesshin/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Communal vegetarian meals are provided for the duration of sesshin retreats.",
+  "workRequired": "yes",
+  "workNotes": "Sesshin retreats include periods of samu (silent work practice) as part of the daily schedule, in standard Zen sesshin format.",
+  "tags": [
+    "zen",
+    "silent",
+    "meals-included",
+    "diet-vegetarian",
+    "work-practice",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Kodoji: Our Bush Zendo - Sydney Zen Centre",
+      "url": "http://szc.org.au/kodoji-our-bush-zendo/"
+    },
+    {
+      "title": "Spring Sesshin - Sydney Zen Centre",
+      "url": "https://szc.org.au/classes/spring-sesshin/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

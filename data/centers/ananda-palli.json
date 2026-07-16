@@ -1,0 +1,63 @@
+{
+  "id": "ananda-palli",
+  "name": "Ananda Palli",
+  "aka": [
+    "Ananda Marga Ananda Palli Retreat Centre"
+  ],
+  "website": "https://anandamargaoceania.org/",
+  "location": {
+    "address": "463 Back Creek Road, Severnlea QLD 4352, Australia",
+    "city": "Severnlea",
+    "region": "Queensland, Australia",
+    "country": "Australia",
+    "state": "QLD",
+    "lat": -28.35,
+    "lng": 151.93
+  },
+  "tradition": "Ananda Marga (Tantra Yoga / Neohumanist meditation)",
+  "technique": "Sahaj Yoga/Rajadhiraja Yoga meditation practices as taught within Ananda Marga, combined with kiirtan (mantra chanting), taught during retreats and training programs on-site.",
+  "influences": [
+    "Shrii Shrii Anandamurti (Prabhat Ranjan Sarkar, founder of Ananda Marga)"
+  ],
+  "teacherAccess": "Guidance from Ananda Marga meditation instructors (acharyas) during scheduled retreats, conferences, and training programs.",
+  "retreatOptions": "Residential retreats and training programs held through the year, including multi-day meditation and yoga retreats, with indoor and outdoor accommodation plus camping grounds.",
+  "about": "Ananda Palli is Ananda Marga's main retreat centre in Australia, spread across 100 acres of rural land at Severnlea in the Granite Belt region of southern Queensland. The property includes an ashram, a meditation hall, indoor and outdoor accommodation, organic gardens and orchards, re-afforestation plantings, a commercial kitchen, and a self-sufficient water supply, alongside camping grounds used for larger retreats and training programs. As an Ananda Marga centre, its practice centres on the meditation and yoga techniques taught within the organisation - a Tantra-derived system in which structured meditation (rather than physical asana practice) is the central discipline - together with kiirtan chanting of the universal mantra and Neohumanist philosophy. The centre hosts residential retreats and training programs through the year, run largely as a volunteer, service-oriented community in keeping with Ananda Marga's broader mission of self-realisation and service to all.",
+  "schedule": "Retreat schedules combine group meditation sessions, kiirtan chanting, yoga practice, and workshops or training sessions; exact daily timetables vary by program.",
+  "cost": "Retreat and program fees are charged per event and typically include accommodation and vegetarian meals; exact rates vary by program and are published per event.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No single published nightly rate; fees are set per retreat/training program.",
+    "source": "https://anandamargaoceania.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Ananda Marga centres serve vegetarian (largely sattvic, plant-based) food in keeping with the organisation's dietary guidelines.",
+  "workRequired": "unknown",
+  "workNotes": "No single structured work requirement is published for all retreat guests; the centre relies substantially on volunteer labour for its farm and facilities.",
+  "tags": [
+    "yoga-hindu",
+    "meals-included",
+    "diet-vegetarian",
+    "camping",
+    "fixed-fee",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Home - Ananda Marga Australia",
+      "url": "https://anandamargaoceania.org/"
+    },
+    {
+      "title": "Cooperative Communities - Anandamarga",
+      "url": "https://anandamarga.org.au/service/cooperative-communities/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

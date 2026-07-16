@@ -1,0 +1,57 @@
+{
+  "id": "santi-forest-monastery",
+  "name": "Santi Forest Monastery",
+  "aka": [],
+  "website": "https://santifm.org/santi/",
+  "location": {
+    "address": "100 Coalmines Road, Bundanoon NSW 2578, Australia",
+    "city": "Bundanoon",
+    "region": "New South Wales, Australia",
+    "country": "Australia",
+    "state": "NSW",
+    "lat": -34.63,
+    "lng": 150.29
+  },
+  "tradition": "Theravada Buddhism (early Suttas and Vinaya)",
+  "technique": "Silent sitting and walking meditation grounded in the early Buddhist Suttas and monastic Vinaya, alongside chanting and communal practice with the resident bhikkhuni (fully ordained nun) community.",
+  "influences": [
+    "Early Buddhist Suttas and Vinaya"
+  ],
+  "teacherAccess": "Guidance from the resident bhikkhunis and visiting teachers during scheduled practice periods and by arrangement for those staying at the monastery.",
+  "retreatOptions": "Residential stays of several days to a few weeks sharing the monastery's daily monastic schedule, plus periodic organised retreats; length and availability are arranged directly with the monastery.",
+  "about": "Santi Forest Monastery is a Buddhist nuns' (bhikkhuni) forest monastery in the New South Wales Southern Highlands, on rural land at Bundanoon in the same district as neighbouring Sunnataram Forest Monastery. It is home to a community of fully ordained Theravada bhikkhunis whose practice is grounded in the early Buddhist Suttas and the monastic Vinaya rather than any single national or teacher lineage. Visitors and retreatants can arrange residential stays, sharing the monastery's schedule of sitting and walking meditation, chanting, and communal work, with guidance available from the resident nuns. The monastery is run on donations, in keeping with Theravada forest-monastery tradition, and does not charge a set fee for accommodation, food, or teaching.",
+  "schedule": "Daily monastic schedule of group sitting and walking meditation, chanting, a main meal taken before noon, and periods of communal work; exact timings are set by the resident community.",
+  "cost": "No set fee; the monastery is supported by dana (donation) from visitors and supporters.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No suggested per-night amount is published; stays are arranged directly with the monastery and supported by donation.",
+    "source": "https://santifm.org/santi/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A main vegetarian meal is offered before noon daily, in keeping with Theravada monastic practice of not eating after midday.",
+  "workRequired": "partial",
+  "workNotes": "Resident guests are generally expected to help with communal chores and monastery upkeep as part of the daily schedule.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Santi Forest Monastery | Buddhist Nuns' Monastery in Bundanoon, Australia",
+      "url": "https://santifm.org/santi/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

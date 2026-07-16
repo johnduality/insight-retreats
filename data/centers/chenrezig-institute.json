@@ -1,0 +1,65 @@
+{
+  "id": "chenrezig-institute",
+  "name": "Chenrezig Institute",
+  "aka": [
+    "Chenrezig Institute for Wisdom Culture"
+  ],
+  "website": "https://chenrezig.com.au/",
+  "location": {
+    "address": "33 Johnsons Road, Eudlo QLD 4554, Australia",
+    "city": "Eudlo",
+    "region": "Queensland, Australia",
+    "country": "Australia",
+    "state": "QLD",
+    "lat": -26.68,
+    "lng": 152.95
+  },
+  "tradition": "Tibetan Buddhism, Gelug lineage (FPMT)",
+  "technique": "Tibetan Buddhist meditation including lamrim (graduated path) contemplations and Vajrayana practices, taught through structured courses, teachings, and both group and self-guided retreats.",
+  "influences": [
+    "Lama Thubten Yeshe",
+    "Lama Zopa Rinpoche",
+    "FPMT (Foundation for the Preservation of the Mahayana Tradition)"
+  ],
+  "teacherAccess": "Teachings and guidance from the resident Tibetan teacher and visiting FPMT teachers, plus support from the resident monastic and lay community during courses and retreats.",
+  "retreatOptions": "A year-round program of meditation retreats, teachings, and advanced study courses, from short weekend retreats to longer residential retreats, with accommodation ranging from shared hotel-style rooms to solitary retreat huts.",
+  "about": "Chenrezig Institute is perched on the edge of the Blackall Range in the Sunshine Coast hinterland of Queensland, seven kilometres from the township of Eudlo. Established in 1974, it was among the first Tibetan Buddhist centres in the Western world and remains one of the largest, affiliated with the Foundation for the Preservation of the Mahayana Tradition (FPMT) founded by Lama Thubten Yeshe and continued under Lama Zopa Rinpoche. The Institute is home to a resident Tibetan teacher, a community of nuns and monks, and lay students, volunteers, and guests, set across rainforest grounds that include a meditation hall, a vegetarian cafe, an extensive library, and memorial gardens. Its year-round program spans meditation retreats, teachings on Buddhism, and advanced study courses, with accommodation ranging from simple shared hotel-style rooms to solitary retreat huts for those seeking more seclusion.",
+  "schedule": "Retreat schedules vary by program, typically combining group meditation sessions, teachings, and discussion with periods of personal practice; longer retreats may include silent or solitary retreat options in dedicated huts.",
+  "cost": "Course and retreat fees are charged per program and cover accommodation and vegetarian meals; rates vary by accommodation type (shared room, hotel room, or retreat hut) and are published per event.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "Rates are set per course/retreat and per accommodation type (shared, hotel-style, or retreat hut) rather than a single nightly figure; check current course listings for pricing.",
+    "source": "https://chenrezig.com.au/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are served to course and retreat participants; the Institute also runs an on-site vegetarian cafe.",
+  "workRequired": "unknown",
+  "workNotes": "No structured work/service requirement is published for short-term retreat guests; longer-term volunteers contribute work in exchange for stay.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "self-guided"
+  ],
+  "sources": [
+    {
+      "title": "Chenrezig Institute | Buddhist Centre & Retreat",
+      "url": "https://chenrezig.com.au/"
+    },
+    {
+      "title": "Chenrezig Institute for Wisdom Culture | Buddhist Council of Queensland",
+      "url": "https://buddhistcouncilofqueensland.org/node/123"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

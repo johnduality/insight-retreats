@@ -1,5 +1,23 @@
 [
   {
+    "id": "zengarden",
+    "name": "placeholder (duplicate, cleared) - see deletions.txt",
+    "location": {
+      "city": "placeholder",
+      "state": "CA",
+      "lat": 0,
+      "lng": 0
+    },
+    "tradition": "duplicate placeholder - see deletions.txt",
+    "about": "cleared in place 2026-07-17 per deletions.txt; filename persists because this mount blocks unlink (see CLAUDE.md) -- content is intentionally empty/inert",
+    "tags": [],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-17",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "dhamma-karuna",
     "name": "Dhamma Karuṇā",
     "aka": [
@@ -14568,6 +14586,658 @@
     }
   },
   {
+    "id": "blue-mountains-insight-meditation-centre",
+    "name": "Blue Mountains Insight Meditation Centre",
+    "aka": [
+      "BMIMC",
+      "Buddha Sasana Association of Australia"
+    ],
+    "website": "https://bmimc.org.au/",
+    "location": {
+      "address": "25 Rutland Road, Medlow Bath NSW 2780, Australia",
+      "city": "Medlow Bath",
+      "region": "New South Wales, Australia",
+      "country": "Australia",
+      "state": "NSW",
+      "lat": -33.6699,
+      "lng": 150.2967
+    },
+    "tradition": "Insight Meditation (Theravada-derived)",
+    "technique": "Insight (mindfulness/Vipassana) meditation combining silent sitting and walking practice with metta (loving-kindness) meditation, daily Dhamma talks, and individual meetings with teachers.",
+    "influences": [
+      "Buddha Sasana Association of Australia"
+    ],
+    "teacherAccess": "Daily Dhamma talks, guided sitting and walking meditation, and individual meetings with teachers during residential retreats.",
+    "retreatOptions": "Residential silent retreats of several days to about ten days held through the year, run by the Buddha Sasana Association of Australia at its own dedicated centre.",
+    "about": "The Blue Mountains Insight Meditation Centre (BMIMC) is a dedicated residential retreat property owned and run by the non-profit Buddha Sasana Association of Australia in the small town of Medlow Bath in the Blue Mountains, about two hours by train from Sydney. The Association acquired the Rutland Road property around 1992 after some years of renting short-term venues, when it became difficult to find suitable and affordable retreat facilities, and has run its own multi-day silent Insight Meditation retreats there ever since. Retreats combine silent sitting and walking meditation with metta (loving-kindness) practice, daily Dhamma talks, and individual meetings with visiting and resident teachers, all in the Theravada-derived Insight Meditation tradition.",
+    "schedule": "Structured silent-retreat schedule alternating periods of sitting and walking meditation with daily Dhamma talks and optional individual teacher meetings; Noble Silence is observed for the body of each retreat.",
+    "cost": "Retreat fees are charged to cover food and accommodation, with dana (donation) offered separately to the teacher; exact rates vary by retreat and are published per event.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "Retreat fees are set per event on the current retreat schedule rather than as a single published nightly rate; check individual retreat listings for current pricing.",
+      "source": "https://bmimc.org.au/rgb-retreats/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Vegetarian meals are provided for the duration of residential retreats.",
+    "workRequired": "unknown",
+    "workNotes": "No structured work/service requirement is published for retreat participants.",
+    "tags": [
+      "insight-vipassana",
+      "silent",
+      "meals-included",
+      "diet-vegetarian",
+      "fixed-fee"
+    ],
+    "sources": [
+      {
+        "title": "Blue Mountains Insight Meditation Centre",
+        "url": "https://bmimc.org.au/"
+      },
+      {
+        "title": "About BMIMC - Blue Mountains Insight Meditation Centre",
+        "url": "https://bmimc.org.au/about-bmimc/"
+      },
+      {
+        "title": "Retreats & Events - Blue Mountains Insight Meditation Centre",
+        "url": "https://bmimc.org.au/rgb-retreats/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "bodhi-tree-forest-monastery",
+    "name": "Bodhi Tree Forest Monastery and Vipassana Retreat Centre",
+    "aka": [
+      "Bodhi Tree Forest Monastery",
+      "Bodhi Tree Retreat Centre, Tullera"
+    ],
+    "website": "https://bodhitreemonastery.org/",
+    "location": {
+      "address": "78 Bentley Road, Tullera NSW 2480, Australia",
+      "city": "Tullera",
+      "region": "New South Wales, Australia",
+      "country": "Australia",
+      "state": "NSW",
+      "lat": -28.755,
+      "lng": 153.28
+    },
+    "tradition": "Theravada Buddhism / Insight Meditation",
+    "technique": "Vipassana (Insight) meditation combining silent sitting and walking practice with daily Dhamma talks, taught in the Theravada tradition on structured 2-, 10-, and 20-day residential retreats.",
+    "influences": [
+      "Venerable Pannyavaro (founder)"
+    ],
+    "teacherAccess": "Daily Dhamma talks and group or individual guidance from the resident teacher, Venerable Pannyavaro, and visiting teachers during retreats.",
+    "retreatOptions": "Residential Vipassana retreats of 2, 10, or 20 days held through the year, all on a donation basis, with vegetarian meals and accommodation provided.",
+    "about": "Bodhi Tree Forest Monastery and Vipassana Retreat Centre sits on ninety-five acres of land at Tullera, about ten minutes from Lismore in the Northern Rivers region of New South Wales. It was founded in 2005 by Venerable Pannyavaro, an Australian monk with over 25 years in robes and a long-time teacher of Insight Meditation. The centre has developed its retreat facilities in stages, with a multipurpose meditation hall, a pagoda, and purpose-built accommodation units (including a unit with an ensuite for retreatants with disabilities) progressively added to house meditators on retreat. Retreats are residential, with vegetarian meals and accommodation provided, and run on a donation basis; Vipassana retreats range from short 2-day sits up to 10- and 20-day silent courses combining sitting and walking meditation with daily Dhamma talks from Venerable Pannyavaro and visiting teachers.",
+    "schedule": "Structured daily retreat schedule alternating periods of silent sitting and walking meditation with a daily Dhamma talk, communal vegetarian meals, and rest periods; Noble Silence is generally observed for the duration of the longer retreats.",
+    "cost": "All retreats are offered on a donation basis; no fixed fee is charged for teaching, food, or accommodation.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested per-night amount is published on the retreat schedule; retreatants are asked to offer dana as they are able.",
+      "source": "https://bodhitreemonastery.org/retreat-schedule/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Vegetarian meals are provided for all retreatants for the duration of a residential retreat.",
+    "workRequired": "unknown",
+    "workNotes": "No structured work/service requirement is published for retreatants beyond general communal courtesy.",
+    "tags": [
+      "theravada",
+      "insight-vipassana",
+      "silent",
+      "long-retreats",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian"
+    ],
+    "sources": [
+      {
+        "title": "Bodhi Tree - Forest Monastery and Vipassana Retreat Centre",
+        "url": "https://bodhitreemonastery.org/"
+      },
+      {
+        "title": "Retreat Schedule - Bodhi Tree",
+        "url": "https://bodhitreemonastery.org/retreat-schedule/"
+      },
+      {
+        "title": "Building Projects - Bodhi Tree",
+        "url": "https://bodhitreemonastery.org/building-projects/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dhamma-bhumi",
+    "name": "Dhamma Bhūmi",
+    "aka": [],
+    "website": "https://bhumi.dhamma.org",
+    "location": {
+      "address": "212 Station Street, Blackheath NSW 2785, Australia",
+      "city": "Blackheath",
+      "region": "New South Wales, Australia",
+      "country": "Australia",
+      "state": "NSW",
+      "lat": -33.6349,
+      "lng": 150.2843
+    },
+    "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+    "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+    "influences": [
+      "S.N. Goenka",
+      "Sayagyi U Ba Khin"
+    ],
+    "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions and give interviews during the rest period.",
+    "retreatOptions": "Ten-day residential Vipassana courses held several times a year (the centre's standard and primary offering), plus 1- to 3-day refresher courses and longer old-student courses for students who have already completed a ten-day course, and one-day children's and teenagers' Anapana courses.",
+    "about": "Dhamma Bhūmi is the Goenka-tradition Vipassana meditation centre for New South Wales, Australia, Established in 1983 on 40 acres of land at one of the highest points of the Blue Mountains, west of Sydney.  The property has been landscaped over the decades with ponds, paths and gardens around the meditation hall, pagoda of individual meditation cells, dining hall, and separate accommodation blocks for men and women. The centre offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin several times a year, conducted using audio and video recordings of Goenka's instructions and discourses with certified assistant teachers on site to give interviews and answer meditation-related questions. Students live on site for the full course, observe Noble Silence until the morning of the last full day, and follow the standard Goenka daily schedule of roughly ten hours of sitting practice a day. As at every centre in the worldwide Goenka network, there are no fees of any kind — courses, food, and lodging are offered purely on a dana (voluntary donation) basis by past students who have completed at least one prior course.",
+    "schedule": "Standard Goenka ten-day course schedule: arrival and registration on the start day, followed by ten full days of silent sitting meditation (roughly 4am-9:30pm) with recorded evening discourses, and course close around 7am on the final day followed by breakfast and departure by mid-morning; Noble Silence is observed by all students until the morning of the last full day.",
+    "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food, and accommodation are offered freely, funded by donations from past students who have completed at least one prior course.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students, none of whom - including teachers and organisers - receive any payment for their service.",
+      "source": "https://bhumi.dhamma.org/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; simple vegetarian meals throughout, with old students keeping the no-eating-after-midday precept while new students may have tea and fruit at the evening break.",
+    "workRequired": "partial",
+    "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses as Dhamma volunteers or join dedicated old-student work periods for centre maintenance; new students are not required to work during their first course.",
+    "tags": [
+      "goenka",
+      "silent",
+      "long-retreats",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "title": "Dhamma Bhūmi - Vipassana Meditation as Taught by S.N. Goenka",
+        "url": "https://bhumi.dhamma.org/"
+      },
+      {
+        "title": "Vipassana meditation in Australia",
+        "url": "https://au.dhamma.org/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dhamma-pasada",
+    "name": "Dhamma Pāsāda",
+    "aka": [],
+    "website": "https://pasada.dhamma.org",
+    "location": {
+      "address": "991 River Road, Lower Portland NSW 2756, Australia",
+      "city": "Lower Portland",
+      "region": "New South Wales, Australia",
+      "country": "Australia",
+      "state": "NSW",
+      "lat": -33.3606,
+      "lng": 150.8919
+    },
+    "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+    "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+    "influences": [
+      "S.N. Goenka",
+      "Sayagyi U Ba Khin"
+    ],
+    "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions and give interviews during the rest period.",
+    "retreatOptions": "Ten-day residential Vipassana courses held several times a year (the centre's standard and primary offering), plus 1- to 3-day refresher courses and longer old-student courses for students who have already completed a ten-day course, and one-day children's and teenagers' Anapana courses.",
+    "about": "Dhamma Pāsāda is the Goenka-tradition Vipassana meditation centre for New South Wales, Australia, Located on the banks of the Hawkesbury River at Lower Portland, north of Sydney and west of Gosford.  The centre's facilities include a meditation hall, kitchen/dining building, and separate accommodation and ablution blocks for men and women. The centre offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin several times a year, conducted using audio and video recordings of Goenka's instructions and discourses with certified assistant teachers on site to give interviews and answer meditation-related questions. Students live on site for the full course, observe Noble Silence until the morning of the last full day, and follow the standard Goenka daily schedule of roughly ten hours of sitting practice a day. As at every centre in the worldwide Goenka network, there are no fees of any kind — courses, food, and lodging are offered purely on a dana (voluntary donation) basis by past students who have completed at least one prior course.",
+    "schedule": "Standard Goenka ten-day course schedule: arrival and registration on the start day, followed by ten full days of silent sitting meditation (roughly 4am-9:30pm) with recorded evening discourses, and course close around 7am on the final day followed by breakfast and departure by mid-morning; Noble Silence is observed by all students until the morning of the last full day.",
+    "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food, and accommodation are offered freely, funded by donations from past students who have completed at least one prior course.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students, none of whom - including teachers and organisers - receive any payment for their service.",
+      "source": "https://pasada.dhamma.org/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; simple vegetarian meals throughout, with old students keeping the no-eating-after-midday precept while new students may have tea and fruit at the evening break.",
+    "workRequired": "partial",
+    "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses as Dhamma volunteers or join dedicated old-student work periods for centre maintenance; new students are not required to work during their first course.",
+    "tags": [
+      "goenka",
+      "silent",
+      "long-retreats",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "title": "Dhamma Pāsāda - Vipassana Meditation as Taught by S.N. Goenka",
+        "url": "https://pasada.dhamma.org/"
+      },
+      {
+        "title": "Vipassana meditation in Australia",
+        "url": "https://au.dhamma.org/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "karma-yiwong-samten-ling",
+    "name": "Karma Yiwong Samten Ling",
+    "aka": [
+      "KYSL"
+    ],
+    "website": "https://kysl.org/",
+    "location": {
+      "address": "Central West NSW (near Orange), on the traditional lands of the Wiradjuri Nation, New South Wales, Australia",
+      "city": "Orange area",
+      "region": "New South Wales, Australia",
+      "country": "Australia",
+      "state": "NSW",
+      "lat": -33.3,
+      "lng": 149.25
+    },
+    "tradition": "Tibetan Buddhism, Karma Kagyu lineage",
+    "technique": "Mahamudra meditation and Karma Kagyu Vajrayana practices, taught through teachings and group retreats under the Centre's spiritual director.",
+    "influences": [
+      "Ven. Dekhung Gyaltsey Tulku Rinpoche"
+    ],
+    "teacherAccess": "Teachings and retreat guidance from the Centre's spiritual director, Ven. Dekhung Gyaltsey Tulku Rinpoche, and visiting teachers during scheduled retreats.",
+    "retreatOptions": "Group meditation retreats and teachings held on-site through the year, with basic shared dormitory accommodation; the Centre is expanding its accommodation with planned self-contained retreat cabins.",
+    "about": "Karma Yiwong Samten Ling is a young Tibetan Buddhist retreat centre in the Karma Kagyu tradition, set on an untouched bush block in the Central West of New South Wales on the traditional lands of the Wiradjuri Nation, about 30 minutes from Orange. The community is guided by its spiritual director, Ven. Dekhung Gyaltsey Tulku Rinpoche, and practises Mahamudra meditation and other Karma Kagyu teachings. The rocky, forested property has never been farmed and is shared with a wide range of native wildlife. Facilities are currently basic - shared dormitory accommodation, rainwater tanks, and a communal kitchen - suited to retreatants comfortable with simple, close-to-the-elements living; the Centre is planning to add self-contained retreat cabins to expand its accommodation options. All meals served on retreat are vegetarian.",
+    "schedule": "Retreat schedules are set per teaching/retreat event and typically combine group meditation sessions with teachings from the visiting or resident teacher; exact daily timetables vary by retreat.",
+    "cost": "Course fees are charged per retreat/teaching event, with separate cash offerings customary for the teacher.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No single published nightly rate; course fees are set per retreat event and teacher offerings are given separately in cash.",
+      "source": "https://kysl.org/retreat-info"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "All meals served during retreats are vegetarian only.",
+    "workRequired": "unknown",
+    "workNotes": "No structured work/service requirement is published for retreat participants.",
+    "tags": [
+      "tibetan-vajrayana",
+      "meals-included",
+      "diet-vegetarian",
+      "camping",
+      "fixed-fee"
+    ],
+    "sources": [
+      {
+        "title": "Karma Yiwong Samten Ling: Tibetan Buddhist Retreat Centre in NSW Australia",
+        "url": "https://kysl.org/"
+      },
+      {
+        "title": "About Meditation Retreats at Karma Yiwong Samten Ling",
+        "url": "https://kysl.org/retreat-info"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "sydney-zen-centre-kodoji",
+    "name": "Kodoji (Sydney Zen Centre)",
+    "aka": [
+      "Sydney Zen Centre",
+      "Gorricks Run Zendo",
+      "Ancient Ground Temple"
+    ],
+    "website": "https://szc.org.au/",
+    "location": {
+      "address": "374 Gorricks Run, Upper Macdonald NSW 2775, Australia",
+      "city": "Upper Macdonald",
+      "region": "New South Wales, Australia",
+      "country": "Australia",
+      "state": "NSW",
+      "lat": -33.13,
+      "lng": 151.02
+    },
+    "tradition": "Zen Buddhism (Diamond Sangha lineage)",
+    "technique": "Zazen (seated Zen meditation) in structured sesshin retreats, with walking meditation (kinhin), teisho (Dharma talks), and dokusan (private teacher interviews), in the Diamond Sangha lineage founded by Robert Aitken Roshi.",
+    "influences": [
+      "Robert Aitken Roshi",
+      "Diamond Sangha"
+    ],
+    "teacherAccess": "Daily teisho (Dharma talks) and dokusan (private interviews with the teacher) offered during sesshin retreats.",
+    "retreatOptions": "Multi-day silent sesshin retreats held several times a year (including Spring and Autumn Sesshin), typically 5-7 days, at the Sydney Zen Centre's own bush retreat property.",
+    "about": "Kodoji, also known as the Sydney Zen Centre's 'bush zendo', is a Zen retreat property in a remote valley called Gorricks Run in the Upper MacDonald Valley, about two hours northwest of Sydney via Wisemans Ferry and St Albans. Sangha members purchased the land in 1984, and it has since been the Sydney Zen Centre's dedicated site for sesshin (intensive silent meditation retreats) in the Diamond Sangha lineage established by Robert Aitken Roshi. The property is off-grid, powered by solar energy and cooking gas with rainwater collection, and includes a cottage with dormitory-style sleeping quarters, a smaller building (hojo), and an architecturally recognised meditation hall (dojo). Sesshin retreats combine seated zazen and walking kinhin meditation with teisho (Dharma talks) and dokusan (private interviews) with the teacher, held in silence for the body of the retreat.",
+    "schedule": "Sesshin days are built around alternating blocks of seated zazen and walking kinhin from early morning until evening, with periods for meals, work practice, teisho, and dokusan interviews; Noble/Zen silence is kept throughout.",
+    "cost": "A set registration fee covers food and accommodation for each sesshin; dana for the teacher is typically offered separately.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "Sesshin fees are published per retreat (a multi-day flat fee covering food and lodging) rather than as a single nightly figure; check current sesshin listings for pricing.",
+      "source": "https://szc.org.au/classes/spring-sesshin/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Communal vegetarian meals are provided for the duration of sesshin retreats.",
+    "workRequired": "yes",
+    "workNotes": "Sesshin retreats include periods of samu (silent work practice) as part of the daily schedule, in standard Zen sesshin format.",
+    "tags": [
+      "zen",
+      "silent",
+      "meals-included",
+      "diet-vegetarian",
+      "work-practice",
+      "fixed-fee"
+    ],
+    "sources": [
+      {
+        "title": "Kodoji: Our Bush Zendo - Sydney Zen Centre",
+        "url": "http://szc.org.au/kodoji-our-bush-zendo/"
+      },
+      {
+        "title": "Spring Sesshin - Sydney Zen Centre",
+        "url": "https://szc.org.au/classes/spring-sesshin/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "nan-tien-temple",
+    "name": "Nan Tien Temple",
+    "aka": [
+      "Fo Guang Shan Nan Tien Temple"
+    ],
+    "website": "https://www.nantien.org.au/",
+    "location": {
+      "address": "180 Berkeley Road, Berkeley NSW 2506, Australia",
+      "city": "Berkeley",
+      "region": "New South Wales, Australia",
+      "country": "Australia",
+      "state": "NSW",
+      "lat": -34.4989,
+      "lng": 150.8215
+    },
+    "tradition": "Chan (Chinese Zen) / Humanistic Buddhism (Fo Guang Shan)",
+    "technique": "Chan sitting and walking meditation combined with Tai Chi, chanting, and Dharma talks from resident monastics, in the Humanistic Buddhism style of the Taiwan-based Fo Guang Shan order.",
+    "influences": [
+      "Venerable Master Hsing Yun (Fo Guang Shan founder)"
+    ],
+    "teacherAccess": "Dharma talks and guided instruction from resident monastics during weekend and longer meditation retreats, plus daily morning chanting open to overnight guests.",
+    "retreatOptions": "Weekend meditation retreats emphasising sitting and walking meditation plus Tai Chi, alongside longer cultivation courses and advanced meditation retreats, with overnight accommodation at the temple's own Pilgrim Lodge.",
+    "about": "Nan Tien Temple, meaning 'Paradise of the South', is the largest Buddhist temple in the Southern Hemisphere, a branch temple of the Taiwan-based Fo Guang Shan order founded by Venerable Master Hsing Yun, set on its own grounds at Berkeley on the southern outskirts of Wollongong, about 90 km south of Sydney. The temple complex includes its own 100-room Pilgrim Lodge overlooking the lotus pond, temple gardens, and the Illawarra escarpment, purpose-built to house retreat and pilgrimage guests on site. Regular retreats include weekend meditation retreats emphasising sitting and walking meditation alongside Tai Chi, and longer cultivation and advanced meditation retreats, all featuring vegetarian meals, Dharma talks from resident monastics, and overnight stays at the Pilgrim Lodge, in the Humanistic Buddhism style that blends traditional Chan practice with contemporary community engagement.",
+    "schedule": "Weekend retreat schedule combines periods of sitting and walking Chan meditation with Tai Chi sessions, chanting, and Dharma talks, together with vegetarian meals and overnight stays at the Pilgrim Lodge.",
+    "cost": "Retreat and Pilgrim Lodge accommodation are charged per program/night; exact rates are published per retreat and per room type on the temple's booking pages.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "Weekend Meditation Retreat and Pilgrim Lodge rates are set per program/room type rather than a single published nightly figure; check the current retreat and accommodation pages for pricing.",
+      "source": "https://www.nantien.org.au/en/retreats/weekend-meditation-retreat"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Vegetarian meals are included for retreat participants and Pilgrim Lodge guests.",
+    "workRequired": "no",
+    "workNotes": "No work or service requirement for retreat or Pilgrim Lodge guests.",
+    "tags": [
+      "mahayana",
+      "meals-included",
+      "diet-vegetarian",
+      "no-work-required",
+      "fixed-fee",
+      "accessible",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "title": "Home | Nan Tien Temple",
+        "url": "https://www.nantien.org.au/en/"
+      },
+      {
+        "title": "Weekend Meditation Retreat | Nan Tien Temple",
+        "url": "https://www.nantien.org.au/en/retreats/weekend-meditation-retreat"
+      },
+      {
+        "title": "Pilgrim Lodge / Accommodation | Nan Tien Temple",
+        "url": "https://www.nantien.org.au/en/visitor-info/accommodation"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "santi-forest-monastery",
+    "name": "Santi Forest Monastery",
+    "aka": [],
+    "website": "https://santifm.org/santi/",
+    "location": {
+      "address": "100 Coalmines Road, Bundanoon NSW 2578, Australia",
+      "city": "Bundanoon",
+      "region": "New South Wales, Australia",
+      "country": "Australia",
+      "state": "NSW",
+      "lat": -34.63,
+      "lng": 150.29
+    },
+    "tradition": "Theravada Buddhism (early Suttas and Vinaya)",
+    "technique": "Silent sitting and walking meditation grounded in the early Buddhist Suttas and monastic Vinaya, alongside chanting and communal practice with the resident bhikkhuni (fully ordained nun) community.",
+    "influences": [
+      "Early Buddhist Suttas and Vinaya"
+    ],
+    "teacherAccess": "Guidance from the resident bhikkhunis and visiting teachers during scheduled practice periods and by arrangement for those staying at the monastery.",
+    "retreatOptions": "Residential stays of several days to a few weeks sharing the monastery's daily monastic schedule, plus periodic organised retreats; length and availability are arranged directly with the monastery.",
+    "about": "Santi Forest Monastery is a Buddhist nuns' (bhikkhuni) forest monastery in the New South Wales Southern Highlands, on rural land at Bundanoon in the same district as neighbouring Sunnataram Forest Monastery. It is home to a community of fully ordained Theravada bhikkhunis whose practice is grounded in the early Buddhist Suttas and the monastic Vinaya rather than any single national or teacher lineage. Visitors and retreatants can arrange residential stays, sharing the monastery's schedule of sitting and walking meditation, chanting, and communal work, with guidance available from the resident nuns. The monastery is run on donations, in keeping with Theravada forest-monastery tradition, and does not charge a set fee for accommodation, food, or teaching.",
+    "schedule": "Daily monastic schedule of group sitting and walking meditation, chanting, a main meal taken before noon, and periods of communal work; exact timings are set by the resident community.",
+    "cost": "No set fee; the monastery is supported by dana (donation) from visitors and supporters.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested per-night amount is published; stays are arranged directly with the monastery and supported by donation.",
+      "source": "https://santifm.org/santi/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "A main vegetarian meal is offered before noon daily, in keeping with Theravada monastic practice of not eating after midday.",
+    "workRequired": "partial",
+    "workNotes": "Resident guests are generally expected to help with communal chores and monastery upkeep as part of the daily schedule.",
+    "tags": [
+      "theravada",
+      "silent",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "title": "Santi Forest Monastery | Buddhist Nuns' Monastery in Bundanoon, Australia",
+        "url": "https://santifm.org/santi/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "sunnataram-forest-monastery",
+    "name": "Sunnataram Forest Monastery",
+    "aka": [
+      "Sunnatarama Forest Monastery"
+    ],
+    "website": "https://www.sunnataram.org/",
+    "location": {
+      "address": "225 Teudts Road, Bundanoon NSW 2578, Australia",
+      "city": "Bundanoon",
+      "region": "New South Wales, Australia",
+      "country": "Australia",
+      "state": "NSW",
+      "lat": -34.62,
+      "lng": 150.31
+    },
+    "tradition": "Theravada Buddhism, Thai Forest Tradition",
+    "technique": "Silent sitting and walking meditation in the Thai Forest style, combined with chanting and Dhamma teaching from resident monks during structured meditation retreats.",
+    "influences": [
+      "Phra Ajahn Yantra (founding teacher)"
+    ],
+    "teacherAccess": "Guidance and Dhamma talks from resident monks during organised retreats and by arrangement for guests staying at the monastery.",
+    "retreatOptions": "Scheduled multi-day residential meditation retreats through the year (including retreats for university students), plus longer guest stays sharing the monastic routine by arrangement.",
+    "about": "Sunnataram Forest Monastery sits on 100 acres of bushland on the outskirts of Bundanoon in the New South Wales Southern Highlands, bordering Morton National Park. It was established in 1989 after the property's owner, Elizabeth Gorski (later the Buddhist nun Ayya Nirodha), invited Phra Ajahn Yantra and his disciples to found a Thai Forest Tradition monastery in Australia; the monastery was incorporated as a Buddhist educational institution in 1990 and registered as a place of worship in 1992. Sunnataram runs entirely on the efforts of its resident monks and volunteers, without government funding from either Thailand or Australia. It hosts a regular program of residential meditation retreats combining silent sitting and walking meditation with chanting and Dhamma talks from the resident sangha, alongside guest stays for those wishing to share more fully in monastic life.",
+    "schedule": "Retreat days combine periods of silent sitting and walking meditation with chanting and a Dhamma talk from a resident monk, and a main vegetarian meal taken before noon in keeping with Theravada monastic practice.",
+    "cost": "No fixed fee; the monastery and its retreats are supported by dana (donation) from retreatants and supporters.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested per-night amount is published; retreats and guest stays are supported by donation only.",
+      "source": "https://www.sunnataram.org/meditation-retreats"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "A main vegetarian meal is offered before noon daily to retreatants, in keeping with Theravada monastic practice of not eating after midday.",
+    "workRequired": "unknown",
+    "workNotes": "No structured work requirement is published for retreat guests beyond general communal courtesy; longer-term guests may be asked to help with monastery upkeep.",
+    "tags": [
+      "theravada",
+      "silent",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "title": "Thai Forest Monastery Bundanoon - Sunnataram Forest Monastery",
+        "url": "https://www.sunnataram.org/"
+      },
+      {
+        "title": "Meditation Retreats - Sunnataram Forest Monastery",
+        "url": "https://www.sunnataram.org/meditation-retreats"
+      },
+      {
+        "title": "Brief History - Sunnataram Forest Monastery",
+        "url": "https://www.sunnataram.org/about-us/brief-history"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "wat-buddha-dhamma",
+    "name": "Wat Buddha Dhamma",
+    "aka": [
+      "Wat Buddha Dhamma Theravadin Forest Monastery"
+    ],
+    "website": "https://www.wbd.org.au/",
+    "location": {
+      "address": "Ten Mile Hollow Road, Wisemans Ferry NSW 2775, Australia",
+      "city": "Wisemans Ferry",
+      "region": "New South Wales, Australia",
+      "country": "Australia",
+      "state": "NSW",
+      "lat": -33.19,
+      "lng": 150.97
+    },
+    "tradition": "Theravada Buddhism, Thai Forest Tradition",
+    "technique": "Silent sitting and walking meditation in the Theravada/Thai Forest style, alongside daily monastic chanting and Dhamma reflection; no formal group teaching program, so guests practise largely independently within the monastic schedule.",
+    "influences": [
+      "Ayya Khema (founder)",
+      "Phra Khantipalo (first abbot)",
+      "Ajahn Chah"
+    ],
+    "teacherAccess": "Resident monastics are available informally for guidance during the daily almsround, communal meal, and chore periods; there is no structured teaching program, so access depends on the monastics present at the time.",
+    "retreatOptions": "Open-ended residential stays sharing the monastic lifestyle, typically arranged in advance with the Abbot; guests generally stay for several days up to a few weeks, observing 10 precepts and helping with about two hours of daily chores.",
+    "about": "Wat Buddha Dhamma is one of Australia's oldest Buddhist monasteries, founded in 1978 by the pioneering Buddhist nun Ayya Khema with Phra Khantipalo as its first abbot, deep inside Dharug National Park at Ten Mile Hollow near Wisemans Ferry, about 1.5 hours by sealed road and a further 40 minutes of gravel track northwest of Sydney. The forest property is off-grid, drawing power from a mix of solar, gas and wood, and rainwater for its water supply, in keeping with its ethos of environmentally conscious, simple monastic living. Visitors may arrange in advance with the Abbot to stay for a period as a guest, sharing directly in the daily life of the resident Theravada forest-tradition monastic community: communal meditation, chanting, the single daily meal, and roughly two hours of chores. There is no formal meditation-teaching program - guests keep the 10 precepts and practise largely independently, guided informally by the monastics on site. The monastery does not charge for stays and is sustained entirely by donations from visitors and supporters.",
+    "schedule": "Daily monastic rhythm centred on pre-dawn and evening group sitting and walking meditation, a single main meal taken before noon, and periods of chanting and chores; exact timings follow the resident monastics' schedule and can vary with the season and community size.",
+    "cost": "No set fee; the monastery operates entirely on dana (donation) from visitors and supporters, in keeping with Theravada forest-monastery tradition.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested amount is published; guest stays are arranged directly with the Abbot and supported by donation only.",
+      "source": "https://www.wbd.org.au/about-wbd/location/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "A single main vegetarian/vegan-leaning meal is offered before noon each day, prepared from food offered by supporters, in keeping with Theravada monastic practice of not eating after midday.",
+    "workRequired": "yes",
+    "workNotes": "Guests are required to help with daily chores (roughly two hours per day) as part of sharing in the monastic community's work.",
+    "tags": [
+      "theravada",
+      "silent",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "work-practice",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "title": "Wat Buddha Dhamma - Theravadin Forest Monastery",
+        "url": "https://www.wbd.org.au/"
+      },
+      {
+        "title": "Location | Wat Buddha Dhamma",
+        "url": "https://www.wbd.org.au/about-wbd/location/"
+      },
+      {
+        "title": "The Forest Tradition | Wat Buddha Dhamma",
+        "url": "https://www.wbd.org.au/about-wbd/forest-tradition/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "dhamma-surabhi",
     "name": "Dhamma Surabhi",
     "aka": [
@@ -17576,73 +18246,6 @@
     }
   },
   {
-    "name": "Zengården",
-    "aka": [
-      "Zenbuddhistiska Samfundet",
-      "Swedish Zen Buddhist Society",
-      "ZBS"
-    ],
-    "website": "https://www.zentraining.org/",
-    "location": {
-      "address": "Finnåker, 710 41 Fellingsbro, Sweden",
-      "city": "Fellingsbro",
-      "region": "Örebro County, Sweden",
-      "country": "Sweden",
-      "state": "SE",
-      "lat": 59.435,
-      "lng": 15.589
-    },
-    "tradition": "Soto/Rinzai-influenced Zen Buddhism in the lineage of Roshi Philip Kapleau (Rochester Zen Center)",
-    "technique": "Zazen (seated meditation), sesshin practice with dokusan (private teacher interviews) and teisho (dharma talks), work practice",
-    "influences": [
-      "Philip Kapleau Roshi (Rochester Zen Center)",
-      "Bodhin Kjolhede Roshi",
-      "Sante Poromaa Roshi",
-      "Kanja Odland Roshi"
-    ],
-    "teacherAccess": "Daily dokusan (private one-on-one meeting with the teacher) offered during sesshins and residential training, plus regular teisho (dharma talks).",
-    "retreatOptions": "Nine sesshins a year (4-day and 7-day intensive silent retreats), two weekend retreats, an annual summer retreat, a 3-day introduction retreat each summer, and open-ended residential Zen training between sesshins.",
-    "about": "Zengården is the head temple and full-time residential Zen training centre of the Swedish Zen Buddhist Society (Zenbuddhistiska Samfundet), located in rural forest near Fellingsbro, about two hours west of Stockholm. Founded in 1982 following Philip Kapleau Roshi's first visit to Sweden, the society descends from Kapleau's Rochester Zen Center lineage and has offered full-time residential Zen training at Zengården since 1995. The centre runs nine sesshins a year, intensive four- or seven-day periods of largely silent zazen with nine or more hours of formal sitting daily, daily dokusan with the teacher, and a work period; between sesshins it offers a more flexible residential training schedule of sitting, work and unstructured time. Teaching is led by resident teachers Sante Poromaa Roshi and Kanja Odland Roshi, both direct successors in Kapleau's lineage, with all instruction given in English since practitioners come from around the world. Zengården also hosts an annual 3-day introduction retreat for newcomers and a summer retreat with a more relaxed format, alongside city Zen centres the society runs in Stockholm, Gothenburg, Lund and elsewhere in Europe.",
-    "schedule": "Nine sesshins per year (4 or 7 days each), two weekend retreats, an annual summer retreat, and a summer introduction retreat in both Swedish and English; residential training and city-centre sittings continue between scheduled retreats.",
-    "cost": "Fixed per-retreat fees published in an annual member fee schedule; sesshin practice is intended for members and more experienced practitioners, with a paid introduction retreat available for newcomers.",
-    "foodServed": "yes",
-    "foodType": "vegan",
-    "foodNotes": "Residential guests, including short-term visitors such as artists-in-residence, are given three vegan meals a day as part of their stay.",
-    "workRequired": "yes",
-    "workNotes": "Both sesshins and the standard residential training schedule include a daily work period (samu); the ordinary residential schedule includes roughly four hours of work per day alongside formal sitting.",
-    "tags": [
-      "zen",
-      "silent",
-      "work-practice",
-      "diet-vegan",
-      "fixed-fee"
-    ],
-    "sources": [
-      {
-        "title": "Zengården - Welcome",
-        "url": "https://www.zentraining.org/"
-      },
-      {
-        "title": "Zengården - Zen practice (sesshin and residential training)",
-        "url": "https://www.zentraining.org/zenpractice.php"
-      },
-      {
-        "title": "Zenbuddhistiska Samfundet - About us",
-        "url": "https://zazen.se/aboutus_en.php"
-      },
-      {
-        "title": "Zengården - Artist residency",
-        "url": "https://www.zentraining.org/artist_residency.php"
-      }
-    ],
-    "id": "zengarden",
-    "meta": {
-      "generatedBy": "claude (cowork)",
-      "lastUpdated": "2026-07-16",
-      "reviewStatus": "unverified"
-    }
-  },
-  {
     "id": "vajradhara-ling",
     "name": "Vajradhara-Ling",
     "aka": [
@@ -19550,6 +20153,265 @@
     }
   },
   {
+    "id": "ananda-palli",
+    "name": "Ananda Palli",
+    "aka": [
+      "Ananda Marga Ananda Palli Retreat Centre"
+    ],
+    "website": "https://anandamargaoceania.org/",
+    "location": {
+      "address": "463 Back Creek Road, Severnlea QLD 4352, Australia",
+      "city": "Severnlea",
+      "region": "Queensland, Australia",
+      "country": "Australia",
+      "state": "QLD",
+      "lat": -28.35,
+      "lng": 151.93
+    },
+    "tradition": "Ananda Marga (Tantra Yoga / Neohumanist meditation)",
+    "technique": "Sahaj Yoga/Rajadhiraja Yoga meditation practices as taught within Ananda Marga, combined with kiirtan (mantra chanting), taught during retreats and training programs on-site.",
+    "influences": [
+      "Shrii Shrii Anandamurti (Prabhat Ranjan Sarkar, founder of Ananda Marga)"
+    ],
+    "teacherAccess": "Guidance from Ananda Marga meditation instructors (acharyas) during scheduled retreats, conferences, and training programs.",
+    "retreatOptions": "Residential retreats and training programs held through the year, including multi-day meditation and yoga retreats, with indoor and outdoor accommodation plus camping grounds.",
+    "about": "Ananda Palli is Ananda Marga's main retreat centre in Australia, spread across 100 acres of rural land at Severnlea in the Granite Belt region of southern Queensland. The property includes an ashram, a meditation hall, indoor and outdoor accommodation, organic gardens and orchards, re-afforestation plantings, a commercial kitchen, and a self-sufficient water supply, alongside camping grounds used for larger retreats and training programs. As an Ananda Marga centre, its practice centres on the meditation and yoga techniques taught within the organisation - a Tantra-derived system in which structured meditation (rather than physical asana practice) is the central discipline - together with kiirtan chanting of the universal mantra and Neohumanist philosophy. The centre hosts residential retreats and training programs through the year, run largely as a volunteer, service-oriented community in keeping with Ananda Marga's broader mission of self-realisation and service to all.",
+    "schedule": "Retreat schedules combine group meditation sessions, kiirtan chanting, yoga practice, and workshops or training sessions; exact daily timetables vary by program.",
+    "cost": "Retreat and program fees are charged per event and typically include accommodation and vegetarian meals; exact rates vary by program and are published per event.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No single published nightly rate; fees are set per retreat/training program.",
+      "source": "https://anandamargaoceania.org/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Ananda Marga centres serve vegetarian (largely sattvic, plant-based) food in keeping with the organisation's dietary guidelines.",
+    "workRequired": "unknown",
+    "workNotes": "No single structured work requirement is published for all retreat guests; the centre relies substantially on volunteer labour for its farm and facilities.",
+    "tags": [
+      "yoga-hindu",
+      "meals-included",
+      "diet-vegetarian",
+      "camping",
+      "fixed-fee",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "title": "Home - Ananda Marga Australia",
+        "url": "https://anandamargaoceania.org/"
+      },
+      {
+        "title": "Cooperative Communities - Anandamarga",
+        "url": "https://anandamarga.org.au/service/cooperative-communities/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "chenrezig-institute",
+    "name": "Chenrezig Institute",
+    "aka": [
+      "Chenrezig Institute for Wisdom Culture"
+    ],
+    "website": "https://chenrezig.com.au/",
+    "location": {
+      "address": "33 Johnsons Road, Eudlo QLD 4554, Australia",
+      "city": "Eudlo",
+      "region": "Queensland, Australia",
+      "country": "Australia",
+      "state": "QLD",
+      "lat": -26.68,
+      "lng": 152.95
+    },
+    "tradition": "Tibetan Buddhism, Gelug lineage (FPMT)",
+    "technique": "Tibetan Buddhist meditation including lamrim (graduated path) contemplations and Vajrayana practices, taught through structured courses, teachings, and both group and self-guided retreats.",
+    "influences": [
+      "Lama Thubten Yeshe",
+      "Lama Zopa Rinpoche",
+      "FPMT (Foundation for the Preservation of the Mahayana Tradition)"
+    ],
+    "teacherAccess": "Teachings and guidance from the resident Tibetan teacher and visiting FPMT teachers, plus support from the resident monastic and lay community during courses and retreats.",
+    "retreatOptions": "A year-round program of meditation retreats, teachings, and advanced study courses, from short weekend retreats to longer residential retreats, with accommodation ranging from shared hotel-style rooms to solitary retreat huts.",
+    "about": "Chenrezig Institute is perched on the edge of the Blackall Range in the Sunshine Coast hinterland of Queensland, seven kilometres from the township of Eudlo. Established in 1974, it was among the first Tibetan Buddhist centres in the Western world and remains one of the largest, affiliated with the Foundation for the Preservation of the Mahayana Tradition (FPMT) founded by Lama Thubten Yeshe and continued under Lama Zopa Rinpoche. The Institute is home to a resident Tibetan teacher, a community of nuns and monks, and lay students, volunteers, and guests, set across rainforest grounds that include a meditation hall, a vegetarian cafe, an extensive library, and memorial gardens. Its year-round program spans meditation retreats, teachings on Buddhism, and advanced study courses, with accommodation ranging from simple shared hotel-style rooms to solitary retreat huts for those seeking more seclusion.",
+    "schedule": "Retreat schedules vary by program, typically combining group meditation sessions, teachings, and discussion with periods of personal practice; longer retreats may include silent or solitary retreat options in dedicated huts.",
+    "cost": "Course and retreat fees are charged per program and cover accommodation and vegetarian meals; rates vary by accommodation type (shared room, hotel room, or retreat hut) and are published per event.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "Rates are set per course/retreat and per accommodation type (shared, hotel-style, or retreat hut) rather than a single nightly figure; check current course listings for pricing.",
+      "source": "https://chenrezig.com.au/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Vegetarian meals are served to course and retreat participants; the Institute also runs an on-site vegetarian cafe.",
+    "workRequired": "unknown",
+    "workNotes": "No structured work/service requirement is published for short-term retreat guests; longer-term volunteers contribute work in exchange for stay.",
+    "tags": [
+      "tibetan-vajrayana",
+      "long-retreats",
+      "meals-included",
+      "diet-vegetarian",
+      "fixed-fee",
+      "self-guided"
+    ],
+    "sources": [
+      {
+        "title": "Chenrezig Institute | Buddhist Centre & Retreat",
+        "url": "https://chenrezig.com.au/"
+      },
+      {
+        "title": "Chenrezig Institute for Wisdom Culture | Buddhist Council of Queensland",
+        "url": "https://buddhistcouncilofqueensland.org/node/123"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dhamma-rasmi",
+    "name": "Dhamma Rasmi",
+    "aka": [],
+    "website": "https://rasmi.dhamma.org",
+    "location": {
+      "address": "Rules Road, Pomona QLD 4568, Australia",
+      "city": "Pomona",
+      "region": "Queensland, Australia",
+      "country": "Australia",
+      "state": "QLD",
+      "lat": -26.379,
+      "lng": 152.847
+    },
+    "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+    "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+    "influences": [
+      "S.N. Goenka",
+      "Sayagyi U Ba Khin"
+    ],
+    "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions and give interviews during the rest period.",
+    "retreatOptions": "Ten-day residential Vipassana courses held several times a year (the centre's standard and primary offering), plus 1- to 3-day refresher courses and longer old-student courses for students who have already completed a ten-day course, and one-day children's and teenagers' Anapana courses.",
+    "about": "Dhamma Rasmi is the Goenka-tradition Vipassana meditation centre for Queensland, Australia, Located in a rural setting on the Sunshine Coast, about two hours from Brisbane.  The centre's facilities include a meditation hall, kitchen/dining building, and separate accommodation and ablution blocks for men and women. The centre offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin several times a year, conducted using audio and video recordings of Goenka's instructions and discourses with certified assistant teachers on site to give interviews and answer meditation-related questions. Students live on site for the full course, observe Noble Silence until the morning of the last full day, and follow the standard Goenka daily schedule of roughly ten hours of sitting practice a day. As at every centre in the worldwide Goenka network, there are no fees of any kind — courses, food, and lodging are offered purely on a dana (voluntary donation) basis by past students who have completed at least one prior course.",
+    "schedule": "Standard Goenka ten-day course schedule: arrival and registration on the start day, followed by ten full days of silent sitting meditation (roughly 4am-9:30pm) with recorded evening discourses, and course close around 7am on the final day followed by breakfast and departure by mid-morning; Noble Silence is observed by all students until the morning of the last full day.",
+    "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food, and accommodation are offered freely, funded by donations from past students who have completed at least one prior course.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students, none of whom - including teachers and organisers - receive any payment for their service.",
+      "source": "https://rasmi.dhamma.org/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; simple vegetarian meals throughout, with old students keeping the no-eating-after-midday precept while new students may have tea and fruit at the evening break.",
+    "workRequired": "partial",
+    "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses as Dhamma volunteers or join dedicated old-student work periods for centre maintenance; new students are not required to work during their first course.",
+    "tags": [
+      "goenka",
+      "silent",
+      "long-retreats",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "title": "Dhamma Rasmi - Vipassana Meditation as Taught by S.N. Goenka",
+        "url": "https://rasmi.dhamma.org/"
+      },
+      {
+        "title": "Vipassana meditation in Australia",
+        "url": "https://au.dhamma.org/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dhammagiri-forest-hermitage",
+    "name": "Dhammagiri Forest Hermitage",
+    "aka": [
+      "Dhammagiri Forest Monastery"
+    ],
+    "website": "https://www.dhammagiri.net/",
+    "location": {
+      "address": "10 Ben Varden Avenue, Kholo QLD 4306, Australia",
+      "city": "Kholo",
+      "region": "Queensland, Australia",
+      "country": "Australia",
+      "state": "QLD",
+      "lat": -27.57,
+      "lng": 152.75
+    },
+    "tradition": "Theravada Buddhism, Thai Forest Tradition (Ajahn Chah lineage)",
+    "technique": "Silent sitting and walking meditation in the Thai Forest tradition of Ajahn Chah, combined with chanting, guided meditation, and Dhamma talks from the resident sangha.",
+    "influences": [
+      "Ajahn Chah",
+      "Ajahn Dhammasiha (founding abbot)"
+    ],
+    "teacherAccess": "Chanting, Dhamma talks, and guided meditation from resident monastics during Weekend Programs and by arrangement for guests staying to experience monastic life.",
+    "retreatOptions": "Weekend Programs with chanting, Dhamma talks, and guided meditation; one-day retreats; and longer residential stays (several days to weeks) for lay guests keeping 8 precepts to experience monastic life, with limited accommodation for a small number of male and female guests.",
+    "about": "Dhammagiri Forest Hermitage is a Theravada Buddhist monastery in the lineage of Ajahn Chah, close to D'Aguilar National Park about 45 minutes from Brisbane's CBD in the Kholo district of Queensland. It was founded in 2007 under the leadership of Ajahn Dhammasiha. The hermitage provides secluded accommodation for a small number of male and female lay guests wishing to experience monastic life on 8 precepts for several days or weeks, alongside a regular program of Weekend Programs (chanting, Dhamma talks, and guided meditation) and one-day retreats. Daily opportunities are also offered for visitors to bring almsfood to the resident sangha.",
+    "schedule": "Weekend Programs combine chanting, Dhamma talks, and guided meditation sessions; longer guest stays follow the resident sangha's daily monastic schedule of sitting and walking meditation, chanting, and a main meal before noon.",
+    "cost": "No set fee; the hermitage and its programs are supported by dana (donation) from visitors and guests.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested per-night amount is published; guest stays and programs are supported by donation only.",
+      "source": "https://www.dhammagiri.net/retreats-page"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "A main vegetarian meal is offered before noon daily to resident guests, in keeping with Theravada monastic practice of not eating after midday.",
+    "workRequired": "partial",
+    "workNotes": "Longer-term lay guests keeping 8 precepts are generally expected to help with communal chores and hermitage upkeep as part of monastic life.",
+    "tags": [
+      "theravada",
+      "silent",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "title": "Dhammagiri | Buddhist Monastery | Brisbane",
+        "url": "https://www.dhammagiri.net/"
+      },
+      {
+        "title": "Retreats | Dhammagiri Forest Hermitage",
+        "url": "https://www.dhammagiri.net/retreats-page"
+      },
+      {
+        "title": "Ajahn Chah Monasteries | Dhammagiri",
+        "url": "https://www.dhammagiri.net/about-3-11"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "north-carolina-zen-center",
     "name": "North Carolina Zen Center",
     "aka": [
@@ -21373,6 +22235,134 @@
       {
         "title": "Rabten Tashi Ling temple profile — Dorje Shugden temple directory",
         "url": "https://www.dorjeshugden.org/temples/rabten-tashi-ling"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "de-tong-ling",
+    "name": "De-Tong Ling Retreat Centre",
+    "aka": [
+      "De-Tong Ling Buddhist Retreat Centre"
+    ],
+    "website": "https://detongling.org/",
+    "location": {
+      "address": "433 Snug Cove Road, Gosse, Kangaroo Island SA 5223, Australia",
+      "city": "Gosse, Kangaroo Island",
+      "region": "South Australia, Australia",
+      "country": "Australia",
+      "state": "SA",
+      "lat": -35.72,
+      "lng": 136.68
+    },
+    "tradition": "Tibetan Buddhism, Gelug lineage (FPMT)",
+    "technique": "Tibetan Buddhist lamrim (graduated path) meditation and individual retreat practice, offered through both self-guided individual retreats and organised group retreats (including the annual Lam Rim retreat).",
+    "influences": [
+      "Lama Zopa Rinpoche",
+      "FPMT (Foundation for the Preservation of the Mahayana Tradition)"
+    ],
+    "teacherAccess": "Teacher-led group retreats held at least twice a year (an Easter retreat and the annual October Lam Rim retreat); individual retreatants practise largely self-guided, supported by FPMT study materials.",
+    "retreatOptions": "Individual self-guided retreats of flexible length in private self-contained retreat houses, plus at least two organised group retreats a year - a four-day Easter retreat and a ten-day Lam Rim retreat each October.",
+    "about": "De-Tong Ling Retreat Centre, meaning 'Place of Bliss and Emptiness,' is a Tibetan Buddhist retreat centre affiliated with the FPMT, set on 1,300 acres of pristine native bush at the north-western end of Kangaroo Island, South Australia. Established in 1988, the centre offers individual retreat accommodation in four private, self-contained rammed-earth and timber houses, each designed to blend into the bush and powered by solar energy with rainwater supply, giving retreatants long views over native forest to the ocean and Investigator Strait beyond. The site also houses the largest completed stupa in Australia, a 14-metre Enlightenment Stupa with an underground gompa (shrine room). De-Tong Ling follows the spiritual direction of Lama Zopa Rinpoche and FPMT's educational programs, hosting at least two organised group retreats a year - a four-day retreat over Easter and a ten-day Lam Rim retreat each October - alongside ongoing individual self-guided retreats.",
+    "schedule": "Individual retreatants set their own daily meditation schedule in their private retreat house; organised group retreats (Easter and the October Lam Rim retreat) follow a structured program of teachings and guided practice with visiting teachers.",
+    "cost": "Individual retreat accommodation and organised group retreats are charged per stay/event; exact rates are set per program and published on the centre's website.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No single published nightly rate; individual retreat house stays and group retreats (Easter, October Lam Rim) are priced separately per booking.",
+      "source": "https://detongling.org/retreat/individual-retreat/"
+    },
+    "foodServed": "unknown",
+    "foodType": "unknown",
+    "foodNotes": "Catering arrangements are not detailed on the public retreat pages; individual retreatants in the self-contained houses may be responsible for their own food.",
+    "workRequired": "unknown",
+    "workNotes": "No structured work/service requirement is published for retreat guests.",
+    "tags": [
+      "tibetan-vajrayana",
+      "self-guided",
+      "fixed-fee"
+    ],
+    "sources": [
+      {
+        "title": "De-Tong Ling Buddhist Retreat Centre",
+        "url": "https://detongling.org/"
+      },
+      {
+        "title": "Individual Retreat | De-Tong Ling Retreat Centre",
+        "url": "https://detongling.org/retreat/individual-retreat/"
+      },
+      {
+        "title": "De-Tong Ling Retreat Centre: Down Under, a Meditator's Paradise - Mandala Publications",
+        "url": "https://fpmt.org/mandala/archives/mandala-for-2017/january/de-tong-ling-retreat-centre-down-under-a-meditators-paradise/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dhamma-ujjala",
+    "name": "Dhamma Ujjala",
+    "aka": [],
+    "website": "https://ujjala.dhamma.org",
+    "location": {
+      "address": "Lot 52, Emu Flat Road, Clare SA 5453, Australia",
+      "city": "Clare",
+      "region": "South Australia, Australia",
+      "country": "Australia",
+      "state": "SA",
+      "lat": -33.85,
+      "lng": 138.62
+    },
+    "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+    "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+    "influences": [
+      "S.N. Goenka",
+      "Sayagyi U Ba Khin"
+    ],
+    "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions and give interviews during the rest period.",
+    "retreatOptions": "Ten-day residential Vipassana courses held several times a year (the centre's standard and primary offering), plus 1- to 3-day refresher courses and longer old-student courses for students who have already completed a ten-day course, and one-day children's and teenagers' Anapana courses.",
+    "about": "Dhamma Ujjala is the Goenka-tradition Vipassana meditation centre for South Australia, Australia, Set on 50 acres of gently sloping land in the tranquil Clare Valley, around 140km north of Adelaide.  Centre facilities include a mixture of accommodation types, ablution blocks, a commercial kitchen, and a meditation hall connected by pathways. The centre offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin several times a year, conducted using audio and video recordings of Goenka's instructions and discourses with certified assistant teachers on site to give interviews and answer meditation-related questions. Students live on site for the full course, observe Noble Silence until the morning of the last full day, and follow the standard Goenka daily schedule of roughly ten hours of sitting practice a day. As at every centre in the worldwide Goenka network, there are no fees of any kind — courses, food, and lodging are offered purely on a dana (voluntary donation) basis by past students who have completed at least one prior course.",
+    "schedule": "Standard Goenka ten-day course schedule: arrival and registration on the start day, followed by ten full days of silent sitting meditation (roughly 4am-9:30pm) with recorded evening discourses, and course close around 7am on the final day followed by breakfast and departure by mid-morning; Noble Silence is observed by all students until the morning of the last full day.",
+    "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food, and accommodation are offered freely, funded by donations from past students who have completed at least one prior course.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students, none of whom - including teachers and organisers - receive any payment for their service.",
+      "source": "https://ujjala.dhamma.org/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; simple vegetarian meals throughout, with old students keeping the no-eating-after-midday precept while new students may have tea and fruit at the evening break.",
+    "workRequired": "partial",
+    "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses as Dhamma volunteers or join dedicated old-student work periods for centre maintenance; new students are not required to work during their first course.",
+    "tags": [
+      "goenka",
+      "silent",
+      "long-retreats",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "title": "Dhamma Ujjala - Vipassana Meditation as Taught by S.N. Goenka",
+        "url": "https://ujjala.dhamma.org/"
+      },
+      {
+        "title": "Vipassana meditation in Australia",
+        "url": "https://au.dhamma.org/"
       }
     ],
     "meta": {
@@ -23862,6 +24852,137 @@
     }
   },
   {
+    "id": "dhamma-pabha",
+    "name": "Dhamma Pabhā",
+    "aka": [],
+    "website": "https://pabha.dhamma.org",
+    "location": {
+      "address": "Postal address: GPO Box 6, Hobart TAS 7001, Australia",
+      "city": "Hobart",
+      "region": "Tasmania, Australia",
+      "country": "Australia",
+      "state": "TAS",
+      "lat": -42.75,
+      "lng": 147.15
+    },
+    "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+    "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+    "influences": [
+      "S.N. Goenka",
+      "Sayagyi U Ba Khin"
+    ],
+    "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions and give interviews during the rest period.",
+    "retreatOptions": "Ten-day residential Vipassana courses held several times a year (the centre's standard and primary offering), plus 1- to 3-day refresher courses and longer old-student courses for students who have already completed a ten-day course, and one-day children's and teenagers' Anapana courses.",
+    "about": "Dhamma Pabhā is the Goenka-tradition Vipassana meditation centre for Tasmania, Australia, Nestled in a forest on the slopes of Mount Dromedary, forty minutes by road from Hobart.  The centre is set among tall trees and bushland, far from the noise of traffic or trains, with only the sounds of native wildlife. The centre offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin several times a year, conducted using audio and video recordings of Goenka's instructions and discourses with certified assistant teachers on site to give interviews and answer meditation-related questions. Students live on site for the full course, observe Noble Silence until the morning of the last full day, and follow the standard Goenka daily schedule of roughly ten hours of sitting practice a day. As at every centre in the worldwide Goenka network, there are no fees of any kind — courses, food, and lodging are offered purely on a dana (voluntary donation) basis by past students who have completed at least one prior course.",
+    "schedule": "Standard Goenka ten-day course schedule: arrival and registration on the start day, followed by ten full days of silent sitting meditation (roughly 4am-9:30pm) with recorded evening discourses, and course close around 7am on the final day followed by breakfast and departure by mid-morning; Noble Silence is observed by all students until the morning of the last full day.",
+    "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food, and accommodation are offered freely, funded by donations from past students who have completed at least one prior course.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students, none of whom - including teachers and organisers - receive any payment for their service.",
+      "source": "https://pabha.dhamma.org/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; simple vegetarian meals throughout, with old students keeping the no-eating-after-midday precept while new students may have tea and fruit at the evening break.",
+    "workRequired": "partial",
+    "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses as Dhamma volunteers or join dedicated old-student work periods for centre maintenance; new students are not required to work during their first course.",
+    "tags": [
+      "goenka",
+      "silent",
+      "long-retreats",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "title": "Dhamma Pabhā - Vipassana Meditation as Taught by S.N. Goenka",
+        "url": "https://pabha.dhamma.org/"
+      },
+      {
+        "title": "Vipassana meditation in Australia",
+        "url": "https://au.dhamma.org/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dorje-ling-retreat-centre",
+    "name": "Dorje Ling Retreat Centre",
+    "aka": [
+      "Illusion Farm",
+      "Hobart Buddhist Meditation Centre",
+      "Tashi Choling Dharma Foundation"
+    ],
+    "website": "https://www.tashicholing.net/dorje-ling-retreat-centre/",
+    "location": {
+      "address": "Lorinna Valley, Lorinna TAS 7306, Australia",
+      "city": "Lorinna",
+      "region": "Tasmania, Australia",
+      "country": "Australia",
+      "state": "TAS",
+      "lat": -41.66,
+      "lng": 146.18
+    },
+    "tradition": "Tibetan Buddhism, Gelug lineage",
+    "technique": "Tibetan Buddhist meditation and lamrim (graduated path) practice, offered through both self-guided personal retreats and periodic group retreats led by the centre's spiritual director.",
+    "influences": [
+      "Zasep Tulku Rinpoche (spiritual director)",
+      "Gaden lineage"
+    ],
+    "teacherAccess": "Periodic teacher-led retreats with Zasep Tulku Rinpoche, spiritual director of the Tashi Choling Dharma Foundation, alongside self-guided personal/solo retreats supported by the caretaker.",
+    "retreatOptions": "Self-guided solo and small-group retreats of flexible length in retreat huts or the teacher's residence, plus periodic group retreats with Zasep Tulku Rinpoche; camping space is also available.",
+    "about": "Dorje Ling Retreat Centre, previously known as Illusion Farm, is regarded as Australia's oldest Buddhist retreat centre, established in the mid-1970s in the remote and secluded Lorinna Valley in the heart of Tasmania, near the Cradle Mountain World Heritage area. Run by the Tashi Choling Dharma Foundation under spiritual director Zasep Tulku Rinpoche in the Gelug lineage, the 48-acre property includes a hexagonal log meditation hall (gompa), a kitchen/dining building, a caretaker's/manager's house, a self-contained long-term retreat house used as the teacher's residence, solar-powered showers, several retreat huts, and ample camping space, all connected by walking and meditation tracks through native forest above a lake. The centre supports both self-guided personal retreats booked through the caretaker and periodic group retreats and teachings led by Zasep Tulku Rinpoche.",
+    "schedule": "Self-guided retreatants set their own daily meditation schedule; organised group retreats follow a structured program of teachings and guided practice with Zasep Tulku Rinpoche when he visits.",
+    "cost": "Bookings and donations are arranged directly with the centre to cover the retreat house/huts and contribute to loan repayments and upkeep; no fixed nightly rate is published.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested per-night amount is published; bookings and contributions are arranged directly with the centre via its booking page.",
+      "source": "https://www.tashicholing.net/dorje-ling-retreat-centre/bookings/"
+    },
+    "foodServed": "no",
+    "foodType": "unknown",
+    "foodNotes": "The centre is self-catered; retreatants are generally responsible for bringing and preparing their own food in the on-site kitchen/dining building.",
+    "workRequired": "unknown",
+    "workNotes": "No structured work/service requirement is published for retreat guests.",
+    "tags": [
+      "tibetan-vajrayana",
+      "self-guided",
+      "camping",
+      "dana-donation"
+    ],
+    "sources": [
+      {
+        "title": "Dorje Ling - Hobart Buddhist Meditation Centre",
+        "url": "https://www.tashicholing.net/dorje-ling-retreat-centre/"
+      },
+      {
+        "title": "Booking Dorje Ling Retreat Centre for a Retreat",
+        "url": "https://www.tashicholing.net/dorje-ling-retreat-centre/bookings/"
+      },
+      {
+        "title": "Hobart Buddhist Meditation Centre - Incorporating Dorje Ling Retreat Centre",
+        "url": "https://www.tashicholing.net/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "altbaeckersmuehle",
     "name": "Altbäckersmühle",
     "aka": [
@@ -25597,6 +26718,404 @@
     }
   },
   {
+    "id": "atisha-centre",
+    "name": "Atisha Centre",
+    "aka": [
+      "Atisha Buddhist Centre Bendigo"
+    ],
+    "website": "https://atishacentre.org.au/",
+    "location": {
+      "address": "25 Sandhurst Town Road, Myers Flat VIC 3556, Australia",
+      "city": "Myers Flat",
+      "region": "Victoria, Australia",
+      "country": "Australia",
+      "state": "VIC",
+      "lat": -36.85,
+      "lng": 144.2
+    },
+    "tradition": "Tibetan Buddhism, Gelug lineage (FPMT)",
+    "technique": "Tibetan Buddhist meditation including lamrim (graduated path) contemplations, taught through courses, teachings, and residential retreats in the FPMT (Foundation for the Preservation of the Mahayana Tradition) style.",
+    "influences": [
+      "Lama Thubten Yeshe",
+      "Lama Zopa Rinpoche",
+      "FPMT"
+    ],
+    "teacherAccess": "Teachings and guidance from resident and visiting FPMT teachers during courses and retreats; the centre is closely linked with the neighbouring Thubten Shedrup Ling Monastery.",
+    "retreatOptions": "A regular program of meditation retreats, courses, and teachings held on-site, from weekend programs to longer residential retreats, with a range of accommodation options including camping.",
+    "about": "Atisha Centre is a Mahayana Buddhist retreat centre and hub of Buddhist education affiliated with the FPMT (Foundation for the Preservation of the Mahayana Tradition), set in quiet native bushland at Myers Flat near Bendigo in central Victoria. Founded in 1981, it sits close to the Great Stupa of Universal Compassion and Thubten Shedrup Ling Monastery, where monks devote themselves to study and meditation. Facilities include a meditation hall, native gardens, a library, and an accommodation block with twin-share and multi-share rooms in its 'She Di Kang Sar House of Blissful Peace', as well as camping options for unpowered tents and caravans. The centre runs a year-round program of meditation retreats, teachings on Buddhism, and courses drawing on the lamrim graduated-path tradition, supported by a vegetarian catering service.",
+    "schedule": "Retreat schedules vary by program, typically combining group meditation and lamrim teaching sessions with discussion and personal practice time.",
+    "cost": "Accommodation is charged per night by room type (single or shared, with or without ensuite) or camping, in addition to course/retreat fees.",
+    "pricePerDay": {
+      "min": 20,
+      "max": 90,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "Published per-night accommodation rates: single room shared bathroom $70, shared room shared bathroom $50, single room ensuite $90, double room ensuite $60 (per person), unpowered camping/caravan sites $20; course/retreat fees are additional.",
+      "source": "https://atishacentre.org.au/accommodation/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Vegetarian meals are available through the centre's catering service for course and retreat participants.",
+    "workRequired": "unknown",
+    "workNotes": "No structured work/service requirement is published for short-term retreat guests.",
+    "tags": [
+      "tibetan-vajrayana",
+      "meals-included",
+      "diet-vegetarian",
+      "camping",
+      "fixed-fee"
+    ],
+    "sources": [
+      {
+        "title": "Atisha Centre - Buddhist Meditation, Education and Retreat Centre",
+        "url": "https://atishacentre.org.au/"
+      },
+      {
+        "title": "Accommodation - Atisha Centre",
+        "url": "https://atishacentre.org.au/accommodation/"
+      },
+      {
+        "title": "About Us - Atisha Centre Bendigo",
+        "url": "https://atishacentre.org.au/about-us/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "buddha-bodhivana-monastery",
+    "name": "Buddha Bodhivana Monastery",
+    "aka": [
+      "Bodhivana Forest Monastery",
+      "Wat Buddha Bodhivana"
+    ],
+    "website": "https://www.buddhabodhivana.org/",
+    "location": {
+      "address": "780 Woods Point Road, East Warburton VIC 3799, Australia",
+      "city": "East Warburton",
+      "region": "Victoria, Australia",
+      "country": "Australia",
+      "state": "VIC",
+      "lat": -37.775,
+      "lng": 145.72
+    },
+    "tradition": "Theravada Buddhism, Thai Forest Tradition (Ajahn Chah lineage)",
+    "technique": "Silent sitting and walking meditation in the Thai Forest tradition of Ajahn Chah as transmitted through Ajahn Anan, combined with chanting and daily Dhamma teaching from the resident sangha.",
+    "influences": [
+      "Ajahn Chah",
+      "Ajahn Anan (Wat Marp Jan)",
+      "Ajahn Kalyano (abbot)"
+    ],
+    "teacherAccess": "Daily teaching on Buddhist philosophy and meditation from Ajahn Kalyano and the resident monks, with regular meditation workshops and retreats.",
+    "retreatOptions": "Regularly held meditation retreats and workshops on the monastery grounds, alongside longer residential stays for those training in the monastic community.",
+    "about": "Buddha Bodhivana Monastery is a branch monastery in the lineage of the late Ajahn Chah, on 450 acres of forest land on the edge of the Yarra Ranges National Park at East Warburton, about 90 minutes' drive east of Melbourne. It traces its founding to a 1998 visit to Australia by Venerable Ajahn Anan (a senior disciple of Ajahn Chah) and Venerable Ajahn Kalyano; local supporters subsequently formed the Victoria Sangha Association in 2000 to purchase a forested 75-acre property (since expanded to 450 acres), which was formally offered to Ajahn Anan and named Buddha Bodhivana - 'the Forest of the Buddha's Enlightened Knowledge.' Ajahn Kalyano has been resident abbot since 2001. The monastery is primarily a training community for monks, novices, and postulants, but also welcomes lay visitors, families, and residents to take part in its regular meditation workshops and retreats and to stay overnight sharing in the monastic schedule.",
+    "schedule": "Daily monastic schedule of sitting and walking meditation, chanting, and Dhamma teaching, with a main meal taken before noon in keeping with Theravada monastic practice; retreat and workshop schedules follow the same rhythm.",
+    "cost": "No set fee; the monastery and its retreats/workshops are supported by dana (donation) from visitors and supporters.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested per-night amount is published; overnight stays and retreats are supported by donation only.",
+      "source": "https://www.buddhabodhivana.org/visiting/overnight-visits"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "A main vegetarian meal is offered before noon daily, in keeping with Theravada monastic practice of not eating after midday.",
+    "workRequired": "partial",
+    "workNotes": "Overnight guests are generally expected to help with communal chores and monastery upkeep as part of the daily schedule.",
+    "tags": [
+      "theravada",
+      "silent",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "work-practice",
+      "monastic-community",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "title": "Buddha Bodhivana Monastery - A Buddhist Monastery in the Ajahn Chah Thai Forest Tradition",
+        "url": "https://www.buddhabodhivana.org/"
+      },
+      {
+        "title": "About the Monastery - Buddha Bodhivana Monastery",
+        "url": "https://www.buddhabodhivana.org/about/the-monastery/"
+      },
+      {
+        "title": "Overnight Visits - Buddha Bodhivana Monastery",
+        "url": "https://www.buddhabodhivana.org/visiting/overnight-visits"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dhamma-aloka",
+    "name": "Dhamma Āloka",
+    "aka": [],
+    "website": "https://aloka.dhamma.org",
+    "location": {
+      "address": "Woori Yallock VIC 3139, Australia",
+      "city": "Woori Yallock",
+      "region": "Victoria, Australia",
+      "country": "Australia",
+      "state": "VIC",
+      "lat": -37.716,
+      "lng": 145.55
+    },
+    "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+    "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+    "influences": [
+      "S.N. Goenka",
+      "Sayagyi U Ba Khin"
+    ],
+    "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions and give interviews during the rest period.",
+    "retreatOptions": "Ten-day residential Vipassana courses held several times a year (the centre's standard and primary offering), plus 1- to 3-day refresher courses and longer old-student courses for students who have already completed a ten-day course, and one-day children's and teenagers' Anapana courses.",
+    "about": "Dhamma Āloka is the Goenka-tradition Vipassana meditation centre for Victoria, Australia, Situated on a hill adjoining a reserve on the banks of the Yarra River at Woori Yallock, one hour's drive east of Melbourne.  The centre includes a meditation hall, kitchen/dining facility, and separate accommodation and ablution blocks for men and women, ten kilometres from the Healesville Sanctuary. The centre offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin several times a year, conducted using audio and video recordings of Goenka's instructions and discourses with certified assistant teachers on site to give interviews and answer meditation-related questions. Students live on site for the full course, observe Noble Silence until the morning of the last full day, and follow the standard Goenka daily schedule of roughly ten hours of sitting practice a day. As at every centre in the worldwide Goenka network, there are no fees of any kind — courses, food, and lodging are offered purely on a dana (voluntary donation) basis by past students who have completed at least one prior course.",
+    "schedule": "Standard Goenka ten-day course schedule: arrival and registration on the start day, followed by ten full days of silent sitting meditation (roughly 4am-9:30pm) with recorded evening discourses, and course close around 7am on the final day followed by breakfast and departure by mid-morning; Noble Silence is observed by all students until the morning of the last full day.",
+    "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food, and accommodation are offered freely, funded by donations from past students who have completed at least one prior course.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students, none of whom - including teachers and organisers - receive any payment for their service.",
+      "source": "https://aloka.dhamma.org/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; simple vegetarian meals throughout, with old students keeping the no-eating-after-midday precept while new students may have tea and fruit at the evening break.",
+    "workRequired": "partial",
+    "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses as Dhamma volunteers or join dedicated old-student work periods for centre maintenance; new students are not required to work during their first course.",
+    "tags": [
+      "goenka",
+      "silent",
+      "long-retreats",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "title": "Dhamma Āloka - Vipassana Meditation as Taught by S.N. Goenka",
+        "url": "https://aloka.dhamma.org/"
+      },
+      {
+        "title": "Vipassana meditation in Australia",
+        "url": "https://au.dhamma.org/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "kadampa-meditation-centre-australia",
+    "name": "Kadampa Meditation Centre Australia",
+    "aka": [
+      "KMCA",
+      "Monbulk Kadampa"
+    ],
+    "website": "https://www.meditateinmelbourne.org/pages/our-centres-kmca",
+    "location": {
+      "address": "25 McCarthy Road, Monbulk VIC 3793, Australia",
+      "city": "Monbulk",
+      "region": "Victoria, Australia",
+      "country": "Australia",
+      "state": "VIC",
+      "lat": -37.864,
+      "lng": 145.397
+    },
+    "tradition": "Tibetan Buddhism, Kadampa lineage (New Kadampa Tradition)",
+    "technique": "Kadampa Buddhist meditation combining guided analytical and placement meditation with lamrim (stages of the path) teachings, taught through weekend and multi-day residential retreats, some held in silence.",
+    "influences": [
+      "Geshe Kelsang Gyatso Rinpoche",
+      "New Kadampa Tradition - International Kadampa Buddhist Union (NKT-IKBU)"
+    ],
+    "teacherAccess": "Guided meditations and teachings from the resident teacher, Gen Kelsang Rabten, and visiting Kadampa teachers during retreats and courses.",
+    "retreatOptions": "A regular calendar of residential retreats at the centre's own temple property, including weekend meditation retreats, silent weekend retreats, and longer retreats (multi-day silent retreats and month-long counting retreats).",
+    "about": "Kadampa Meditation Centre Australia (KMCA) is the national centre for Kadampa Buddhism in Australia, an hour outside Melbourne in the Dandenong Ranges at Monbulk. The centre is built around a purpose-built Buddhist Temple for World Peace and is home to a residential community of monks, nuns, and lay practitioners within the New Kadampa Tradition founded by Geshe Kelsang Gyatso Rinpoche. KMCA runs a year-round program of classes, workshops, and residential retreats - including weekend meditation retreats, silent weekend retreats, and longer retreats such as a multi-day silent retreat on the Heart Sutra and a month-long Vajrayogini counting retreat - led by resident teacher Gen Kelsang Rabten and visiting Kadampa teachers. On-site accommodation ranges from ensuite and shared rooms to dorm rooms, pre-erected tents, and camping.",
+    "schedule": "Retreat days combine guided meditation sessions with Buddhist teachings; silent retreats add periods of Noble Silence between sessions, while longer retreats (e.g. the Vajrayogini counting retreat) follow an extended practice schedule over several weeks.",
+    "cost": "Retreat and course fees are charged per event and cover teaching; accommodation is booked and charged separately by room type.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No single published nightly rate; retreat/course fees and accommodation (ensuite, shared, dorm, or camping) are booked and priced separately per event on the online shop.",
+      "source": "https://www.meditateinmelbourne.org/pages/our-centres-kmca"
+    },
+    "foodServed": "unknown",
+    "foodType": "unknown",
+    "foodNotes": "Catering arrangements are not detailed on the public retreat pages; check individual retreat listings for meal inclusions.",
+    "workRequired": "unknown",
+    "workNotes": "No structured work/service requirement is published for short retreat guests.",
+    "tags": [
+      "tibetan-vajrayana",
+      "silent",
+      "long-retreats",
+      "camping",
+      "fixed-fee"
+    ],
+    "sources": [
+      {
+        "title": "Our Centres | KMCA - kmc australia",
+        "url": "https://www.meditateinmelbourne.org/pages/our-centres-kmca"
+      },
+      {
+        "title": "Kadampa Meditation Centre, Australia - Tibetan Buddhist Encyclopedia",
+        "url": "http://tibetanbuddhistencyclopedia.com/en/index.php/Kadampa_Meditation_Centre,_Australia"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "newbury-buddhist-monastery",
+    "name": "Newbury Buddhist Monastery",
+    "aka": [
+      "NBM"
+    ],
+    "website": "https://www.bsv.net.au/retreat-centre/",
+    "location": {
+      "address": "107 Beaches Lane, Newbury VIC 3458, Australia",
+      "city": "Newbury",
+      "region": "Victoria, Australia",
+      "country": "Australia",
+      "state": "VIC",
+      "lat": -37.4,
+      "lng": 144.35
+    },
+    "tradition": "Theravada Buddhism (early Suttas and Vinaya)",
+    "technique": "Silent sitting and walking meditation grounded in the early Buddhist Suttas and Vinaya shared across Theravada traditions, with monastics from multiple traditions and countries welcomed to teach and reside.",
+    "influences": [
+      "Buddhist Society of Victoria",
+      "Bhante Jag",
+      "Ayya Upekkha",
+      "Ajahn Ariyasilo"
+    ],
+    "teacherAccess": "Guidance from resident monastics during retreats; the monastery is supported by teachers including Bhante Jag, Ayya Upekkha, and visiting monastics from Bodhinyana and other Theravada communities.",
+    "retreatOptions": "Residential retreats focused on meditation and solitude held on-site, run under 8 precepts by the Buddhist Society of Victoria (BSV), Australia's oldest Theravada Buddhist teaching centre (established 1953).",
+    "about": "Newbury Buddhist Monastery is set on 150 acres of rolling countryside in the Wombat State Forest, between Trentham and Blackwood about 70 minutes from central Melbourne. It is the monastery of the Buddhist Society of Victoria (BSV), founded in 1953 as Australia's oldest Theravada Buddhist teaching centre, and follows the early Suttas and Vinaya shared across Theravada traditions, welcoming monastics from any country or lineage to stay and teach. Resident monastics including Bhante Jag and Ayya Upekkha, assisted by visiting teachers such as Achan Api from Bodhinyana Monastery, lead residential retreats focused on meditation and solitude in a natural bushland setting, observing the 8 precepts.",
+    "schedule": "Retreat schedule follows a Theravada monastic rhythm of sitting and walking meditation, chanting, and a main meal before noon, observing the 8 precepts for the duration of the stay.",
+    "cost": "Retreats are run on a donation basis in keeping with BSV's broader Theravada practice; exact arrangements are set per retreat.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested per-night amount is published; retreats are supported by dana (donation).",
+      "source": "https://www.bsv.net.au/retreat-centre/about-us/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "A main vegetarian meal is offered before noon, in keeping with Theravada monastic practice of not eating after midday.",
+    "workRequired": "partial",
+    "workNotes": "Retreatants observing the 8 precepts are generally expected to help with communal chores as part of monastery life.",
+    "tags": [
+      "theravada",
+      "silent",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "title": "About Retreat Centre | Buddhist Society Of Victoria (BSV)",
+        "url": "https://www.bsv.net.au/retreat-centre/about-us/"
+      },
+      {
+        "title": "Retreat Centre | Buddhist Society Of Victoria (BSV)",
+        "url": "https://www.bsv.net.au/retreat-centre/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "siba-retreat-centre",
+    "name": "SIBA Retreat Centre",
+    "aka": [
+      "Sakya International Buddhist Academy",
+      "ONTOS"
+    ],
+    "website": "https://sakya.com.au/siba-retreat-centre-victoria/",
+    "location": {
+      "address": "2592 Gelantipy Road, W Tree VIC 3885, Australia",
+      "city": "W Tree",
+      "region": "Victoria, Australia",
+      "country": "Australia",
+      "state": "VIC",
+      "lat": -37.31,
+      "lng": 148.36
+    },
+    "tradition": "Tibetan Buddhism, Sakya lineage",
+    "technique": "Tibetan Buddhist meditation, contemplation, and study in the Sakya lineage, offered through workshops and both group and private retreats guided by resident and visiting teachers.",
+    "influences": [
+      "Lama Choedak Rinpoche (founder)",
+      "His Eminence Chogye Trichen Rinpoche",
+      "43rd Sakya Trizin"
+    ],
+    "teacherAccess": "Teachings, empowerments, and retreat guidance from visiting Sakya lineage teachers (including His Holiness the 43rd Sakya Trizin) and the centre's resident volunteer community.",
+    "retreatOptions": "Group and private meditation retreats and teaching weekends held on the property year-round, with en-suite accommodation units and solo cabins.",
+    "about": "SIBA Retreat Centre is a Tibetan Buddhist retreat centre in the Sakya lineage set in the Snowy River country of East Gippsland, Victoria, on 108 acres that include a vegetable garden, orchard, and pasture for rescued animals alongside native bush. Founded by Lama Choedak Rinpoche as ONTOS and formally consecrated by His Eminence Chogye Trichen Rinpoche in 2006, it is run by the Tibetan Buddhist Society of Canberra (Sakya Losal Choe Dzong). The centre has three meditation halls (the largest seating over 300), a geodesic-domed dining room and commercial kitchen, and accommodation in 16 en-suite units plus six solo cabins. As a volunteer-run, not-for-profit centre, SIBA hosts study, contemplation, and meditation retreats and workshops, including empowerments and retreats led by senior Sakya lineage teachers, with vegetarian food largely sourced from its own garden.",
+    "schedule": "Retreat and teaching schedules are set per event, typically combining group meditation sessions with teachings, empowerments, or contemplative study led by the visiting or resident teacher.",
+    "cost": "Retreat and teaching fees are set per event and generally include accommodation and vegetarian meals.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No single published nightly rate; fees are set per retreat/teaching event.",
+      "source": "https://sakya.com.au/siba-retreat-centre-victoria/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "All food served is vegetarian, much of it grown in the centre's own one-acre vegetable garden and five-acre orchard.",
+    "workRequired": "unknown",
+    "workNotes": "No structured work/service requirement is published for retreat guests; the centre relies on volunteer support to operate.",
+    "tags": [
+      "tibetan-vajrayana",
+      "meals-included",
+      "diet-vegetarian",
+      "camping",
+      "fixed-fee"
+    ],
+    "sources": [
+      {
+        "title": "SIBA Retreat Centre Victoria - Tibetan Buddhist Society of Canberra",
+        "url": "https://sakya.com.au/siba-retreat-centre-victoria/"
+      },
+      {
+        "title": "Further Information about SIBA Retreat Centre",
+        "url": "https://sakya.com.au/siba-list/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "vinitsa-diamond-way-retreat-center",
     "name": "Vinitsa Diamond Way Buddhist Retreat Center",
     "aka": [
@@ -26035,6 +27554,271 @@
     ],
     "meta": {
       "generatedBy": "harness/1.0 (claude)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "bodhinyana-monastery",
+    "name": "Bodhinyana Monastery",
+    "aka": [
+      "Bodhinyana Forest Monastery",
+      "Bodhinyana Buddhist Monastery"
+    ],
+    "website": "https://bswa.org/location/bodhinyana-monastery/",
+    "location": {
+      "address": "216 Kingsbury Drive, Serpentine WA 6125, Australia",
+      "city": "Serpentine",
+      "region": "Western Australia, Australia",
+      "country": "Australia",
+      "state": "WA",
+      "lat": -32.395,
+      "lng": 116.03
+    },
+    "tradition": "Theravada Buddhism, Thai Forest Tradition (Ajahn Chah lineage)",
+    "technique": "Silent sitting and walking meditation in the Thai Forest tradition of Ajahn Chah; no formal group teaching program at the monastery itself, so guests are expected to already have a daily meditation practice.",
+    "influences": [
+      "Ajahn Chah",
+      "Ajahn Brahm (senior resident teacher)"
+    ],
+    "teacherAccess": "Informal guidance from the resident community of about twenty monks, including Ajahn Brahm, during almsround, communal meals, and the weekly public Dhamma talk; there is no structured teaching program for short-term guests.",
+    "retreatOptions": "Residential guest stays of up to 2 weeks for local guests and up to 4 weeks for interstate/international guests, sharing the monastic schedule; applicants should already be Buddhist with prior retreat experience and an independent meditation practice.",
+    "about": "Bodhinyana Monastery is nestled in the forested Darling Range near the small town of Serpentine, about an hour's drive southeast of Perth. The Buddhist Society of Western Australia (BSWA) purchased the rural property in 1983, establishing Bodhinyana on 1 December of that year in the lineage of the great Thai Forest teacher Ajahn Chah; it is now home to around twenty monks living in huts scattered across 242 acres, with a large public meditation hall, kitchen and dining hall, and accommodation for long-term lay residents (anagarikas) and guests. The senior resident teacher, Ajahn Brahm, is one of the best-known Western Theravada monks. Bodhinyana offers short-term residential stays for practising Buddhists with prior retreat experience and an established independent meditation practice, sharing directly in the monastery's daily monastic rhythm; there is no formal teaching program on-site, though the adjoining Jhana Grove Retreat Centre hosts BSWA's structured group retreats.",
+    "schedule": "Daily monastic schedule of group sitting and walking meditation, chanting, and a main meal before noon, with a weekly public Dhamma talk; guests generally follow the resident monks' rhythm.",
+    "cost": "No set fee; guest stays and the monastery are supported by dana (donation) from visitors and supporters.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested per-night amount is published; guest stays are supported by donation only.",
+      "source": "https://bswa.org/our-locations/staying-at-bodhinyana/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "A main vegetarian meal is offered before noon daily, in keeping with Theravada monastic practice of not eating after midday.",
+    "workRequired": "partial",
+    "workNotes": "Resident guests are generally expected to help with communal chores and monastery upkeep as part of the daily schedule.",
+    "tags": [
+      "theravada",
+      "silent",
+      "long-retreats",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "title": "Bodhinyana Monastery | Buddhist Society of Western Australia",
+        "url": "https://bswa.org/location/bodhinyana-monastery/"
+      },
+      {
+        "title": "staying at bodhinyana | Buddhist Society of Western Australia",
+        "url": "https://bswa.org/our-locations/staying-at-bodhinyana/"
+      },
+      {
+        "title": "about bodhinyana | Buddhist Society of Western Australia",
+        "url": "https://bswa.org/our-locations/about-bodhinyana/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dhamma-padipa",
+    "name": "Dhamma Padipa",
+    "aka": [],
+    "website": "https://padipa.dhamma.org",
+    "location": {
+      "address": "Shire of Brookton, south-east of Perth, Western Australia, Australia",
+      "city": "Brookton",
+      "region": "Western Australia, Australia",
+      "country": "Australia",
+      "state": "WA",
+      "lat": -32.35,
+      "lng": 116.97
+    },
+    "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+    "technique": "Anapana (breath awareness) followed by Vipassana body-scanning meditation, taught in silent, structured ten-day residential courses via recorded instructions and evening discourses from S.N. Goenka",
+    "influences": [
+      "S.N. Goenka",
+      "Sayagyi U Ba Khin"
+    ],
+    "teacherAccess": "No individual teacher access; courses are conducted using audio and video recordings of the late S.N. Goenka's instructions and discourses, with certified assistant teachers on site to answer meditation-related questions and give interviews during the rest period.",
+    "retreatOptions": "Ten-day residential Vipassana courses held several times a year (the centre's standard and primary offering), plus 1- to 3-day refresher courses and longer old-student courses for students who have already completed a ten-day course, and one-day children's and teenagers' Anapana courses.",
+    "about": "Dhamma Padipa is the Goenka-tradition Vipassana meditation centre for Western Australia, Australia, Established 2001, nestled between the Strange Road Nature Reserve and the Boyagarring Conservation Park in the Shire of Brookton, south-east of Perth.  The centre's facilities include a meditation hall, kitchen/dining facility, accommodation and ablution blocks, and camping sites under shelters and in treed areas. The centre offers residential ten-day Vipassana courses as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin several times a year, conducted using audio and video recordings of Goenka's instructions and discourses with certified assistant teachers on site to give interviews and answer meditation-related questions. Students live on site for the full course, observe Noble Silence until the morning of the last full day, and follow the standard Goenka daily schedule of roughly ten hours of sitting practice a day. As at every centre in the worldwide Goenka network, there are no fees of any kind — courses, food, and lodging are offered purely on a dana (voluntary donation) basis by past students who have completed at least one prior course.",
+    "schedule": "Standard Goenka ten-day course schedule: arrival and registration on the start day, followed by ten full days of silent sitting meditation (roughly 4am-9:30pm) with recorded evening discourses, and course close around 7am on the final day followed by breakfast and departure by mid-morning; Noble Silence is observed by all students until the morning of the last full day.",
+    "cost": "No fees of any kind; entirely dana (voluntary donation)-based, in keeping with the worldwide Goenka Vipassana tradition - all teaching, food, and accommodation are offered freely, funded by donations from past students who have completed at least one prior course.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested amount; a Goenka-tradition (dhamma.org) course funded entirely by voluntary donation from past students, none of whom - including teachers and organisers - receive any payment for their service.",
+      "source": "https://padipa.dhamma.org/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "All meals prepared and served on-site at no charge for the duration of the course; simple vegetarian meals throughout, with old students keeping the no-eating-after-midday precept while new students may have tea and fruit at the evening break.",
+    "workRequired": "partial",
+    "workNotes": "Old students (those who have completed at least one prior ten-day course) may serve courses as Dhamma volunteers or join dedicated old-student work periods for centre maintenance; new students are not required to work during their first course.",
+    "tags": [
+      "goenka",
+      "silent",
+      "long-retreats",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "title": "Dhamma Padipa - Vipassana Meditation as Taught by S.N. Goenka",
+        "url": "https://padipa.dhamma.org/"
+      },
+      {
+        "title": "Vipassana meditation in Australia",
+        "url": "https://au.dhamma.org/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dhammasara-monastery",
+    "name": "Dhammasara Monastery",
+    "aka": [
+      "Dhammasara Nuns Monastery",
+      "Dhammasara Buddhist Nuns Monastery"
+    ],
+    "website": "https://bswa.org/location/dhammasara-monastery/",
+    "location": {
+      "address": "203 Reen Road, Gidgegannup WA 6083, Australia",
+      "city": "Gidgegannup",
+      "region": "Western Australia, Australia",
+      "country": "Australia",
+      "state": "WA",
+      "lat": -31.75,
+      "lng": 116.28
+    },
+    "tradition": "Theravada Buddhism, Thai Forest Tradition (Ajahn Chah lineage)",
+    "technique": "Silent sitting and walking meditation and chanting in the Thai Forest tradition; no formal meditation-teaching program on-site, so guests are expected to already have an independent meditation practice.",
+    "influences": [
+      "Ajahn Chah",
+      "Ajahn Brahm",
+      "Ajahn Vayama and the resident bhikkhuni community"
+    ],
+    "teacherAccess": "Informal guidance from the resident bhikkhuni (fully ordained nun) community during the daily lunch dana ceremony and group meditation/chanting; there is no structured teaching program for short-term guests.",
+    "retreatOptions": "Residential guest stays of up to 2 weeks for local women and up to 4 weeks for interstate/international guests to experience monastic life on 8 precepts, subject to room availability and prior retreat experience.",
+    "about": "Dhammasara Monastery is a Theravada Buddhist nuns' (bhikkhuni) monastery in the Thai Forest tradition of Ajahn Chah, set in forested land at Gidgegannup, in the hills northeast of Perth, Western Australia. Run by the Buddhist Society of Western Australia, it provides a rare opportunity for women to experience monastic life firsthand, offering short-term residential stays of up to two weeks for local guests and up to four weeks for interstate and international guests, subject to room availability. Guests keep the 8 precepts, join the community for the daily lunch dana ceremony and group meditation and chanting, and are expected to participate in daily work activities alongside the resident nuns; applicants should already be Buddhist with some grounding in meditation practice and prior retreat experience, as there is no formal teaching program on site.",
+    "schedule": "Daily monastic schedule centred on the 10:30am lunch dana ceremony, group meditation and chanting, and assigned daily work; the monastery is open to day visitors from 10am-1pm.",
+    "cost": "No set fee; guest stays and the monastery are supported by dana (donation) from visitors and supporters.",
+    "pricePerDay": {
+      "min": null,
+      "max": null,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "No suggested per-night amount is published; guest stays are supported by donation only.",
+      "source": "https://bswa.org/our-locations/staying-at-dhammasara/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Food is donated by supporters and served at the main lunch dana ceremony at 10:30am, in keeping with Theravada monastic practice of not eating after midday.",
+    "workRequired": "yes",
+    "workNotes": "Guests are expected to participate in daily work before dana (commonly kitchen or outside/forest work) alongside the resident nuns.",
+    "tags": [
+      "theravada",
+      "silent",
+      "long-retreats",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "work-practice",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "title": "Dhammasara Monastery | Buddhist Society of Western Australia",
+        "url": "https://bswa.org/location/dhammasara-monastery/"
+      },
+      {
+        "title": "staying @ dhammasara | Buddhist Society of Western Australia",
+        "url": "https://bswa.org/our-locations/staying-at-dhammasara/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "jhana-grove-retreat-centre",
+    "name": "Jhana Grove Retreat Centre",
+    "aka": [],
+    "website": "https://bswa.org/location/jhana-grove-retreat-centre/",
+    "location": {
+      "address": "Adjacent Bodhinyana Monastery, Serpentine WA 6125, Australia",
+      "city": "Serpentine",
+      "region": "Western Australia, Australia",
+      "country": "Australia",
+      "state": "WA",
+      "lat": -32.39,
+      "lng": 116.02
+    },
+    "tradition": "Theravada Buddhism / Insight Meditation (Buddhist Society of Western Australia)",
+    "technique": "Silent sitting and walking meditation (the Basic Method of Meditation taught by Ajahn Brahm) with a strong emphasis on stillness and letting go, supported by daily teaching, personal interviews, and long hours of solitary practice.",
+    "influences": [
+      "Ajahn Brahm",
+      "Buddhist Society of Western Australia"
+    ],
+    "teacherAccess": "3-4 hours of daily teaching, personal interviews (via an interview roster on 9-day retreats), and guided meditation from BSWA teachers including Ajahn Brahm.",
+    "retreatOptions": "BSWA weekend (3-day) retreats functioning as an introduction to meditation, and longer 5-day and 9-day silent retreats for more experienced meditators; self-retreats and group self-retreats are also available between scheduled programs.",
+    "about": "Jhana Grove is a purpose-built meditation retreat centre in a valley of the Darling Scarp adjacent to Bodhinyana Monastery in Serpentine, run by the Buddhist Society of Western Australia (BSWA). It can house up to 60 guests at a time across ten cottages of six ensuite rooms each, connected by a covered walkway to a large air-conditioned meditation hall with adjoining halls for walking meditation, plus a dedicated kitchen and dining area. BSWA retreats at Jhana Grove range from 3-day weekend retreats (which can serve as an introduction to meditation) to 5-day and 9-day silent retreats for more experienced practitioners, built around many hours of daily sitting and walking meditation interspersed with teaching and personal interviews, under Noble Silence and the 8 precepts. Retreatants must be 18 or older and BSWA members, and 9-day retreats require prior retreat experience.",
+    "schedule": "Retreat days are built around long periods of sitting and walking meditation interrupted only by 3-4 hours of daily teaching, personal interviews, and vegetarian meals (light breakfast, lunch, and evening tea); Noble Silence and the 8 precepts are observed throughout.",
+    "cost": "A refundable room bond is charged per retreat, which retreatants may choose to donate: $300 for 9-day retreats, $180 for 5-day retreats, and $120 for weekend retreats; self-retreatants are asked to donate around $30 per person per day toward the centre's upkeep.",
+    "pricePerDay": {
+      "min": 30,
+      "max": 33,
+      "unit": "night",
+      "currency": "AUD",
+      "notes": "Derived from the published $300 refundable bond for a 9-night retreat (~$33/night) and the ~$30/person/day suggested donation for self-retreats; retreats themselves are otherwise donation-based, with the bond returnable as a donation.",
+      "source": "https://bswa.org/our-locations/bswa-retreats-jhana-grove/"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Vegetarian meals are provided (light breakfast, lunch, and an evening drink, with a light evening meal sometimes served on weekend retreats), largely from donated food.",
+    "workRequired": "partial",
+    "workNotes": "Retreatants are asked to help with jobs such as cleaning cottages and common areas during and at the end of the retreat.",
+    "tags": [
+      "theravada",
+      "insight-vipassana",
+      "silent",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "work-practice",
+      "accessible"
+    ],
+    "sources": [
+      {
+        "title": "Jhana Grove Retreat Centre | Buddhist Society of Western Australia",
+        "url": "https://bswa.org/location/jhana-grove-retreat-centre/"
+      },
+      {
+        "title": "BSWA Retreats at Jhana Grove",
+        "url": "https://bswa.org/our-locations/bswa-retreats-jhana-grove/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
       "lastUpdated": "2026-07-16",
       "reviewStatus": "unverified"
     }

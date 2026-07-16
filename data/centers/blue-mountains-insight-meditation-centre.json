@@ -1,0 +1,67 @@
+{
+  "id": "blue-mountains-insight-meditation-centre",
+  "name": "Blue Mountains Insight Meditation Centre",
+  "aka": [
+    "BMIMC",
+    "Buddha Sasana Association of Australia"
+  ],
+  "website": "https://bmimc.org.au/",
+  "location": {
+    "address": "25 Rutland Road, Medlow Bath NSW 2780, Australia",
+    "city": "Medlow Bath",
+    "region": "New South Wales, Australia",
+    "country": "Australia",
+    "state": "NSW",
+    "lat": -33.6699,
+    "lng": 150.2967
+  },
+  "tradition": "Insight Meditation (Theravada-derived)",
+  "technique": "Insight (mindfulness/Vipassana) meditation combining silent sitting and walking practice with metta (loving-kindness) meditation, daily Dhamma talks, and individual meetings with teachers.",
+  "influences": [
+    "Buddha Sasana Association of Australia"
+  ],
+  "teacherAccess": "Daily Dhamma talks, guided sitting and walking meditation, and individual meetings with teachers during residential retreats.",
+  "retreatOptions": "Residential silent retreats of several days to about ten days held through the year, run by the Buddha Sasana Association of Australia at its own dedicated centre.",
+  "about": "The Blue Mountains Insight Meditation Centre (BMIMC) is a dedicated residential retreat property owned and run by the non-profit Buddha Sasana Association of Australia in the small town of Medlow Bath in the Blue Mountains, about two hours by train from Sydney. The Association acquired the Rutland Road property around 1992 after some years of renting short-term venues, when it became difficult to find suitable and affordable retreat facilities, and has run its own multi-day silent Insight Meditation retreats there ever since. Retreats combine silent sitting and walking meditation with metta (loving-kindness) practice, daily Dhamma talks, and individual meetings with visiting and resident teachers, all in the Theravada-derived Insight Meditation tradition.",
+  "schedule": "Structured silent-retreat schedule alternating periods of sitting and walking meditation with daily Dhamma talks and optional individual teacher meetings; Noble Silence is observed for the body of each retreat.",
+  "cost": "Retreat fees are charged to cover food and accommodation, with dana (donation) offered separately to the teacher; exact rates vary by retreat and are published per event.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "Retreat fees are set per event on the current retreat schedule rather than as a single published nightly rate; check individual retreat listings for current pricing.",
+    "source": "https://bmimc.org.au/rgb-retreats/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are provided for the duration of residential retreats.",
+  "workRequired": "unknown",
+  "workNotes": "No structured work/service requirement is published for retreat participants.",
+  "tags": [
+    "insight-vipassana",
+    "silent",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Blue Mountains Insight Meditation Centre",
+      "url": "https://bmimc.org.au/"
+    },
+    {
+      "title": "About BMIMC - Blue Mountains Insight Meditation Centre",
+      "url": "https://bmimc.org.au/about-bmimc/"
+    },
+    {
+      "title": "Retreats & Events - Blue Mountains Insight Meditation Centre",
+      "url": "https://bmimc.org.au/rgb-retreats/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

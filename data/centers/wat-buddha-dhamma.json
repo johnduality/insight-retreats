@@ -1,0 +1,70 @@
+{
+  "id": "wat-buddha-dhamma",
+  "name": "Wat Buddha Dhamma",
+  "aka": [
+    "Wat Buddha Dhamma Theravadin Forest Monastery"
+  ],
+  "website": "https://www.wbd.org.au/",
+  "location": {
+    "address": "Ten Mile Hollow Road, Wisemans Ferry NSW 2775, Australia",
+    "city": "Wisemans Ferry",
+    "region": "New South Wales, Australia",
+    "country": "Australia",
+    "state": "NSW",
+    "lat": -33.19,
+    "lng": 150.97
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition",
+  "technique": "Silent sitting and walking meditation in the Theravada/Thai Forest style, alongside daily monastic chanting and Dhamma reflection; no formal group teaching program, so guests practise largely independently within the monastic schedule.",
+  "influences": [
+    "Ayya Khema (founder)",
+    "Phra Khantipalo (first abbot)",
+    "Ajahn Chah"
+  ],
+  "teacherAccess": "Resident monastics are available informally for guidance during the daily almsround, communal meal, and chore periods; there is no structured teaching program, so access depends on the monastics present at the time.",
+  "retreatOptions": "Open-ended residential stays sharing the monastic lifestyle, typically arranged in advance with the Abbot; guests generally stay for several days up to a few weeks, observing 10 precepts and helping with about two hours of daily chores.",
+  "about": "Wat Buddha Dhamma is one of Australia's oldest Buddhist monasteries, founded in 1978 by the pioneering Buddhist nun Ayya Khema with Phra Khantipalo as its first abbot, deep inside Dharug National Park at Ten Mile Hollow near Wisemans Ferry, about 1.5 hours by sealed road and a further 40 minutes of gravel track northwest of Sydney. The forest property is off-grid, drawing power from a mix of solar, gas and wood, and rainwater for its water supply, in keeping with its ethos of environmentally conscious, simple monastic living. Visitors may arrange in advance with the Abbot to stay for a period as a guest, sharing directly in the daily life of the resident Theravada forest-tradition monastic community: communal meditation, chanting, the single daily meal, and roughly two hours of chores. There is no formal meditation-teaching program - guests keep the 10 precepts and practise largely independently, guided informally by the monastics on site. The monastery does not charge for stays and is sustained entirely by donations from visitors and supporters.",
+  "schedule": "Daily monastic rhythm centred on pre-dawn and evening group sitting and walking meditation, a single main meal taken before noon, and periods of chanting and chores; exact timings follow the resident monastics' schedule and can vary with the season and community size.",
+  "cost": "No set fee; the monastery operates entirely on dana (donation) from visitors and supporters, in keeping with Theravada forest-monastery tradition.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No suggested amount is published; guest stays are arranged directly with the Abbot and supported by donation only.",
+    "source": "https://www.wbd.org.au/about-wbd/location/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A single main vegetarian/vegan-leaning meal is offered before noon each day, prepared from food offered by supporters, in keeping with Theravada monastic practice of not eating after midday.",
+  "workRequired": "yes",
+  "workNotes": "Guests are required to help with daily chores (roughly two hours per day) as part of sharing in the monastic community's work.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Wat Buddha Dhamma - Theravadin Forest Monastery",
+      "url": "https://www.wbd.org.au/"
+    },
+    {
+      "title": "Location | Wat Buddha Dhamma",
+      "url": "https://www.wbd.org.au/about-wbd/location/"
+    },
+    {
+      "title": "The Forest Tradition | Wat Buddha Dhamma",
+      "url": "https://www.wbd.org.au/about-wbd/forest-tradition/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

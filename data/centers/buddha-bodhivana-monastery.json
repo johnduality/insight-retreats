@@ -1,0 +1,72 @@
+{
+  "id": "buddha-bodhivana-monastery",
+  "name": "Buddha Bodhivana Monastery",
+  "aka": [
+    "Bodhivana Forest Monastery",
+    "Wat Buddha Bodhivana"
+  ],
+  "website": "https://www.buddhabodhivana.org/",
+  "location": {
+    "address": "780 Woods Point Road, East Warburton VIC 3799, Australia",
+    "city": "East Warburton",
+    "region": "Victoria, Australia",
+    "country": "Australia",
+    "state": "VIC",
+    "lat": -37.775,
+    "lng": 145.72
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition (Ajahn Chah lineage)",
+  "technique": "Silent sitting and walking meditation in the Thai Forest tradition of Ajahn Chah as transmitted through Ajahn Anan, combined with chanting and daily Dhamma teaching from the resident sangha.",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Anan (Wat Marp Jan)",
+    "Ajahn Kalyano (abbot)"
+  ],
+  "teacherAccess": "Daily teaching on Buddhist philosophy and meditation from Ajahn Kalyano and the resident monks, with regular meditation workshops and retreats.",
+  "retreatOptions": "Regularly held meditation retreats and workshops on the monastery grounds, alongside longer residential stays for those training in the monastic community.",
+  "about": "Buddha Bodhivana Monastery is a branch monastery in the lineage of the late Ajahn Chah, on 450 acres of forest land on the edge of the Yarra Ranges National Park at East Warburton, about 90 minutes' drive east of Melbourne. It traces its founding to a 1998 visit to Australia by Venerable Ajahn Anan (a senior disciple of Ajahn Chah) and Venerable Ajahn Kalyano; local supporters subsequently formed the Victoria Sangha Association in 2000 to purchase a forested 75-acre property (since expanded to 450 acres), which was formally offered to Ajahn Anan and named Buddha Bodhivana - 'the Forest of the Buddha's Enlightened Knowledge.' Ajahn Kalyano has been resident abbot since 2001. The monastery is primarily a training community for monks, novices, and postulants, but also welcomes lay visitors, families, and residents to take part in its regular meditation workshops and retreats and to stay overnight sharing in the monastic schedule.",
+  "schedule": "Daily monastic schedule of sitting and walking meditation, chanting, and Dhamma teaching, with a main meal taken before noon in keeping with Theravada monastic practice; retreat and workshop schedules follow the same rhythm.",
+  "cost": "No set fee; the monastery and its retreats/workshops are supported by dana (donation) from visitors and supporters.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "AUD",
+    "notes": "No suggested per-night amount is published; overnight stays and retreats are supported by donation only.",
+    "source": "https://www.buddhabodhivana.org/visiting/overnight-visits"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "A main vegetarian meal is offered before noon daily, in keeping with Theravada monastic practice of not eating after midday.",
+  "workRequired": "partial",
+  "workNotes": "Overnight guests are generally expected to help with communal chores and monastery upkeep as part of the daily schedule.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "work-practice",
+    "monastic-community",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Buddha Bodhivana Monastery - A Buddhist Monastery in the Ajahn Chah Thai Forest Tradition",
+      "url": "https://www.buddhabodhivana.org/"
+    },
+    {
+      "title": "About the Monastery - Buddha Bodhivana Monastery",
+      "url": "https://www.buddhabodhivana.org/about/the-monastery/"
+    },
+    {
+      "title": "Overnight Visits - Buddha Bodhivana Monastery",
+      "url": "https://www.buddhabodhivana.org/visiting/overnight-visits"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}
