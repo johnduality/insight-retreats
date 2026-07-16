@@ -3,7 +3,11 @@
 An open catalogue of insight meditation retreat centers across the United States,
 with a list view, an interactive map, and per-center detail pages. It's a plain
 **static site** — no backend, no server, no database — so it runs for free on any
-static host (GitHub Pages, Cloudflare Pages, Netlify, and the like).
+static host (GitHub Pages, Netlify, and the like).
+
+> All meditation-focused traditions are included, including Goenka / Vipassana-Meditation
+> (dhamma.org) centers (tagged `goenka`). A center qualifies only if it offers an
+> overnight residential stay of **two nights or more** at its own facility.
 
 ## What's here
 
@@ -22,7 +26,7 @@ insight-retreats/
 │  ├─ entry.schema.json    ← the shape of a center entry
 │  └─ tags.json            ← controlled tag vocabulary (traditions, format, cost, practical)
 ├─ scripts/build-data.mjs  ← aggregates + validates data/centers → public/data
-└─ harness/                ← the sub-agent scraper (see harness/COWORK.md)
+└─ harness/                ← the Claude sub-agent workflow (see harness/COWORK.md)
 ```
 
 ## Data model
@@ -31,8 +35,46 @@ Each center is one JSON file validated against `schema/entry.schema.json`. Key f
 tradition, technique, influences, a one-paragraph **about**, **schedule**, **cost**,
 **pricePerDay** (`{ min, max, unit, notes, source }`), **foodServed** / **workRequired**
 (yes / no / partial / unknown, with notes), a set of **tags** from the controlled
-vocabulary, **sources**, and lat/lng for the map. Harness-generated entries are marked
-`unverified` in their `meta`.
+vocabulary, **sources**, and lat/lng for the map. Entries drafted by the harness are
+marked `unverified` in their `meta` — always confirm details with the center directly.
+
+## Adding more centers with Claude Cowork
+
+The easiest way to grow the catalogue is to open this folder in **Claude Cowork** and
+just ask — no code, no command line, no API key. For example:
+
+> "Add retreat centers in Vermont"
+> "Add Green Gulch Farm"
+
+Claude follows the runbook in [`harness/COWORK.md`](harness/COWORK.md) and does the whole
+job itself, acting as an orchestrator that delegates the research to sub-agents:
+
+1. **Checks what's already there** — reads every existing entry's `name`/`aka` so it
+   never creates a duplicate.
+2. **Discovers** — a discovery sub-agent web-searches for real, currently-operating
+   centers in the area, applying the scope rules (meditation-focused; 2+ night
+   residential stays; Christian contemplative centers and yoga-asana "ashrams" are out
+   of scope; Goenka centers are in scope).
+3. **Researches** — one sub-agent per new center writes a draft entry from the center's
+   official site into `data/_staging/`.
+4. **Ingests** — runs `node scripts/ingest-center.mjs`, which validates each entry,
+   registers any new tags, writes clean files to `data/centers/`, clears staging, and
+   rebuilds `public/data`.
+5. **Shows you** the updated site.
+
+A few things that keep the data clean:
+
+- **One state (or region) at a time.** Ask for them in sequence; Claude finishes and
+  sanity-checks each before starting the next.
+- **De-duplication is a hard rule** — when in doubt, a near-match is treated as a
+  duplicate and skipped.
+- When you're happy, **commit and push** (GitHub Desktop or `git`) and the deploy Action
+  republishes automatically.
+
+Prefer a terminal? There's an optional Node / Agent-SDK CLI in `harness/` — copy
+`harness/.env.example` to `harness/.env`, add your `ANTHROPIC_API_KEY`, and run it per
+`harness/README.md`. You can also just write a JSON file by hand in `data/centers/`
+(copy an existing one) and run `node scripts/build-data.mjs`.
 
 ## Local development
 
@@ -45,29 +87,24 @@ The site is fully static — the data is also emitted as JS globals in
 `public/data/data.js`, so `public/index.html` even works by double-clicking it (the map
 needs an internet connection for its tiles).
 
-## Deploy
+## Deploy (GitHub Pages)
 
-The entire site is the `public/` directory. Build it, then publish that folder to any
-static host.
+This repo ships with a GitHub Actions workflow at
+[`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) that rebuilds the data and
+publishes the `public/` folder on every push to `main`. To turn it on once:
 
-**GitHub Pages**
+1. Push the repo to GitHub.
+2. In the repo, go to **Settings → Pages → Build and deployment**, and set **Source** to
+   **GitHub Actions**.
 
-1. Push this repo to GitHub.
-2. Run `node scripts/build-data.mjs` so `public/data/` is up to date, and commit it.
-3. GitHub Pages serves from a branch root or a `/docs` folder, so publish the *contents*
-   of `public/` to one of those — the simplest hands-off option is a small Action (e.g.
-   `peaceiris/actions-gh-pages`) that builds and pushes `public/` to a `gh-pages` branch
-   on every push.
-4. Add your domain **insight-retreats.org** under **Settings → Pages → Custom domain**.
+That's it — every push now redeploys automatically, and the live URL appears under the
+repo's **Actions** tab and in **Settings → Pages**. To serve it from a custom domain,
+add the domain under **Settings → Pages → Custom domain**.
 
-**Cloudflare Pages** (alternative)
+The whole site is just the `public/` directory, so it also drops onto any other static
+host (Netlify, Cloudflare Pages, etc.) — build with `node scripts/build-data.mjs` and
+publish `public/`.
 
-- Connect the repo, set **Build command** `node scripts/build-data.mjs` and
-  **Build output directory** `public`. Add the custom domain under the project settings.
+## License
 
-## Adding more centers
-
-Either write a JSON file by hand in `data/centers/` (copy an existing one), or run the
-sub-agent harness to discover and draft entries — see
-[`harness/COWORK.md`](harness/COWORK.md). After either, run `node scripts/build-data.mjs`
-and redeploy (push, or re-upload `public/`).
+MIT — see [`LICENSE`](LICENSE). Please feel free to download, update, extend, and remix.
