@@ -5,7 +5,7 @@ const state = {
   centers: [],
   tags: null,
   tagIndex: new Map(), // tagId -> { label, color }
-  filters: { search: "", stateCode: "", tags: new Set(), exclude: new Set() },
+  filters: { search: "", stateCode: "", tags: new Set(), exclude: new Set(), price: {} },
   view: "map",
   map: null,
   markers: null,
@@ -57,6 +57,32 @@ function buildStateFilter() {
 function buildTagFilters() {
   const box = $("#tagFilters");
   box.innerHTML = "";
+
+  // Price filter chips (not tags) that behave like tag chips: click to require
+  // "<= $N / night", double-click to exclude those (show pricier ones).
+  const makePriceChip = (limit) => {
+    const chip = el("button", { className: "chip chip-price", type: "button", textContent: `≤ $${limit} / night` });
+    chip.title = `Click to require $${limit}/night or less · double-click to exclude those`;
+    const sync = () => {
+      chip.classList.toggle("is-active", state.filters.price[limit] === "under");
+      chip.classList.toggle("is-excluded", state.filters.price[limit] === "exclude");
+    };
+    chip.addEventListener("click", () => {
+      state.filters.price[limit] = state.filters.price[limit] ? null : "under"; // under/exclude -> neutral; neutral -> under
+      sync();
+      renderCatalogue();
+    });
+    chip.addEventListener("dblclick", () => {
+      state.filters.price[limit] = "exclude";
+      sync();
+      renderCatalogue();
+    });
+    sync();
+    box.append(chip);
+  };
+  makePriceChip(50);
+  makePriceChip(100);
+
   // Only show tags that at least one center actually uses, to keep it tidy.
   const used = new Set(state.centers.flatMap((c) => c.tags || []));
   for (const g of state.tags.groups) {
@@ -117,6 +143,10 @@ function filtered() {
   const { search, stateCode, tags, exclude } = state.filters;
   return state.centers.filter((c) => {
     if (stateCode && c.location.state !== stateCode) return false;
+    for (const [limit, mode] of Object.entries(state.filters.price)) {
+      if (mode === "under" && !priceLE(c, +limit)) return false;
+      if (mode === "exclude" && priceLE(c, +limit)) return false;
+    }
     if (tags.size && ![...tags].every((t) => (c.tags || []).includes(t))) return false;
     if (exclude.size && (c.tags || []).some((t) => exclude.has(t))) return false;
     if (search) {
@@ -349,6 +379,14 @@ function formatDate(iso) { try { const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso)
 function cap(s = "") { return s.charAt(0).toUpperCase() + s.slice(1); }
 
 // ---------- cost helpers ----------
+// True when a center has a listed nightly price of `limit` or less (using its lower
+// bound). Donation-based and price-unknown centers do not qualify.
+function priceLE(c, limit) {
+  const p = c.pricePerDay;
+  if (!p) return false;
+  const lo = p.min != null ? p.min : (p.max != null ? p.max : null);
+  return lo != null && lo <= limit;
+}
 function cardPrice(p) {
   const wrap = el("p", { className: "card-price" });
   const money = (n) => "$" + Math.round(n).toLocaleString();
