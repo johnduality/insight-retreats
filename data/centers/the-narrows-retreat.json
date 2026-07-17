@@ -1,0 +1,57 @@
+{
+  "id": "the-narrows-retreat",
+  "name": "The Narrows Retreat",
+  "aka": [
+    "Ananda New Zealand"
+  ],
+  "website": "https://www.thenarrowsretreat.co.nz",
+  "location": {
+    "city": "Hamilton",
+    "region": "Waikato, North Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -37.79,
+    "lng": 175.28
+  },
+  "tradition": "Kriya Yoga, Paramhansa Yogananda lineage, via Ananda Sangha Worldwide",
+  "technique": "Kriya Yoga meditation, guided practice",
+  "influences": [
+    "Paramhansa Yogananda"
+  ],
+  "teacherAccess": "One-on-one instruction with resident teacher",
+  "retreatOptions": "3-hour sessions; 5-day/4-night immersion; periodic group weekend retreats",
+  "about": "A small, boutique Yogananda-lineage retreat run from a teacher's home property near Hamilton. Meditation and Kriya Yoga instruction are central rather than incidental; scale is modest compared to larger Ananda communities abroad, but it is a genuine dedicated New Zealand property with residential programming.",
+  "schedule": "Ad hoc immersions plus periodic group weekends",
+  "cost": "NZD 2,850 for a 5-day/4-night immersion including meals and one-on-one instruction",
+  "pricePerDay": {
+    "min": 712,
+    "max": 712,
+    "unit": "night",
+    "currency": "NZD",
+    "notes": "$2,850 / 5-day-4-night immersion, includes meals and one-on-one instruction.",
+    "source": "https://www.thenarrowsretreat.co.nz"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "no",
+  "tags": [
+    "yoga-hindu",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "url": "https://www.thenarrowsretreat.co.nz"
+    },
+    {
+      "url": "https://www.anandanz.org"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

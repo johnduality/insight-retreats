@@ -1,0 +1,54 @@
+{
+  "id": "hridaya-yoga-mexico",
+  "name": "Hridaya Yoga Mexico",
+  "website": "https://www.hridaya-yoga.com/centers/hridaya-yoga-mexico",
+  "location": {
+    "city": "Mazunte",
+    "region": "Oaxaca coast",
+    "country": "Mexico",
+    "state": "MX",
+    "lat": 15.667,
+    "lng": -96.553
+  },
+  "tradition": "Hridaya lineage founded by Sahajananda (Kashmir Shaivism/Advaita Vedanta synthesis)",
+  "technique": "Silent sitting meditation, heart-centered awareness practice, Hatha Yoga",
+  "influences": [
+    "Sahajananda"
+  ],
+  "teacherAccess": "Resident teachers/facilitators on-site during retreats",
+  "retreatOptions": "3, 5, 10, 17, 28, and 49-day silent retreats, plus dark-room retreats and online options",
+  "about": "Built atop a hill between Mazunte and San Agustinillo since 2012, with four yoga halls, a vegan dining hall, and eco-lodging with ocean views. Runs a well-structured on-site silent-retreat ladder from 3 days up to 49 days, plus yoga teacher trainings and separate volunteer stays; its permanent staff and year-round calendar distinguish it from a rented-villa operation.",
+  "schedule": "Multiple retreats run continuously through the year",
+  "cost": "Approx. $650-750 USD for a 10-day retreat (third-party aggregator estimate, not an official published rate)",
+  "pricePerDay": {
+    "min": 65,
+    "max": 75,
+    "unit": "night",
+    "currency": "USD",
+    "notes": "Estimated from aggregator listings for the 10-day retreat; not directly sourced from the official site.",
+    "source": "https://www.hridaya-yoga.com/centers/hridaya-yoga-mexico"
+  },
+  "foodServed": "yes",
+  "foodType": "vegan",
+  "workRequired": "no",
+  "workNotes": "Volunteering offered as a separate track, not required of retreat participants.",
+  "tags": [
+    "yoga-hindu",
+    "silent",
+    "long-retreats",
+    "diet-vegan",
+    "meals-included",
+    "online-hybrid",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "url": "https://www.hridaya-yoga.com/centers/hridaya-yoga-mexico"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

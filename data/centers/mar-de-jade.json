@@ -1,0 +1,58 @@
+{
+  "id": "mar-de-jade",
+  "name": "Mar de Jade",
+  "aka": [
+    "Mar de Jade Wellness Resort"
+  ],
+  "website": "https://www.mardejade.com",
+  "location": {
+    "city": "Chacala",
+    "region": "Nayarit (Pacific Coast)",
+    "country": "Mexico",
+    "state": "MX",
+    "lat": 21.12,
+    "lng": -105.23
+  },
+  "tradition": "Soto Zen (annual Rohatsu sesshin), hosted at a general wellness resort",
+  "technique": "Traditional silent Zen sesshin (bilingual English/Spanish)",
+  "influences": [
+    "Zoketsu Norman Fischer"
+  ],
+  "teacherAccess": "Daily, direct, during the Zen sesshin week",
+  "retreatOptions": "The Zen retreat runs approx. 5-7 days; other resort programs run 3-14 nights",
+  "about": "A 35+-year-old beachfront retreat property in the jungle village of Chacala with dedicated land and an organic farm. Its core identity is a wellness/vacation resort rather than a meditation lineage institution, but it hosts a genuine, recurring, teacher-led Zen Rohatsu sesshin recognized within the Zen community -- included primarily for that program rather than the resort's general offerings.",
+  "schedule": "Annual Rohatsu sesshin (December); other yoga/wellness retreats run monthly",
+  "cost": "Full retreat packages from $1,895 (dorm) to $3,400 (ocean single) per stay",
+  "pricePerDay": {
+    "min": 270,
+    "max": 485,
+    "unit": "night",
+    "currency": "USD",
+    "notes": "Derived from a ~7-night sesshin package, $1,895-$3,400 total, meals included.",
+    "source": "https://www.mardejade.com/retreats/rohatsu-zen-meditation-retreat/"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Vegetarian/vegan/gluten-free plus fish/chicken options, organic farm-to-table.",
+  "workRequired": "no",
+  "tags": [
+    "zen",
+    "silent",
+    "meals-included",
+    "fixed-fee",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "url": "https://www.mardejade.com/retreats/rohatsu-zen-meditation-retreat/"
+    },
+    {
+      "url": "https://www.mardejade.com/about/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

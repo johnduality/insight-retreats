@@ -1,0 +1,33 @@
+{
+  "id": "wangapeka-study-and-meditation-retreat-centre",
+  "name": "Wangapeka Study & Meditation Retreat Centre",
+  "website": "https://www.wangapeka.org",
+  "location": {
+    "city": "Wangapeka Valley, near Tapawera/Nelson",
+    "region": "Nelson region, South Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -41.52,
+    "lng": 172.63
+  },
+  "tradition": "Universalist/mixed Buddhist-Insight, non-sectarian",
+  "technique": "Insight/Vipassana-style meditation with study components",
+  "retreatOptions": "Multi-day residential retreats, lengths vary by program",
+  "teacherAccess": "Visiting teacher-led programs",
+  "about": "A long-running, purpose-built retreat property in the Nelson back-country, host to a mix of Buddhist, psychological, and meditation-focused residential programs for around 50 years. One of the oldest dedicated meditation retreat properties in New Zealand, though its eclectic, non-sectarian program mix means individual course traditions vary.",
+  "schedule": "Regular seasonal program calendar",
+  "tags": [
+    "insight-vipassana",
+    "silent"
+  ],
+  "sources": [
+    {
+      "url": "https://www.wangapeka.org"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

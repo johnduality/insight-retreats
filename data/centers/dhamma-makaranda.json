@@ -1,0 +1,48 @@
+{
+  "id": "dhamma-makaranda",
+  "name": "Dhamma Makaranda",
+  "website": "https://makaranda.dhamma.org",
+  "location": {
+    "address": "San Bartolo Amanalco",
+    "city": "San Bartolo Amanalco, Municipio de Amanalco",
+    "region": "State of Mexico (near Valle de Bravo)",
+    "country": "Mexico",
+    "state": "MX",
+    "lat": 19.238,
+    "lng": -100.055
+  },
+  "tradition": "Vipassana as taught by S.N. Goenka (U Ba Khin lineage)",
+  "technique": "Anapana/Vipassana body-scan technique, Noble Silence throughout",
+  "influences": [
+    "S.N. Goenka"
+  ],
+  "teacherAccess": "Recorded discourse; resident/assistant teachers give personal interviews",
+  "retreatOptions": "10-day standard new-student courses; occasional 3-day/Satipatthana/longer courses for old students; children's/teen courses",
+  "about": "The first dedicated Vipassana center built in Latin America, opened on donated forested land in the early 2000s near Valle de Bravo. Runs the standard worldwide Goenka course structure -- old and new students alike sit fixed 10-day courses on identical timetables, with separate men's/women's dorms, a dining hall, and a pagoda-style meditation hall. Spanish- and English-language courses alternate through the year.",
+  "schedule": "Regular, monthly-ish cadence per online calendar",
+  "cost": "Dana/donation-only; no fee charged or requested at registration",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "partial",
+  "workNotes": "Optional/light Dhamma-service chores for course logistics; not mandatory for participants.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "url": "https://makaranda.dhamma.org"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

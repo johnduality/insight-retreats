@@ -1,0 +1,47 @@
+{
+  "id": "dharma-gaia",
+  "name": "Dharma Gaia",
+  "website": "https://www.dharmagaia.org",
+  "location": {
+    "city": "Manaia Road, Coromandel",
+    "region": "Coromandel Peninsula, North Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -37.03,
+    "lng": 175.7
+  },
+  "tradition": "Independent lay community inspired by Thich Nhat Hanh's teaching (not an official Plum Village center)",
+  "technique": "Mindfulness practice, walking meditation, engaged Buddhism",
+  "influences": [
+    "Thich Nhat Hanh"
+  ],
+  "teacherAccess": "Community-led, occasional visiting teachers",
+  "retreatOptions": "Day retreats up to a month-long Winter Retreat; self-directed personal retreats; 3-month internship",
+  "about": "A Coromandel land-based community explicitly inspired by Thich Nhat Hanh, offering residential retreats -- including a full closed July Winter Retreat -- self-guided stays, and volunteering, with vegetarian/organic food on a sliding-scale contribution model. Currently the closest New Zealand approximation to a Plum Village-style center, though not an official EIAB/Plum Village entity.",
+  "schedule": "Ongoing seasonal program, annual month-long winter retreat",
+  "cost": "Sliding-scale/dana contribution",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "partial",
+  "workNotes": "Volunteer track requires 4-5 hrs/day; less clear for formal retreat guests.",
+  "tags": [
+    "mahayana",
+    "sliding-scale",
+    "diet-vegetarian",
+    "work-practice",
+    "long-retreats"
+  ],
+  "sources": [
+    {
+      "url": "https://www.dharmagaia.org"
+    },
+    {
+      "url": "https://www.dharmagaia.org/retreat"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "dorje-chang-institute",
+  "name": "Dorje Chang Institute",
+  "aka": [
+    "DCI"
+  ],
+  "website": "https://www.dci.org.nz",
+  "location": {
+    "city": "Avondale, Auckland",
+    "region": "Auckland, North Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -36.9,
+    "lng": 174.7
+  },
+  "tradition": "FPMT, Gelug",
+  "technique": "Lam-rim study-and-practice programs",
+  "influences": [
+    "Lama Zopa Rinpoche",
+    "Geshe Wangchen"
+  ],
+  "teacherAccess": "Resident Geshe and visiting FPMT teachers",
+  "retreatOptions": "Periodic retreats per program calendar; long/short-term shared-facility accommodation",
+  "about": "New Zealand's oldest Tibetan Buddhist center (established 1976), on 2.5 acres with a meditation hall, stupa, and grounds bordering a reserve. Functions primarily as an urban dharma center with dormitory/hut accommodation rather than a rural retreat destination -- included with that caveat since it does host periodic residential retreats on its own land.",
+  "schedule": "Ongoing program calendar",
+  "foodServed": "partial",
+  "foodNotes": "Shared kitchen, self-catered.",
+  "tags": [
+    "tibetan-vajrayana",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "url": "https://www.dci.org.nz"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

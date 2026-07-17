@@ -1,0 +1,41 @@
+{
+  "id": "glentui-diamond-way",
+  "name": "Glentui",
+  "aka": [
+    "Diamond Way Buddhism NZ - Glentui"
+  ],
+  "website": "https://www.buddhism.org.nz/glentui",
+  "location": {
+    "city": "Glentui Bush Road, Oxford",
+    "region": "Canterbury foothills, South Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -43.3,
+    "lng": 172.2
+  },
+  "tradition": "Diamond Way Buddhism (Karma Kagyu, Lama Ole Nydahl network)",
+  "technique": "Guru yoga and meditation, guided by visiting Diamond Way lamas",
+  "influences": [
+    "Lama Ole Nydahl"
+  ],
+  "teacherAccess": "Visiting lamas for courses",
+  "retreatOptions": "Intended for single-yogi retreats and larger courses; program lengths not fully published",
+  "about": "A small meditation property in the Canterbury foothills, distinct from Diamond Way's two urban meditation rooms in Auckland and Christchurch, explicitly intended for retreat use. This is the weakest-evidenced New Zealand inclusion -- real dedicated land is confirmed but published program detail is sparse.",
+  "schedule": "Irregular",
+  "tags": [
+    "tibetan-vajrayana"
+  ],
+  "sources": [
+    {
+      "url": "https://www.buddhism.org.nz/glentui"
+    },
+    {
+      "url": "https://www.diamondway-buddhism.org/diamondway-buddhist-centers/country/new-zealand"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

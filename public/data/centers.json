@@ -1,5 +1,54 @@
 [
   {
+    "id": "vimutti-monastery",
+    "name": "Vimutti Monastery",
+    "website": "https://www.atba.nz",
+    "location": {
+      "city": "Paparata, Bombay Hills",
+      "region": "~1hr south of Auckland, North Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -37.2,
+      "lng": 175.05
+    },
+    "tradition": "Thai Forest Theravada (Ajahn Chah lineage)",
+    "technique": "Monastic-routine meditation and mindfulness",
+    "influences": [
+      "Ajahn Chah",
+      "Ajahn Chandako"
+    ],
+    "teacherAccess": "Resident monastics",
+    "retreatOptions": "3 days to 1 week typical first stay; periodic organized retreats (e.g. New Year)",
+    "about": "A 72-144 acre forest monastery run by the Auckland Theravada Buddhist Association. The monastery's own materials note it is not designed as a self-contained lay retreat program -- guests join the full monastic routine and daily work rather than a packaged retreat -- though it does host periodic structured retreats and welcomes overnight lay stays; included here as a monastic-immersion option rather than a packaged lay retreat.",
+    "schedule": "Periodic organized retreats; open-ended guest stays otherwise",
+    "cost": "Dana-based, no charge",
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Two meals, nothing after midday.",
+    "workRequired": "yes",
+    "workNotes": "Daily work required as part of monastic routine.",
+    "tags": [
+      "theravada",
+      "dana-donation",
+      "diet-vegetarian",
+      "work-practice",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "url": "https://www.atba.nz/visiting-vimutti"
+      },
+      {
+        "url": "https://www.atba.nz/staying-at-vimutti"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "dhamma-karuna",
     "name": "Dhamma Karuṇā",
     "aka": [
@@ -1408,6 +1457,103 @@
     }
   },
   {
+    "id": "dhamma-medini",
+    "name": "Dhamma Medini",
+    "aka": [
+      "New Zealand Vipassana Centre"
+    ],
+    "website": "https://medini.dhamma.org",
+    "location": {
+      "city": "Makarau Valley (near Kaukapakapa)",
+      "region": "Auckland Region, North Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -36.54,
+      "lng": 174.5
+    },
+    "tradition": "Vipassana as taught by S.N. Goenka (U Ba Khin lineage, Theravada-derived)",
+    "technique": "Anapana breath focus, then body-scanning Vipassana; Noble Silence",
+    "influences": [
+      "S.N. Goenka"
+    ],
+    "teacherAccess": "Recorded evening discourses from Goenka; live Assistant Teacher gives technique-only guidance and brief interviews, no personal counseling",
+    "retreatOptions": "3-day (old students), standard 10-day, Satipatthana Sutta course, 20-day for qualified old students, plus children's/teen courses",
+    "about": "New Zealand's only permanent Goenka Vipassana center, operating on rural land in the Makarau Valley since the mid-1990s. Runs the standard worldwide Goenka course structure with separate men's and women's housing and dining, strict Noble Silence, and no ritual or devotional content. Popular with both first-time sitters and long-term old students pursuing longer courses.",
+    "schedule": "Frequent courses year-round per published calendar",
+    "cost": "Dana/donation-only; no fee charged, voluntary donation after course completion",
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Included, standard Goenka-course vegetarian meals.",
+    "workRequired": "no",
+    "workNotes": "New students do not work; volunteer 'servers' handle logistics separately.",
+    "tags": [
+      "goenka",
+      "insight-vipassana",
+      "silent",
+      "long-retreats",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "no-work-required",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "url": "https://medini.dhamma.org"
+      },
+      {
+        "url": "https://www.vridhamma.org"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dorje-chang-institute",
+    "name": "Dorje Chang Institute",
+    "aka": [
+      "DCI"
+    ],
+    "website": "https://www.dci.org.nz",
+    "location": {
+      "city": "Avondale, Auckland",
+      "region": "Auckland, North Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -36.9,
+      "lng": 174.7
+    },
+    "tradition": "FPMT, Gelug",
+    "technique": "Lam-rim study-and-practice programs",
+    "influences": [
+      "Lama Zopa Rinpoche",
+      "Geshe Wangchen"
+    ],
+    "teacherAccess": "Resident Geshe and visiting FPMT teachers",
+    "retreatOptions": "Periodic retreats per program calendar; long/short-term shared-facility accommodation",
+    "about": "New Zealand's oldest Tibetan Buddhist center (established 1976), on 2.5 acres with a meditation hall, stupa, and grounds bordering a reserve. Functions primarily as an urban dharma center with dormitory/hut accommodation rather than a rural retreat destination -- included with that caveat since it does host periodic residential retreats on its own land.",
+    "schedule": "Ongoing program calendar",
+    "foodServed": "partial",
+    "foodNotes": "Shared kitchen, self-catered.",
+    "tags": [
+      "tibetan-vajrayana",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dci.org.nz"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "sitagu-buddha-vihara",
     "name": "Sitagu Buddha Vihara",
     "aka": [
@@ -1567,6 +1713,66 @@
       {
         "title": "Kloster auf Zeit (monastery-for-a-time program, pricing)",
         "url": "https://kurse.dharmaacademy.com/kloster-auf-zeit"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "tsegyalgar-west",
+    "name": "Tsegyalgar West",
+    "aka": [
+      "Rancho Los Naranjos",
+      "Dzogchen Community Baja"
+    ],
+    "website": "https://www.tsegyalgarwest.org",
+    "location": {
+      "city": "Rancho Los Naranjos, mountains above San Jose del Cabo",
+      "region": "Baja California Sur",
+      "country": "Mexico",
+      "state": "MX",
+      "lat": 23.15,
+      "lng": -109.87
+    },
+    "tradition": "Tibetan Dzogchen (Nyingma), founded by Chogyal Namkhai Norbu",
+    "technique": "Dzogchen meditation, Yantra Yoga, Vajra Dance; personal or teacher-led retreat",
+    "influences": [
+      "Chogyal Namkhai Norbu"
+    ],
+    "teacherAccess": "Self-directed for personal retreats; direct daily access to visiting authorized teachers during teacher-led retreats",
+    "retreatOptions": "Personal retreats of any length (days to months); scheduled teacher-led retreats several times a year",
+    "about": "A 3,000-acre wilderness reserve with a temple (Gonpa) housing a Vajra Dance mandala, four casitas, camping, and a shared kitchen. One of the International Dzogchen Community's two main centers worldwide (with Tsegyalgar East in Massachusetts), functioning as both dedicated retreat land and a rental venue for outside groups.",
+    "schedule": "Teacher-led retreats 5-6 times a year; personal retreats year-round, especially winter",
+    "cost": "Casita lodging $40-50 USD/night (double occupancy) or camping $10/night; catered meals ~$25/day",
+    "pricePerDay": {
+      "min": 50,
+      "max": 75,
+      "unit": "night",
+      "currency": "USD",
+      "notes": "Casita lodging plus catered meals, all-in estimate.",
+      "source": "https://www.tsegyalgarwest.org/retreat-center/personal-retreats/fee-structure/"
+    },
+    "foodServed": "partial",
+    "foodNotes": "Catered meals available or self-catering with a weekly shopping service.",
+    "workRequired": "no",
+    "workNotes": "Work-exchange discounts optionally available for long personal retreats.",
+    "tags": [
+      "tibetan-vajrayana",
+      "silent",
+      "self-guided",
+      "camping",
+      "fixed-fee",
+      "meals-included"
+    ],
+    "sources": [
+      {
+        "url": "https://www.tsegyalgarwest.org"
+      },
+      {
+        "url": "https://www.tsegyalgarwest.org/retreat-center/personal-retreats/fee-structure/"
       }
     ],
     "meta": {
@@ -2913,6 +3119,47 @@
     "meta": {
       "generatedBy": "claude (cowork)",
       "lastUpdated": "2026-07-15",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "glentui-diamond-way",
+    "name": "Glentui",
+    "aka": [
+      "Diamond Way Buddhism NZ - Glentui"
+    ],
+    "website": "https://www.buddhism.org.nz/glentui",
+    "location": {
+      "city": "Glentui Bush Road, Oxford",
+      "region": "Canterbury foothills, South Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -43.3,
+      "lng": 172.2
+    },
+    "tradition": "Diamond Way Buddhism (Karma Kagyu, Lama Ole Nydahl network)",
+    "technique": "Guru yoga and meditation, guided by visiting Diamond Way lamas",
+    "influences": [
+      "Lama Ole Nydahl"
+    ],
+    "teacherAccess": "Visiting lamas for courses",
+    "retreatOptions": "Intended for single-yogi retreats and larger courses; program lengths not fully published",
+    "about": "A small meditation property in the Canterbury foothills, distinct from Diamond Way's two urban meditation rooms in Auckland and Christchurch, explicitly intended for retreat use. This is the weakest-evidenced New Zealand inclusion -- real dedicated land is confirmed but published program detail is sparse.",
+    "schedule": "Irregular",
+    "tags": [
+      "tibetan-vajrayana"
+    ],
+    "sources": [
+      {
+        "url": "https://www.buddhism.org.nz/glentui"
+      },
+      {
+        "url": "https://www.diamondway-buddhism.org/diamondway-buddhist-centers/country/new-zealand"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
       "reviewStatus": "unverified"
     }
   },
@@ -4521,6 +4768,66 @@
     "id": "vyhlidky-diamond-way-buddhist-retreat-center"
   },
   {
+    "id": "hridaya-family",
+    "name": "Hridaya Family",
+    "aka": [
+      "Hridaya Yoga Chiapas"
+    ],
+    "website": "https://www.hridaya-family.com",
+    "location": {
+      "city": "Bochojbo Alto, near San Cristobal de las Casas",
+      "region": "Chiapas",
+      "country": "Mexico",
+      "state": "MX",
+      "lat": 16.85,
+      "lng": -92.65
+    },
+    "tradition": "Non-Dual Shaiva Tantra (Hindu-tantric yoga) with Advaita Vedanta and Buddhist influences",
+    "technique": "Silent meditation retreats, dark-room retreats, somatic/embodiment practice",
+    "influences": [
+      "Kyle Brooks (Sri Ramana Bodhisattva)",
+      "Sasha Medvedovskaya"
+    ],
+    "teacherAccess": "Daily group sits and talks during retreats, facilitator-led",
+    "retreatOptions": "3, 6, 7, 10, 12, and up to 30-day silent retreats; solitary retreats also offered",
+    "about": "A dedicated, owner-built retreat property in pine forest at 2,200m altitude, on land regarded locally as a Mayan sacred site. Houses a 100 sqm meditation hall, a main house, and two cabins for around 22 guests. Meditation is the structural center of the flagship 'Silent Meditation Retreat' line, though the broader Hridaya brand also runs yoga-teacher-training and somatic programs.",
+    "schedule": "Multiple silent retreats scheduled through the year in recurring 3/6/10-day cycles",
+    "cost": "10-day retreat: course fee $320 + accommodation from $110 (dorm, 11 nights) + meals $145",
+    "pricePerDay": {
+      "min": 52,
+      "max": 58,
+      "unit": "night",
+      "currency": "USD",
+      "notes": "10-day retreat, budget dorm tier, all-in per night.",
+      "source": "https://www.hridaya-family.com/10-day-hridaya-meditation-retreat-mexico"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Three meals a day included in package.",
+    "workRequired": "unknown",
+    "tags": [
+      "yoga-hindu",
+      "silent",
+      "long-retreats",
+      "meals-included",
+      "fixed-fee",
+      "diet-vegetarian"
+    ],
+    "sources": [
+      {
+        "url": "https://www.hridaya-family.com"
+      },
+      {
+        "url": "https://www.hridaya-family.com/10-day-hridaya-meditation-retreat-mexico"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "chicago-zen-center",
     "name": "Chicago Zen Center",
     "aka": [],
@@ -4715,6 +5022,191 @@
       {
         "title": "Nalandabodhi Mahasiddha Retreat Centre - Nalandabodhi Canada",
         "url": "https://canada.nalandabodhi.ca/locations/nalandabodhi-mahasidda/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dharma-gaia",
+    "name": "Dharma Gaia",
+    "website": "https://www.dharmagaia.org",
+    "location": {
+      "city": "Manaia Road, Coromandel",
+      "region": "Coromandel Peninsula, North Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -37.03,
+      "lng": 175.7
+    },
+    "tradition": "Independent lay community inspired by Thich Nhat Hanh's teaching (not an official Plum Village center)",
+    "technique": "Mindfulness practice, walking meditation, engaged Buddhism",
+    "influences": [
+      "Thich Nhat Hanh"
+    ],
+    "teacherAccess": "Community-led, occasional visiting teachers",
+    "retreatOptions": "Day retreats up to a month-long Winter Retreat; self-directed personal retreats; 3-month internship",
+    "about": "A Coromandel land-based community explicitly inspired by Thich Nhat Hanh, offering residential retreats -- including a full closed July Winter Retreat -- self-guided stays, and volunteering, with vegetarian/organic food on a sliding-scale contribution model. Currently the closest New Zealand approximation to a Plum Village-style center, though not an official EIAB/Plum Village entity.",
+    "schedule": "Ongoing seasonal program, annual month-long winter retreat",
+    "cost": "Sliding-scale/dana contribution",
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "workRequired": "partial",
+    "workNotes": "Volunteer track requires 4-5 hrs/day; less clear for formal retreat guests.",
+    "tags": [
+      "mahayana",
+      "sliding-scale",
+      "diet-vegetarian",
+      "work-practice",
+      "long-retreats"
+    ],
+    "sources": [
+      {
+        "url": "https://www.dharmagaia.org"
+      },
+      {
+        "url": "https://www.dharmagaia.org/retreat"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "mahamudra-centre",
+    "name": "Mahamudra Centre",
+    "website": "https://www.mahamudra.org.nz",
+    "location": {
+      "city": "Colville",
+      "region": "Coromandel Peninsula, North Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -36.63,
+      "lng": 175.45
+    },
+    "tradition": "FPMT, Gelug (Lama Tsongkhapa lineage)",
+    "technique": "Lam-rim graduated-path meditation; guided and self-structured retreat",
+    "influences": [
+      "FPMT",
+      "Lama Zopa Rinpoche"
+    ],
+    "teacherAccess": "Resident/visiting FPMT teachers for guided programs; remote support for self-guided retreatants",
+    "retreatOptions": "Weekend 'Reset Retreat', guided mini-retreats and Discovering Buddhism modules, plus open-ended self-guided retreats for experienced students",
+    "about": "A genuine rural retreat property on the Coromandel Peninsula with huts, rooms, and campsites, run within the FPMT network. Serves both structured beginner weekend programs and longer self-directed retreats for committed students observing the Five Precepts, with a digital-detox emphasis (no phone or internet).",
+    "schedule": "Regular weekend retreats plus scheduled modules through the year",
+    "cost": "Approx. NZD 150 for a 2-night Weekend Reset Retreat",
+    "pricePerDay": {
+      "min": 75,
+      "max": 75,
+      "unit": "night",
+      "currency": "NZD",
+      "notes": "$150 Weekend Reset Retreat, 2 nights, B&B-style.",
+      "source": "https://www.mahamudra.org.nz/accommodation"
+    },
+    "foodServed": "partial",
+    "foodType": "unknown",
+    "foodNotes": "No cooked meals normally provided; self-catering in huts, groceries arrangeable.",
+    "workRequired": "no",
+    "tags": [
+      "tibetan-vajrayana",
+      "self-guided",
+      "camping",
+      "fixed-fee",
+      "no-work-required"
+    ],
+    "sources": [
+      {
+        "url": "https://www.mahamudra.org.nz/accommodation"
+      },
+      {
+        "url": "https://www.mahamudra.org.nz/private-retreat"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "sudarshanaloka",
+    "name": "Sudarshanaloka",
+    "website": "https://www.sudarshanaloka.nz",
+    "location": {
+      "city": "near Thames",
+      "region": "Coromandel Peninsula, North Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -37.15,
+      "lng": 175.55
+    },
+    "tradition": "Triratna Buddhist Community (eclectic, Sangharakshita-founded)",
+    "technique": "Mindfulness of breathing and metta bhavana meditation, group and solitary retreat",
+    "influences": [
+      "Sangharakshita"
+    ],
+    "teacherAccess": "Visiting Triratna Order members during organized retreats",
+    "retreatOptions": "Group retreats/events plus dedicated solitary-retreat huts",
+    "about": "An 80-hectare, fully off-grid native-forest retreat center purchased in 1993, the land-based arm of New Zealand's Triratna network alongside the urban Auckland Buddhist Centre. Offers both communal retreats and solitary retreat facilities on genuinely dedicated land.",
+    "schedule": "Regular scheduled retreats",
+    "tags": [
+      "mahayana",
+      "silent",
+      "camping"
+    ],
+    "sources": [
+      {
+        "url": "https://www.sudarshanaloka.nz/about/history"
+      },
+      {
+        "url": "https://www.sudarshanaloka.nz/about/retreat-centre"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "te-moata-retreat-centre",
+    "name": "Te Moata Retreat Centre",
+    "website": "https://www.temoata.org",
+    "location": {
+      "city": "Tairua",
+      "region": "Coromandel Peninsula, North Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -37,
+      "lng": 175.83
+    },
+    "tradition": "Insight Meditation (Western Vipassana teacher lineage, non-Goenka), hosted on non-sectarian land",
+    "technique": "Insight/Vipassana meditation",
+    "influences": [
+      "Jill Shepherd",
+      "Joseph Goldstein",
+      "Gil Fronsdal"
+    ],
+    "teacherAccess": "Daily talks and interviews typical of Insight Meditation retreats",
+    "retreatOptions": "Annual multi-day retreat (e.g. 8 nights)",
+    "about": "A 344-hectare land trust on the Coromandel Peninsula that hosts many unrelated retreat groups; its own annual Insight Meditation retreat, led by a teacher trained under Joseph Goldstein and Gil Fronsdal, is genuinely meditation-central and residential even though the land itself is non-sectarian and multi-use.",
+    "schedule": "Annual retreat, roughly February/March",
+    "tags": [
+      "insight-vipassana",
+      "silent",
+      "camping"
+    ],
+    "sources": [
+      {
+        "url": "https://www.temoata.org/about/history-lineage"
+      },
+      {
+        "url": "https://www.temoata.org/retreat/insight-meditation-2026"
       }
     ],
     "meta": {
@@ -8999,6 +9491,49 @@
     ],
     "meta": {
       "generatedBy": "harness/1.0 (claude)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "anahata-yoga-retreat",
+    "name": "Anahata Yoga Retreat",
+    "website": "https://www.anahata-retreat.org.nz",
+    "location": {
+      "city": "Takaka",
+      "region": "Golden Bay, South Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -40.85,
+      "lng": 172.8
+    },
+    "tradition": "Eclectic yogic ashram-style community",
+    "technique": "Hatha, Karma, Bhakti, Jnana and Raja Yoga, meditation, mouna (silence), fire rituals",
+    "influences": [
+      "Swami Karma Karuna"
+    ],
+    "teacherAccess": "Resident teacher/community",
+    "retreatOptions": "Nightly stays up to a month-long 'Yogic Life Skills' immersion",
+    "about": "An eco-ashram bordering Abel Tasman National Park combining classical yoga paths with meditation and periods of silence. Runs a karma-yoga caretaker exchange (cooking, gardening, maintenance for accommodation); meditation-centrality is somewhat shared with general yogic lifestyle practice, included with that caveat.",
+    "schedule": "Ongoing, flexible-length stays",
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Organic.",
+    "workRequired": "partial",
+    "workNotes": "Formal karma-yoga exchange program available, not mandatory for all guests.",
+    "tags": [
+      "yoga-hindu",
+      "work-practice",
+      "diet-vegetarian",
+      "camping"
+    ],
+    "sources": [
+      {
+        "url": "https://www.anahata-retreat.org.nz"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
       "lastUpdated": "2026-07-16",
       "reviewStatus": "unverified"
     }
@@ -14457,6 +14992,107 @@
     "id": "vrazne-zen-center-seon-mun-sa"
   },
   {
+    "id": "ananda-madhumaya",
+    "name": "Ananda Madhumaya",
+    "aka": [
+      "Ananda Marga Xochicalco"
+    ],
+    "website": "https://www.anandamadhumaya.org",
+    "location": {
+      "address": "Tlapacoyan St. #1, Xochicalco",
+      "city": "Xochicalco",
+      "region": "Morelos",
+      "country": "Mexico",
+      "state": "MX",
+      "lat": 18.781,
+      "lng": -99.304
+    },
+    "tradition": "Ananda Marga (Hindu/Tantric-yogic), founded by Shrii Shrii Anandamurti",
+    "technique": "Rajadhiraja Yoga meditation, asanas, kirtan, fasting/detox practices",
+    "influences": [
+      "Shrii Shrii Anandamurti"
+    ],
+    "teacherAccess": "Direct -- resident Dada/Didi monastic teachers live on-site",
+    "retreatOptions": "10-day Yoga & Detox program; multi-week teacher trainings; shorter seasonal retreats",
+    "about": "A renovated former ceramics workshop and adjoining rural land near the pre-Columbian Xochicalco pyramids, purchased by the Ananda Marga mission since 2014. Hosts yoga/meditation retreats, teacher trainings, and 'spiritual lifestyle' volunteer programs for groups of 10-40, functioning partly as a monastic residence and partly as a bookable retreat venue an hour from Tepoztlan.",
+    "schedule": "Several named programs per year",
+    "cost": "Priced per-program; inquire directly for current rates",
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Sattvic vegetarian, communal.",
+    "workRequired": "yes",
+    "workNotes": "Volunteers and some program participants do garden/kitchen work (karma yoga).",
+    "tags": [
+      "yoga-hindu",
+      "meals-included",
+      "diet-vegetarian",
+      "work-practice",
+      "family-friendly",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "url": "https://www.anandamadhumaya.org"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "chintamani-centro-de-retiros",
+    "name": "Chintamani Centro de Retiros",
+    "website": "https://www.chintamani.mx",
+    "location": {
+      "city": "Yautepec area",
+      "region": "Morelos (Cuautla valley, near Tepoztlan/Cuernavaca)",
+      "country": "Mexico",
+      "state": "MX",
+      "lat": 18.88,
+      "lng": -99.06
+    },
+    "tradition": "Triratna Buddhist Order (eclectic, Sangharakshita-founded)",
+    "technique": "Mindfulness of breathing, metta bhavana, plus Triratna study and ritual",
+    "influences": [
+      "Sangharakshita"
+    ],
+    "teacherAccess": "Visiting Order members occasionally join; otherwise sangha-led",
+    "retreatOptions": "3-4 day weekend retreats up to week-long retreats",
+    "about": "A 3+ hectare property owned and run by the Mexican Triratna sangha, used for weekend and week-long meditation retreats combining silent sitting, study, and communal work, drawing from CDMX/Cuernavaca practice groups. Program-calendar details were harder to verify than for other entries (site loads as a JS app); flagged for a final spot-check before treating pricing as current.",
+    "cost": "Roughly 2,650-5,500 MXN per retreat depending on length",
+    "pricePerDay": {
+      "min": 650,
+      "max": 900,
+      "unit": "night",
+      "currency": "MXN",
+      "notes": "Derived from a ~4-day retreat priced around 2,650-3,600 MXN.",
+      "source": "https://www.chintamani.mx"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "workRequired": "partial",
+    "workNotes": "Light communal chores customary, not formally required.",
+    "tags": [
+      "mahayana",
+      "silent",
+      "meals-included",
+      "diet-vegetarian",
+      "sliding-scale"
+    ],
+    "sources": [
+      {
+        "url": "https://www.chintamani.mx"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "dhamma-group-brussels",
     "name": "Dhamma Group Brussels",
     "aka": [
@@ -14559,6 +15195,97 @@
       {
         "title": "Retraites Abhidhamma (daily schedule, vegetarian lunch)",
         "url": "https://dhammagroupbrussels.be/informations-pratiques-abhidhamma/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "mar-de-jade",
+    "name": "Mar de Jade",
+    "aka": [
+      "Mar de Jade Wellness Resort"
+    ],
+    "website": "https://www.mardejade.com",
+    "location": {
+      "city": "Chacala",
+      "region": "Nayarit (Pacific Coast)",
+      "country": "Mexico",
+      "state": "MX",
+      "lat": 21.12,
+      "lng": -105.23
+    },
+    "tradition": "Soto Zen (annual Rohatsu sesshin), hosted at a general wellness resort",
+    "technique": "Traditional silent Zen sesshin (bilingual English/Spanish)",
+    "influences": [
+      "Zoketsu Norman Fischer"
+    ],
+    "teacherAccess": "Daily, direct, during the Zen sesshin week",
+    "retreatOptions": "The Zen retreat runs approx. 5-7 days; other resort programs run 3-14 nights",
+    "about": "A 35+-year-old beachfront retreat property in the jungle village of Chacala with dedicated land and an organic farm. Its core identity is a wellness/vacation resort rather than a meditation lineage institution, but it hosts a genuine, recurring, teacher-led Zen Rohatsu sesshin recognized within the Zen community -- included primarily for that program rather than the resort's general offerings.",
+    "schedule": "Annual Rohatsu sesshin (December); other yoga/wellness retreats run monthly",
+    "cost": "Full retreat packages from $1,895 (dorm) to $3,400 (ocean single) per stay",
+    "pricePerDay": {
+      "min": 270,
+      "max": 485,
+      "unit": "night",
+      "currency": "USD",
+      "notes": "Derived from a ~7-night sesshin package, $1,895-$3,400 total, meals included.",
+      "source": "https://www.mardejade.com/retreats/rohatsu-zen-meditation-retreat/"
+    },
+    "foodServed": "yes",
+    "foodType": "mixed",
+    "foodNotes": "Vegetarian/vegan/gluten-free plus fish/chicken options, organic farm-to-table.",
+    "workRequired": "no",
+    "tags": [
+      "zen",
+      "silent",
+      "meals-included",
+      "fixed-fee",
+      "diet-vegetarian"
+    ],
+    "sources": [
+      {
+        "url": "https://www.mardejade.com/retreats/rohatsu-zen-meditation-retreat/"
+      },
+      {
+        "url": "https://www.mardejade.com/about/"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "wangapeka-study-and-meditation-retreat-centre",
+    "name": "Wangapeka Study & Meditation Retreat Centre",
+    "website": "https://www.wangapeka.org",
+    "location": {
+      "city": "Wangapeka Valley, near Tapawera/Nelson",
+      "region": "Nelson region, South Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -41.52,
+      "lng": 172.63
+    },
+    "tradition": "Universalist/mixed Buddhist-Insight, non-sectarian",
+    "technique": "Insight/Vipassana-style meditation with study components",
+    "retreatOptions": "Multi-day residential retreats, lengths vary by program",
+    "teacherAccess": "Visiting teacher-led programs",
+    "about": "A long-running, purpose-built retreat property in the Nelson back-country, host to a mix of Buddhist, psychological, and meditation-focused residential programs for around 50 years. One of the oldest dedicated meditation retreat properties in New Zealand, though its eclectic, non-sectarian program mix means individual course traditions vary.",
+    "schedule": "Regular seasonal program calendar",
+    "tags": [
+      "insight-vipassana",
+      "silent"
+    ],
+    "sources": [
+      {
+        "url": "https://www.wangapeka.org"
       }
     ],
     "meta": {
@@ -15507,6 +16234,42 @@
       }
     ],
     "id": "karma-shedrup-ling",
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "karma-choeling",
+    "name": "Karma Choeling Buddhist Monastery",
+    "website": "https://www.kagyu.org.nz",
+    "location": {
+      "city": "Dairy Flat",
+      "region": "North Auckland, North Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -36.68,
+      "lng": 174.65
+    },
+    "tradition": "Karma Kagyu (Tibetan Vajrayana), New Zealand seat of the 17th Karmapa",
+    "technique": "Ngondro preliminary practices, pujas (Tara, Chenrezig), sitting meditation",
+    "influences": [
+      "17th Karmapa"
+    ],
+    "teacherAccess": "Resident Kagyu sangha and visiting lamas",
+    "retreatOptions": "Weekend Ngondro retreats by enquiry",
+    "about": "Established in 1980 on 20 hectares of regenerating native bush north of Auckland, with a temple, eight stupas, and a 25-foot Buddha statue. Offers residential retreat huts for weekend practice retreats plus regular Sunday sitting and pujas -- a long-standing, land-based Tibetan Buddhist community. Pricing and food/work details are not published; direct enquiry is needed.",
+    "schedule": "Regular weekend retreats and pujas",
+    "tags": [
+      "tibetan-vajrayana",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kagyu.org.nz"
+      }
+    ],
     "meta": {
       "generatedBy": "claude (cowork)",
       "lastUpdated": "2026-07-16",
@@ -16851,6 +17614,64 @@
     }
   },
   {
+    "id": "santipada-buddhist-monastery",
+    "name": "Santipada Buddhist Monastery",
+    "website": "https://www.santipada.co.nz",
+    "location": {
+      "city": "Kerikeri",
+      "region": "Northland, North Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -35.22,
+      "lng": 173.95
+    },
+    "tradition": "Blended Korean Zen and Theravada",
+    "technique": "Structured meditation schedule (5am-10pm), Eight Precepts",
+    "influences": [
+      "Bhante (Ayya) Yasala"
+    ],
+    "teacherAccess": "Resident abbot and monastics",
+    "retreatOptions": "General Retreat, minimum 3 nights; separate membership and volunteer stay tracks",
+    "about": "A working monastery on 6 hectares of donated land combining Korean Zen and Theravada practice. Runs a clearly priced general retreat program alongside deeper membership/volunteer tracks, with vegetarian meals (dairy/eggs allowed), no wifi, and a disciplined daily schedule.",
+    "schedule": "Ongoing, bookable retreats",
+    "cost": "NZD 150/day standard; NZD 100/day for stays of 7+ nights",
+    "pricePerDay": {
+      "min": 100,
+      "max": 150,
+      "unit": "night",
+      "currency": "NZD",
+      "notes": "$150/day standard rate, discounted to $100/day for 7+ night stays.",
+      "source": "https://www.santipada.co.nz/about-retreat"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "Dairy and eggs allowed.",
+    "workRequired": "partial",
+    "workNotes": "Separate volunteer track distinct from paid retreat stays.",
+    "tags": [
+      "zen",
+      "theravada",
+      "silent",
+      "fixed-fee",
+      "diet-vegetarian",
+      "meals-included",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "url": "https://www.santipada.co.nz"
+      },
+      {
+        "url": "https://www.santipada.co.nz/about-retreat"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "aruna-ratanagiri",
     "name": "Aruna Ratanagiri",
     "aka": [
@@ -17838,6 +18659,60 @@
     "meta": {
       "generatedBy": "claude (cowork)",
       "lastUpdated": "2026-07-15",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "hridaya-yoga-mexico",
+    "name": "Hridaya Yoga Mexico",
+    "website": "https://www.hridaya-yoga.com/centers/hridaya-yoga-mexico",
+    "location": {
+      "city": "Mazunte",
+      "region": "Oaxaca coast",
+      "country": "Mexico",
+      "state": "MX",
+      "lat": 15.667,
+      "lng": -96.553
+    },
+    "tradition": "Hridaya lineage founded by Sahajananda (Kashmir Shaivism/Advaita Vedanta synthesis)",
+    "technique": "Silent sitting meditation, heart-centered awareness practice, Hatha Yoga",
+    "influences": [
+      "Sahajananda"
+    ],
+    "teacherAccess": "Resident teachers/facilitators on-site during retreats",
+    "retreatOptions": "3, 5, 10, 17, 28, and 49-day silent retreats, plus dark-room retreats and online options",
+    "about": "Built atop a hill between Mazunte and San Agustinillo since 2012, with four yoga halls, a vegan dining hall, and eco-lodging with ocean views. Runs a well-structured on-site silent-retreat ladder from 3 days up to 49 days, plus yoga teacher trainings and separate volunteer stays; its permanent staff and year-round calendar distinguish it from a rented-villa operation.",
+    "schedule": "Multiple retreats run continuously through the year",
+    "cost": "Approx. $650-750 USD for a 10-day retreat (third-party aggregator estimate, not an official published rate)",
+    "pricePerDay": {
+      "min": 65,
+      "max": 75,
+      "unit": "night",
+      "currency": "USD",
+      "notes": "Estimated from aggregator listings for the 10-day retreat; not directly sourced from the official site.",
+      "source": "https://www.hridaya-yoga.com/centers/hridaya-yoga-mexico"
+    },
+    "foodServed": "yes",
+    "foodType": "vegan",
+    "workRequired": "no",
+    "workNotes": "Volunteering offered as a separate track, not required of retreat participants.",
+    "tags": [
+      "yoga-hindu",
+      "silent",
+      "long-retreats",
+      "diet-vegan",
+      "meals-included",
+      "online-hybrid",
+      "no-work-required"
+    ],
+    "sources": [
+      {
+        "url": "https://www.hridaya-yoga.com/centers/hridaya-yoga-mexico"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
       "reviewStatus": "unverified"
     }
   },
@@ -24561,6 +25436,108 @@
     }
   },
   {
+    "id": "chamma-ling-valle-de-bravo",
+    "name": "Chamma Ling Valle de Bravo",
+    "aka": [
+      "Great Stupa for World Peace"
+    ],
+    "website": "https://www.ligmincha.org/center-mexico-valledebravo",
+    "location": {
+      "city": "Valle de Bravo",
+      "region": "State of Mexico",
+      "country": "Mexico",
+      "state": "MX",
+      "lat": 19.194,
+      "lng": -100.186
+    },
+    "tradition": "Yungdrung Bon (pre-Buddhist Tibetan tradition, closely allied with Tibetan Vajrayana)",
+    "technique": "Dzogchen-style Bon meditation, Tsa Lung inner-heat practices",
+    "influences": [
+      "Tenzin Wangyal Rinpoche"
+    ],
+    "teacherAccess": "High when the lineage holder teaches in person; otherwise resident/visiting instructors",
+    "retreatOptions": "Typically 3-4 night programs",
+    "about": "Home to the Great Stupa for World Peace, the largest Buddhist/Bon stupa in the West (consecrated 2010), this land has hosted Ligmincha retreats since 1999 with cabin and camping-style lodging. Note: Bon is a distinct pre-Buddhist Tibetan tradition rather than classical Buddhism, but it is closely allied with and commonly catalogued alongside Tibetan/Vajrayana practice -- included with that tradition caveat.",
+    "schedule": "Periodic multi-day retreats, plus hybrid online sessions",
+    "cost": "Lodging priced per person/night: quad cabin 750 MXN, triple 950 MXN, double 1,300 MXN; program tuition separate",
+    "pricePerDay": {
+      "min": 750,
+      "max": 1300,
+      "unit": "night",
+      "currency": "MXN",
+      "notes": "Cabin lodging only (quad to double occupancy); tuition is additional.",
+      "source": "https://www.ligmincha.org/center-mexico-valledebravo"
+    },
+    "foodServed": "yes",
+    "foodType": "unknown",
+    "workRequired": "no",
+    "tags": [
+      "tibetan-vajrayana",
+      "camping",
+      "online-hybrid",
+      "fixed-fee",
+      "family-friendly"
+    ],
+    "sources": [
+      {
+        "url": "https://www.ligmincha.org/center-mexico-valledebravo"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "dhamma-makaranda",
+    "name": "Dhamma Makaranda",
+    "website": "https://makaranda.dhamma.org",
+    "location": {
+      "address": "San Bartolo Amanalco",
+      "city": "San Bartolo Amanalco, Municipio de Amanalco",
+      "region": "State of Mexico (near Valle de Bravo)",
+      "country": "Mexico",
+      "state": "MX",
+      "lat": 19.238,
+      "lng": -100.055
+    },
+    "tradition": "Vipassana as taught by S.N. Goenka (U Ba Khin lineage)",
+    "technique": "Anapana/Vipassana body-scan technique, Noble Silence throughout",
+    "influences": [
+      "S.N. Goenka"
+    ],
+    "teacherAccess": "Recorded discourse; resident/assistant teachers give personal interviews",
+    "retreatOptions": "10-day standard new-student courses; occasional 3-day/Satipatthana/longer courses for old students; children's/teen courses",
+    "about": "The first dedicated Vipassana center built in Latin America, opened on donated forested land in the early 2000s near Valle de Bravo. Runs the standard worldwide Goenka course structure -- old and new students alike sit fixed 10-day courses on identical timetables, with separate men's/women's dorms, a dining hall, and a pagoda-style meditation hall. Spanish- and English-language courses alternate through the year.",
+    "schedule": "Regular, monthly-ish cadence per online calendar",
+    "cost": "Dana/donation-only; no fee charged or requested at registration",
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "workRequired": "partial",
+    "workNotes": "Optional/light Dhamma-service chores for course logistics; not mandatory for participants.",
+    "tags": [
+      "theravada",
+      "insight-vipassana",
+      "goenka",
+      "silent",
+      "dana-donation",
+      "meals-included",
+      "diet-vegetarian",
+      "no-work-required"
+    ],
+    "sources": [
+      {
+        "url": "https://makaranda.dhamma.org"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "wat-phra-dhammakaya-london",
     "name": "Wat Phra Dhammakaya London",
     "aka": [
@@ -27394,6 +28371,63 @@
     }
   },
   {
+    "id": "the-narrows-retreat",
+    "name": "The Narrows Retreat",
+    "aka": [
+      "Ananda New Zealand"
+    ],
+    "website": "https://www.thenarrowsretreat.co.nz",
+    "location": {
+      "city": "Hamilton",
+      "region": "Waikato, North Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -37.79,
+      "lng": 175.28
+    },
+    "tradition": "Kriya Yoga, Paramhansa Yogananda lineage, via Ananda Sangha Worldwide",
+    "technique": "Kriya Yoga meditation, guided practice",
+    "influences": [
+      "Paramhansa Yogananda"
+    ],
+    "teacherAccess": "One-on-one instruction with resident teacher",
+    "retreatOptions": "3-hour sessions; 5-day/4-night immersion; periodic group weekend retreats",
+    "about": "A small, boutique Yogananda-lineage retreat run from a teacher's home property near Hamilton. Meditation and Kriya Yoga instruction are central rather than incidental; scale is modest compared to larger Ananda communities abroad, but it is a genuine dedicated New Zealand property with residential programming.",
+    "schedule": "Ad hoc immersions plus periodic group weekends",
+    "cost": "NZD 2,850 for a 5-day/4-night immersion including meals and one-on-one instruction",
+    "pricePerDay": {
+      "min": 712,
+      "max": 712,
+      "unit": "night",
+      "currency": "NZD",
+      "notes": "$2,850 / 5-day-4-night immersion, includes meals and one-on-one instruction.",
+      "source": "https://www.thenarrowsretreat.co.nz"
+    },
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "workRequired": "no",
+    "tags": [
+      "yoga-hindu",
+      "meals-included",
+      "diet-vegetarian",
+      "fixed-fee",
+      "no-work-required"
+    ],
+    "sources": [
+      {
+        "url": "https://www.thenarrowsretreat.co.nz"
+      },
+      {
+        "url": "https://www.anandanz.org"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "forest-hermitage-warwick",
     "name": "The Forest Hermitage",
     "aka": [
@@ -27488,6 +28522,55 @@
     ],
     "meta": {
       "generatedBy": "harness/1.0 (claude)",
+      "lastUpdated": "2026-07-16",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
+    "id": "bodhinyanarama-monastery",
+    "name": "Bodhinyanarama Monastery",
+    "website": "https://www.bodhinyanarama.net.nz",
+    "location": {
+      "city": "Stokes Valley, Lower Hutt",
+      "region": "Wellington Region, North Island",
+      "country": "New Zealand",
+      "state": "NZ",
+      "lat": -41.17,
+      "lng": 174.97
+    },
+    "tradition": "Thai Forest Theravada (Ajahn Chah / Ajahn Sumedho lineage)",
+    "technique": "Samatha/mindfulness meditation within monastic forest routine",
+    "influences": [
+      "Ajahn Chah",
+      "Ajahn Sumedho"
+    ],
+    "teacherAccess": "Monks give daily talks and Q&A (~11:30am) and personal interviews",
+    "retreatOptions": "2-7 night standard guest stays; dedicated group retreats at King's Birthday, Labour Weekend, New Year, and occasional weekends",
+    "about": "A 60-hectare forest monastery active since the 1980s, genuinely open to lay overnight guests rather than monastic-only. Guests keep the Eight Precepts, eat one meal a day, and can join structured group retreats several times a year alongside flexible individual guest stays -- a well-established, credible Theravada option.",
+    "schedule": "Several fixed retreat weekends per year plus flexible guest stays",
+    "cost": "Dana-based, no set charge",
+    "foodServed": "yes",
+    "foodType": "vegetarian",
+    "foodNotes": "One meal a day, no special diets.",
+    "workRequired": "partial",
+    "workNotes": "Not required for short stays; longer Vassa stays expect a work commitment.",
+    "tags": [
+      "theravada",
+      "silent",
+      "dana-donation",
+      "diet-vegetarian",
+      "monastic-community"
+    ],
+    "sources": [
+      {
+        "url": "https://www.bodhinyanarama.net.nz"
+      },
+      {
+        "url": "https://forestsangha.org/monasteries/bodhinyanarama"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
       "lastUpdated": "2026-07-16",
       "reviewStatus": "unverified"
     }

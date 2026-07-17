@@ -1,0 +1,42 @@
+{
+  "id": "te-moata-retreat-centre",
+  "name": "Te Moata Retreat Centre",
+  "website": "https://www.temoata.org",
+  "location": {
+    "city": "Tairua",
+    "region": "Coromandel Peninsula, North Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -37,
+    "lng": 175.83
+  },
+  "tradition": "Insight Meditation (Western Vipassana teacher lineage, non-Goenka), hosted on non-sectarian land",
+  "technique": "Insight/Vipassana meditation",
+  "influences": [
+    "Jill Shepherd",
+    "Joseph Goldstein",
+    "Gil Fronsdal"
+  ],
+  "teacherAccess": "Daily talks and interviews typical of Insight Meditation retreats",
+  "retreatOptions": "Annual multi-day retreat (e.g. 8 nights)",
+  "about": "A 344-hectare land trust on the Coromandel Peninsula that hosts many unrelated retreat groups; its own annual Insight Meditation retreat, led by a teacher trained under Joseph Goldstein and Gil Fronsdal, is genuinely meditation-central and residential even though the land itself is non-sectarian and multi-use.",
+  "schedule": "Annual retreat, roughly February/March",
+  "tags": [
+    "insight-vipassana",
+    "silent",
+    "camping"
+  ],
+  "sources": [
+    {
+      "url": "https://www.temoata.org/about/history-lineage"
+    },
+    {
+      "url": "https://www.temoata.org/retreat/insight-meditation-2026"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

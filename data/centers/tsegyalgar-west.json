@@ -1,0 +1,60 @@
+{
+  "id": "tsegyalgar-west",
+  "name": "Tsegyalgar West",
+  "aka": [
+    "Rancho Los Naranjos",
+    "Dzogchen Community Baja"
+  ],
+  "website": "https://www.tsegyalgarwest.org",
+  "location": {
+    "city": "Rancho Los Naranjos, mountains above San Jose del Cabo",
+    "region": "Baja California Sur",
+    "country": "Mexico",
+    "state": "MX",
+    "lat": 23.15,
+    "lng": -109.87
+  },
+  "tradition": "Tibetan Dzogchen (Nyingma), founded by Chogyal Namkhai Norbu",
+  "technique": "Dzogchen meditation, Yantra Yoga, Vajra Dance; personal or teacher-led retreat",
+  "influences": [
+    "Chogyal Namkhai Norbu"
+  ],
+  "teacherAccess": "Self-directed for personal retreats; direct daily access to visiting authorized teachers during teacher-led retreats",
+  "retreatOptions": "Personal retreats of any length (days to months); scheduled teacher-led retreats several times a year",
+  "about": "A 3,000-acre wilderness reserve with a temple (Gonpa) housing a Vajra Dance mandala, four casitas, camping, and a shared kitchen. One of the International Dzogchen Community's two main centers worldwide (with Tsegyalgar East in Massachusetts), functioning as both dedicated retreat land and a rental venue for outside groups.",
+  "schedule": "Teacher-led retreats 5-6 times a year; personal retreats year-round, especially winter",
+  "cost": "Casita lodging $40-50 USD/night (double occupancy) or camping $10/night; catered meals ~$25/day",
+  "pricePerDay": {
+    "min": 50,
+    "max": 75,
+    "unit": "night",
+    "currency": "USD",
+    "notes": "Casita lodging plus catered meals, all-in estimate.",
+    "source": "https://www.tsegyalgarwest.org/retreat-center/personal-retreats/fee-structure/"
+  },
+  "foodServed": "partial",
+  "foodNotes": "Catered meals available or self-catering with a weekly shopping service.",
+  "workRequired": "no",
+  "workNotes": "Work-exchange discounts optionally available for long personal retreats.",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "self-guided",
+    "camping",
+    "fixed-fee",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "url": "https://www.tsegyalgarwest.org"
+    },
+    {
+      "url": "https://www.tsegyalgarwest.org/retreat-center/personal-retreats/fee-structure/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

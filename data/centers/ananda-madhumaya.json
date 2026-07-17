@@ -1,0 +1,50 @@
+{
+  "id": "ananda-madhumaya",
+  "name": "Ananda Madhumaya",
+  "aka": [
+    "Ananda Marga Xochicalco"
+  ],
+  "website": "https://www.anandamadhumaya.org",
+  "location": {
+    "address": "Tlapacoyan St. #1, Xochicalco",
+    "city": "Xochicalco",
+    "region": "Morelos",
+    "country": "Mexico",
+    "state": "MX",
+    "lat": 18.781,
+    "lng": -99.304
+  },
+  "tradition": "Ananda Marga (Hindu/Tantric-yogic), founded by Shrii Shrii Anandamurti",
+  "technique": "Rajadhiraja Yoga meditation, asanas, kirtan, fasting/detox practices",
+  "influences": [
+    "Shrii Shrii Anandamurti"
+  ],
+  "teacherAccess": "Direct -- resident Dada/Didi monastic teachers live on-site",
+  "retreatOptions": "10-day Yoga & Detox program; multi-week teacher trainings; shorter seasonal retreats",
+  "about": "A renovated former ceramics workshop and adjoining rural land near the pre-Columbian Xochicalco pyramids, purchased by the Ananda Marga mission since 2014. Hosts yoga/meditation retreats, teacher trainings, and 'spiritual lifestyle' volunteer programs for groups of 10-40, functioning partly as a monastic residence and partly as a bookable retreat venue an hour from Tepoztlan.",
+  "schedule": "Several named programs per year",
+  "cost": "Priced per-program; inquire directly for current rates",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Sattvic vegetarian, communal.",
+  "workRequired": "yes",
+  "workNotes": "Volunteers and some program participants do garden/kitchen work (karma yoga).",
+  "tags": [
+    "yoga-hindu",
+    "meals-included",
+    "diet-vegetarian",
+    "work-practice",
+    "family-friendly",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "url": "https://www.anandamadhumaya.org"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

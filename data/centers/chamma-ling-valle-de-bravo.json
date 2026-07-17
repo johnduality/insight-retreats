@@ -1,0 +1,54 @@
+{
+  "id": "chamma-ling-valle-de-bravo",
+  "name": "Chamma Ling Valle de Bravo",
+  "aka": [
+    "Great Stupa for World Peace"
+  ],
+  "website": "https://www.ligmincha.org/center-mexico-valledebravo",
+  "location": {
+    "city": "Valle de Bravo",
+    "region": "State of Mexico",
+    "country": "Mexico",
+    "state": "MX",
+    "lat": 19.194,
+    "lng": -100.186
+  },
+  "tradition": "Yungdrung Bon (pre-Buddhist Tibetan tradition, closely allied with Tibetan Vajrayana)",
+  "technique": "Dzogchen-style Bon meditation, Tsa Lung inner-heat practices",
+  "influences": [
+    "Tenzin Wangyal Rinpoche"
+  ],
+  "teacherAccess": "High when the lineage holder teaches in person; otherwise resident/visiting instructors",
+  "retreatOptions": "Typically 3-4 night programs",
+  "about": "Home to the Great Stupa for World Peace, the largest Buddhist/Bon stupa in the West (consecrated 2010), this land has hosted Ligmincha retreats since 1999 with cabin and camping-style lodging. Note: Bon is a distinct pre-Buddhist Tibetan tradition rather than classical Buddhism, but it is closely allied with and commonly catalogued alongside Tibetan/Vajrayana practice -- included with that tradition caveat.",
+  "schedule": "Periodic multi-day retreats, plus hybrid online sessions",
+  "cost": "Lodging priced per person/night: quad cabin 750 MXN, triple 950 MXN, double 1,300 MXN; program tuition separate",
+  "pricePerDay": {
+    "min": 750,
+    "max": 1300,
+    "unit": "night",
+    "currency": "MXN",
+    "notes": "Cabin lodging only (quad to double occupancy); tuition is additional.",
+    "source": "https://www.ligmincha.org/center-mexico-valledebravo"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "workRequired": "no",
+  "tags": [
+    "tibetan-vajrayana",
+    "camping",
+    "online-hybrid",
+    "fixed-fee",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "url": "https://www.ligmincha.org/center-mexico-valledebravo"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

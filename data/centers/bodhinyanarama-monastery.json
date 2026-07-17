@@ -1,0 +1,49 @@
+{
+  "id": "bodhinyanarama-monastery",
+  "name": "Bodhinyanarama Monastery",
+  "website": "https://www.bodhinyanarama.net.nz",
+  "location": {
+    "city": "Stokes Valley, Lower Hutt",
+    "region": "Wellington Region, North Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -41.17,
+    "lng": 174.97
+  },
+  "tradition": "Thai Forest Theravada (Ajahn Chah / Ajahn Sumedho lineage)",
+  "technique": "Samatha/mindfulness meditation within monastic forest routine",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Sumedho"
+  ],
+  "teacherAccess": "Monks give daily talks and Q&A (~11:30am) and personal interviews",
+  "retreatOptions": "2-7 night standard guest stays; dedicated group retreats at King's Birthday, Labour Weekend, New Year, and occasional weekends",
+  "about": "A 60-hectare forest monastery active since the 1980s, genuinely open to lay overnight guests rather than monastic-only. Guests keep the Eight Precepts, eat one meal a day, and can join structured group retreats several times a year alongside flexible individual guest stays -- a well-established, credible Theravada option.",
+  "schedule": "Several fixed retreat weekends per year plus flexible guest stays",
+  "cost": "Dana-based, no set charge",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "One meal a day, no special diets.",
+  "workRequired": "partial",
+  "workNotes": "Not required for short stays; longer Vassa stays expect a work commitment.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "diet-vegetarian",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "url": "https://www.bodhinyanarama.net.nz"
+    },
+    {
+      "url": "https://forestsangha.org/monasteries/bodhinyanarama"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

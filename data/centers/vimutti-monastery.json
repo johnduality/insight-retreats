@@ -1,0 +1,49 @@
+{
+  "id": "vimutti-monastery",
+  "name": "Vimutti Monastery",
+  "website": "https://www.atba.nz",
+  "location": {
+    "city": "Paparata, Bombay Hills",
+    "region": "~1hr south of Auckland, North Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -37.2,
+    "lng": 175.05
+  },
+  "tradition": "Thai Forest Theravada (Ajahn Chah lineage)",
+  "technique": "Monastic-routine meditation and mindfulness",
+  "influences": [
+    "Ajahn Chah",
+    "Ajahn Chandako"
+  ],
+  "teacherAccess": "Resident monastics",
+  "retreatOptions": "3 days to 1 week typical first stay; periodic organized retreats (e.g. New Year)",
+  "about": "A 72-144 acre forest monastery run by the Auckland Theravada Buddhist Association. The monastery's own materials note it is not designed as a self-contained lay retreat program -- guests join the full monastic routine and daily work rather than a packaged retreat -- though it does host periodic structured retreats and welcomes overnight lay stays; included here as a monastic-immersion option rather than a packaged lay retreat.",
+  "schedule": "Periodic organized retreats; open-ended guest stays otherwise",
+  "cost": "Dana-based, no charge",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Two meals, nothing after midday.",
+  "workRequired": "yes",
+  "workNotes": "Daily work required as part of monastic routine.",
+  "tags": [
+    "theravada",
+    "dana-donation",
+    "diet-vegetarian",
+    "work-practice",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "url": "https://www.atba.nz/visiting-vimutti"
+    },
+    {
+      "url": "https://www.atba.nz/staying-at-vimutti"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "mahamudra-centre",
+  "name": "Mahamudra Centre",
+  "website": "https://www.mahamudra.org.nz",
+  "location": {
+    "city": "Colville",
+    "region": "Coromandel Peninsula, North Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -36.63,
+    "lng": 175.45
+  },
+  "tradition": "FPMT, Gelug (Lama Tsongkhapa lineage)",
+  "technique": "Lam-rim graduated-path meditation; guided and self-structured retreat",
+  "influences": [
+    "FPMT",
+    "Lama Zopa Rinpoche"
+  ],
+  "teacherAccess": "Resident/visiting FPMT teachers for guided programs; remote support for self-guided retreatants",
+  "retreatOptions": "Weekend 'Reset Retreat', guided mini-retreats and Discovering Buddhism modules, plus open-ended self-guided retreats for experienced students",
+  "about": "A genuine rural retreat property on the Coromandel Peninsula with huts, rooms, and campsites, run within the FPMT network. Serves both structured beginner weekend programs and longer self-directed retreats for committed students observing the Five Precepts, with a digital-detox emphasis (no phone or internet).",
+  "schedule": "Regular weekend retreats plus scheduled modules through the year",
+  "cost": "Approx. NZD 150 for a 2-night Weekend Reset Retreat",
+  "pricePerDay": {
+    "min": 75,
+    "max": 75,
+    "unit": "night",
+    "currency": "NZD",
+    "notes": "$150 Weekend Reset Retreat, 2 nights, B&B-style.",
+    "source": "https://www.mahamudra.org.nz/accommodation"
+  },
+  "foodServed": "partial",
+  "foodType": "unknown",
+  "foodNotes": "No cooked meals normally provided; self-catering in huts, groceries arrangeable.",
+  "workRequired": "no",
+  "tags": [
+    "tibetan-vajrayana",
+    "self-guided",
+    "camping",
+    "fixed-fee",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "url": "https://www.mahamudra.org.nz/accommodation"
+    },
+    {
+      "url": "https://www.mahamudra.org.nz/private-retreat"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

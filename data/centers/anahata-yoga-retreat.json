@@ -1,0 +1,43 @@
+{
+  "id": "anahata-yoga-retreat",
+  "name": "Anahata Yoga Retreat",
+  "website": "https://www.anahata-retreat.org.nz",
+  "location": {
+    "city": "Takaka",
+    "region": "Golden Bay, South Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -40.85,
+    "lng": 172.8
+  },
+  "tradition": "Eclectic yogic ashram-style community",
+  "technique": "Hatha, Karma, Bhakti, Jnana and Raja Yoga, meditation, mouna (silence), fire rituals",
+  "influences": [
+    "Swami Karma Karuna"
+  ],
+  "teacherAccess": "Resident teacher/community",
+  "retreatOptions": "Nightly stays up to a month-long 'Yogic Life Skills' immersion",
+  "about": "An eco-ashram bordering Abel Tasman National Park combining classical yoga paths with meditation and periods of silence. Runs a karma-yoga caretaker exchange (cooking, gardening, maintenance for accommodation); meditation-centrality is somewhat shared with general yogic lifestyle practice, included with that caveat.",
+  "schedule": "Ongoing, flexible-length stays",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Organic.",
+  "workRequired": "partial",
+  "workNotes": "Formal karma-yoga exchange program available, not mandatory for all guests.",
+  "tags": [
+    "yoga-hindu",
+    "work-practice",
+    "diet-vegetarian",
+    "camping"
+  ],
+  "sources": [
+    {
+      "url": "https://www.anahata-retreat.org.nz"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

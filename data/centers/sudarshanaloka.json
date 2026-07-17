@@ -1,0 +1,40 @@
+{
+  "id": "sudarshanaloka",
+  "name": "Sudarshanaloka",
+  "website": "https://www.sudarshanaloka.nz",
+  "location": {
+    "city": "near Thames",
+    "region": "Coromandel Peninsula, North Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -37.15,
+    "lng": 175.55
+  },
+  "tradition": "Triratna Buddhist Community (eclectic, Sangharakshita-founded)",
+  "technique": "Mindfulness of breathing and metta bhavana meditation, group and solitary retreat",
+  "influences": [
+    "Sangharakshita"
+  ],
+  "teacherAccess": "Visiting Triratna Order members during organized retreats",
+  "retreatOptions": "Group retreats/events plus dedicated solitary-retreat huts",
+  "about": "An 80-hectare, fully off-grid native-forest retreat center purchased in 1993, the land-based arm of New Zealand's Triratna network alongside the urban Auckland Buddhist Centre. Offers both communal retreats and solitary retreat facilities on genuinely dedicated land.",
+  "schedule": "Regular scheduled retreats",
+  "tags": [
+    "mahayana",
+    "silent",
+    "camping"
+  ],
+  "sources": [
+    {
+      "url": "https://www.sudarshanaloka.nz/about/history"
+    },
+    {
+      "url": "https://www.sudarshanaloka.nz/about/retreat-centre"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

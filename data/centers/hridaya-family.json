@@ -1,0 +1,60 @@
+{
+  "id": "hridaya-family",
+  "name": "Hridaya Family",
+  "aka": [
+    "Hridaya Yoga Chiapas"
+  ],
+  "website": "https://www.hridaya-family.com",
+  "location": {
+    "city": "Bochojbo Alto, near San Cristobal de las Casas",
+    "region": "Chiapas",
+    "country": "Mexico",
+    "state": "MX",
+    "lat": 16.85,
+    "lng": -92.65
+  },
+  "tradition": "Non-Dual Shaiva Tantra (Hindu-tantric yoga) with Advaita Vedanta and Buddhist influences",
+  "technique": "Silent meditation retreats, dark-room retreats, somatic/embodiment practice",
+  "influences": [
+    "Kyle Brooks (Sri Ramana Bodhisattva)",
+    "Sasha Medvedovskaya"
+  ],
+  "teacherAccess": "Daily group sits and talks during retreats, facilitator-led",
+  "retreatOptions": "3, 6, 7, 10, 12, and up to 30-day silent retreats; solitary retreats also offered",
+  "about": "A dedicated, owner-built retreat property in pine forest at 2,200m altitude, on land regarded locally as a Mayan sacred site. Houses a 100 sqm meditation hall, a main house, and two cabins for around 22 guests. Meditation is the structural center of the flagship 'Silent Meditation Retreat' line, though the broader Hridaya brand also runs yoga-teacher-training and somatic programs.",
+  "schedule": "Multiple silent retreats scheduled through the year in recurring 3/6/10-day cycles",
+  "cost": "10-day retreat: course fee $320 + accommodation from $110 (dorm, 11 nights) + meals $145",
+  "pricePerDay": {
+    "min": 52,
+    "max": 58,
+    "unit": "night",
+    "currency": "USD",
+    "notes": "10-day retreat, budget dorm tier, all-in per night.",
+    "source": "https://www.hridaya-family.com/10-day-hridaya-meditation-retreat-mexico"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three meals a day included in package.",
+  "workRequired": "unknown",
+  "tags": [
+    "yoga-hindu",
+    "silent",
+    "long-retreats",
+    "meals-included",
+    "fixed-fee",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "url": "https://www.hridaya-family.com"
+    },
+    {
+      "url": "https://www.hridaya-family.com/10-day-hridaya-meditation-retreat-mexico"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

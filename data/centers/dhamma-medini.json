@@ -1,0 +1,55 @@
+{
+  "id": "dhamma-medini",
+  "name": "Dhamma Medini",
+  "aka": [
+    "New Zealand Vipassana Centre"
+  ],
+  "website": "https://medini.dhamma.org",
+  "location": {
+    "city": "Makarau Valley (near Kaukapakapa)",
+    "region": "Auckland Region, North Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -36.54,
+    "lng": 174.5
+  },
+  "tradition": "Vipassana as taught by S.N. Goenka (U Ba Khin lineage, Theravada-derived)",
+  "technique": "Anapana breath focus, then body-scanning Vipassana; Noble Silence",
+  "influences": [
+    "S.N. Goenka"
+  ],
+  "teacherAccess": "Recorded evening discourses from Goenka; live Assistant Teacher gives technique-only guidance and brief interviews, no personal counseling",
+  "retreatOptions": "3-day (old students), standard 10-day, Satipatthana Sutta course, 20-day for qualified old students, plus children's/teen courses",
+  "about": "New Zealand's only permanent Goenka Vipassana center, operating on rural land in the Makarau Valley since the mid-1990s. Runs the standard worldwide Goenka course structure with separate men's and women's housing and dining, strict Noble Silence, and no ritual or devotional content. Popular with both first-time sitters and long-term old students pursuing longer courses.",
+  "schedule": "Frequent courses year-round per published calendar",
+  "cost": "Dana/donation-only; no fee charged, voluntary donation after course completion",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Included, standard Goenka-course vegetarian meals.",
+  "workRequired": "no",
+  "workNotes": "New students do not work; volunteer 'servers' handle logistics separately.",
+  "tags": [
+    "goenka",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "no-work-required",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "url": "https://medini.dhamma.org"
+    },
+    {
+      "url": "https://www.vridhamma.org"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

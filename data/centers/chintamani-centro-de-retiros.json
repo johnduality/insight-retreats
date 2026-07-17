@@ -1,0 +1,51 @@
+{
+  "id": "chintamani-centro-de-retiros",
+  "name": "Chintamani Centro de Retiros",
+  "website": "https://www.chintamani.mx",
+  "location": {
+    "city": "Yautepec area",
+    "region": "Morelos (Cuautla valley, near Tepoztlan/Cuernavaca)",
+    "country": "Mexico",
+    "state": "MX",
+    "lat": 18.88,
+    "lng": -99.06
+  },
+  "tradition": "Triratna Buddhist Order (eclectic, Sangharakshita-founded)",
+  "technique": "Mindfulness of breathing, metta bhavana, plus Triratna study and ritual",
+  "influences": [
+    "Sangharakshita"
+  ],
+  "teacherAccess": "Visiting Order members occasionally join; otherwise sangha-led",
+  "retreatOptions": "3-4 day weekend retreats up to week-long retreats",
+  "about": "A 3+ hectare property owned and run by the Mexican Triratna sangha, used for weekend and week-long meditation retreats combining silent sitting, study, and communal work, drawing from CDMX/Cuernavaca practice groups. Program-calendar details were harder to verify than for other entries (site loads as a JS app); flagged for a final spot-check before treating pricing as current.",
+  "cost": "Roughly 2,650-5,500 MXN per retreat depending on length",
+  "pricePerDay": {
+    "min": 650,
+    "max": 900,
+    "unit": "night",
+    "currency": "MXN",
+    "notes": "Derived from a ~4-day retreat priced around 2,650-3,600 MXN.",
+    "source": "https://www.chintamani.mx"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "workRequired": "partial",
+  "workNotes": "Light communal chores customary, not formally required.",
+  "tags": [
+    "mahayana",
+    "silent",
+    "meals-included",
+    "diet-vegetarian",
+    "sliding-scale"
+  ],
+  "sources": [
+    {
+      "url": "https://www.chintamani.mx"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

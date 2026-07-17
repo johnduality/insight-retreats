@@ -3,10 +3,16 @@ INSIGHT RETREATS — EXPANSION PLAN
 
 Add one region at a time: discover -> research -> ingest -> verify, then move on.
 
-SCOPE (set 2026-07-16, revised same day): this plan covers the United States (done,
-pre-existing catalogue), Europe, Canada, Oceania, and Mexico — that is the full extent of
-the expansion. Mexico is the only Latin American country in scope (added by request);
-the rest of Latin America and other regions remain explicitly out of scope.
+SCOPE (set 2026-07-16, revised three times same day): this plan covers the United
+States (done, pre-existing catalogue), Europe, Canada, Oceania, all of Latin America,
+and the non-state US territories — that is the full extent of the expansion. Mexico
+was the first Latin American country in scope (added by request, now DONE — see
+MEXICO SECTION COMPLETE below); the rest of Latin America was added to scope by
+request on 2026-07-16 and is planned in the LATIN AMERICA (REST OF) section below.
+The non-state US territories were added to scope by request the same day and are
+planned in the US TERRITORIES section below (Russia was floated and then withdrawn
+the same day — not in scope). Other regions (Africa, the Middle East, South/Southeast
+Asia, etc.) remain explicitly out of scope.
 
 
 EUROPE
@@ -620,20 +626,255 @@ OCEANIA
     dharma/meditation groups without dedicated land (Tara Institute, Buddha House
     Adelaide, Dhammaloka City Centre, etc.) excluded per scope focus on centers with
     genuine dedicated retreat property.]
-2.  New Zealand
+2.  New Zealand   [DONE 2026-07-16: 14 centers -- Dhamma Medini (Makarau
+    Valley, Auckland Region, Goenka Vipassana), Mahamudra Centre (Colville,
+    Coromandel, FPMT/Gelug), Karma Choeling Buddhist Monastery (Dairy Flat,
+    Karma Kagyu), Dorje Chang Institute (Avondale/Auckland, FPMT),
+    Bodhinyanarama Monastery (Stokes Valley, Thai Forest/Ajahn Chah), Vimutti
+    Monastery (Paparata/Bombay Hills, Thai Forest), Santipada Buddhist
+    Monastery (Kerikeri, Korean Zen/Theravada), Sudarshanaloka (near Thames,
+    Triratna), Dharma Gaia (Coromandel, Thich Nhat Hanh-inspired lay
+    community), Wangapeka Study & Meditation Retreat Centre (Nelson region,
+    non-sectarian Insight), Te Moata Retreat Centre (Tairua, annual Insight
+    Meditation retreat on non-sectarian land), The Narrows Retreat / Ananda
+    New Zealand (Hamilton, Kriya Yoga/Yogananda), Anahata Yoga Retreat
+    (Takaka/Golden Bay, eclectic yoga ashram), Glentui (Oxford/Canterbury,
+    Diamond Way Buddhism -- weakest-evidenced inclusion, land confirmed but
+    program detail thin). Considered and rejected: Amitabha Hospice Service NZ
+    (hospice, not a retreat center); Auckland Zen Centre, Green Mountain Zen,
+    Diamond Sangha Christchurch, and the two urban Diamond Way meditation
+    rooms (Auckland, Christchurch) (all rent outside venues, no owned land);
+    Phuntsok Choeling Sakya Napier (urban, no retreat land); Rigpa (no NZ
+    retreat land); Sivananda Yoga, Ananda Marga NZ, Brahma Kumaris NZ, Isha
+    Foundation NZ, Art of Living NZ, Self-Realization Fellowship NZ (all city
+    groups/classes only, no dedicated NZ retreat land); Aio Wira Retreat
+    Centre (now a general wellness/fasting resort); Waiheke Mystery School
+    (land purchase still a fundraising proposal); Ashram Yoga Ohui
+    (ownership/focus changed, current status unconfirmed); Fo Guang Shan
+    Temple NZ (day-retreats only, no confirmed 2+ night lay program); no
+    official Plum Village center exists in NZ.]
 
+OCEANIA SECTION NOW COMPLETE: 42 centers across 2 countries (Australia 28, New Zealand 14).
 
 MEXICO (by region)
 -------------------
 1.  Central Mexico (Mexico City / CDMX, State of Mexico, Morelos, Puebla)
-2.  Oaxaca
-3.  Guanajuato (San Miguel de Allende and environs)
-4.  Jalisco (Guadalajara, Lake Chapala/Ajijic)
-5.  Pacific Coast (Nayarit, Sinaloa, Michoacán, Guerrero)
-6.  Baja California / Baja California Sur
-7.  Chiapas
-8.  Yucatán Peninsula (Yucatán, Quintana Roo, Campeche)
-    (Remaining northern/border states — likely thin; check last if any region above
-    turns up an out-of-region lead.)
+    [DONE 2026-07-16: 4 centers -- Dhamma Makaranda (San Bartolo Amanalco,
+    State of Mexico, Goenka -- the first dedicated Vipassana center built in
+    Latin America), Ananda Madhumaya (Xochicalco, Morelos, Ananda Marga),
+    Chintamani Centro de Retiros (Yautepec area, Morelos, Triratna), Chamma
+    Ling Valle de Bravo / Great Stupa for World Peace (Valle de Bravo, State
+    of Mexico, Yungdrung Bon -- included with a tradition caveat, Bon being a
+    pre-Buddhist Tibetan tradition closely allied with and catalogued
+    alongside Tibetan/Vajrayana practice, distinct from the earlier Dhamma
+    Neru entry which is actually sited in Spain). Considered and rejected:
+    Vipassana Mexico-Morelos site (still under construction, no finished
+    land); Casa Tibet Mexico (CDMX/Puebla/Guadalajara branches, urban
+    day-centers); Kadampa Meditation Center Mexico City (urban, residential
+    rooms not yet complete); Centro Zen de Mexico Coyoacan and Dhammapada
+    Budismo Zen (no confirmed dedicated retreat land, contradictory sourcing
+    on rented-venue use); Villa Maria Inmaculada, Casa Maitri, Hostal de la
+    Luz, La Buena Vibra Retreat & Spa (rented/multi-purpose retreat houses or
+    wellness resorts, no fixed lineage); Diamond Way Buddhism Mexico City
+    (urban apartment center, no land).]
+2.  Oaxaca   [DONE 2026-07-16: 1 center -- Hridaya Yoga Mexico (Mazunte,
+    Oaxaca coast, Hridaya lineage/Sahajananda -- Hindu-tantric meditation
+    ashram with a structured 3-to-49-day silent-retreat ladder). Considered
+    and rejected: Diamond Way Buddhism Oaxaca (urban apartment center, no
+    owned land); Vipassana Mexico-Oaxaca (rents temporary venues, no dedicated
+    land); Vision of the Heart Nature Sanctuary (no confirmed Buddhist/Hindu
+    lineage); Barbarenas Puerto Escondido (general eco-wellness, no meditation
+    lineage); numerous BookRetreats/Retreat Guru Oaxaca villa listings
+    (rented, visiting-instructor only, not standing lineage centers).]
+3.  Guanajuato (San Miguel de Allende and environs)   [DONE 2026-07-16: 0
+    qualifying centers. Considered and rejected: La Sangha Meditation Retreat
+    House / Rancho Dhyana (Loma de la Purisima, San Miguel de Allende -- once
+    listed in BuddhaNet's directory, domain now redirects to an unrelated
+    course, likely defunct); Meditation Center of San Miguel (active
+    donation-based sitting group since the 1990s, but urban courtyard space
+    only, no overnight lodging); Nueva Bahulavana/ISKCON Cueramaro (genuine
+    dedicated farm/temple land, but a devotee-training community with
+    mandatory seva, not a bookable lay residential retreat); Zen Dojo of San
+    Miguel de Allende/Kosen Sangha (real lineage, no confirmed retreat-scale
+    lodging); Diamond Way Buddhist Group SMA, Casa Tibet Mexico SMA branch,
+    SRF Yogananda meditation circle SMA (private home/study groups, no
+    property); Dhamma Bajio (Goenka, Queretaro-adjacent, still under
+    construction); ISKCON Leon (urban temple, no retreat land); assorted
+    wellness-resort/villa listings (Sagrada Holistic Ranch, Casa Lenno,
+    Esencia Yoga Spa, etc., no meditation lineage).]
+4.  Jalisco (Guadalajara, Lake Chapala/Ajijic)   [DONE 2026-07-16: 0
+    qualifying centers. Flagged for a future recheck: Pannabhumi Monastery
+    (Zapopan, near Guadalajara -- genuine Theravada forest-tradition property
+    led by Bhante Rahula, but still under construction as of 2025-2026, open
+    only 2 days/week by appointment, and structured multi-day retreats are
+    mostly hosted at partner centers in the US rather than on-site; not yet a
+    bookable residential retreat, revisit once its program matures).
+    Considered and rejected: KMC Guadalajara (Kadampa, converted commercial
+    space, evening/day format only); Casa Tibet Mexico Guadalajara and
+    Monterrey branches, Centro Khamlungpa (FPMT-linked, explicitly rents its
+    space) (all urban study groups/offices, no retreat land); ISKCON
+    Guadalajara/New Nilachal Dham (urban temple, no farm found); Heart of
+    Awareness Buddhist Center Ajijic (leased storefront, day sits only); Yoga
+    Veda Institute Ajijic (markets as a retreat center but current operation
+    is a US-based online school); Miracle Retreat Center / Joining in Light
+    Chapala (Course-in-Miracles/Christian-adjacent, out of scope); Bodhi
+    Village Ajijic (Zen-branded retirement co-housing, not short-stay
+    retreats); SRF Chapala circle, Namaste Lake Chapala, Center for Spiritual
+    Living (no property or New Thought, out of scope); Meditacion Budista Zen
+    Guadalajara (Korean Seon, uses a rented venue for its 2026 retreat).]
+5.  Pacific Coast (Nayarit, Sinaloa, Michoacán, Guerrero)   [DONE 2026-07-16:
+    1 center -- Mar de Jade (Chacala, Nayarit -- a general wellness resort
+    whose core identity is not meditation-focused, but which hosts a genuine,
+    recurring, teacher-led Soto Zen Rohatsu sesshin led for 20+ years by
+    Zoketsu Norman Fischer; included specifically for that program, flagged as
+    a borderline case). Considered and rejected: Present Moment Retreat and
+    Lake Zirahuen Mountain Retreat Center (Guerrero/Michoacan, general
+    wellness/corporate retreat venues, no lineage); El Muro Majahua (Guerrero,
+    eco-hotel/arts residency, not meditation-focused); Radiant Heart Yoga &
+    Ceremonial Arts (Guerrero, includes entheogenic ceremonies, out of scope);
+    Haramara Retreat / Hotelito Los Suenos (Nayarit, yoga-vacation venues, no
+    dedicated lineage); no qualifying candidates found in Sinaloa at all
+    despite dedicated searches.]
+6.  Baja California / Baja California Sur   [DONE 2026-07-16: 1 center --
+    Tsegyalgar West / Rancho Los Naranjos (mountains above San Jose del Cabo,
+    Baja California Sur, Tibetan Dzogchen/Nyingma, founded by Chogyal Namkhai
+    Norbu -- a 3,000-acre wilderness reserve, one of the International
+    Dzogchen Community's two main centers worldwide alongside Tsegyalgar East
+    in Massachusetts). Considered and rejected: El Dharma Retreats and
+    Meditation (Todos Santos, credible longstanding Insight Meditation program
+    under Robert K. Hall, but could not confirm dedicated owned retreat land
+    versus a teacher's home/rented space -- flagged for a future recheck
+    rather than included); Jigme Lingpa Center/Centro del Dharma Tijuana and
+    Yeshe Nyingpo Mexico Ensenada (urban Vajrayana study groups, no
+    residential facility found); Dzogchen Shri Singha Mexico/Dharma Casa #4
+    Rosarito (listing appears dated/possibly inactive, no confirmed
+    accommodations); Topia Retreat, Hidden Leaf Baja, Baja Surf Yoga (Todos
+    Santos/El Pescadero, general wellness/surf-yoga resorts, no meditation
+    lineage).]
+7.  Chiapas   [DONE 2026-07-16: 1 center -- Hridaya Family (Bochojbo Alto,
+    near San Cristobal de las Casas, Non-Dual Shaiva Tantra founded by Kyle
+    Brooks/Sri Ramana Bodhisattva and Sasha Medvedovskaya -- a dedicated,
+    owner-built retreat property at 2,200m altitude with a structured
+    3-to-30-day silent-retreat line). Considered and rejected: Alma Mactzil
+    (Tapachula, retreat cycle closes with an Ayahuasca ceremony,
+    plant-medicine focus, out of scope); Kadampa Buddhist Center Drolma (San
+    Cristobal de las Casas) and Menlha (Tuxtla Gutierrez) (urban dharma
+    centers with occasional retreats at a rented house in San Fernando,
+    Chiapas -- no confirmed dedicated owned retreat land).]
+8.  Yucatán Peninsula (Yucatán, Quintana Roo, Campeche)   [DONE 2026-07-16: 0
+    qualifying centers. Considered and rejected: Diamond Way Buddhist Center
+    Cancun (urban, explicitly confirmed to have no accommodation
+    before/during/after courses); OZEN Rajneesh Resort/Ozen Cocom (near Playa
+    del Carmen -- a genuine 50-acre owned property with a cenote, but
+    Osho/Rajneesh neo-sannyas sits outside the project's approved tradition
+    list and its offerings blend art/culture/therapy rather than being
+    meditation-central; flagged as a strong physical-property candidate if the
+    tag vocabulary is ever expanded to include Osho/Rajneesh-style
+    communities); Sivananda-style retreats in Bacalar (Narayana & Jagadambika,
+    touring teachers renting hotel venues, no dedicated Sivananda-owned
+    ashram); Satya Retreats Merida (rented hacienda, no meditation lineage);
+    Kadampa Merida (urban classes only, no retreat land). Campeche state was
+    searched less thoroughly than Yucatan/Quintana Roo and would be worth a
+    follow-up pass.]
 
-This is the final region in scope — once Mexico is done, the expansion plan is complete.
+MEXICO SECTION COMPLETE: 8 centers across 5 of 8 regions (Central Mexico 4, Oaxaca 1, Pacific Coast 1, Baja California/Sur 1, Chiapas 1); Guanajuato, Jalisco, and the Yucatan Peninsula confirmed to have zero qualifying centers as of 2026-07-16 (with one flagged future-recheck candidate each in Guanajuato-adjacent Queretaro's Dhamma Bajio, Jalisco's Pannabhumi Monastery, and Baja's El Dharma Retreats).
+
+PRIOR MILESTONE (2026-07-16, superseded same day): at this point Europe, Canada,
+Oceania, and Mexico had all been fully researched and ingested alongside the
+pre-existing US catalogue, and this file briefly declared the expansion plan
+complete. Scope was then widened the same day to include the rest of Latin
+America (see the LATIN AMERICA (REST OF) section below and the revised SCOPE note
+at the top of this file) -- so that completion declaration no longer holds. See
+CANADA SECTION NOW COMPLETE, OCEANIA SECTION NOW COMPLETE, and MEXICO SECTION
+COMPLETE above for the still-valid per-region tallies from that earlier phase.
+
+
+LATIN AMERICA (REST OF, by country — Mexico already DONE above)
+-----------------------------------------------------------------
+Scope added 2026-07-16. "Latin America" here follows the standard cultural/linguistic
+definition (Spanish-, Portuguese-, and French-speaking countries of the Americas south of
+the US), not strict geography — so Guyana (English), Suriname (Dutch), and French Guiana
+(French overseas department, not an independent country) are explicitly OUT OF SCOPE
+despite sitting in South America; Puerto Rico is a US territory and is out of scope for
+this Latin America section specifically — it is instead covered under the US TERRITORIES
+section below, alongside the other non-state US territories. Haiti is included provisionally
+(French/Creole-speaking) but flagged for a scope check during research, since it is more
+often grouped as "Caribbean" than "Latin America" in practice.
+
+Same discover -> research -> ingest -> verify workflow as every prior section. Order
+below is Central America, then the Spanish-speaking Caribbean, then South America
+(roughly north-to-south / west-to-east). Brazil and Argentina are large enough that,
+per the precedent set by the US (pre-existing) and Mexico (split into 8 regions), they
+will likely need to be split into sub-regions once research begins — treat "16. Brazil"
+and "19. Argentina" below as placeholders for that future split rather than single
+research passes, and update this list with lettered sub-items (12a, 12b, ...) at that
+point rather than renumbering the whole list.
+
+CENTRAL AMERICA
+1.  Guatemala
+2.  Belize
+3.  Honduras
+4.  El Salvador
+5.  Nicaragua
+6.  Costa Rica
+7.  Panama
+
+CARIBBEAN (Spanish/French-speaking)
+8.  Cuba
+9.  Dominican Republic
+10. Haiti   [PROVISIONAL — confirm at research time whether it belongs in this plan at
+    all per the scope note above; French/Creole-speaking, no strong a priori expectation
+    of Buddhist/meditation retreat infrastructure, but check before skipping.]
+
+SOUTH AMERICA
+11. Colombia
+12. Venezuela
+13. Ecuador
+14. Peru
+15. Bolivia
+16. Brazil   [expect sub-regions once research starts — likely candidates: São Paulo
+    state, Rio de Janeiro state, Minas Gerais, the South (Rio Grande do Sul/Santa
+    Catarina/Paraná, which has a notably large Zen/Soto and Diamond Way presence per
+    general knowledge), and Brasília/Central-West, to be confirmed and adjusted during
+    discovery rather than assumed up front.]
+17. Paraguay
+18. Chile
+19. Argentina   [expect sub-regions once research starts — likely candidates: Buenos
+    Aires (city + province), Córdoba, and Patagonia/Bariloche, to be confirmed during
+    discovery.]
+20. Uruguay
+
+(Out of scope within the Americas, per the definition above: Guyana, Suriname, French
+Guiana. Puerto Rico is in scope but covered under the separate US TERRITORIES section
+below, not here. Revisit only if the project's scope note is revised again.)
+
+Once Latin America (rest of) is done, one section remains: US TERRITORIES, below. Once
+both are done, the expansion plan will be complete in full (Europe + Canada + Oceania +
+all of Mexico and the rest of Latin America + the non-state US territories, alongside
+the pre-existing US catalogue).
+
+
+US TERRITORIES (non-state, by territory)
+------------------------------------------
+Scope added 2026-07-16. Covers the US territories that are not one of the 50 states and
+are not already part of the pre-existing US catalogue: the five populated, organized/
+unincorporated territories, plus Puerto Rico (redirected here from the Latin America
+section above, per the note there — it is linguistically/culturally Latin American but
+politically a US territory, so it lives in this section rather than either the Latin
+America list or the existing done US state catalogue). Washington D.C. is NOT a
+territory (it's a federal district) and is out of scope for this new section — if it
+needs coverage at all it belongs to the existing done US catalogue, not here. The US
+Minor Outlying Islands (Midway, Wake, Baker, Howland, Jarvis, Johnston, Kingman Reef,
+Navassa, Palmyra) are uninhabited or military-only with no civilian population and are
+explicitly out of scope — there is no possibility of a retreat center on any of them.
+
+Same discover -> research -> ingest -> verify workflow as every prior section.
+
+1.  Puerto Rico
+2.  Guam
+3.  US Virgin Islands
+4.  American Samoa
+5.  Northern Mariana Islands
+
+This is now the final remaining section in scope. Once both this and LATIN AMERICA
+(REST OF) above are done, the expansion plan will be complete in full.

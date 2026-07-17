@@ -1,0 +1,36 @@
+{
+  "id": "karma-choeling",
+  "name": "Karma Choeling Buddhist Monastery",
+  "website": "https://www.kagyu.org.nz",
+  "location": {
+    "city": "Dairy Flat",
+    "region": "North Auckland, North Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -36.68,
+    "lng": 174.65
+  },
+  "tradition": "Karma Kagyu (Tibetan Vajrayana), New Zealand seat of the 17th Karmapa",
+  "technique": "Ngondro preliminary practices, pujas (Tara, Chenrezig), sitting meditation",
+  "influences": [
+    "17th Karmapa"
+  ],
+  "teacherAccess": "Resident Kagyu sangha and visiting lamas",
+  "retreatOptions": "Weekend Ngondro retreats by enquiry",
+  "about": "Established in 1980 on 20 hectares of regenerating native bush north of Auckland, with a temple, eight stupas, and a 25-foot Buddha statue. Offers residential retreat huts for weekend practice retreats plus regular Sunday sitting and pujas -- a long-standing, land-based Tibetan Buddhist community. Pricing and food/work details are not published; direct enquiry is needed.",
+  "schedule": "Regular weekend retreats and pujas",
+  "tags": [
+    "tibetan-vajrayana",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "url": "https://www.kagyu.org.nz"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

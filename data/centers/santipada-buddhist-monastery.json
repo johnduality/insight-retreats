@@ -1,0 +1,58 @@
+{
+  "id": "santipada-buddhist-monastery",
+  "name": "Santipada Buddhist Monastery",
+  "website": "https://www.santipada.co.nz",
+  "location": {
+    "city": "Kerikeri",
+    "region": "Northland, North Island",
+    "country": "New Zealand",
+    "state": "NZ",
+    "lat": -35.22,
+    "lng": 173.95
+  },
+  "tradition": "Blended Korean Zen and Theravada",
+  "technique": "Structured meditation schedule (5am-10pm), Eight Precepts",
+  "influences": [
+    "Bhante (Ayya) Yasala"
+  ],
+  "teacherAccess": "Resident abbot and monastics",
+  "retreatOptions": "General Retreat, minimum 3 nights; separate membership and volunteer stay tracks",
+  "about": "A working monastery on 6 hectares of donated land combining Korean Zen and Theravada practice. Runs a clearly priced general retreat program alongside deeper membership/volunteer tracks, with vegetarian meals (dairy/eggs allowed), no wifi, and a disciplined daily schedule.",
+  "schedule": "Ongoing, bookable retreats",
+  "cost": "NZD 150/day standard; NZD 100/day for stays of 7+ nights",
+  "pricePerDay": {
+    "min": 100,
+    "max": 150,
+    "unit": "night",
+    "currency": "NZD",
+    "notes": "$150/day standard rate, discounted to $100/day for 7+ night stays.",
+    "source": "https://www.santipada.co.nz/about-retreat"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Dairy and eggs allowed.",
+  "workRequired": "partial",
+  "workNotes": "Separate volunteer track distinct from paid retreat stays.",
+  "tags": [
+    "zen",
+    "theravada",
+    "silent",
+    "fixed-fee",
+    "diet-vegetarian",
+    "meals-included",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "url": "https://www.santipada.co.nz"
+    },
+    {
+      "url": "https://www.santipada.co.nz/about-retreat"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}
