@@ -1,0 +1,69 @@
+{
+  "id": "khadro-ling-tres-coroas",
+  "name": "Chagdud Gonpa Khadro Ling",
+  "aka": [
+    "Khadro Ling",
+    "Templo Budista Chagdud Gonpa Khadro Ling",
+    "Chagdud Gonpa Brasil"
+  ],
+  "website": "https://khadroling.org/",
+  "location": {
+    "address": "Estrada Linha Águas Brancas, 1211, Três Coroas, RS, CEP 95660-000, Brazil",
+    "city": "Três Coroas",
+    "region": "Rio Grande do Sul, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -29.353,
+    "lng": -50.828
+  },
+  "tradition": "Tibetan Vajrayana Buddhism (Nyingma lineage)",
+  "technique": "Ngöndro preliminary practices, deity sadhana, guru yoga, and Dzogchen/Vajrayana meditation in the Nyingma tradition",
+  "influences": [
+    "Chagdud Tulku Rinpoche",
+    "Chagdud Khadro",
+    "Nyingma lineage of Tibetan Buddhism"
+  ],
+  "teacherAccess": "Retreats and empowerments are led by resident lamas and visiting teachers, including Chagdud Khadro; some programs require prior practices or initiations as prerequisites.",
+  "retreatOptions": "Weekend and multi-day retreats and empowerments scheduled through the year, including retreats open to beginners and closed retreats requiring specific prior practice; on-site accommodation is available only during announced retreats/events.",
+  "about": "Chagdud Gonpa Khadro Ling is the South American headquarters of the Chagdud Gonpa Foundation, a network of Nyingma Tibetan Buddhist centers founded by Chagdud Tulku Rinpoche in 1995 on rural land outside Três Coroas, Rio Grande do Sul. It holds the first traditional Tibetan Buddhist temple built in Latin America, and about 50 resident practitioners from Brazil and abroad live on the property, balancing spiritual practice with the daily work of maintaining the community. Since Rinpoche's death in 2002 the centers have been under the spiritual direction of his wife, Chagdud Khadro. The temple is open to public visitors several days a week, but overnight accommodation is reserved for participants in the retreats and empowerments announced on its calendar, which range from programs open to newcomers to closed retreats requiring specific prior initiations.",
+  "schedule": "Retreats and empowerments are announced individually throughout the year; the temple itself is open for public visits Wednesday-Friday mornings and afternoons and Saturday-Sunday, closed Mondays and Tuesdays.",
+  "cost": "No standard published nightly rate; each retreat or event sets its own program fee, which includes vegetarian meals, announced when the retreat is scheduled.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian breakfast, lunch, and dinner are included in retreat/event fees and served at fixed mealtimes.",
+  "workRequired": "partial",
+  "workNotes": "Guests generally wash their own dishes; a rotating volunteer system covers other communal kitchen and maintenance tasks during retreats.",
+  "tags": [
+    "tibetan-vajrayana",
+    "meals-included",
+    "diet-vegetarian",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Chagdud Gonpa Khadro Ling (official site)",
+      "url": "https://khadroling.org/"
+    },
+    {
+      "title": "Chagdud Gonpa Khadro Ling - Sobre nós",
+      "url": "https://www.templobudista.org/sobrenos/"
+    },
+    {
+      "title": "Chagdud Gonpa Khadro Ling - Visitação",
+      "url": "https://www.templobudista.org/visitacao/"
+    },
+    {
+      "title": "Khadro Ling | Centers & Practice Groups | Chagdud Gonpa Foundation",
+      "url": "https://www.chagdudgonpa.org/centers/khadro-ling"
+    },
+    {
+      "title": "Templo Budista Khadro Ling em Três Coroas/RS (address)",
+      "url": "https://www.hagah.com.br/templo-budista-khadro-ling-linha-aguas-brancas-1211"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

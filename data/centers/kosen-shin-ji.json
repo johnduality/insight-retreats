@@ -1,0 +1,78 @@
+{
+  "id": "kosen-shin-ji",
+  "name": "Kosen Shin Ji",
+  "aka": [
+    "Ko Zen Shin Ji",
+    "Templo Zen Kosen Shin-ji",
+    "Zen Center in Cuba",
+    "Kosen Shin-ji Temple"
+  ],
+  "website": "https://zenkan.com/en/zen-center-in-cuba/",
+  "location": {
+    "address": "Calle Real #70 e/ Jardín y Final, Reparto Lechuga, Managua, Municipio Arroyo Naranjo, La Habana, Cuba",
+    "city": "Havana",
+    "region": "Arroyo Naranjo, Havana",
+    "country": "Cuba",
+    "state": "CU",
+    "lat": 23.038,
+    "lng": -82.377
+  },
+  "tradition": "Soto Zen (Kosen/Deshimaru lineage)",
+  "technique": "Zazen (seated Zen meditation), Soto Zen liturgy and ceremony, kesa sewing",
+  "influences": [
+    "Taisen Deshimaru",
+    "Kosen Thibaut",
+    "Bárbara Kosen",
+    "Michel Taihei (Tai Hei)"
+  ],
+  "teacherAccess": "Resident teacher Michel Taihei leads daily zazen and gives teachings during sesshin; visiting masters and monastics from the Kosen Sangha (Spain) periodically travel to teach on-site.",
+  "retreatOptions": "Monthly multi-day sesshin (silent Zen meditation retreats) held at the temple, plus an extended sesshin over the Christmas/New Year holidays; longer stays are possible for visiting international practitioners.",
+  "about": "Kosen Shin Ji is a Soto Zen temple in the rural district of Managua, in Havana's Arroyo Naranjo municipality, about 20 km south of the Cuban capital. Founded by Cuban teacher Michel Taihei together with the Spain-based Kosen Sangha (heirs of Taisen Deshimaru via Kosen Thibaut and Bárbara Kosen), the property — a house with an orchard and vegetable garden — was purchased in October 2022 to finally give Cuba's small but decades-old Zen community (dating to the first Havana dojo founded in 1996) a permanent, dedicated home after years of holding sesshin in rented spaces, parks, and borrowed rooms. The temple now hosts a monthly multi-day sesshin plus a longer retreat over the Christmas holidays, with simple shared rooms, fans, and a full bathroom, largely self-sufficient vegetarian meals grown in the temple's own garden, and daily zazen at dawn and dusk. It also functions as a library, meeting space, and gathering point for visiting teachers and international Sangha members despite Cuba's severe economic constraints. The community remains small (around twenty-five regular practitioners, including several ordained monks and bodhisattvas) and continues to rely on mutual aid and donated supplies from the wider Kosen Sangha network.",
+  "schedule": "One multi-day sesshin per month at the temple, plus an extended sesshin during the Christmas/New Year holidays; daily zazen at dawn and evening for the resident community.",
+  "cost": "No published registration fee; the temple and its retreats are sustained through mutual aid and dana-style support from the international Kosen Sangha rather than a fixed rate.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "USD",
+    "notes": "No suggested per-night amount is published; visiting international practitioners typically bring food, supplies, and donations for the temple and Cuban Sangha rather than paying a set fee.",
+    "source": "https://www.fundaciondharmagaia.com/en/article/travel-to-a-tropical-sesshin-in-cuba"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals during sesshin are largely grown on-site (carrots, pumpkins, onions, chilies, sweet potatoes, tropical fruit) supplemented by beans, lentils, and other staples brought by visiting Sangha members.",
+  "workRequired": "partial",
+  "workNotes": "As in other Deshimaru-lineage temples, practitioners share in samu (work practice) tending the garden and temple grounds during sesshin.",
+  "tags": [
+    "zen",
+    "silent",
+    "diet-vegetarian",
+    "meals-included",
+    "work-practice",
+    "monastic-community",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Zen Center in Cuba (Kosen Shin Ji) — Zenkan / Asociación Zen Taisen Deshimaru",
+      "url": "https://zenkan.com/en/zen-center-in-cuba/"
+    },
+    {
+      "title": "Travel to a Tropical Sesshin in Cuba — Fundación Dharma Gaia",
+      "url": "https://www.fundaciondharmagaia.com/en/article/travel-to-a-tropical-sesshin-in-cuba"
+    },
+    {
+      "title": "Zen in the 'Athens of Cuba' — Buddhistdoor Global",
+      "url": "https://www.buddhistdoor.net/features/zen-in-the-athens-of-cuba/"
+    },
+    {
+      "title": "Havana Zen: A Japanese Tradition Arises in Cuba — Buddhistdoor Tea House",
+      "url": "https://teahouse.buddhistdoor.net/havana-zen-a-japanese-tradition-arises-in-cuba/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

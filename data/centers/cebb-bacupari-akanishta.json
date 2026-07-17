@@ -1,0 +1,80 @@
+{
+  "id": "cebb-bacupari-akanishta",
+  "name": "CEBB Akanishta (Aldeia Bacupari)",
+  "aka": [
+    "CEBB Bacupari",
+    "Centro de Estudos Budistas Bodisatva - Bacupari",
+    "Templo Akanishta",
+    "Aldeia CEBB Bacupari"
+  ],
+  "website": "https://cebb.org.br/en/aprofundamento-darma-bacupari/",
+  "location": {
+    "address": "Aldeia CEBB Bacupari, Lagoa do Bacupari, Mostardas, RS, Brazil",
+    "city": "Mostardas",
+    "region": "Rio Grande do Sul, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -31.1,
+    "lng": -50.86
+  },
+  "tradition": "Tibetan Buddhism (Nyingma lineage) as taught by Lama Padma Samten, rooted in an original Zen Buddhist foundation",
+  "technique": "Shamatha and Dzogchen-based meditation (including the 'Rigpa, Prajna and Sati' lucidity practice), guided contemplation, and study of Buddhist teachings",
+  "influences": [
+    "Lama Padma Samten",
+    "Chagdud Tulku Rinpoche",
+    "Zen master Tokuda San (CEBB's founding influence)"
+  ],
+  "teacherAccess": "Retreats are directed by Lama Padma Samten and other CEBB teachers, combining group teachings and puja with tutor-supported individual practice.",
+  "retreatOptions": "Flagship multi-week Summer and Winter retreats (roughly two to three weeks, in-person and online) plus periodic shorter retreats through the year; guests stay in on-site dormitory-style accommodation.",
+  "about": "CEBB Akanishta is the newest and largest of the rural retreat villages (aldeias) run by the Centro de Estudos Budistas Bodisatva (CEBB), a Brazilian Buddhist organization founded in 1986 in Porto Alegre by Lama Padma Samten, a former physics professor later ordained a lama in the Nyingma lineage under Chagdud Tulku Rinpoche. Set on the Aldeia CEBB Bacupari property beside the Lagoa do Bacupari in the coastal municipality of Mostardas, RS, the temple was built to hold up to 250 people for teachings and meditation retreats. It anchors CEBB's flagship Summer and Winter retreats led by Lama Padma Samten, multi-week programs of formal meditation, teaching, and contemplative practice offered both in person and by live online transmission. Meals and lodging are provided on-site, and participation is supported by a voluntary suggested contribution rather than a fixed fee.",
+  "schedule": "Annual Summer Retreat (roughly mid-February to early March) and Winter Retreat (around late June to early July), each about two to three weeks, plus shorter periodic retreats with Lama Padma Samten and other CEBB teachers.",
+  "cost": "Registration and participation are not conditioned on payment; a voluntary suggested contribution is requested per retreat, recently around R$350-500 for the full multi-week Summer/Winter program.",
+  "pricePerDay": {
+    "min": 26,
+    "max": 29,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "Derived from the suggested voluntary contribution for the 17-night 2026 Summer Retreat (R$450-500) ÷ 17 nights; the amount is optional and adjustable by need, not a mandatory fee.",
+    "source": "https://cebb.org.br/en/retiro-de-verao-2026-cebb-akanishta-bacupari-rs/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are prepared and served on-site as part of the retreat program.",
+  "workRequired": "partial",
+  "workNotes": "As at other CEBB villages, longer stays typically include some participation in community/voluntary tasks alongside meditation and study.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "sliding-scale",
+    "meals-included",
+    "diet-vegetarian",
+    "online-hybrid"
+  ],
+  "sources": [
+    {
+      "title": "CEBB Akanishta - Aprofundamento Darma Bacupari",
+      "url": "https://cebb.org.br/en/aprofundamento-darma-bacupari/"
+    },
+    {
+      "title": "Retiro de Verão 2026 | CEBB Akanishta - Bacupari/RS",
+      "url": "https://cebb.org.br/en/retiro-de-verao-2026-cebb-akanishta-bacupari-rs/"
+    },
+    {
+      "title": "Campanha Templo Akanishta",
+      "url": "https://cebb.org.br/en/campanha-templo-akanishta/"
+    },
+    {
+      "title": "Sobre o Lama Padma Samten - CEBB",
+      "url": "https://cebb.org.br/en/lama-padma-samten/"
+    },
+    {
+      "title": "Sobre o CEBB",
+      "url": "https://cebb.org.br/en/sobre-o-cebb/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

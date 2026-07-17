@@ -1,0 +1,69 @@
+{
+  "id": "senda-loto",
+  "name": "Senda Loto",
+  "aka": [
+    "Senda Loto Retreats",
+    "Buddhist Meditation and Yoga Retreat Center Sierra Nevada"
+  ],
+  "website": "https://sendaloto.com/",
+  "location": {
+    "address": "Near the Calabazo entrance to Tayrona National Park, Sierra Nevada de Santa Marta, Magdalena, Colombia",
+    "city": "Santa Marta",
+    "region": "Sierra Nevada de Santa Marta, Magdalena, Colombia",
+    "country": "Colombia",
+    "state": "CO",
+    "lat": 11.25,
+    "lng": -73.99
+  },
+  "tradition": "Dzogchen tradition of Tibetan Buddhism (Dudjom Tersar lineage), combined with Hatha yoga",
+  "technique": "Shamatha (calm-abiding) and Vipassana (insight) meditation as taught by Dudjom Rinpoche, supported by Hatha yoga, pranayama, and periods of noble silence",
+  "influences": [
+    "Pema (founder)",
+    "Dudjom Rinpoche",
+    "Dzongsar Khyentse Rinpoche",
+    "Loppon Jigme Rinpoche"
+  ],
+  "teacherAccess": "Guided in person by founder Pema, with daily short dharma talks, Q&A sessions, and guided group meditation; an afternoon social window allows informal access to teachers.",
+  "retreatOptions": "Fixed 1-week residential retreats (two rotating programs: a gentler 'Mindfulness Meditation & Yoga' retreat and a more intensive 'Buddhist Meditation & Yoga: Deepen Insight' retreat), guided in English and Spanish.",
+  "about": "Senda Loto is a Buddhist meditation and yoga retreat center in Colombia's Sierra Nevada de Santa Marta, five minutes from the Calabazo entrance to Tayrona National Park. Founded by Pema — a practitioner of more than 15 years in the Dzogchen tradition of Tibetan Buddhism who trained under teachers including the Dalai Lama, Dzongsar Khyentse Rinpoche, and his guru Loppon Jigme Rinpoche — the center offers fixed one-week residential retreats rooted in the Dudjom Tersar lineage. Two programs run on rotation: a gentler 'Mindfulness Meditation & Yoga' retreat centered on Hatha yoga and Shamatha (calm-abiding) practice, and a more intensive 'Buddhist Meditation & Yoga' retreat combining Shamatha and Vipassana (insight) meditation with daily dharma talks, Q&A, and noble silence, closing with a traditional Tibetan fire puja on the beach. Days alternate silent practice with a supervised social window, and retreats include a mindful hike into Tayrona National Park.",
+  "schedule": "1-week retreats run Yoga/pranayama at 7am, silent meals, multiple daily meditation sessions, a Wednesday hike in Tayrona National Park, dharma talk/Q&A most evenings, and noble silence overnight; the insight retreat keeps silence throughout except a 2-5pm social window, closing with a Tibetan fire puja on the final night.",
+  "cost": "Fixed price per person for the 1-week retreat, tiered by room type.",
+  "pricePerDay": {
+    "min": 154,
+    "max": 257,
+    "unit": "night",
+    "currency": "USD",
+    "notes": "1-week retreat: Shared Room $1,080 (~$154/night) to Private Room $1,800 (~$257/night); Private Cabin $2,700 (~$386/night) also available.",
+    "source": "https://sendaloto.com/costs/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are included in the retreat price; guest reviews describe the cuisine as Ayurvedic-inspired.",
+  "workRequired": "no",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Senda Loto - home",
+      "url": "https://sendaloto.com/"
+    },
+    {
+      "title": "Upcoming Retreats - Senda Loto",
+      "url": "https://sendaloto.com/upcoming-retreats/"
+    },
+    {
+      "title": "Costs - Senda Loto",
+      "url": "https://sendaloto.com/costs/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

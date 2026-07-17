@@ -1,0 +1,72 @@
+{
+  "id": "mosteiro-zen-pico-de-raios",
+  "name": "Mosteiro Zen Pico de Raios",
+  "aka": [
+    "Templo Zen Pico de Raios",
+    "Pico de Raios Zen Buddhist Monastery",
+    "Centro de Cultura Oriente-Ocidente"
+  ],
+  "website": "http://templopicoderaios.blogspot.com/",
+  "location": {
+    "address": "Rua Rio Piracicaba 390, Morro de São Sebastião, Ouro Preto, MG, Brazil",
+    "city": "Ouro Preto",
+    "region": "Minas Gerais, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -20.379,
+    "lng": -43.507
+  },
+  "tradition": "Soto Zen Buddhism",
+  "technique": "Zazen (seated meditation), kinhin (walking meditation), samu (work practice), and monastic ceremony within multi-day sesshin retreats",
+  "influences": [
+    "Ryotan Tokuda Igarashi (founder)",
+    "Ryohan Shingu Roshi",
+    "Sotoshu (Soto Zen School of Japan)"
+  ],
+  "teacherAccess": "Daily schedule led by resident monastics; founding teacher Mestre Ryotan Tokuda returns from France periodically to lead retreats and give dharma talks (teisho).",
+  "retreatOptions": "Monthly sesshin (intensive meditation retreats) lasting roughly 2 to 7 days under Noble Silence; single-day visits also possible.",
+  "about": "Founded in 1984 by Master Ryotan Tokuda — a Japanese Soto Zen monk who came to Brazil as a missionary in 1968 and founded Latin America's first Zen monastery, Morro da Vargem, in 1976 — Mosteiro Zen Pico de Raios sits at about 1,500 meters on Morro São Sebastião above the colonial town of Ouro Preto, bordering the Cachoeira das Andorinhas state park. The monastery runs on a strict daily rhythm of pre-dawn zazen, walking meditation, a morning ceremony, samu (work practice), and further sitting and dharma talks. Every month it holds a multi-day sesshin, an intensive silent retreat of roughly two to seven days centered on zazen and samu, in addition to its daily practice schedule that is open to visitors. Facilities are informal and low-tech — the temple keeps no independent website and posts retreat dates only on its blog — and it is supported by voluntary daily contributions rather than a single fixed program fee.",
+  "schedule": "Daily temple schedule (zazen from approx. 4:50am, kinhin, morning ceremony, samu, further zazen, teisho); monthly multi-day sesshin retreats of about 2-7 days under Noble Silence.",
+  "cost": "Tiered voluntary daily contribution covering meals and lodging during sesshin, rather than a single fixed retreat fee.",
+  "pricePerDay": {
+    "min": 120,
+    "max": 150,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "Sesshin contribution is about R$120-150/day with four meals and lodging included; a lower R$60/day rate applies to day visitors without lodging and is excluded here.",
+    "source": "http://templopicoderaios.blogspot.com/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Four vegetarian meals a day included in the sesshin contribution.",
+  "workRequired": "yes",
+  "workNotes": "Samu (work practice) is a scheduled part of both the daily and sesshin program for everyone who stays.",
+  "tags": [
+    "zen",
+    "silent",
+    "sliding-scale",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian",
+    "monastic-community"
+  ],
+  "sources": [
+    {
+      "title": "Templo Zen Pico de Raios (blog)",
+      "url": "http://templopicoderaios.blogspot.com/"
+    },
+    {
+      "title": "Tokuda Igarashi - biography",
+      "url": "http://templopicoderaios.blogspot.com/p/tokuda-igarashi.html"
+    },
+    {
+      "title": "Sesshin no Templo Zen Pico de Raios",
+      "url": "http://cazazen.blogspot.com/2011/09/sesshin-no-templo-zen-pico-de-raios.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

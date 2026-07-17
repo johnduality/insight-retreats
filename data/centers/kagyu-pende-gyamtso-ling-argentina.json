@@ -1,0 +1,71 @@
+{
+  "id": "kagyu-pende-gyamtso-ling-argentina",
+  "name": "Kagyu Pende Gyamtso Ling",
+  "aka": [
+    "KTC Centro de Retiros",
+    "Kagyu Tekchen Chöling Retreat Center",
+    "Karma Kagyü Argentina Retreat Center",
+    "Centro de Retiros Kagyu Tekchen Chöling"
+  ],
+  "website": "https://www.kagyuarg.org/centro-de-retiros.html",
+  "location": {
+    "address": "Near the town of San Andrés de Giles, Buenos Aires Province, Argentina (~100 km NW of Buenos Aires; exact directions given to registered retreatants)",
+    "city": "San Andrés de Giles",
+    "region": "Buenos Aires Province, Argentina",
+    "country": "Argentina",
+    "state": "AR",
+    "lat": -34.4497,
+    "lng": -59.4433
+  },
+  "tradition": "Karma Kagyu and Shangpa Kagyu lineages of Tibetan Vajrayana Buddhism",
+  "technique": "Calm-abiding (shine) meditation, Tibetan yoga, guru yoga, and other Vajrayana meditation practices from the Karma and Shangpa Kagyu lineages",
+  "influences": [
+    "Kyabje Kalu Rinpoche",
+    "Bokar Rinpoche",
+    "Lama Sangye Dorje",
+    "Lama Rinchen Kandro",
+    "17th Karmapa Trinley Thaye Dorje"
+  ],
+  "teacherAccess": "Group retreats are led on-site by resident Argentine lamas Rinchen Kandro and Sangye Dorje, with lama collaborator Tarchin also teaching; periodic visiting Kagyu teachers lead initiations and courses.",
+  "retreatOptions": "Periodic 2-day and 5-day group meditation and initiation retreats led by the resident lamas; the center has also hosted Latin America's first traditional three-year, three-month group retreat (2002-2006) for advanced practitioners under long-term individual retreat.",
+  "about": "Kagyu Pende Gyamtso Ling, whose name was given by Kyabje Kalu Rinpoche and means \"Seat of the Oral Teachings, Ocean of Happiness and Bliss,\" is the retreat land of Kagyu Tekchen Chöling, a Buenos Aires Tibetan Buddhist center founded in 1983 as one of the first outposts of Kalu Rinpoche's Karma and Shangpa Kagyu lineages in Latin America. Donated and founded in 2000 by resident lamas Sangye Dorje and Rinchen Kandro under the guidance of Bokar Rinpoche and Yangsi Kalu Rinpoche, the roughly 100 km stretch of Buenos Aires province countryside near San Andrés de Giles has been built up over two decades into a temple and garden with eight stupas raised between 2003 and 2016 and hundreds of trees planted by the sangha. It was the site of the first traditional three-year, three-month retreat completed in Latin America (2002-2006), and continues to host periodic weekend and multi-day group meditation retreats and initiations led by the resident lamas alongside longer individual retreats. The infrastructure remains simple and rural, purpose-built for retreat rather than tourism, serving practitioners from Argentina and across South America.",
+  "schedule": "Periodic weekend (2-day) and 5-day group retreats and initiations announced through Kagyu Tekchen Chöling's Buenos Aires center calendar rather than a fixed public year-round schedule; long-term retreatants follow the traditional three-year, three-month retreat cycle.",
+  "cost": "No published fee schedule; retreat costs are set per event and arranged directly with Kagyu Tekchen Chöling in Buenos Aires.",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "No published meal policy for group retreats; long-term retreatants organize food communally on-site.",
+  "workRequired": "unknown",
+  "workNotes": "No published work requirement for short retreats; the land's temple, stupas, and gardens were built up over two decades largely through volunteer labor from the Buenos Aires sangha.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "long-retreats"
+  ],
+  "sources": [
+    {
+      "title": "Historia - KTC Argentina (Kagyu Tekchen Chöling), including Centro de Retiros / Kagyu Pende Gyamtso Ling section",
+      "url": "https://www.kagyuarg.org/historia"
+    },
+    {
+      "title": "Centro de retiros - KTC Argentina",
+      "url": "https://www.kagyuarg.org/centro-de-retiros.html"
+    },
+    {
+      "title": "Kagyu Pende Gyamtso Ling (KPG) - Shangpa Kagyu network",
+      "url": "https://shangpakagyu.org/es/kagyu-pende-gyamtso-ling-kpg/"
+    },
+    {
+      "title": "Karma Kagyü Argentina - official site",
+      "url": "https://www.karmakagyuargentina.org/"
+    },
+    {
+      "title": "Entrevista a Lama Rinchen Kandro, directora del Kagyu Tekchen Chöling - Buddhistdoor en Español",
+      "url": "https://espanol.buddhistdoor.net/entrevista-a-lama-rinchen-kandro-directora-del-kagyu-tekchen-choling/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

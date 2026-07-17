@@ -1,0 +1,70 @@
+{
+  "id": "dhamma-nandanavana",
+  "name": "Dhamma Nandanavana",
+  "aka": [
+    "Vipassana Colombia",
+    "Centro de Meditación Vipassana Dhamma Nandanavana",
+    "Fundación Vipassana Colombia"
+  ],
+  "website": "https://nandanavana.dhamma.org/",
+  "location": {
+    "address": "San Antonio del Tequendama, Cundinamarca, Colombia",
+    "city": "San Antonio del Tequendama",
+    "region": "Cundinamarca, Colombia",
+    "country": "Colombia",
+    "state": "CO",
+    "lat": 4.6161,
+    "lng": -74.3517
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured 10-day residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded (audio/video) evening discourses and are available for brief clarification questions.",
+  "retreatOptions": "10-day residential courses (the standard offering, held on a recurring calendar year-round); shorter 1-3 day courses and Anapana courses for children/teenagers; longer courses for qualified returning students.",
+  "about": "Dhamma Nandanavana is Colombia's founding Vipassana meditation center, named by S.N. Goenka himself and located in San Antonio del Tequendama, Cundinamarca, about 50 km from Bogotá. Vipassana meditation first reached Colombia in 1998, and the nonprofit Fundación Vipassana Colombia was formally established in 2009 to organize courses and spread the technique; more than 100 ten-day courses have since been held, reaching over 4,000 students, including courses run inside prisons in Medellín, Manizales, and Pereira. The center offers the standard 10-day residential Vipassana course taught in the tradition of Sayagyi U Ba Khin, alongside shorter courses for returning students and Anapana courses for children and teenagers. As with all Goenka-tradition (dhamma.org) centers, courses are held under Noble Silence on a fixed daily schedule and are entirely free, funded solely by donations from past students. Courses are also periodically run at rented venues in Antioquia, Risaralda, and Valle del Cauca for students outside Cundinamarca.",
+  "schedule": "10-day courses held on a recurring published calendar at Dhamma Nandanavana (Cundinamarca), plus periodic courses at rented venues in Antioquia, Risaralda, and Valle del Cauca; fixed daily timetable under Noble Silence.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "COP",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course with no set fee.",
+    "source": "https://nandanavana.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) are asked to give some work service (dhamma seva); new students are generally not required to work.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Nandanavana - home page",
+      "url": "https://nandanavana.dhamma.org/"
+    },
+    {
+      "title": "Centro de Meditación - Dhamma Nandanavana",
+      "url": "https://nandanavana.dhamma.org/centro-meditacion"
+    },
+    {
+      "title": "Cursos Vipassana",
+      "url": "https://nandanavana.dhamma.org/cursos-vipassana"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

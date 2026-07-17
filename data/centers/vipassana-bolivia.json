@@ -1,0 +1,73 @@
+{
+  "id": "vipassana-bolivia",
+  "name": "Vipassana Meditation in Bolivia",
+  "aka": [
+    "Vipassana Bolivia",
+    "Dhamma.org Bolivia",
+    "Centro de Meditacion Vipassana Bolivia"
+  ],
+  "website": "https://bo.dhamma.org/",
+  "location": {
+    "city": "Cochabamba",
+    "region": "Cochabamba, Bolivia",
+    "country": "Bolivia",
+    "state": "BO",
+    "lat": -17.3895,
+    "lng": -66.1568
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded (audio/video) evening discourses and are available for brief questions.",
+  "retreatOptions": "10-day courses (the standard offering, held periodically at rented non-center venues around Cochabamba and Santa Cruz de la Sierra); short courses for old students; and, for qualified returning students, longer Satipatthana Sutta courses.",
+  "about": "Vipassana Meditation in Bolivia is the Bolivian branch of the worldwide Goenka/dhamma.org network, teaching Vipassana in the tradition of Sayagyi U Ba Khin as taught by the late S.N. Goenka. Unlike most countries in the network, Bolivia does not yet have a dedicated, permanently built Dhamma center; courses are instead organized as a dhamma.org 'non-center' location, run periodically at rented retreat venues in and around Cochabamba and Santa Cruz de la Sierra since the country's first course in 1997. The organization offers the standard 10-day residential Vipassana course several times a year — for example, a 10-day course and a longer Satipatthana Sutta course for old students were both scheduled in Cochabamba for September-October 2026 — plus shorter courses for qualified returning students. As with all centers in the Goenka tradition, courses are held under Noble Silence on a fixed daily schedule, taught bilingually in Spanish and English, and offered entirely free of charge, funded solely by voluntary donations from past students. Meals and basic on-site dormitory-style lodging are provided for the full duration of each course.",
+  "schedule": "No fixed permanent site; 10-day and other adult courses are scheduled periodically through the year at rented venues (e.g. a 10-day course 12-23 Sep 2026 and a Satipatthana Sutta course 26 Sep-4 Oct 2026, both in Cochabamba), announced on the dhamma.org Bolivia course calendar.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students who completed a course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "BOB",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) non-center course with no set fee.",
+    "source": "https://www.dhamma.org/en/schedules/noncenter/bo"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge for the duration of each course; vegetarian meals included.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) are asked to give some work service (dhamma seva) during their stay; new students are generally not required to work.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Vipassana Meditation in Bolivia - About (bo.dhamma.org)",
+      "url": "https://bo.dhamma.org/en/about/"
+    },
+    {
+      "title": "Vipassana Meditation in Bolivia - Contact",
+      "url": "https://bo.dhamma.org/en/contact/"
+    },
+    {
+      "title": "Vipassana - Bolivia course schedule (non-center location), dhamma.org",
+      "url": "https://www.dhamma.org/en/schedules/noncenter/bo"
+    },
+    {
+      "title": "Directorio de comunidades budistas en Bolivia - Buddhistdoor en Espanol",
+      "url": "https://espanol.buddhistdoor.net/directorio-de-comunidades-budistas-en-bolivia/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "dhamma-suriya",
+  "name": "Dhamma Suriya",
+  "aka": [
+    "Vipassana Peru",
+    "Vipassana Peru - Centro Dhamma Suriya",
+    "Centro de Meditacion Vipassana Dhamma Suriya",
+    "Dhamma Suriya Vipassana Meditation Centre"
+  ],
+  "website": "https://suriya.dhamma.org/",
+  "location": {
+    "address": "Cieneguilla / Pachacamac, Lima, Peru",
+    "city": "Cieneguilla",
+    "region": "Lima Region, Peru",
+    "country": "Peru",
+    "state": "PE",
+    "lat": -12.0664,
+    "lng": -76.8177
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded (audio/video) evening discourses and are available for brief questions.",
+  "retreatOptions": "10-day courses (the standard offering, held several times a year on a published calendar); a longer 14-day Gratitude course for qualified old students; and periodic childrens/teen courses.",
+  "about": "Dhamma Suriya is Peru's dedicated center for the worldwide Goenka/dhamma.org Vipassana network, built on a desert property on the Cieneguilla/Pachacamac outskirts of Lima. It was constructed largely through community bioconstruction, with volunteer natural-builders and architects who are themselves Vipassana students raising earth-built dormitories and a meditation hall on the site. The center runs the standard 10-day residential Vipassana course several times a year on a published calendar, alongside a longer 14-day Gratitude course for qualified returning students and periodic courses for children and teenagers. As with all centers in the Goenka tradition, courses are held under Noble Silence on a fixed daily schedule, taught in Spanish (often with English support), and offered entirely free of charge, funded solely by voluntary donations from past students. Meals and dormitory-style lodging are provided on-site for the full duration of each course.",
+  "schedule": "10-day courses held several times a year at the centers own site in Cieneguilla/Pachacamac (Lima), announced on the dhamma.org Peru course calendar, plus periodic 14-day old-student and childrens/teen courses.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students who completed a course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "PEN",
+    "notes": "No suggested amount; official Goenka tradition (dhamma.org) center with no set course fee.",
+    "source": "https://suriya.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge for the duration of each course; vegetarian meals included.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) are asked to give some work service (dhamma seva) during their stay; new students are generally not required to work.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "work-practice",
+    "family-friendly",
+    "long-retreats"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Suriya - dhamma.org course schedule",
+      "url": "https://www.dhamma.org/en/schedules/schsuriya"
+    },
+    {
+      "title": "Vipassana Centers in Peru - dhamma.org",
+      "url": "https://pe.dhamma.org/"
+    },
+    {
+      "title": "Vipassana Suriya - official center site",
+      "url": "https://suriya.dhamma.org/"
+    },
+    {
+      "title": "Vipassana Peru - Centro Dhamma Suriya (Instagram)",
+      "url": "https://www.instagram.com/vipassana.peru/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

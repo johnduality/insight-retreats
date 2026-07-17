@@ -1,0 +1,68 @@
+{
+  "id": "cebb-sukhavati",
+  "name": "CEBB Sukhavati",
+  "aka": [
+    "Centro de Estudos Budistas Bodisatva - Sukhavati",
+    "Aldeia CEBB Sukhavati"
+  ],
+  "website": "https://cebb.org.br/en/sukhavati/",
+  "location": {
+    "address": "Av. Dom Pedro II, 6506 (Estrada Velha da Graciosa), Quatro Barras, PR, Brazil",
+    "city": "Quatro Barras",
+    "region": "Paraná, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -25.3675,
+    "lng": -49.0844
+  },
+  "tradition": "Tibetan Buddhism (Nyingma lineage) as taught by Lama Padma Samten, rooted in an original Zen Buddhist foundation",
+  "technique": "Shamatha and Dzogchen-based meditation, guided contemplation, and voluntary community work practice as part of daily monastic-style rhythm",
+  "influences": [
+    "Lama Padma Samten",
+    "Chagdud Tulku Rinpoche"
+  ],
+  "teacherAccess": "A resident local tutor supports practitioners during Vivência stays; periodic retreats are led in person or online by Lama Padma Samten and other CEBB teachers.",
+  "retreatOptions": "Weekend introductory (Instrução) retreats; 7-21 night Vivência immersion stays with a tutor and voluntary community activities; closed retreats for continuing practitioners already under a tutor's guidance.",
+  "about": "CEBB Sukhavati is a rural Buddhist retreat center of the Centro de Estudos Budistas Bodisatva (CEBB) network, located in Quatro Barras about 30 km from Curitiba, Paraná. It follows the same Nyingma-rooted, Zen-founded approach taught by Lama Padma Samten across CEBB's rural villages elsewhere in Brazil. The center offers introductory weekend retreats, longer 'Vivência' immersion stays of 7 to 21 nights in which guests join the community's daily rhythm of meditation, study, and voluntary work under a local tutor, and closed retreats for continuing practitioners. Guests stay in collective dormitory-style lodging and take part in preparing the community's shared vegetarian meals as part of the immersion.",
+  "schedule": "Regular weekend retreats and Vivência immersion stays (7-21 nights, arranged individually) plus periodic teaching retreats through the year.",
+  "cost": "Suggested voluntary contribution of R$70 per day, covering lodging, shared vegetarian meals, and program; the amount is adjustable and registration is not conditioned on payment.",
+  "pricePerDay": {
+    "min": 70,
+    "max": 70,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "R$70/day is the published suggested contribution for the Vivência immersion program, covering lodging, shared meals, and program; the figure is voluntary/adjustable, not a mandatory fee.",
+    "source": "https://cebb.org.br/en/sukhavati/"
+  },
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian ingredients and kitchen facilities are provided; guests take turns preparing communal meals as part of the retreat's work practice.",
+  "workRequired": "yes",
+  "workNotes": "Guests join community tasks such as preparing shared vegetarian meals and general upkeep as part of the Vivência immersion.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "sliding-scale",
+    "work-practice",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "CEBB Sukhavati",
+      "url": "https://cebb.org.br/en/sukhavati/"
+    },
+    {
+      "title": "CEBB Sukhavati - Práticas Regulares",
+      "url": "https://cebb.org.br/en/sukhavati-old/"
+    },
+    {
+      "title": "Retiro de Verão 2025 | CEBB Sukhavati",
+      "url": "https://cebb.org.br/en/retiro-verao-2025-sukhavati/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

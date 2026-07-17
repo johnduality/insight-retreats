@@ -1,0 +1,71 @@
+{
+  "id": "la-casa-de-loto",
+  "name": "La Casa de Loto",
+  "aka": [
+    "Casa de Loto Guatapé",
+    "La Casa de Loto Meditation & Yoga Retreat"
+  ],
+  "website": "https://www.lacasadeloto.com/",
+  "location": {
+    "address": "Vereda El Roble, Guatapé, Antioquia, Colombia",
+    "city": "Guatapé",
+    "region": "Antioquia, Colombia",
+    "country": "Colombia",
+    "state": "CO",
+    "lat": 6.2343,
+    "lng": -75.1634
+  },
+  "tradition": "Non-dual, Dzogchen-inspired meditation practice (Tibetan Buddhist lineage) combined with Hatha yoga, in the tradition of the Indian Mahasiddhas",
+  "technique": "Open-awareness (non-dual) meditation, guided sitting meditation twice daily, Hatha yoga, breathwork, and periods of noble silence",
+  "influences": [
+    "Pema (founder)",
+    "Dzongsar Khyentse Rinpoche",
+    "Loppon Jigme Rinpoche",
+    "H.H. the Dalai Lama"
+  ],
+  "teacherAccess": "Guided by founder Pema and resident teachers; teachers lead daily group meditation and yoga sessions and are available for informal guidance, but are equally happy to leave guests to independent practice.",
+  "retreatOptions": "Open-stay format (arrive and leave any day) with a 2-night minimum; guests typically stay from a few days up to a few weeks.",
+  "about": "La Casa de Loto is a small meditation and yoga retreat house tucked into the mountains of Guatapé, about 80 minutes from Medellín's airport, hosting no more than ten guests at a time. Founded by Pema, a practitioner with 15-plus years in the Dzogchen tradition of Tibetan Buddhism who studied under teachers including the Dalai Lama and Dzongsar Khyentse Rinpoche, the retreat draws on the non-dual teachings of the Indian Mahasiddhas. Days follow a semi-silent, shukubō-inspired rhythm: morning Hatha yoga and breathwork, guided open-awareness meditation at midday and again in the evening, noble silence each morning until 2pm and again from 8pm, with free time for hiking or rest in between. Guests can arrive and depart on any day, staying from a few days to a few weeks, in eco-friendly cabins or shared rooms, with all-inclusive per-night pricing covering meals and daily classes. Meals are vegetarian, made with locally grown ingredients.",
+  "schedule": "Semi-silent daily rhythm: yoga/breathwork at 7am, silent breakfast, guided meditation at noon and 5pm, silent lunch/dinner, with noble silence each morning until 2pm and again from 8pm.",
+  "cost": "Fixed per-night rate by room type, all-inclusive of meals and daily yoga/meditation classes; no work or program requirement.",
+  "pricePerDay": {
+    "min": 330000,
+    "max": 620000,
+    "unit": "night",
+    "currency": "COP",
+    "notes": "Per-night rate by accommodation: 3-Bed Shared Room COP 330,000 to Private Forest Cabin COP 620,000 (couples cabin COP 950,000); includes all meals and daily classes.",
+    "source": "https://www.lacasadeloto.com/accommodations"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals are vegetarian, featuring locally grown and sustainably sourced ingredients, included in the nightly rate.",
+  "workRequired": "no",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "self-guided",
+    "no-work-required",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "La Casa de Loto - home",
+      "url": "https://www.lacasadeloto.com/"
+    },
+    {
+      "title": "Retreat Details & Booking",
+      "url": "https://www.lacasadeloto.com/retreat-options"
+    },
+    {
+      "title": "Accommodation & Costs",
+      "url": "https://www.lacasadeloto.com/accommodations"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

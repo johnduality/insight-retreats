@@ -1,0 +1,62 @@
+{
+  "id": "via-zen-viamao",
+  "name": "Via Zen — Centro de Prática Viamão",
+  "aka": [
+    "Via Zen",
+    "Associação de Prática Zen Budista Via Zen",
+    "Daibutsuzan",
+    "Montanha Grande Buda"
+  ],
+  "website": "https://www.viazen.org.br/centro-de-pratica-viamao",
+  "location": {
+    "address": "Beco do Pesqueiro, 1011, Passo do Vigário, Viamão, RS, CEP 94400-990, Brazil",
+    "city": "Viamão",
+    "region": "Rio Grande do Sul, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -30.14,
+    "lng": -51.06
+  },
+  "tradition": "Soto Zen Buddhism",
+  "technique": "Zazen (seated meditation), samu (mindful work practice), and sutra chanting/ceremony in the Japanese Soto Zen tradition",
+  "influences": [
+    "Sōtō Zen lineage (Japan)",
+    "Via Zen community, practicing in Porto Alegre since the late 1970s"
+  ],
+  "teacherAccess": "Sesshin are guided by Via Zen teachers with periods of teisho (dharma talk) and individual instruction.",
+  "retreatOptions": "Monthly one-day retreats (zazenkai) plus periodic multi-day sesshin (3 or more nights) at the rural Viamão practice center; a public visiting day is held the last Sunday of each month.",
+  "about": "Via Zen traces its roots to a group of practitioners who began sitting zazen together in Porto Alegre in the late 1970s, formally organizing as the Via Zen association in 1996 within the Soto Zen tradition. Alongside its urban dojo in Porto Alegre, the association maintains a rural practice center called Daibutsuzan ('Great Buddha Mountain') on land in Passo do Vigário, Viamão, about 30 km from the state capital, where community members can also live. Longer sesshin and other multi-day activities are held preferentially at this Viamão site, following the traditional forms of the Japanese Soto Zen school, with a schedule built around zazen periods, ceremony, and samu work practice.",
+  "schedule": "Monthly one-day zazenkai plus periodic multi-day (3+ night) sesshin scheduled through the year; public visiting on the last Sunday of each month by reservation.",
+  "cost": "No fixed nightly rate is published; retreat fees are announced per sesshin.",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "workRequired": "partial",
+  "workNotes": "Samu (mindful work practice) is a standard part of the sesshin schedule, as in other Soto Zen centers.",
+  "tags": [
+    "zen",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Via Zen — Centro de Prática Viamão",
+      "url": "https://www.viazen.org.br/centro-de-pratica-viamao"
+    },
+    {
+      "title": "Via Zen — Contato Viamão",
+      "url": "https://www.viazen.org.br/contato-viamao"
+    },
+    {
+      "title": "Via Zen — História da Montanha Grande Buda",
+      "url": "https://www.viazen.org.br/historia-da-montanha-gb"
+    },
+    {
+      "title": "Via Zen — home",
+      "url": "https://www.viazen.org.br/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

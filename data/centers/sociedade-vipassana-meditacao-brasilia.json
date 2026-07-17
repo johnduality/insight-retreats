@@ -1,0 +1,63 @@
+{
+  "id": "sociedade-vipassana-meditacao-brasilia",
+  "name": "Sociedade Vipassana de Meditação",
+  "aka": [
+    "SVM",
+    "Retiro Paraíso na Terra",
+    "Retiro de Meditação de Brasília (SVM)"
+  ],
+  "website": "https://sociedadevipassana.org.br/",
+  "location": {
+    "address": "Paraíso na Terra, Rodovia DF-220, Km 4, Brazlândia, DF, Brazil",
+    "city": "Brazlândia",
+    "region": "Brasília, DF, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -15.6547,
+    "lng": -48.1372
+  },
+  "tradition": "Insight/mindfulness meditation in the Theravada Thai Forest tradition, led by visiting monastic teachers",
+  "technique": "Silent sitting and walking meditation, mindfulness of breathing, with Dhamma talks and individual/group interviews",
+  "influences": [
+    "Thanissaro Bhikkhu (Ajahn Geoff)",
+    "Thai Forest Tradition (Ajaan Mun / Ajaan Chah lineage)"
+  ],
+  "teacherAccess": "Daily Dhamma talks and individual or group interviews with the retreat's visiting monastic teacher.",
+  "retreatOptions": "Annual residential silent retreat offered as a 5-night or 9-night stay (the last several days of the 9-night option run self-guided); shorter city-based mindfulness and MBSR courses through the year.",
+  "about": "The Sociedade Vipassana de Meditação (SVM) is a non-profit, non-religious meditation organization based in Brasília, founded in 2006 when its current president began teaching Vipassana meditation informally to friends; the circle grew into a wider network of practitioners and now runs the city's main annual residential meditation retreat. The retreat is held each year at Paraíso na Terra, a nature reserve and lodge in Brazlândia on the rural western edge of the Distrito Federal, roughly 45 minutes from central Brasília. Participants choose a 5-night or 9-night stay, practicing silent sitting and walking meditation under Noble Silence, with daily Dhamma talks and individual or group interviews with the retreat's visiting monastic teacher — past editions have been guided by Thai Forest Tradition monks such as Thanissaro Bhikkhu (Ajahn Geoff). Outside the annual retreat, SVM also runs city-based mindfulness courses, MBSR programs, and weekly sanghas in Brasília.",
+  "schedule": "One major residential retreat per year (recent editions held in February) at Paraíso na Terra, plus periodic mindfulness courses and weekly practice groups in Brasília.",
+  "cost": "Paid registration covering shared double or triple lodging and vegetarian meals for the retreat; current per-night rates are not published on the public site.",
+  "foodServed": "partial",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals included in registration; no dinner is served, consistent with the traditional Theravada retreat schedule.",
+  "workRequired": "unknown",
+  "tags": [
+    "theravada",
+    "silent",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Retiro Vipassana 2026 | Sociedade Vipassana de Meditação",
+      "url": "https://sociedadevipassana.org.br/retiro-de-meditacao-2026/"
+    },
+    {
+      "title": "Retiros | Sociedade Vipassana de Meditação",
+      "url": "https://sociedadevipassana.org.br/retiros/"
+    },
+    {
+      "title": "Sobre a SVM",
+      "url": "https://sociedadevipassana.org.br/sobre-a-svm/"
+    },
+    {
+      "title": "Guia para se preparar para um retiro de mindfulness",
+      "url": "https://sociedadevipassana.org.br/preparacaoretiro/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

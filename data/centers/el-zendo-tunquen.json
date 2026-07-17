@@ -1,0 +1,73 @@
+{
+  "id": "el-zendo-tunquen",
+  "name": "El Zendo Tunquén",
+  "aka": [
+    "Zendo Tunquén",
+    "Elzendo"
+  ],
+  "website": "https://elzendo.com/",
+  "location": {
+    "address": "Fundo Punta de Gallo, Tunquén, Casablanca, Región de Valparaíso, Chile",
+    "city": "Tunquén",
+    "region": "Valparaíso Region, Chile",
+    "country": "Chile",
+    "state": "CL",
+    "lat": -33.2512,
+    "lng": -71.6598
+  },
+  "tradition": "Soto Zen Buddhism",
+  "technique": "Shikantaza (silent seated zazen facing the wall) across multiple daily sitting periods, with oryoki formal meal practice and work practice (samu)",
+  "influences": [
+    "Jikusan (Patricio Gorigoitié Cousiño)",
+    "Japanese Soto Zen monastic tradition"
+  ],
+  "teacherAccess": "Daily direct guidance from resident Zen monk Jikusan, who leads the meditation schedule and is present throughout the stay; no formal private interviews are advertised.",
+  "retreatOptions": "Weekly 'Wikén Zen' residential stays (Thursday/Friday afternoon to Monday morning); periodic multi-day sesshins of 4-5 days; one longer 15-day sesshin held each July.",
+  "about": "El Zendo Tunquén is a Soto Zen meditation retreat on a forested coastal property at Punta de Gallo in Tunquén, about 90 minutes from Santiago on Chile's central coast. It was founded by Patricio Gorigoitié (now Zen monk Jikusan), whose planned ten-day visit to Japan in 1989 extended into a decade of monastic training before he returned to Chile in 2001 to share the practice. The center runs a near-monastic residential schedule modeled on a Japanese Zen monastery: guests wake at 5am for the first of several daily zazen periods facing the wall, eat in silence using the oryoki ritual, and take part in work practice such as carpentry or planting trees. Most stays take the form of a weekly 'Wikén Zen' open from Thursday or Friday afternoon through Monday morning, supplemented by longer sesshins of four to five days and an annual 15-day sesshin each July; space is limited and advance registration by email is required.",
+  "schedule": "Weekly Wikén Zen (Thu/Fri afternoon to Monday morning) held nearly every week of the year; periodic 4-5 day sesshins; one 15-day sesshin each July.",
+  "cost": "Suggested donation for the residential stay, with a separate daily rate cited for shorter or longer visits.",
+  "pricePerDay": {
+    "min": 15000,
+    "max": 20000,
+    "unit": "night",
+    "currency": "CLP",
+    "notes": "Weekend Wikén Zen (Thu/Fri-Mon) donation reported around CLP $60,000-80,000 total; a separate daily suggested contribution of CLP $15,000-20,000/day is cited for the stay.",
+    "source": "https://elzendo.com/wiken-zen/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are eaten in silence using the traditional oryoki ritual; the center publishes its own vegetarian temple-style recipes.",
+  "workRequired": "yes",
+  "workNotes": "Daily program includes samu (work practice), such as carpentry or garden and tree planting, alongside the meditation schedule.",
+  "tags": [
+    "zen",
+    "silent",
+    "dana-donation",
+    "work-practice",
+    "diet-vegetarian",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Elzendo – Centro de meditación – Zazen (home)",
+      "url": "https://elzendo.com/"
+    },
+    {
+      "title": "Wikén Zen",
+      "url": "https://elzendo.com/wiken-zen/"
+    },
+    {
+      "title": "Horario Sesshin",
+      "url": "https://elzendo.com/horario-sesshin-7-dias/"
+    },
+    {
+      "title": "Soto Zen en Chile: la experiencia del maestro Jikusan y El Zendo, Tunquén – Buddhistdoor en Español",
+      "url": "https://espanol.buddhistdoor.net/soto-zen-en-chile-la-experiencia-del-maestro-jikusan-y-el-zendo-tunquen/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

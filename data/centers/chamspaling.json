@@ -1,0 +1,65 @@
+{
+  "id": "chamspaling",
+  "name": "Chamspaling",
+  "aka": [
+    "Centro de Retiros Chamspaling",
+    "Corporación Cultural Chamspaling",
+    "Centro Budista Chamspaling"
+  ],
+  "website": "https://www.chamspaling.cl/",
+  "location": {
+    "address": "Huepil, Camino a Termas de Huife Km 25, Pucón, Región de la Araucanía, Chile",
+    "city": "Pucón",
+    "region": "Araucanía Region, Chile",
+    "country": "Chile",
+    "state": "CL",
+    "lat": -39.253,
+    "lng": -71.715
+  },
+  "tradition": "Tibetan Buddhism, Drikung Kagyu lineage",
+  "technique": "Guided meditation, Vajrayana deity practice (sadhana), and teachings/empowerments (wangkur) under a resident lama",
+  "influences": [
+    "Drubpon Chamspa Rinpoche",
+    "H.H. Drikung Kyabgon Chetsang Rinpoche",
+    "Lama Drubpon Konchok Tsondus"
+  ],
+  "teacherAccess": "Resident lama (Drubpon Konchok Tsondus, in residence since 2009) leads teachings, meditation sessions, and empowerments in person during retreats and is present at the center.",
+  "retreatOptions": "Periodic residential retreats of roughly 1 to 4 days (e.g. a 3-day/2-night Mahamudra retreat) built around empowerments, teachings, and group meditation; day visits and weekly practice sessions are also offered.",
+  "about": "Chamspaling is a Drikung Kagyu Tibetan Buddhist retreat center set in the forested mountains of the Liucura river valley outside Pucón, in Chile's Araucanía Region, reached by a rough road and a final uphill walk that keeps the site remote and quiet. It houses the Chamspaling stupa, the first stupa built in Chile and one of the most significant in Latin America, consecrated by H.H. Drikung Kyabgon Chetsang Rinpoche. Since 2009 the center has been home to resident lama Drubpon Konchok Tsondus, a Ladakhi monk trained for over a decade at the Drikung Kagyu Institute and through three years of solitary retreat, who leads regular teachings, empowerments (wangkur), and residential meditation retreats lasting one to four days, with on-site lodging available. More than 500 people have taken refuge at the center since Tsondus's arrival, and it also hosts periodic visits from touring Drikung Kagyu teachers.",
+  "schedule": "Periodic weekend and multi-day (roughly 1-4 night) residential retreats built around specific empowerments or teachings, plus weekly practice sessions and day visits; the resident lama also travels to teach elsewhere in Chile and at a sister center in Peru.",
+  "cost": "Fixed fee per retreat, with a lower rate for attending without lodging and a higher rate that includes on-site accommodation.",
+  "pricePerDay": {
+    "min": 80000,
+    "max": 80000,
+    "unit": "night",
+    "currency": "CLP",
+    "notes": "3-day/2-night Mahamudra retreat priced at CLP $120,000 without lodging or CLP $160,000 with lodging; $160,000 ÷ 2 nights ≈ $80,000/night.",
+    "source": "https://www.chamspaling.cl/inscripcionretiro/"
+  },
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "workRequired": "unknown",
+  "tags": [
+    "tibetan-vajrayana",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Chamspaling (home)",
+      "url": "https://www.chamspaling.cl/"
+    },
+    {
+      "title": "Relatos de un lama en la estupa austral: El Centro Chamspaling en Chile – Buddhistdoor en Español",
+      "url": "https://espanol.buddhistdoor.net/relatos-de-un-lama-en-la-estupa-austral-el-centro-chamspaling-en-chile/"
+    },
+    {
+      "title": "La destacada presencia del linaje Drikung Kagyü en Chile. Primera parte – Buddhistdoor en Español",
+      "url": "https://espanol.buddhistdoor.net/la-destacada-presencia-del-linaje-drikung-kagyu-en-chile-primera-parte/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

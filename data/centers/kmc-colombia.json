@@ -1,0 +1,66 @@
+{
+  "id": "kmc-colombia",
+  "name": "KMC Colombia",
+  "aka": [
+    "Kadampa Meditation Centre Colombia",
+    "Centro de Meditación Kadampa Colombia"
+  ],
+  "website": "https://meditacionencolombia.org/",
+  "location": {
+    "address": "Calle 65 #7-52, Bogotá, Colombia",
+    "city": "Bogotá",
+    "region": "Bogotá, Colombia",
+    "country": "Colombia",
+    "state": "CO",
+    "lat": 4.6496,
+    "lng": -74.0618
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU), Gelug-derived Modern Kadampa Buddhism",
+  "technique": "Lamrim-based analytical and placement meditation on calm-abiding, lovingkindness, and the nature of mind, following the teachings of Geshe Kelsang Gyatso",
+  "influences": [
+    "Geshe Kelsang Gyatso Rinpoche",
+    "Gen Kelsang Namdrol",
+    "New Kadampa Tradition - International Kadampa Buddhist Union (NKT-IKBU)"
+  ],
+  "teacherAccess": "Resident teacher Gen Kelsang Namdrol and visiting NKT teachers give teachings and lead guided meditation sessions during weekend retreats, with dedicated Q&A time.",
+  "retreatOptions": "Periodic weekend residential retreats (Friday evening through Sunday, 2 nights) held at a rented finca outside Bogotá (e.g., in Fómeque/Choachí); weekly classes and courses at the Bogotá center itself are day-only.",
+  "about": "KMC Colombia is a Kadampa Buddhist meditation center in Bogotá, part of the New Kadampa Tradition - International Kadampa Buddhist Union (NKT-IKBU) founded by Geshe Kelsang Gyatso Rinpoche. The first Kadampa practitioners arrived in Colombia in 2011, and the center's Bogotá meditation hall opened in 2016 under resident teacher Gen Kelsang Sangtön; it is now led by Gen Kelsang Namdrol. Alongside its daily and weekly non-residential classes in Bogotá, the center periodically runs weekend residential retreats — typically Friday evening through Sunday — at a rented finca outside the city, combining teachings from a qualified Kadampa teacher with guided meditation sessions on themes such as resting in the clarity of the mind. Retreat packages include meals, drinks, and onsite lodging, with an off-site lodging option also available nearby.",
+  "schedule": "Weekend retreat runs Friday dinner through Sunday lunch with six guided meditation sessions plus teachings; the Bogotá temple otherwise holds weekly non-residential classes and courses.",
+  "cost": "Fixed registration fee per retreat, tiered by room type, with an early-bird discount; a no-lodging option is available for local attendees.",
+  "pricePerDay": {
+    "min": 345000,
+    "max": 395000,
+    "unit": "night",
+    "currency": "COP",
+    "notes": "Early-bird weekend retreat (2 nights, Fri-Sun) at a rented finca in Fómeque: COP 690,000 shared-bath to COP 790,000 private-bath package, divided by 2 nights; standard pricing after the early-bird deadline rises to COP 770,000-867,000 for the package.",
+    "source": "https://meditacionencolombia.org/retiros-de-meditacion-bogota/"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Meals and drinks are included in the weekend retreat package; specific dietary style not published.",
+  "workRequired": "no",
+  "tags": [
+    "tibetan-vajrayana",
+    "fixed-fee",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "KMC Colombia - Kadampa Buddhism (kadampa.org)",
+      "url": "https://kadampa.org/center/kmc-colombia"
+    },
+    {
+      "title": "Retiros de Meditación en Bogotá - Kadampa Colombia",
+      "url": "https://meditacionencolombia.org/retiros-de-meditacion-bogota/"
+    },
+    {
+      "title": "Kadampa Colombia - home",
+      "url": "https://meditacionencolombia.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "dhamma-viriya",
+  "name": "Dhamma Viriya",
+  "aka": [
+    "Centro de Meditación Vipassana Dhamma Viriya",
+    "Vipassana Argentina - Córdoba",
+    "Vipassana Meditation Centre Dhamma Viriya"
+  ],
+  "website": "https://ar.dhamma.org/viriya-centre/",
+  "location": {
+    "address": "Charbonier, Valle de Punilla, Córdoba, Argentina (approx. 9 km from Capilla del Monte)",
+    "city": "Charbonier",
+    "region": "Valle de Punilla, Córdoba, Argentina",
+    "country": "Argentina",
+    "state": "AR",
+    "lat": -30.7667,
+    "lng": -64.5333
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured 10-day residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded (audio/video) evening discourses and are available for brief clarification questions.",
+  "retreatOptions": "10-day residential courses (the standard, recurring offering); shorter 1-3 day courses; longer 20- and 30-day courses for qualified returning students.",
+  "about": "Dhamma Viriya is Argentina's second Vipassana meditation center in the Goenka tradition, inaugurated in November 2016 on 22 hectares of donated land in the municipality of Charbonier, about 9 km from Capilla del Monte in the Sierras de Córdoba. The center sits amid mountains, valleys, rivers, and streams in the Valle de Punilla, offering a quiet, natural setting for silent practice. It runs the standard 10-day residential Vipassana course taught in the tradition of Sayagyi U Ba Khin, along with shorter courses and, for experienced returning students, longer 20- and 30-day courses. As with all Goenka-tradition (dhamma.org) centers, courses are held under Noble Silence on a fixed daily timetable and are entirely free, funded solely by donations from past students who wish to give others the same opportunity.",
+  "schedule": "10-day courses held on a recurring published calendar under Noble Silence with a fixed daily timetable; periodic short courses and 20-/30-day long courses also offered.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "ARS",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course with no set fee.",
+    "source": "https://ar.dhamma.org/viriya-centre/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) are asked to give some work service (dhamma seva); new students are generally not required to work.",
+  "tags": [
+    "goenka",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Centro Dhamma Viriya - Vipassana Argentina",
+      "url": "https://ar.dhamma.org/viriya-centre/"
+    },
+    {
+      "title": "Acerca de Dhamma Viriya - Vipassana Argentina",
+      "url": "https://ar.dhamma.org/acerca-de-dhamma-viriya/"
+    },
+    {
+      "title": "¿Como Llegar? - Dhamma Viriya - Vipassana Argentina",
+      "url": "https://ar.dhamma.org/viriya-centre/como-llegar-dhamma-viriya/"
+    },
+    {
+      "title": "Centro de meditación Vipassana - Dhamma Viriya (dhamma.org schedule)",
+      "url": "https://www.dhamma.org/es/schedules/schviriya"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

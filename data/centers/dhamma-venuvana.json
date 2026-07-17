@@ -1,0 +1,75 @@
+{
+  "id": "dhamma-venuvana",
+  "name": "Dhamma Venuvana",
+  "aka": [
+    "Vipassana Meditation Centre Dhamma Venuvana",
+    "Centro de Meditación Vipassana Dhamma Venuvana",
+    "Vipassana Venezuela"
+  ],
+  "website": "https://venuvana.dhamma.org/",
+  "location": {
+    "address": "Sector Los Naranjos de Tasajera, Vía Sabaneta, cerca de La Victoria, Estado Aragua, Venezuela",
+    "city": "La Victoria",
+    "region": "Aragua, Venezuela",
+    "country": "Venezuela",
+    "state": "VE",
+    "lat": 10.17561,
+    "lng": -67.23068
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; certified Goenka-tradition assistant teachers give recorded (audio/video) evening discourses and are available for brief questions.",
+  "retreatOptions": "10-day courses (the standard, most frequent offering, taught bilingually in English and Spanish); 1-3 day and Satipatthana Sutta courses for qualified old students; multi-day service periods; separate Anapana courses for children and teenagers.",
+  "about": "Dhamma Venuvana is Venezuela's only permanent Vipassana Meditation center, established in 2006 in the Los Naranjos de Tasajera sector near La Victoria, Estado Aragua, about three hours from Caracas. Run by the volunteer-led association Vipassana Venezuela A.C., the center offers 10-day residential courses in the S.N. Goenka tradition roughly once a month year-round, taught bilingually in English and Spanish, alongside shorter old-student courses, Satipatthana Sutta courses, and service periods. As with all centers in the Goenka/dhamma.org network, courses are held under Noble Silence on a fixed daily schedule and are offered entirely free of charge, funded solely by voluntary donations from past students. The center also organizes separate Anapana meditation courses for children and teenagers, held periodically at a rented venue in Caracas. Despite Venezuela's broader economic difficulties, the center has continued operating a full annual course calendar into 2027.",
+  "schedule": "Recurring 10-day courses run most months year-round on a published calendar, interspersed with old-student service periods, short 1-3 day and Satipatthana Sutta courses, and periodic children's/teen Anapana courses at a separate Caracas venue.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students who completed a course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "VES",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course with no set fee.",
+    "source": "https://venuvana.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) are asked to give work service (dhamma sevā) during their stay; new students are generally not required to work, though volunteer servers run the kitchen and center.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Vipassana Meditation: Dhamma Venuvana - home page",
+      "url": "https://venuvana.dhamma.org/"
+    },
+    {
+      "title": "Vipassana Meditation: Contact - Dhamma Venuvana",
+      "url": "https://venuvana.dhamma.org/contact/"
+    },
+    {
+      "title": "Centro de meditación Vipassana - Dhamma Venuvana (course calendar)",
+      "url": "https://www.dhamma.org/es/schedules/schvenuvana"
+    },
+    {
+      "title": "Vipassana Centers in Venezuela - dhamma.org",
+      "url": "https://ve.dhamma.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

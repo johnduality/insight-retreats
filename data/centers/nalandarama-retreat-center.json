@@ -1,0 +1,78 @@
+{
+  "id": "nalandarama-retreat-center",
+  "name": "Nalandarama Retreat Center",
+  "aka": [
+    "Centro de Retiros Nalandarama",
+    "Mosteiro da Generosidade Sem Fim",
+    "Arama"
+  ],
+  "website": "https://arama.nalanda.org.br/",
+  "location": {
+    "address": "Av. Ipê Branco 1045, Recanto da Aldeia, Casa Branca, Brumadinho, MG 32488-070, Brazil",
+    "city": "Brumadinho",
+    "region": "Casa Branca, near Belo Horizonte, Minas Gerais, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -20.1,
+    "lng": -44.05
+  },
+  "tradition": "Theravada Buddhism, forest contemplative tradition (also transmitting the teachings of Ajahn Buddhadasa)",
+  "technique": "Samatha and Insight Meditation, satipatthana, metta-bhavana, sitting and walking meditation",
+  "influences": [
+    "Ajahn Buddhadasa",
+    "Upasaka Dhanapala (founder of Centro Buddhista Nalanda)",
+    "Theravada forest-tradition teachers from Cambodia and Thailand"
+  ],
+  "teacherAccess": "Structured retreats include daily meditation instruction, dharma talks, and individual interviews with visiting Theravada teachers and monastics.",
+  "retreatOptions": "Weekend retreats; 3-day and 4-5 night retreats; 1-week, 10-day, and 20-day retreats; plus self-guided personal retreats available year-round.",
+  "about": "Nalandarama is the forest retreat center of the Centro de Estudos Buddhistas Nalanda, set in native forest near the village of Casa Branca in Brumadinho, about 40 minutes from Belo Horizonte and close to the Serra do Rola-Moça. Opened around the community's tenth anniversary in 1999, it was the first center in South America dedicated to intensive training in the contemplative path of the Theravada forest tradition, and is one of the few centers in the world recognized as transmitting the teachings of Ajahn Buddhadasa. The rustic, off-grid accommodations sit among the trees, and retreatants navigate to the meditation hall by flashlight for early-morning and evening sits. Structured group retreats ranging from a weekend to twenty days run through the year under Noble Silence, supplemented by self-guided personal retreats open to practitioners of any Buddhist lineage, with occasional work-exchange arrangements for those who cannot afford the fee.",
+  "schedule": "Daily program of sitting and walking meditation, dharma talks, and individual interviews held under Noble Silence; group retreats run periodically (weekend through 20 days) with self-guided personal retreats possible any time.",
+  "cost": "Fixed daily fee covering lodging and vegetarian meals; limited work-exchange available for those who cannot pay.",
+  "pricePerDay": {
+    "min": 160,
+    "max": 300,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "Standard multi-day residential retreats (4-5 day, 1-week, 10-day, 20-day) are billed at R$300/night with three vegetarian meals; shorter weekend retreats run R$140-160/night; a day-only commuter rate (no lodging) of R$250/day is excluded here.",
+    "source": "https://arama.nalanda.org.br/retiros"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian meals a day (breakfast, lunch, light evening meal) included in the retreat fee.",
+  "workRequired": "no",
+  "workNotes": "No work is required of paying retreatants; a limited number of work-exchange slots are available for those who can help with cooking or another needed skill in lieu of the fee.",
+  "tags": [
+    "theravada",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "self-guided",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee",
+    "no-work-required"
+  ],
+  "sources": [
+    {
+      "title": "Nalandarama Retreat Center - home",
+      "url": "https://arama.nalanda.org.br/"
+    },
+    {
+      "title": "Localização - Nalandarama Retreat Center",
+      "url": "https://arama.nalanda.org.br/pt/localizacao"
+    },
+    {
+      "title": "Retiros & Workshops - Nalandarama Retreat Center",
+      "url": "https://arama.nalanda.org.br/retiros"
+    },
+    {
+      "title": "Quem Somos - Centro de Estudos Buddhistas Nalanda",
+      "url": "https://nalanda.org.br/sobre-o-nalanda/quem-somos"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

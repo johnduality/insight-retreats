@@ -1,0 +1,77 @@
+{
+  "id": "srf-retiro-de-armacao",
+  "name": "Self-Realization Fellowship — Retiro de Armação",
+  "aka": [
+    "Retiro de Armação",
+    "SRF Armação Retreat",
+    "Armacao Retreat (Self-Realization Fellowship)"
+  ],
+  "website": "https://www.retiroarmacao-srf.com/",
+  "location": {
+    "address": "Praia de Armação do Itapocorói, Penha, SC, CEP 88385-000, Brazil",
+    "city": "Penha",
+    "region": "Santa Catarina, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -26.7887,
+    "lng": -48.639
+  },
+  "tradition": "Kriya Yoga meditation in the lineage of Paramahansa Yogananda (Self-Realization Fellowship / Yogoda Satsanga Society of India)",
+  "technique": "Kriya Yoga and related SRF meditation techniques (concentration and energization exercises, silent group meditation) as taught by Paramahansa Yogananda",
+  "influences": [
+    "Paramahansa Yogananda",
+    "Self-Realization Fellowship Monastic Order"
+  ],
+  "teacherAccess": "Weekend retreats are periodically led on-site by monks or nuns of the SRF Monastic Order, with group meditation, talks on Yogananda's teachings, and opportunities for individual guidance.",
+  "retreatOptions": "Monthly weekend silent retreats (Friday evening to Sunday, 2 nights) held throughout the year, some specifically guided by visiting SRF monastics.",
+  "about": "The Retiro de Armação is a beachfront meditation retreat of the Self-Realization Fellowship (SRF), the organization Paramahansa Yogananda founded to spread Kriya Yoga meditation worldwide. Located on Armação do Itapocorói beach in Penha, Santa Catarina, the property was donated to SRF in 2006, becoming the organization's first official retreat center in Latin America and its second oceanfront retreat after the original Encinitas Hermitage in California. SRF centers from across Brazil, including Florianópolis and Curitiba, send members to Armação for monthly weekend retreats held in silence and devoted to group meditation, talks on Yogananda's teachings, and quiet time by the ocean. Retreats are periodically led on-site by monks or nuns of the SRF Monastic Order, with accommodation in shared rooms and all meals included for the full weekend program.",
+  "schedule": "Silent weekend retreats (Friday evening to Sunday) held roughly once a month year-round, organized by regional SRF centers.",
+  "cost": "Fixed program fee per weekend retreat, covering shared-room lodging and all meals; a 2024 weekend retreat was priced at R$996 per person for shared accommodation.",
+  "pricePerDay": {
+    "min": 498,
+    "max": 498,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "R$996 total for a 2-night (Friday-Sunday) weekend retreat with shared-room lodging and all meals ÷ 2 nights = R$498/night; exact pricing varies by retreat and room type.",
+    "source": "https://www.retiroarmacao-srf.com/programacao"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals during the weekend program are included in the retreat fee.",
+  "workRequired": "no",
+  "workNotes": "No work or service is expected of retreatants; the weekend is devoted to silent meditation, talks, and rest.",
+  "tags": [
+    "yoga-hindu",
+    "silent",
+    "fixed-fee",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Retiro de Armação SRF (home)",
+      "url": "https://www.retiroarmacao-srf.com/"
+    },
+    {
+      "title": "O Retiro | Retiro de Armação SRF",
+      "url": "https://www.retiroarmacao-srf.com/o-retiro"
+    },
+    {
+      "title": "Programação | Retiro de Armação SRF",
+      "url": "https://www.retiroarmacao-srf.com/programacao"
+    },
+    {
+      "title": "Como chegar e contato | Retiro de Armação SRF",
+      "url": "https://www.retiroarmacao-srf.com/contato"
+    },
+    {
+      "title": "Self Realization Fellowship | Armacao Retreat",
+      "url": "https://yogananda.org/locations/armacao-retreat"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

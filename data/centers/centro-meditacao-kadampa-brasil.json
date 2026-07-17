@@ -1,0 +1,73 @@
+{
+  "id": "centro-meditacao-kadampa-brasil",
+  "name": "Centro de Meditação Kadampa Brasil",
+  "aka": [
+    "Templo pela Paz Mundial",
+    "CMK Brasil",
+    "Third Kadampa Temple for World Peace, Cabreúva",
+    "Temple for World Peace (Cabreúva)"
+  ],
+  "website": "https://budismokadampa.org.br/",
+  "location": {
+    "address": "Avenida Cláudio Giannini, 2035, Distrito do Jacaré, Cabreúva, São Paulo, 13318-000, Brazil",
+    "city": "Cabreúva",
+    "region": "Interior de São Paulo (Serra do Japi), São Paulo, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -23.2989,
+    "lng": -47.1372
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU), Gelug-derived Modern Kadampa Buddhism",
+  "technique": "Guided breathing and analytical/placement meditation, Lamrim (stages-of-the-path) study, and mantra recitation, taught through structured courses and residential retreats",
+  "influences": [
+    "Venerable Geshe Kelsang Gyatso (founder, New Kadampa Tradition)",
+    "Gen Kelsang Drime (resident teacher)"
+  ],
+  "teacherAccess": "Resident teacher Gen Kelsang Drime and visiting NKT teachers lead classes, meditations, and retreats; daily guided sessions are open to residential retreat guests.",
+  "retreatOptions": "Weekend residential stays ('Descansar & Refletir'); a one-week residential retreat ('Uma Semana de Paz e Meditação'); and a month-long immersion retreat ('Um Mês de Imersão e Paz'), alongside regular weekly classes and free day visits.",
+  "about": "Centro de Meditação Kadampa Brasil, also known as the Templo pela Paz Mundial (Temple for World Peace), is the Brazilian center of the New Kadampa Tradition founded by Geshe Kelsang Gyatso, set on a protected forest property on the Serra do Japi in Cabreúva, between Jundiaí and Itu in the São Paulo interior. Opened in 2010, its temple is described by the organization as the largest Kadampa Buddhist temple in the world, and the grounds also include residential accommodation, a cafeteria, a library, and extensive gardens. Under resident teacher Gen Kelsang Drime, the center runs a program of Lamrim (stages-of-the-path) study and guided meditation open to residential stays ranging from a weekend package through a one-week 'Peace and Meditation' retreat to a full month-long immersion retreat, in addition to free weekend temple visits and regular weekly meditation classes. Meals are vegetarian, and accommodation ranges from private ensuite suites to shared dormitories, with rooms adapted for guests with disabilities.",
+  "schedule": "Weekly Sunday meditation classes; free public temple visits on weekends and holidays; and residential retreat packages of a weekend, one week, or one month, bookable year-round.",
+  "cost": "Fixed nightly package rates covering lodging and meals: suite with veranda R$450, standard suite R$400, shared dormitory with external bathroom R$300 (per the standard Saturday-to-Sunday weekend package).",
+  "pricePerDay": {
+    "min": 300,
+    "max": 450,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "Weekend package (1 night, Saturday to Sunday) rates: R$300 shared dormitory with external bathroom up to R$450 private suite with veranda, including Saturday lunch/dinner and Sunday breakfast/lunch; longer week- and month-long retreats are priced separately.",
+    "source": "https://budismokadampa.org.br/activities/fdst/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals included in all residential retreat packages; an optional vegetarian lunch is also available to day visitors.",
+  "workRequired": "no",
+  "tags": [
+    "tibetan-vajrayana",
+    "fixed-fee",
+    "meals-included",
+    "diet-vegetarian",
+    "accessible"
+  ],
+  "sources": [
+    {
+      "title": "Centro de Meditação Kadampa Brasil (official site)",
+      "url": "https://budismokadampa.org.br/"
+    },
+    {
+      "title": "Descansar & refletir - Centro de Meditacao Kadampa Brasil",
+      "url": "https://budismokadampa.org.br/activities/fdst/"
+    },
+    {
+      "title": "Professor Residente - Centro de Meditacao Kadampa Brasil",
+      "url": "https://budismokadampa.org.br/professor-residente/"
+    },
+    {
+      "title": "Third Kadampa Temple for World Peace, Cabreúva, Brazil - Kadampa Buddhism",
+      "url": "https://kadampa.org/temple/temple-for-world-peace-cabreuva-brazil"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

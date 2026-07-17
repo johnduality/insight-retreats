@@ -1,0 +1,86 @@
+{
+  "id": "dhamma-ariya",
+  "name": "Dhamma Ariya",
+  "aka": [
+    "Vipassana Costa Rica",
+    "Vipassana Meditation Center of Costa Rica and Central America",
+    "Asociación Vipassana Costa Rica",
+    "AVCR"
+  ],
+  "website": "https://cr.dhamma.org/",
+  "location": {
+    "address": "Agua Caliente de Orosí, approx. 2 km southwest of Hotel Río Perlas, Orosi Valley, Cartago Province, Costa Rica",
+    "city": "Orosi",
+    "region": "Cartago Province, Costa Rica",
+    "country": "Costa Rica",
+    "state": "CR",
+    "lat": 9.81,
+    "lng": -83.87
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded (audio/video) evening discourses and are available for brief questions.",
+  "retreatOptions": "Short 1-3 day courses for new and old students as the newly built center's program grows; the standard 10-day course (first held in April 2025); longer courses for qualified old students are expected as capacity increases.",
+  "about": "Dhamma Ariya is the Vipassana meditation center for Costa Rica and the designated regional center for Central America in the worldwide network founded by S.N. Goenka. In 2021, Asociación Vipassana Costa Rica (AVCR) purchased about 34 acres of land in the Orosi Valley near Agua Caliente, roughly 75 minutes from San José and 25 minutes from Cartago, bordering a large national park that forms part of the largest protected reserve in Central America. Construction of simple dorms, a dining hall, and washroom facilities began in May 2023 through the volunteer service of old students, allowing the center to hold its first 3-day course that December and its first 10-day course in April 2025. As with all centers in the Goenka tradition, courses at Dhamma Ariya follow the teaching of Sayagyi U Ba Khin, are held under Noble Silence on a fixed daily schedule, and are offered entirely free of charge, funded solely by voluntary donations from students who have completed a course.",
+  "schedule": "Courses are held periodically as the newly built center's calendar expands, following the fixed Goenka-tradition daily timetable; check cr.dhamma.org for the current course list and application deadlines.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students who completed a course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CRC",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course with no set fee.",
+    "source": "https://cr.dhamma.org/en/course-info/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students are asked to give some work service (dhamma seva) during their stay; volunteer service from old students has also been central to building the center itself since 2023.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Vipassana Costa Rica - Dhamma Ariya (home)",
+      "url": "https://cr.dhamma.org/"
+    },
+    {
+      "title": "About - Vipassana Costa Rica",
+      "url": "https://cr.dhamma.org/en/about/"
+    },
+    {
+      "title": "Course Info - Vipassana Costa Rica",
+      "url": "https://cr.dhamma.org/en/course-info/"
+    },
+    {
+      "title": "Dhamma Service - Vipassana Costa Rica",
+      "url": "https://cr.dhamma.org/en/dhamma-service/"
+    },
+    {
+      "title": "Costa Rica (Dhamma Ariya) Fund - Vipassana Community Foundation",
+      "url": "https://vcf.dhamma.org/costa-rica"
+    },
+    {
+      "title": "Inaugural Three-day Course in Costa Rica (VCR) - Vipassana Community Foundation",
+      "url": "https://vcf.dhamma.org/blog/inaugural-three-day-course-in-costa-rica-vcr"
+    },
+    {
+      "title": "Dhamma Ariya course schedule - dhamma.org",
+      "url": "https://www.dhamma.org/en/schedules/schariya"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

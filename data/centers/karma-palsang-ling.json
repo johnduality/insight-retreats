@@ -1,0 +1,65 @@
+{
+  "id": "karma-palsang-ling",
+  "name": "Karma Palsang Ling",
+  "aka": [
+    "KPL",
+    "Centro de Retiro Karma Palsang Ling",
+    "Diamond Way Retreat Center Colombia"
+  ],
+  "website": "https://budismocolombia.co/centros/karma-palsang-ling/",
+  "location": {
+    "address": "Vereda Gachantivá Viejo, ~10 km from Villa de Leyva, Boyacá, Colombia",
+    "city": "Villa de Leyva",
+    "region": "Boyacá, Colombia",
+    "country": "Colombia",
+    "state": "CO",
+    "lat": 5.669,
+    "lng": -73.57
+  },
+  "tradition": "Diamond Way Buddhism (Karma Kagyu lineage of Tibetan Vajrayana), under Lama Ole Nydahl and the 17th Karmapa Thaye Dorje",
+  "technique": "Guru Yoga and meditation on the 16th Karmapa, personal practice, and periods of group meditation, supplemented by short teachings when visiting Diamond Way teachers are present",
+  "influences": [
+    "Lama Ole Nydahl",
+    "Hannah Nydahl",
+    "17th Karmapa Thaye Dorje"
+  ],
+  "teacherAccess": "No resident teacher; retreatants practice independently or alongside the local sangha, with periodic teachings and guided meditation when traveling Diamond Way teachers visit for scheduled courses and empowerments.",
+  "retreatOptions": "Self-organized short retreats of a few days up to about a week, combining meditation with light work or simply meditating independently; periodic teacher-led courses and empowerments a few times a year.",
+  "about": "Karma Palsang Ling (KPL), meaning 'the place for all good and radiant' in Tibetan, is Colombia's dedicated Diamond Way Buddhist retreat center, set in the Gachantivá Viejo countryside about 10 km from Villa de Leyva, Boyacá. Founded by the Colombian Karma Kagyu sangha under the guidance of Lama Ole Nydahl and the 17th Karmapa Thaye Dorje, the center belongs to an international network of more than 700 lay Diamond Way centers worldwide. It hosts periodic teachings and empowerments led by traveling Buddhist teachers, and is otherwise open for short self-organized retreats where practitioners combine meditation with light communal work or simply meditate independently. Lodging is simple — a shared house or tent camping — and self-catered, with guests bringing their own groceries or coordinating meals with others on retreat. The center is entirely volunteer-run and sustained through sangha donations and modest retreat lodging fees.",
+  "schedule": "No fixed daily program for self-organized retreats; scheduled teaching events and empowerments follow an annual calendar published by Budismo Camino del Diamante Colombia.",
+  "cost": "Modest per-night donation-style lodging fee, which rises during hosted teaching courses/events.",
+  "pricePerDay": {
+    "min": 5,
+    "max": 10,
+    "unit": "night",
+    "currency": "USD",
+    "notes": "Short-retreat lodging: tent COP 15,000/night (~US$5), house/room COP 30,000/night (~US$10); rates are higher during hosted teaching events.",
+    "source": "https://budismocolombia.co/centros/karma-palsang-ling/"
+  },
+  "foodServed": "no",
+  "foodType": "unknown",
+  "foodNotes": "No meals are provided; retreatants self-cater, bringing their own groceries or coordinating meal-sharing with others on retreat.",
+  "workRequired": "partial",
+  "workNotes": "Retreatants may combine meditation with light volunteer work around the center if desired; not mandatory.",
+  "tags": [
+    "tibetan-vajrayana",
+    "camping",
+    "self-guided",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Karma Palsang Ling - Diamond Way Retreat Center",
+      "url": "https://budismocolombia.co/centros/karma-palsang-ling/"
+    },
+    {
+      "title": "Budismo Camino del Diamante Colombia - home",
+      "url": "https://budismocolombia.co/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

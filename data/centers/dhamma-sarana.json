@@ -1,0 +1,67 @@
+{
+  "id": "dhamma-sarana",
+  "name": "Dhamma Saraṇa",
+  "aka": [
+    "Vipassana Meditation Centre Dhamma Sarana",
+    "Associação Vipassana de São Paulo",
+    "Centro de Meditação Vipassana Dhamma Sarana"
+  ],
+  "website": "https://sarana.dhamma.org/",
+  "location": {
+    "address": "Rua Nhambu, s/n, Fazenda Santa Helena, Rancho Tucsons, Santana de Parnaíba, São Paulo, 06511-050, Brazil",
+    "city": "Santana de Parnaíba",
+    "region": "Greater São Paulo, São Paulo, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -23.4493,
+    "lng": -47.0115
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded (audio/video) evening discourses in Portuguese and English and are available for brief clarifying questions.",
+  "retreatOptions": "10-day courses (the standard offering, held roughly monthly year-round in Portuguese and English); a children's Anapana course; 1-3 day and 2-day short courses for old students; dedicated work-service periods; and, for qualified returning students, longer Satipatthana Sutta and 20-day courses.",
+  "about": "Dhamma Saraṇa is the Vipassana Meditation center serving São Paulo, set on a 196-hectare property in Santana de Parnaíba about 45 kilometers from downtown São Paulo, in the foothills of the Serra do Voturuna. Run by the Associação Vipassana de São Paulo, the land is mostly protected native forest, with only about five hectares developed for the meditation hall, dormitories, and dining facilities that give the center its secluded, forest-refuge feel. Following the tradition of Sayagyi U Ba Khin as taught by S.N. Goenka, the center holds 10-day introductory courses on a near-monthly published calendar, alongside short old-student courses, dedicated work-service periods, and periodic longer Satipatthana Sutta and 20-day courses for serious returning students. As with every center in the Goenka/dhamma.org network, courses are conducted under Noble Silence on a fixed daily schedule and are offered entirely free of charge, funded solely by the voluntary donations of past students.",
+  "schedule": "10-day courses held roughly monthly year-round on a published calendar, interspersed with 1-3 day and 2-day old-student courses, dedicated work-service periods, and periodic longer Satipatthana Sutta and 20-day courses.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging funded by donations from past students who completed a course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course with no set fee.",
+    "source": "https://sarana.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students may apply for dedicated work-service (dhamma seva) periods; volunteer servers run the kitchen and center during every course.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "long-retreats",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Saraṇa - The Centre / Course Schedule (dhamma.org)",
+      "url": "https://www.dhamma.org/en/schedules/schsarana"
+    },
+    {
+      "title": "Dhamma Saraṇa official site",
+      "url": "https://sarana.dhamma.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

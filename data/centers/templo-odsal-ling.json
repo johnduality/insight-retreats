@@ -1,0 +1,60 @@
+{
+  "id": "templo-odsal-ling",
+  "name": "Templo Odsal Ling",
+  "aka": [
+    "Chagdud Gonpa Odsal Ling",
+    "Odsal Ling",
+    "O Refúgio"
+  ],
+  "website": "https://www.odsalling.org/",
+  "location": {
+    "address": "Rua dos Agrimensores, 1461, Chácara Ondas Verdes, Cotia, São Paulo, 06715-580, Brazil",
+    "city": "Cotia",
+    "region": "Greater São Paulo, São Paulo, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -23.6198,
+    "lng": -46.9264
+  },
+  "tradition": "Tibetan Vajrayana Buddhism, Nyingma lineage (Chagdud Gonpa)",
+  "technique": "Ngöndro (preliminary practices), deity sadhana practice (e.g. Chenrezig, Red Tara, Medicine Buddha), and guided retreat practice within the Nyingma Vajrayana tradition",
+  "influences": [
+    "H.E. Chagdud Tulku Rinpoche (founder, Chagdud Gonpa)",
+    "Lama Tsering (resident lama and director)"
+  ],
+  "teacherAccess": "Resident Lama Tsering (director) and visiting Chagdud Gonpa lamas lead teachings, empowerments, and guided practice during scheduled retreats; a separate Residents Program offers closer day-to-day contact with the resident teaching community.",
+  "retreatOptions": "Weekend and multi-day Vajrayana retreats (Chenrezig, Red Tara, Medicine Buddha, Nyungne, and Ngöndro retreats, typically 3-9 days/nights); and a longer-term Residents Program (one week to one year) combining personal practice and study with temple work, offered year-round except February-March.",
+  "about": "Odsal Ling, affectionately known to practitioners as 'the Refuge,' is the São Paulo temple of Chagdud Gonpa, the Nyingma Tibetan Buddhist organization founded in Brazil by H.E. Chagdud Tulku Rinpoche. Built in traditional Tibetan architectural style in Cotia, about 30 kilometers from central São Paulo, the temple complex includes a shrine hall and stupa along with separate lodging for resident staff and for retreatants. It is directed by Lama Tsering, who completed a three-year retreat and was authorized by Rinpoche as a holder of the Red Tara lineage, and the center hosts a recurring calendar of multi-day Vajrayana retreats — Chenrezig, Red Tara, Medicine Buddha, Nyungne fasting-and-purification practice, and Ngöndro preliminary-practice retreats among them — as well as a longer-term Residents Program that pairs morning practice and study with afternoon work supporting the temple's daily operations. Overnight accommodation is reserved for those attending a scheduled retreat or the residency program, and meals are served at fixed communal times as part of the center's routine.",
+  "schedule": "A recurring calendar of weekend and multi-day (roughly 3-9 night) Vajrayana retreats through the year, plus a Residents Program (1 week to 1 year) offered year-round except February and March.",
+  "cost": "Set per-retreat registration fee covering teachings, lodging, and meals; exact pricing varies by retreat and is published on each event's registration page.",
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Meals served at fixed communal times as part of the daily schedule; participants typically share dish-washing duties on a rotating basis.",
+  "workRequired": "partial",
+  "workNotes": "Residents Program participants do afternoon work supporting temple operations in exchange for lodging; short teaching retreats are primarily practice-focused with no work expectation.",
+  "tags": [
+    "tibetan-vajrayana",
+    "meals-included",
+    "fixed-fee",
+    "long-retreats"
+  ],
+  "sources": [
+    {
+      "title": "Odsal Ling Temple - About Us",
+      "url": "https://www.odsalling.org/en/about-us/"
+    },
+    {
+      "title": "Programa de Residentes – Odsal Ling",
+      "url": "https://www.odsalling.org/eventos/programa-residentes/"
+    },
+    {
+      "title": "Retiro de Ngondro, com Lama Tsering",
+      "url": "https://odsalling.brdominio.com/eventos/retiro-ngondro-janeiro-2025-oficial-2/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

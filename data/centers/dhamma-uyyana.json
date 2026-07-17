@@ -1,0 +1,73 @@
+{
+  "id": "dhamma-uyyana",
+  "name": "Dhamma Uyyāna",
+  "aka": [
+    "Vipassana Planalto Central",
+    "Vipassana Meditation Centre Dhamma Uyyana"
+  ],
+  "website": "https://uyyana.dhamma.org/",
+  "location": {
+    "address": "Serra dos Pireneus, zona rural de Pirenópolis, GO, Brazil",
+    "city": "Pirenópolis",
+    "region": "Goiás, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -15.8,
+    "lng": -48.92
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded (audio/video) evening discourses and are available for brief questions.",
+  "retreatOptions": "10-day courses (the standard offering, per published calendar); shorter courses for qualified old students; and simpler 3-day courses held in a camping format on-site.",
+  "about": "Dhamma Uyyāna is the Vipassana meditation center of the Brazilian Central Plateau, set on a wooded 24-hectare property in the Serra dos Pireneus mountains outside the historic town of Pirenópolis, Goiás, roughly equidistant (about 130 km) from Brasília and Goiânia. Long-time Vipassana students from the region began organizing courses locally in 2003 and formed the Vipassana Planalto Central Association in 2010; the land was acquired in 2012, the first building (Casa Mudita) went up in 2015, and the center's first 10-day course was finally held in December 2020, with S.N. Goenka personally choosing the name Dhamma Uyyāna (\"Garden of Dhamma\"). Like every dhamma.org center worldwide, it teaches only the Vipassana technique as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin: silent, residential 10-day courses under Noble Silence with recorded evening discourses, funded entirely by dana from past students. Alongside the flagship 10-day course, the center also offers shorter old-student sits and 3-day courses in a simpler camping format on the property.",
+  "schedule": "Multiple 10-day courses held per year on a published calendar, plus periodic old-student and camping-format courses.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students who completed a course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course with no set fee.",
+    "source": "https://uyyana.dhamma.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students are asked to give some work service (dhamma seva) during their stay; new students are generally not required to work.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "The Centre – Dhamma Uyyana",
+      "url": "https://uyyana.dhamma.org/pt-BR/the-centre/"
+    },
+    {
+      "title": "Directions – Dhamma Uyyana",
+      "url": "https://uyyana.dhamma.org/pt-BR/directions-to-the-centre/"
+    },
+    {
+      "title": "Português do Brasil – Dhamma Uyyana (home)",
+      "url": "https://uyyana.dhamma.org/pt-BR/"
+    },
+    {
+      "title": "Dhamma Uyyãna - Planalto Central (schedule)",
+      "url": "https://www.dhamma.org/pt-BR/schedules/schuyyana"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

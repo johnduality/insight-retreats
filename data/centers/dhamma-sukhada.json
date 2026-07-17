@@ -1,0 +1,78 @@
+{
+  "id": "dhamma-sukhada",
+  "name": "Dhamma Sukhadā",
+  "aka": [
+    "Centro Dhamma Sukhadā",
+    "Vipassana Meditation Centre Dhamma Sukhada",
+    "Vipassana Argentina - Dhamma Sukhadā"
+  ],
+  "website": "https://ar.dhamma.org/sukhada-centre/",
+  "location": {
+    "address": "Camino vecinal 10 de Noviembre, RP215, km 1.7, Coronel Brandsen, Buenos Aires Province, Argentina",
+    "city": "Brandsen",
+    "region": "Buenos Aires Province, Argentina",
+    "country": "Argentina",
+    "state": "AR",
+    "lat": -35.1642,
+    "lng": -58.3047
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential 10-day courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded (audio/video) evening discourses and are available for brief questions during breaks.",
+  "retreatOptions": "10-day courses (the standard, regularly repeated offering); short 1-3 day and Satipatthana courses for old students; and, for qualified returning students, longer 20-, 30-, and 45-day courses.",
+  "about": "Dhamma Sukhadā, whose name means \"the one that grants the happiness of the Dhamma,\" was the first Vipassana meditation center in Argentina, inaugurated on 20 February 2013 with a 10-day course for old students. It sits on about 11 hectares of flat, open pampa on the outskirts of Brandsen, roughly 75 km southeast of the city of Buenos Aires, with double-walled, well-insulated buildings and heating that allow courses to run year-round despite cold winters. As with all centers in the Goenka/dhamma.org network, the center offers regular 10-day residential courses under Noble Silence on a fixed daily schedule, taught through recorded discourses and instructions from S.N. Goenka in the tradition of Sayagyi U Ba Khin. All courses are offered entirely free of charge, funded solely by voluntary donations from students who have completed a prior course and wish to give others the same opportunity.",
+  "schedule": "10-day courses held regularly throughout the year on a fixed published calendar, plus periodic short old-student courses, Satipatthana courses, and longer 20-, 30-, and 45-day courses for qualified returning students.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, with all teaching, food, and lodging given freely and funded by donations from past students who completed a course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "ARS",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) 10-day course with no set fee, funded entirely by voluntary dana from past students.",
+    "source": "https://ar.dhamma.org/curso-de-10-dias/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge; vegetarian meals included for the full duration of the course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (those who have completed at least one prior 10-day course) are asked to give some work service (dhamma seva) during their stay; new students are generally not required to work.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "long-retreats",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Centro Dhamma Sukhadā - home page (ar.dhamma.org)",
+      "url": "https://ar.dhamma.org/sukhada-centre/"
+    },
+    {
+      "title": "Acerca de Dhamma Sukhadā - history, size, opening date",
+      "url": "https://ar.dhamma.org/acerca-dhamma-sukhada/"
+    },
+    {
+      "title": "Cómo llegar a Dhamma Sukhadā - address and directions",
+      "url": "https://ar.dhamma.org/sukhada-centre/como-llegar-dhamma-sukhada/"
+    },
+    {
+      "title": "Curso de 10 días - Vipassana Argentina",
+      "url": "https://ar.dhamma.org/curso-de-10-dias/"
+    },
+    {
+      "title": "Cursos Disponibles Argentina - Vipassana Argentina",
+      "url": "https://ar.dhamma.org/cursos-disponibles-argentina/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

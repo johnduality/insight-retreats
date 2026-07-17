@@ -1,0 +1,64 @@
+{
+  "id": "jardim-do-dharma-cotia",
+  "name": "Jardim do Dharma",
+  "aka": [
+    "Kagyu Dak-Shang Chöling",
+    "Centro Budista Jardim do Dharma",
+    "Kagyu Dak Shang Choling"
+  ],
+  "website": "https://jardimdharma.org.br/",
+  "location": {
+    "address": "Rua das Gabirobas, 317, Jardim das Cerejeiras, Cotia, São Paulo, Brazil",
+    "city": "Cotia",
+    "region": "Greater São Paulo, São Paulo, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -23.595,
+    "lng": -46.88
+  },
+  "tradition": "Tibetan Vajrayana Buddhism, Karma Kagyu and Shangpa Kagyu lineages",
+  "technique": "Guru yoga, deity sadhana practice (e.g. Chenrezig), and Nyungne fasting-and-purification practice, taught through guided group retreats",
+  "influences": [
+    "Ven. Lama Trinle Drubpa (co-founder)",
+    "Naljorpa Zopa Norbu (co-founder)",
+    "Kyabje Bokar Tulku Rinpoche (spiritual guide)"
+  ],
+  "teacherAccess": "Resident and visiting Kagyu lamas — the center was founded by Lama Trinle Drubpa and Naljorpa Zopa Norbu under the guidance of the late Bokar Tulku Rinpoche — lead teachings and practice sessions during scheduled retreats.",
+  "retreatOptions": "Weekend and multi-day retreats (e.g. Chenrezig practice and Nyungne fasting-and-purification retreats, typically around 3 days/nights) at a rural retreat property with dormitory lodging for up to about 30 overnight guests.",
+  "about": "Jardim do Dharma is the retreat center of Kagyu Dak-Shang Chöling, a Karma and Shangpa Kagyu Tibetan Buddhist community founded in 1993 by Ven. Lama Trinle Drubpa and Naljorpa Zopa Norbu under the spiritual guidance of the late Kyabje Bokar Tulku Rinpoche. Set on a rural property in Cotia in the greater São Paulo region, the grounds include a Tibetan Buddhist temple, stupas and reliquaries, a communal dining hall, and dormitory-style lodging with capacity for around 30 overnight guests. The center holds periodic multi-day retreats such as Chenrezig (Bodhisattva of Compassion) practice and Nyungne fasting-and-purification retreats, typically running about three days and nights, alongside shorter teaching and practice sessions. Meals served on-site are home-style and prepared to be vegetarian where possible, and smoking is not permitted anywhere on the grounds.",
+  "schedule": "Periodic weekend and roughly 3-night multi-day retreats (Chenrezig, Nyungne, and other Kagyu practice retreats) scheduled through the year.",
+  "cost": "Set per-retreat registration fee covering teachings, lodging, and meals; exact pricing is published per event rather than as a standard nightly rate.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Home-style communal meals prepared to be vegetarian where possible; smoking is not permitted on the grounds.",
+  "workRequired": "unknown",
+  "tags": [
+    "tibetan-vajrayana",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Jardim Dharma – Centro Budista Jardim do Dharma (official site)",
+      "url": "https://jardimdharma.org.br/"
+    },
+    {
+      "title": "Lama Fundador – Jardim Dharma",
+      "url": "https://jardimdharma.org.br/lama-fundador/"
+    },
+    {
+      "title": "Retiro de NYUNGNE – Jardim Dharma",
+      "url": "https://jardimdharma.org.br/evento/retiro-de-nyungne-no-jardim-do-dharma/"
+    },
+    {
+      "title": "Jardim do Dharma - Espaço para Retiro (retiro.com.br listing)",
+      "url": "https://retiro.com.br/locais/jardim-do-dharma/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

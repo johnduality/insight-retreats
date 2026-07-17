@@ -1,0 +1,85 @@
+{
+  "id": "karme-samten-ling",
+  "name": "Karme Samten Ling",
+  "aka": [
+    "KSL",
+    "Karme Thegsum Tcholing Brasil",
+    "KTT Brasil"
+  ],
+  "website": "https://www.kttbrasil.org/ksl",
+  "location": {
+    "city": "Bom Jardim",
+    "region": "Barra Alegre district (Macabu de Boa Vista), Rio de Janeiro interior, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -22.15,
+    "lng": -42.23
+  },
+  "tradition": "Karma Kagyu school of Tibetan Buddhism (lineage of the 17th Karmapa)",
+  "technique": "Ngondro preliminary practices, Mahamudra, guru yoga, yidam/deity practice (Chakrasamvara, Vajrayogini, Gyalwa Gyamtso), and the Six Yogas of Naropa, culminating in the traditional Losum Dasum (3-year-3-month) retreat curriculum established by Jamgon Kongtrul Lodro Thaye",
+  "influences": [
+    "17th Karmapa",
+    "Khenpo Karthar Rinpoche",
+    "12th Chamgon Kenting Tai Situ Rinpoche",
+    "Jamgon Kongtrul Lodro Thaye",
+    "Lama Karma Tartchin"
+  ],
+  "teacherAccess": "Founding teacher Lama Karma Tartchin -- recognized in 2004 by Khenpo Karthar Rinpoche as the first Brazilian lama authorized to give Karma Kagyu initiations -- leads programs and periodically resides on site.",
+  "retreatOptions": "Short group retreats (a few days to about a week, e.g. Chod practice retreats) and individual retreats of varying length, building toward the traditional Losum Dasum (3-year-3-month) closed retreat for committed practitioners.",
+  "about": "Karme Samten Ling (KSL) is the rural retreat property of Karme Thegsum Tcholing (KTT) Brasil, a Karma Kagyu Tibetan Buddhist organization whose urban dharma center is in Humaita, Rio de Janeiro city. KSL sits on forested land in Macabu de Boa Vista, in the Barra Alegre district of Bom Jardim, in the mountainous interior of Rio de Janeiro state, surrounded by Atlantic Forest (Mata Atlantica) about three and a half hours from the city. It was founded by Lama Karma Tartchin, who in 2004 was recognized by his teacher Khenpo Karthar Rinpoche as the first Brazilian lama authorized to give Karma Kagyu initiations, with the goal of building a dedicated center for short, medium, and long-duration retreat practice, up to the traditional Losum Dasum (3-year-3-month) closed retreat. As of 2022 the site had a completed practice hall with kitchen and bathroom and two of a planned eight dormitory suites, eventually meant to house up to 60 retreatants. Its long-retreat program follows the curriculum used at the sister Karme Ling Retreat Center in Delhi, New York, founded under Khenpo Karthar Rinpoche, covering ngondro, mahamudra, guru yoga, Chakrasamvara, Vajrayogini, and the Six Yogas of Naropa. Construction and operations are supported largely through KTT's monthly 'Dharma Maintainer' donation program, and specific pricing for short-term retreatants is not published online.",
+  "schedule": "Retreat dates are published on KTT Brasil's agenda page; short retreats typically run a few days to about a week, structured around multiple daily group meditation sessions.",
+  "cost": "Donation-based; KSL construction and upkeep are funded largely through KTT's monthly \"Dharma Maintainer\" (socio) program, which also gives contributors a 20% discount on KTT events; specific lodging fees for short retreats are not published online and require direct inquiry.",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "The practice hall completed by 2022 includes an on-site kitchen and bathroom, but specific meal inclusion/cost policies for retreatants are not published online.",
+  "workRequired": "unknown",
+  "workNotes": "The center has been built substantially through the volunteer effort of Lama Karma Tartchin and a group of committed students; whether short-term retreat guests are expected to contribute work/seva is not published online.",
+  "tags": [
+    "tibetan-vajrayana",
+    "long-retreats",
+    "dana-donation"
+  ],
+  "sources": [
+    {
+      "title": "Retiro KSL",
+      "url": "https://www.kttbrasil.org/ksl"
+    },
+    {
+      "title": "Informacoes Importantes para Hospedagem no KSL",
+      "url": "https://www.kttbrasil.org/ksl-informacoes-importantes"
+    },
+    {
+      "title": "Karme Thegsum Tcholing - KTT",
+      "url": "https://www.kttbrasil.org/ktt"
+    },
+    {
+      "title": "Lama Karma Tartchin - Associacao de Budismo Tibetano KTT",
+      "url": "https://www.kttbrasil.org/lamatartchin"
+    },
+    {
+      "title": "Three Years Retreat",
+      "url": "https://www.kttbrasil.org/three-years-retreat"
+    },
+    {
+      "title": "Seja Socio - Centro de Budismo Tibetano KTT",
+      "url": "https://www.kttbrasil.org/doacao-mensal"
+    },
+    {
+      "title": "Khenpo Karthar - Centro de Budismo Tibetano KTT",
+      "url": "https://www.kttbrasil.org/kenphokartharrinpotche"
+    },
+    {
+      "title": "Karme Samten Ling - Centro de Retiro (Facebook)",
+      "url": "https://www.facebook.com/karmesamtenling/"
+    },
+    {
+      "title": "Karme Ling Retreat Center (USA)",
+      "url": "https://karmeling.org/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

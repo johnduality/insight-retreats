@@ -1,0 +1,73 @@
+{
+  "id": "budismo-colombia-tabio",
+  "name": "Centro de Retiros Karma Kagyu de Tabio",
+  "aka": [
+    "Budismo Colombia",
+    "Estupa de la Iluminación en Tabio",
+    "Karma Kagyu Retreat Center Tabio"
+  ],
+  "website": "https://budismocolombia.org/centro-de-retiros/",
+  "location": {
+    "address": "Vereda Montecarmelo, Tabio, Cundinamarca, Colombia",
+    "city": "Tabio",
+    "region": "Cundinamarca, Colombia",
+    "country": "Colombia",
+    "state": "CO",
+    "lat": 4.9,
+    "lng": -74.085
+  },
+  "tradition": "Karma Kagyu lineage of Tibetan Vajrayana Buddhism",
+  "technique": "Shamatha (calm-abiding) meditation, Mahayana practices (tonglen, refuge, bodhicitta), and Vajrayana preliminary practices (ngöndro, deity meditation) taught progressively",
+  "influences": [
+    "Carlos Velásquez",
+    "Sheyen Lama Jampa",
+    "Khenpo Tsering Samdup",
+    "Lodrö Rinpoché",
+    "17th Karmapa Thaye Dorje"
+  ],
+  "teacherAccess": "Monthly retreats are led in person by lay teacher Carlos Velásquez (30+ years teaching Buddhism and meditation in Colombia); visiting Tibetan lamas such as Lama Jampa and Khenpo Tsering Samdup give teachings roughly twice a year.",
+  "retreatOptions": "Monthly weekend meditation retreats open to all levels (no prior experience required); twice-yearly multi-day retreats with visiting Tibetan teachers.",
+  "about": "The Karma Kagyu retreat center in Tabio, Cundinamarca, about 45 km from Bogotá, is the dedicated retreat land of Budismo Colombia, a Tibetan Buddhist community founded by lay teacher Carlos Velásquez, who has taught Buddhism and meditation in Colombia for more than 30 years, including as a professor of Tibetan Buddhism at the National University of Colombia. The property is home to the Estupa de la Iluminación de Tabio, a traditional stupa that took five months to build (and 20 years to conceive), housing relics of the Buddha Kashyapa and Shakyamuni alongside thousands of hand-made Buddha statuettes and mantras. Every month the center hosts a weekend meditation retreat open to all levels, progressing from Shamatha (calm-abiding) meditation through Mahayana practices such as tonglen to Vajrayana preliminary practices (ngöndro); roughly twice a year, visiting Tibetan teachers such as Lama Jampa and Khenpo Tsering Samdup lead additional retreats. No prior experience is required, and advance registration with a donation covers lodging, meals, and teachings for the retreat.",
+  "schedule": "Monthly weekend retreats on the center's land in Tabio combine teaching sessions with guided meditation; twice-yearly multi-day retreats are scheduled around visiting Tibetan teachers.",
+  "cost": "Donation-based; advance registration and a suggested contribution cover lodging, meals, and teachings for the retreat.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "COP",
+    "notes": "No published fixed rate; advance donation covers lodging, meals, and teachings for the weekend retreat.",
+    "source": "https://budismocolombia.org/centro-de-retiros/"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Meals are included in the retreat donation; specific dietary style not published.",
+  "workRequired": "unknown",
+  "tags": [
+    "tibetan-vajrayana",
+    "dana-donation",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Centro de retiros - Budismo Colombia",
+      "url": "https://budismocolombia.org/centro-de-retiros/"
+    },
+    {
+      "title": "La estupa de la iluminación en Tabio",
+      "url": "https://budismocolombia.org/la-estupa-de-la-iluminacion-en-tabio/"
+    },
+    {
+      "title": "¿Cómo llegar al centro de retiros?",
+      "url": "https://budismocolombia.org/como-llegar-al-centro-de-retiros/"
+    },
+    {
+      "title": "Maestros - Budismo Colombia",
+      "url": "https://budismocolombia.org/maestros/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

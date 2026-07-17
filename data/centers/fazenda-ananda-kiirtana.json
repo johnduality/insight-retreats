@@ -1,0 +1,65 @@
+{
+  "id": "fazenda-ananda-kiirtana",
+  "name": "Fazenda Ananda Kiirtana",
+  "aka": [
+    "Ananda Kiirtana Master Unit",
+    "Unidade Mestra Ananda Kiirtana",
+    "Fazenda Boa Esperança"
+  ],
+  "website": "https://anandakiirtana.com.br/",
+  "location": {
+    "address": "Estrada de Belmiro Braga, km 9, Belmiro Braga, MG, Brazil",
+    "city": "Belmiro Braga",
+    "region": "Zona da Mata, Minas Gerais, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -21.9498,
+    "lng": -43.4157
+  },
+  "tradition": "Ananda Marga tantric meditation (Rajadhiraj Yoga) in the lineage of Shrii Shrii Anandamurti",
+  "technique": "Guided tantric meditation practiced up to five times a day, mantra and kiirtan chanting, alongside twice-daily asana and pranayama classes",
+  "influences": [
+    "Shrii Shrii Anandamurti (Ananda Marga founder)",
+    "Ananda Marga acharyas"
+  ],
+  "teacherAccess": "Resident Ananda Marga acharyas (monastic teachers) lead daily meditation sessions, give morning and afternoon dharma talks, and instruct retreatants individually in the meditation lessons.",
+  "retreatOptions": "Multi-day group retreats of about 4-5 nights, including the annual Winter Sectorial Retreat and New Year retreat that gather Ananda Marga practitioners from across South America.",
+  "about": "Fazenda Ananda Kiirtana is a 120-hectare Ananda Marga spiritual community and retreat farm on the banks of the Rio do Peixe near Belmiro Braga, in the Zona da Mata region of Minas Gerais not far from Juiz de Fora. Acquired in 1989 by a group of Ananda Marga practitioners under its former name, Fazenda Boa Esperança, the property has orchards, a vegetable garden, and a waterfall, and hosts the region's largest annual gatherings of the philosophy, including the Winter Sectorial Retreat and New Year's retreat that draw practitioners from across South America. Days are built around collective tantric meditation up to five times daily, twice-daily asana and pranayama classes, mantra/kiirtan chanting, and morning and afternoon dharma talks, with periods of silence built into the schedule for introspection. Lodging is simple — shared single-sex dormitories with bunk beds and shared bathrooms, or camping — and all meals are lacto-vegetarian with vegan options.",
+  "schedule": "Multi-day retreats (around 4-5 nights) built around five daily group meditation sits, two daily yoga classes, mantra/kiirtan, and morning/afternoon lectures, with scheduled periods of silence.",
+  "cost": "Fixed retreat registration fee covering shared-dorm or camping lodging and all lacto-vegetarian meals; exact pricing is published per retreat via the registration form.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Lacto-vegetarian meals with vegan options, included in the retreat fee.",
+  "workRequired": "unknown",
+  "workNotes": "No work/service expectation is published for retreat guests; the farm is otherwise a resident spiritual community.",
+  "tags": [
+    "yoga-hindu",
+    "silent",
+    "meals-included",
+    "diet-vegetarian",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Fazenda Ananda Kiirtana - home",
+      "url": "https://anandakiirtana.com.br/"
+    },
+    {
+      "title": "Quem Somos - Ananda Kiirtana",
+      "url": "https://anandakiirtana.com.br/quem-somos/"
+    },
+    {
+      "title": "Retiro de Inverno da Ananda Marga em Ananda Kiirtana",
+      "url": "https://www.anandamarga.org.br/agenda/retiro-de-inverno-da-ananda-marga-em-ananda-kiirtana/"
+    },
+    {
+      "title": "Contato - Ananda Kiirtana",
+      "url": "https://anandakiirtana.com.br/contato/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

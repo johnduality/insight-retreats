@@ -1,0 +1,71 @@
+{
+  "id": "kadampa-meditation-center-cordoba-argentina",
+  "name": "Centro de Meditación Kadampa Córdoba",
+  "aka": [
+    "CMK Córdoba",
+    "Meditar en Córdoba",
+    "Centro de Budismo Kadampa Bodhisatva"
+  ],
+  "website": "https://meditarencordoba.org/",
+  "location": {
+    "address": "27 de Abril 929, Depto 7-A, Córdoba, Argentina",
+    "city": "Córdoba",
+    "region": "Córdoba, Argentina",
+    "country": "Argentina",
+    "state": "AR",
+    "lat": -31.4201,
+    "lng": -64.1888
+  },
+  "tradition": "New Kadampa Tradition (NKT-IKBU), Gelug-derived Modern Kadampa Buddhism",
+  "technique": "Lamrim-based analytical and placement meditation, guided meditation, and mantra recitation, following the teachings of Geshe Kelsang Gyatso",
+  "influences": [
+    "Geshe Kelsang Gyatso Rinpoche",
+    "Kelsang Atisha",
+    "New Kadampa Tradition - International Kadampa Buddhist Union (NKT-IKBU)"
+  ],
+  "teacherAccess": "Resident teacher Kelsang Atisha and visiting NKT teachers give teachings and lead guided meditation sessions during residential retreats, with dedicated Q&A time.",
+  "retreatOptions": "Weekly non-residential classes and weekend courses at the Córdoba city center; periodic 3-4 night residential retreats (e.g. purification, Tomar y Dar, and deity-practice retreats) held at a rented retreat house in Villa Allende.",
+  "about": "Centro de Meditación Kadampa Córdoba, part of the international New Kadampa Tradition (NKT-IKBU) founded by Geshe Kelsang Gyatso Rinpoche, was established in September 2014 as the second Kadampa center in Argentina after Buenos Aires. Its city-center location in Córdoba capital, led by resident monk Kelsang Atisha, runs weekly meditation classes and weekend courses on Buddhist philosophy for beginners and continuing students. Several times a year the center also runs residential retreats, typically 3-4 nights, at the Casa de Retiros Catalina de María in nearby Villa Allende, combining Lamrim teachings with up to four guided meditation sessions a day. Retreat packages include full board (breakfast, lunch, and dinner) and shared accommodation, and past themes have included purification and fasting, Tomar y Dar (taking-and-giving) practice, and deity-specific retreats such as Vajrayogini and Guru Sumati Buddha Heruka.",
+  "schedule": "Weekly meditation classes and weekend courses at the city center; multi-night residential retreats (typically 3-4 nights, up to four teaching/meditation sessions per day) held several times a year in Villa Allende.",
+  "cost": "Fixed, tiered registration fee per residential retreat (early-bird through standard pricing), covering teachings, meals, and shared lodging; weekly city classes are priced separately per class.",
+  "pricePerDay": {
+    "min": 110000,
+    "max": 126667,
+    "unit": "night",
+    "currency": "ARS",
+    "notes": "Retiro de Tomar y Dar (Carnaval 2026), 3 nights at Casa de Retiros Catalina de María, Villa Allende: ARS $330,000 (early-bird, until 16 Jan) to $380,000 (from 7 Feb), covering teachings, meals and lodging, divided by 3 nights.",
+    "source": "https://meditarencordoba.org/cursos/retiro-de-tomar-dar-villa-allende"
+  },
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "Full board (breakfast, lunch, and dinner) included in residential retreat packages; specific dietary style not published.",
+  "workRequired": "no",
+  "tags": [
+    "tibetan-vajrayana",
+    "fixed-fee",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Meditar en Córdoba - home",
+      "url": "https://meditarencordoba.org/"
+    },
+    {
+      "title": "CMK Córdoba - ¿Quiénes somos?",
+      "url": "https://meditarencordoba.org/cmk-cordoba"
+    },
+    {
+      "title": "Retiro de tomar y dar (Carnaval 2026)",
+      "url": "https://meditarencordoba.org/cursos/retiro-de-tomar-dar-villa-allende"
+    },
+    {
+      "title": "Retiro de purificación de 4 días",
+      "url": "https://meditarencordoba.org/cursos/retiro-de-purificacion-villa-allende"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

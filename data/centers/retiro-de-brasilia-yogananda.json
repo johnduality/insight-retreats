@@ -1,0 +1,64 @@
+{
+  "id": "retiro-de-brasilia-yogananda",
+  "name": "Retiro de Brasília (Fazenda Retiro Lótus do Cerrado)",
+  "aka": [
+    "Fazenda Retiro Lótus do Cerrado",
+    "Fazenda Retiro Paramahansa Yogananda",
+    "Retiro Yogananda Brasília",
+    "Grupo de Brasília Retiro"
+  ],
+  "website": "https://www.retirodebrasilia.com.br/",
+  "location": {
+    "address": "Rodovia GO-118, km 31, Planaltina de Goiás, GO, Brazil",
+    "city": "Planaltina de Goiás",
+    "region": "Goiás, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -15.453,
+    "lng": -47.6081
+  },
+  "tradition": "Kriya Yoga and meditation in the Paramahansa Yogananda / Self-Realization Fellowship lineage",
+  "technique": "Kriya Yoga meditation, energization exercises, silent sitting meditation, devotional chanting (kirtan), and readings from Yogananda's teachings",
+  "influences": [
+    "Paramahansa Yogananda",
+    "Self-Realization Fellowship (SRF)"
+  ],
+  "teacherAccess": "Sessions led by trained lay meditation teachers from the local Yogananda meditation group (Grupo de Brasília); no resident monastics.",
+  "retreatOptions": "Residential silent meditation retreats of 3-6 nights held several times a year on a published calendar (e.g., a recurring Carnaval retreat), with lodging in shared suites or private chalets.",
+  "about": "Retiro de Brasília, also known as Fazenda Retiro Lótus do Cerrado, is an independent meditation retreat in the Paramahansa Yogananda/Self-Realization Fellowship tradition, run by the local Yogananda meditation group (Grupo de Brasília) and listed on SRF's own site as an informal retreat location. It opened in February 2010 on a rural property off the GO-118 highway in Planaltina de Goiás, about 95 km from central Brasília, with accommodation in suites and private chalets. Several times a year — including a recurring Carnaval retreat and other holiday-timed programs — it hosts residential silent retreats of three to six nights built around Kriya Yoga and Yogananda-style meditation, group silence, devotional chanting, and readings from Yogananda's writings; no prior SRF/Yogananda affiliation is required to attend. Meals are ovo-lacto-vegetarian and included in the retreat fee, and sessions are led by trained lay meditation teachers rather than resident monastics.",
+  "schedule": "Several residential retreats scheduled per year on a published calendar (the 2026 calendar includes a Carnaval retreat, 13-17 February), typically 3-6 nights each.",
+  "cost": "Fixed per-person package fee covering full board (suite or chalet) and ovo-lacto-vegetarian meals; current rates are not published on the public site.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Ovo-lacto-vegetarian meals included in the retreat package.",
+  "workRequired": "unknown",
+  "tags": [
+    "yoga-hindu",
+    "silent",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Retiro de Brasília | Fazenda Lótus do Cerrado | Planaltina GO",
+      "url": "https://www.retirodebrasilia.com.br/en"
+    },
+    {
+      "title": "Retiro de meditação | Retiro de Meditação de Brasília",
+      "url": "https://www.retirodebrasilia.com.br/in%C3%ADcio"
+    },
+    {
+      "title": "Self-Realization Fellowship | Brasilia Informal Retreat",
+      "url": "https://yogananda.org/locations/brasilia-informal-retreat"
+    },
+    {
+      "title": "Retiro | Grupo de Brasília",
+      "url": "https://www.brasiliasrf.org/retiro"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

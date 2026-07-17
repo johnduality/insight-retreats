@@ -811,38 +811,227 @@ research passes, and update this list with lettered sub-items (12a, 12b, ...) at
 point rather than renumbering the whole list.
 
 CENTRAL AMERICA
-1.  Guatemala
-2.  Belize
-3.  Honduras
-4.  El Salvador
-5.  Nicaragua
-6.  Costa Rica
-7.  Panama
+1.  Guatemala   [DONE 2026-07-16: 0 centers. Thoroughly researched (Vipassana/dhamma.org,
+    Diamond Way, Casa Tibet Guatemala, and the Lake Atitlan yoga/wellness scene) — no
+    currently-operating, meditation-focused, residential (2+ night) center found. The
+    only real dhamma.org presence is a "non-center" (no fixed property, courses under
+    construction/rented); Casa Tibet Guatemala runs a genuine annual meditation-retreat
+    sequence but from an urban house with no confirmed overnight lodging; everything
+    else at Lake Atitlan is yoga-asana/New Age wellness (Las Piramides del Ka, Yoga
+    Forest, Eagle's Nest Atitlan, Villa Sumaya, The Hermitage) or a defunct/relocated
+    operation (Mahadevi Ashram). Zero entries added; a legitimate empty result, not a
+    search gap.]
+2.  Belize   [DONE 2026-07-16: 0 centers. No Buddhist/meditation-lineage retreat centers
+    of any kind found in-country (BuddhaNet and dhamma.org both blank for Belize). The
+    retreat sector here is entirely yoga/wellness/eco-lodge tourism (Ak'bol, Sattva
+    Land, Copal Tree Lodge, Jaguar Creek, Peace Through Yoga, Hawah Kasat, Deep Within)
+    with no resident meditation tradition.]
+3.  Honduras   [DONE 2026-07-16: 0 centers. Vipassana Honduras is a dhamma.org "non-
+    center" with no fixed property (same rejection basis as Dhamma Scotland in the UK
+    pass); every other lead (Roatan/La Ceiba resorts — Paya Bay, Anthony's Key, Kimpton
+    Grand Roatan, Hacienda San Lucas, Casa Verde) is a generic wellness/yoga resort with
+    meditation only as an incidental amenity, not a lineage center.]
+4.  El Salvador   [DONE 2026-07-16: 0 centers. Vipassana El Salvador is again a dhamma.org
+    "non-center" under construction with no fixed address. Zen Kanzeon (San Salvador)
+    is explicitly Christian-Zen syncretic, led by a Catholic religious sister — excluded
+    under the Christian-contemplative rule. Centro Himalaya, Casa Tibet El Salvador,
+    Camino del Diamante, and Soka Gakkai El Salvador are all urban study/chanting groups
+    with no residential retreat land (independently corroborated by a Buddhistdoor en
+    Espanol survey of Central American Buddhism). Remaining leads were yoga/surf resorts.]
+5.  Nicaragua   [DONE 2026-07-16: 0 centers. Vipassana Nicaragua has no permanent Dhamma
+    center (rented/borrowed venues only, per dhamma.org and the Vipassana Research
+    Institute's own writeup). Centro Budista Kadampa Bodhichita (Managua) runs day-only
+    "retreats" from a strip-mall unit — no lodging. Everything else found (Amaru,
+    InanItah, Dharma Shala, Eden on the Chocolata, Rancho Santana, Jicaro Island Lodge,
+    Selva Negra, and others) is surf/wellness/permaculture/tantra tourism, not a
+    meditation lineage.]
+6.  Costa Rica   [DONE 2026-07-16: 2 centers — Casa Zen de Costa Rica (Santo Domingo de
+    Heredia, sister center to the Vermont Zen Center/Kapleau-Rochester lineage, 3- and
+    5-night sesshins plus an annual 7-day sesshin) and Dhamma Ariya/Vipassana Costa Rica
+    (Orosi Valley, Cartago — the official Central America regional dhamma.org center,
+    tagged goenka). Considered and rejected: Alegria Dharma Center (Nicoya, pre-launch,
+    no hosted retreats yet — revisit later); PachaMama Eco Village and Shankara Yoga
+    (yoga/wellness-primary); Dewachen World Peace Sanctuary (Drikung Kagyu, genuinely
+    Buddhist but still "under construction" with no confirmed address/pricing);
+    Diamond Way Costa Rica and Asociacion Cultural Tibetano-Costarricense (urban
+    evening-meeting groups, no residential facility); Vajra Jahra, Blue Spirit, Samasati,
+    Anamaya, Alya, Rythmia, Casa Zen Guesthouse Santa Teresa (yoga/wellness/plant-
+    medicine resorts, no meditation lineage — note the Santa Teresa "Casa Zen" is an
+    unrelated same-named property, flagged in the ingested entry's about text).]
+7.  Panama   [DONE 2026-07-16: 0 centers. Vipassana Panama is a dormant dhamma.org
+    listing (no courses scheduled 2024-2026, PO box only, no fixed address) — fails the
+    "currently operating" bar. Every other candidate found (Breathe Healing & Wellness,
+    Solarte EcoLodge, Istmo Retreat & Adventures, La Loma/The Jungle Lodge, Sansara
+    Resort, Breath Body Earth, Tranquil Eco Lodge) is a yoga/wellness resort with no
+    meditation lineage. No Diamond Way, Won Buddhism, or Thai Forest presence found.]
 
 CARIBBEAN (Spanish/French-speaking)
-8.  Cuba
-9.  Dominican Republic
-10. Haiti   [PROVISIONAL — confirm at research time whether it belongs in this plan at
-    all per the scope note above; French/Creole-speaking, no strong a priori expectation
-    of Buddhist/meditation retreat infrastructure, but check before skipping.]
+8.  Cuba   [DONE 2026-07-16: 1 center — Kosen Shin Ji (Havana/Arroyo Naranjo), a Soto Zen
+    temple in the Deshimaru lineage that got its first fixed permanent property in
+    October 2022 after decades of the Cuban sangha meeting in rented spaces/parks since
+    1996; runs a monthly multi-day sesshin plus an extended Christmas/New Year sesshin,
+    confirmed active via a June 2026 news post. Considered and rejected: Vipassana Cuba
+    (dhamma.org non-center, rented venues only); Habana Buddhist Group and the pre-2022
+    Havana/Matanzas Zen dojos (no fixed facility prior to Kosen Shin Ji); Centro de
+    Meditacion Osho/Bar Zorba bi Buda (day-only, doubles as a nightclub); Cuba Yoga
+    Retreats, Mhai Yoga (yoga-asana).]
+9.  Dominican Republic   [DONE 2026-07-16: 0 centers. Dhamma Dominican Republic is a
+    dormant dhamma.org non-center with zero courses currently scheduled. Centro Zen
+    Dominicano/Enso (Santo Domingo, White Plum lineage) is a real but non-residential,
+    largely inactive-since-2022 urban sangha. Several "retreat centers" found via
+    generic SEO aggregators (Omvana, The Dream Institute, Dominican Retreat Center,
+    Retreat Center of San Pedro de Macoris) traced to AI-generated filler content with no
+    independent evidence they exist — excluded as unverifiable. A neutral third-party
+    aggregator (retreat.guru) independently confirms the DR's retreat sector is
+    yoga/wellness/plant-medicine, not meditation-lineage.]
+10. Haiti   [DONE 2026-07-16, scope check resolved: 0 centers. The one concrete lead,
+    Vipassana Haiti (dhamma.org), is a "non-center" with no fixed facility, no courses
+    scheduled since a 2024-01-14 page update, and "Under construction" placeholder pages
+    — reads as dormant, not currently operating. "Zen Ayiti" (Petion-Ville) is a one-off
+    annual wellness festival, not a retreat center. No Theravada/Zen/Tibetan/Insight
+    Buddhist monastery of any kind found operating in Haiti. RECOMMENDATION (per the
+    research agent): treat Haiti as checked-and-empty going forward rather than leaving
+    it provisional — this is a substantive finding (consistent with the country's
+    security/instability context), not a research gap. Revisit only if circumstances
+    change materially.]
 
 SOUTH AMERICA
-11. Colombia
-12. Venezuela
-13. Ecuador
-14. Peru
-15. Bolivia
-16. Brazil   [expect sub-regions once research starts — likely candidates: São Paulo
-    state, Rio de Janeiro state, Minas Gerais, the South (Rio Grande do Sul/Santa
-    Catarina/Paraná, which has a notably large Zen/Soto and Diamond Way presence per
-    general knowledge), and Brasília/Central-West, to be confirmed and adjusted during
-    discovery rather than assumed up front.]
-17. Paraguay
-18. Chile
-19. Argentina   [expect sub-regions once research starts — likely candidates: Buenos
-    Aires (city + province), Córdoba, and Patagonia/Bariloche, to be confirmed during
-    discovery.]
-20. Uruguay
+11. Colombia   [DONE 2026-07-16: 7 centers — Dhamma Nandanavana (San Antonio del
+    Tequendama, goenka), Karma Palsang Ling (Villa de Leyva, Diamond Way/Karma Kagyu),
+    Centro de Retiros Karma Kagyu de Tabio (distinct Karma Kagyu property, Cundinamarca),
+    Montana de Silencio/Templo Sofu-ji (Medellin, Soto Zen, SF Zen Center Branching
+    Streams), KMC Colombia (Bogota, Kadampa, weekend residential retreats at a rented
+    finca), La Casa de Loto and Senda Loto (Guatape and Sierra Nevada/Tayrona, two
+    distinct properties from the same Dzogchen-lineage founder). Considered and
+    rejected: "Retiro de silencio Vipassana" Choco (wellness brand, no Buddhist lineage
+    despite the name); Daishinji/Soto Zen Colombia's Bogota HQ (no lodging) and
+    Kasaguadua reserve (eco-tourism, occasional zazen only, not dedicated).]
+12. Venezuela   [DONE 2026-07-16: 1 center — Dhamma Venuvana (La Victoria, Aragua),
+    Venezuela's only permanent Goenka center (est. 2006), full published course calendar
+    through 2027, tagged goenka. Considered and rejected: numerous AZI Zen dojos, Centro
+    Zen Bodaishin, Karma Thegsum Choling, Diamond Way groups, and Templo Chan Yong Kai
+    (all home/apartment/office addresses, no residential capacity); Casa de Retiro El
+    Sembrador and similar (Christian-affiliated, out of scope). Crisis-constrained retreat
+    infrastructure, as expected.]
+13. Ecuador   [DONE 2026-07-16: 0 centers. Vipassana Ecuador (Quito/Cuenca) is a
+    dhamma.org non-center running at most one borrowed-venue course a year. The BELL
+    Center and Gaia Sagrada are wellness/ayahuasca-focused, not meditation-lineage.
+    Centro de Meditacion (Vilcabamba) offers only an all-day monthly session, not
+    residential. Shambhala Cuenca, Science of Spirituality Quito, and several city
+    Diamond Way/Gelugpa/Drikung Kagyu groups (Quito, Guayaquil) are all day-only urban
+    centers with no residential retreat land.]
+14. Peru   [DONE 2026-07-16: 1 center — Dhamma Suriya (Cieneguilla/Pachacamac, Lima
+    Region), an owned dhamma.org property (not a rented non-center) running standard
+    10-day courses plus a 14-day Gratitude course, tagged goenka. Considered and
+    rejected: Templo Taiheizan Jionji/Soto Zen Peru (San Vicente de Canete — oldest Zen
+    lineage in South America, but overnight-lodging/booking access for outside
+    practitioners couldn't be confirmed); Ashram Valle Sagrado and Samadhi Sacred Valley
+    (yoga-asana/shamanic, Cusco area); Kadampa/Diamond Way/Palpung/Drikung Peru groups
+    (city classrooms only, no residential land).]
+15. Bolivia   [DONE 2026-07-16: 1 center — Vipassana Meditation in Bolivia (dhamma.org,
+    current course venue Cochabamba), tagged goenka; included despite being a dhamma.org
+    "non-center" (rotating rented venues, no fixed campus) because it has an active,
+    confirmed 2026 course calendar and Goenka centers are explicitly in scope by policy
+    — the about/schedule fields state the non-permanent-site fact plainly. Considered and
+    rejected: Centro Zen Phajjsi Qollut Jalsu (La Paz, sesshins held over Zoom, no
+    confirmed on-site lodging); Sangha Activa Bolivia and Organizacion de Budismo
+    Tibetano/Paramita Bolivia (the latter's own retreat page explicitly excludes
+    lodging/food); Sokka Gakai de Bolivia (chanting/study, not retreat-focused).]
+16a. Brazil — Sao Paulo state   [DONE 2026-07-16: 7 centers — Dhamma Sarana (Santana de
+    Parnaiba, goenka), Templo Zu Lai (Cotia, Fo Guang Shan, largest Buddhist temple in
+    Latin America), Templo Odsal Ling (Cotia, Chagdud Gonpa Nyingma), Jardim do Dharma
+    (Cotia, Karma/Shangpa Kagyu), Centro de Meditacao Kadampa Brasil (Cabreuva, NKT),
+    Templo Taikanji (Pedra Bela, rural Soto Zen), Templo Busshinji (Sao Paulo city, South
+    American Soto Zen HQ). Rejected: Templo Enkoji (day-only), Krishna Shakti Ashram
+    (yoga-asana-primary).]
+16b. Brazil — Rio de Janeiro state   [DONE 2026-07-16: 3 centers — Dhamma Santi (Miguel
+    Pereira, first Vipassana center in South America, goenka), Centro Nyingma de
+    Budismo Tibetano/"Sitio da Cachoeira" (Xerem, Nyingma Mandala network, distinct from
+    its urban Humaita study center), Karme Samten Ling (Bom Jardim, Karma Kagyu/KTT
+    Brasil). Rejected: Chagdud Gonpa Dechen Ling (Nova Friburgo, under construction, no
+    lodging evidence); Sociedade Budista do Brasil/Rio Buddha Vihara (retreats now held
+    off-site); several orgs whose retreat land is actually in other states (CEBB Rio,
+    Kadampa, Jardim Dharma, Casa de Dharma, Sociedade Vipassana de Brasilia).]
+16c. Brazil — Minas Gerais   [DONE 2026-07-16: 4 centers — Nalandarama Retreat Center
+    (Brumadinho, first South American Theravada forest center), Mosteiro Suddhavari
+    (Soledade de Minas, Thai Forest/Ajahn Chah lineage), Mosteiro Zen Pico de Raios (Ouro
+    Preto, Soto Zen, founded 1984), Fazenda Ananda Kiirtana (Belmiro Braga, Ananda Marga,
+    precedented by existing Ananda Marga entries). Rejected: Vipassana Brasil-MG
+    (dhamma.org non-center, rented venues); Chagdud Gonpa Dawa Drolma and Templo Zen das
+    Alterosas (Belo Horizonte, day-only/unconfirmed lodging); Retiro Tao Tien (unclear
+    lineage, sits on the SP/MG border).]
+16d. Brazil — South (Rio Grande do Sul / Santa Catarina / Parana)   [DONE 2026-07-16: 6
+    centers, confirming the expansion plan's note about a large Zen/Diamond Way presence
+    here — Chagdud Gonpa Khadro Ling (Tres Coroas, RS, South American HQ of the Chagdud
+    Gonpa Foundation, first traditional Tibetan temple in Latin America), Via Zen/Centro
+    de Pratica Viamao (RS, Soto Zen since the late 1970s), CEBB Akanishta/Aldeia Bacupari
+    (Mostardas, RS, largest CEBB rural retreat village), CEBB Sukhavati (Quatro Barras,
+    PR), CEBB Mendjila (Canelinha, SC), Self-Realization Fellowship Retiro de Armacao
+    (Penha, SC, Yogananda/Kriya Yoga, SRF's first Latin American oceanfront retreat).
+    Rejected: Chagdud Gonpa Dordje Ling and Zendo Curitiba (no on-site lodging); Instituto
+    Zen Maitreya/Zendo Diamante and Meditar Floripa (urban only); Centro de Yoga Montanha
+    Encantada and Chacarananda/Shanti Gaia (yoga-asana/generic wellness); Daissen
+    (Florianopolis, legitimate sangha but no single fixed property).]
+16e. Brazil — Brasilia / Central-West (DF, Goias, Mato Grosso, Mato Grosso do Sul)
+    [DONE 2026-07-16: 4 centers — Dhamma Uyyana (Pirenopolis, GO, goenka), Sociedade
+    Vipassana de Meditacao (Brazlandia, DF, Theravada/Thai Forest, visiting monastics),
+    CEBB Alto Paraiso (GO, Nyingma), Retiro de Brasilia/Fazenda Retiro Lotus do Cerrado
+    (Planaltina de Goias, Kriya Yoga/Yogananda lineage). Rejected: Zen Brasilia/Ta-Mondua
+    (insufficient evidence of a currently-scheduled residential program); Vale do
+    Amanhecer (esoteric/New Age, explicitly out of scope); no qualifying centers found in
+    Mato Grosso or Mato Grosso do Sul. NOTE: web_fetch was rate-limited for most
+    Portuguese-language sites during this pass — entries built from WebSearch snippets
+    with cited sources; worth a human/agent verification pass on pricing before marking
+    human-reviewed.]
+    BRAZIL TOTAL: 24 centers across 5 sub-regions (16a-16e above).
+17. Paraguay   [DONE 2026-07-16: 1 center — Templo Budista Fo Guang Shan Paraguay
+    (Ciudad del Este), which runs a documented 3-day/2-night residential Chan retreat
+    (350,000 PYG contribution, Noble Silence, 3 meals/day) alongside its free day
+    programs. Considered and rejected: Vipassana Paraguay/Dhamma Paraga (dhamma.org
+    non-center, no fixed property, site still carries a leftover Nepal address); Kaimonji/
+    Templo Zen de Aregua (day-only); Templo Zen Shinozan Takuonji (no confirmed public
+    retreat program); Templo Budista Chen Yi, Reiyukai, Soka Gakkai Paraguay (not
+    retreat-focused); Fo Guang Shan de Asuncion (day programs only, no lodging).]
+18. Chile   [DONE 2026-07-16: 3 centers — Dhamma Pasanna (Melipilla/Tantehue, goenka,
+    permanent site under construction, temporary-venue courses running since 1995), El
+    Zendo Tunquen (Valparaiso Region, Soto Zen, resident monk, weekly + multi-day
+    sesshins up to 15 days), Chamspaling (Pucon, Araucania, Drikung Kagyu, Chile's first
+    stupa, published retreat pricing). Rejected: Buddha Dhamma Chile and Chagdud Gonpa
+    Chile (online-only since the pandemic); Drikung Kagyu Chile, Comunidad Otzer Ling,
+    Kadampa Chile, Fo Guang Shan Chile/Talagante (urban/day-visit only); "Tierra de
+    Budas"/Budismo Tibetano La Vera (false lead — actually in Spain).]
+19a. Argentina — Buenos Aires (city + province)   [DONE 2026-07-16: 2 centers — Dhamma
+    Sukhada (Brandsen, Argentina's first Vipassana center, opened 2013, goenka), Kagyu
+    Pende Gyamtso Ling (near San Andres de Giles, Karma/Shangpa Kagyu, site of Latin
+    America's first traditional 3-year-3-month retreat 2002-2006). Rejected: Kadampa
+    Meditation Center Argentina and Templo Fo Guang Shan Belgrano (urban/day-visit only);
+    Ermita de Paja ZaZen (no confirmed on-site lodging); Sangha del Buen Ayre (no owned
+    land, rented venues only).]
+19b. Argentina — Cordoba   [DONE 2026-07-16: 3 centers — Dhamma Viriya (Charbonier, near
+    Capilla del Monte, goenka), Templo Zen Shobogenji ("Ojo de Agua," Capilla del Monte,
+    Soto Zen/Deshimaru, first Zen temple in Latin America, founded 1998), Centro de
+    Meditacion Kadampa Cordoba (3-4 night residential retreats at a rented venue in Villa
+    Allende). Rejected: generic "retiro de silencio" aggregator/directory listings with
+    no verifiable identity or lineage.]
+19c. Argentina — Patagonia/Bariloche   [DONE 2026-07-16: 0 centers. Dongyuling Bariloche
+    (Drukpa Kagyu) and Centro de Estudios Budistas Samantabhadra/Estupa de Epuyen
+    (FPMT-affiliated) are real but day-visit/weekly-meeting only, with no standing 2+
+    night residential program (Samantabhadra's weekend events direct attendees to nearby
+    town lodging rather than providing their own). Dojo Zen Bariloche's "Sesshin de la
+    Patagonia" is a traveling 1-night event, not a fixed retreat center. Everything else
+    found was generic wellness/yoga (Estancia Peuma Hue, Respira Patagonia, Anahata Yoga
+    El Bolson) or Catholic-affiliated. A legitimate empty result for a sparsely-populated
+    region.]
+    ARGENTINA TOTAL: 5 centers across 3 sub-regions (19a-19c above).
+20. Uruguay   [DONE 2026-07-16: 1 center — Karma Dechen Ling (Minas, Lavalleja), a
+    57-hectare Diamond Way/Karma Kagyu property purchased 2003 by the Uruguay/Argentina
+    sanghas, with its own gompa, annual International Course, and confirmed current
+    activity. Considered and rejected: Chagdud Gonpa Sengue Dzong (Lavalleja — a real,
+    600-hectare institution, but explicitly closed indefinitely for repairs as of this
+    writing, worth revisiting if it reopens); Dhamma Sukhada/Vipassana Uruguay (no
+    permanent center, rented non-center venues only); Kadampa Mahamudra Uruguay and
+    Parisa Kuan Yin (retreats held at a third-party rented venue, "Naturaleza del Ser,"
+    not their own property); Osho Uruguay/Sangit (stale, unmaintained since 2021).]
 
 (Out of scope within the Americas, per the definition above: Guyana, Suriname, French
 Guiana. Puerto Rico is in scope but covered under the separate US TERRITORIES section
@@ -870,11 +1059,92 @@ explicitly out of scope — there is no possibility of a retreat center on any o
 
 Same discover -> research -> ingest -> verify workflow as every prior section.
 
-1.  Puerto Rico
-2.  Guam
-3.  US Virgin Islands
-4.  American Samoa
-5.  Northern Mariana Islands
+1.  Puerto Rico   [DONE 2026-07-16: 0 centers. Closest call was Centro Zen de Puerto
+    Rico/Cho'onji (Rinzai Zen, the island's only long-established Zen monastery), whose
+    own site now describes multi-day residential retreats as an ASPIRATION rather than
+    a confirmed current offering (probable lingering hurricane dormitory damage per a
+    2018 Tricycle piece, unconfirmed since) — excluded for failing to confirm the 2+
+    night residential bar rather than on lineage grounds; worth a direct follow-up email
+    to confirm status. Vipassana Puerto Rico is a dhamma.org non-center (rented venues
+    only). Padmasambhava, Ganden Shedrub Ling, Kadampa PR, Eiren-ji, and CMEBC are all
+    urban/online groups with no residential facility. Remainder of candidates were
+    yoga/wellness venues (Bhakti Center, Casa Alternavida, Finca Victoria, Finca Remedio,
+    Casa Grande, Villa Playa Maria) or a commercial day spa (Zen Spa).]
+2.  Guam   [DONE 2026-07-16: 0 centers. Fo Guang Shan Buddhist Temple/Guam Buddhism
+    Society (Barrigada) is real and active but day-program only, no overnight lodging.
+    No dhamma.org center exists in Guam. Dusit Beach Resort's meditation offering is a
+    generic hotel wellness amenity, not a lineage center.]
+3.  US Virgin Islands   [DONE 2026-07-16: 0 centers. Nirvana Buddhist/Healing Temple (St.
+    Thomas) is a real, active community temple but drop-in classes only, no residential
+    capacity. No dhamma.org presence. Everything else found (Spirit on the Water,
+    Experience Retreats, Island Girl Yoga, 4 Elements, Roots & Wings, Muktinath
+    Holistic/"Wisdom of the Soul," Dandapani workshops) is yoga-asana, generic wellness,
+    or a traveling teacher renting a venue — no dedicated USVI-based meditation-lineage
+    center.]
+4.  American Samoa   [DONE 2026-07-16: 0 centers. Small (~45,000 pop.), remote, and
+    overwhelmingly Christian — no dhamma.org presence, no Buddhist temple, Zen center, or
+    Insight Meditation sangha of any kind found operating on Tutuila. A legitimate empty
+    result consistent with the territory's profile, not a search gap.]
+5.  Northern Mariana Islands   [DONE 2026-07-16: 0 centers. The Marpi Buddhist Temple
+    (Saipan) serves CNMI's Korean Buddhist community as a worship site but shows no
+    evidence of a residential retreat program or guest lodging. Soka Gakkai
+    International-CNMI is chanting/lay-practice, not a retreat tradition. Nothing found
+    on Tinian or Rota beyond dive tourism and spas.]
+    US TERRITORIES TOTAL: 0 centers across all 5 territories researched — a legitimate,
+    thoroughly-checked empty result throughout (small, remote, and/or heavily Christian
+    populations with no established meditation-retreat infrastructure), not a search
+    shortfall.
 
 This is now the final remaining section in scope. Once both this and LATIN AMERICA
 (REST OF) above are done, the expansion plan will be complete in full.
+
+
+================================================================================
+EXPANSION PLAN COMPLETE (2026-07-16)
+================================================================================
+LATIN AMERICA (REST OF) and US TERRITORIES — the two sections left open at the prior
+milestone note above — are both now done, per the DONE annotations inline above. Combined
+with the already-complete Europe, Canada, Oceania, and Mexico sections (and the
+pre-existing US catalogue), the expansion plan set out at the top of this file is complete
+in full: every region in scope has been taken through discover -> research -> ingest ->
+verify.
+
+Latin America (rest of) totals: 47 new centers across the region — Costa Rica 2, Cuba 1,
+Colombia 7, Venezuela 1, Peru 1, Bolivia 1, Brazil 24 (across 5 sub-regions: Sao Paulo 7,
+Rio de Janeiro 3, Minas Gerais 4, the South 6, Brasilia/Central-West 4), Paraguay 1, Chile
+3, Argentina 5 (across 3 sub-regions: Buenos Aires 2, Cordoba 3, Patagonia 0), Uruguay 1.
+Guatemala, Belize, Honduras, El Salvador, Nicaragua, Panama, Dominican Republic, Haiti,
+Ecuador were all thoroughly researched and yielded zero qualifying centers — legitimate
+empty results (thin on-the-ground meditation infrastructure, dhamma.org "non-center"
+listings with no fixed property, or candidates that failed the meditation-focus/
+residential/currently-operating scope rules), not search gaps. Haiti's provisional scope
+flag is resolved: it stays in scope per the definition, checked-and-empty.
+
+US Territories totals: 0 centers across all 5 territories (Puerto Rico, Guam, US Virgin
+Islands, American Samoa, Northern Mariana Islands) — thoroughly researched, all legitimate
+empty results given small/remote/heavily-Christian populations with no established
+meditation-retreat infrastructure. The strongest near-miss was Centro Zen de Puerto
+Rico/Cho'onji, whose own site now describes residential retreats as aspirational rather
+than current — worth a direct follow-up inquiry in a future pass if anyone wants to chase
+it down, but not enough to catalogue today.
+
+Catalogue size: grew from 372 to 419 centers this pass (372 + 47 new Latin America
+entries + 0 new territory entries = 419), confirmed via schema validation (0 errors
+against schema/entry.schema.json and the schema/tags.json controlled vocabulary across
+all 419 files) and a clean site rebuild (node scripts/build-data.mjs).
+
+Site support fixed alongside this pass (public/app.js): the LATIN_AMERICA region set only
+listed 11 of the 20 in-scope Latin American countries and was missing Belize, Honduras,
+El Salvador, Nicaragua, Cuba, Dominican Republic, Haiti, Venezuela, Bolivia, and Paraguay
+entirely (they would have silently fallen into their own one-off region buckets instead of
+grouping under "Latin America") -- fixed. currencySymbol() had no entries for any Latin
+American currency (MXN, GTQ, BZD, HNL, NIO, CRC, PAB, CUP, DOP, HTG, COP, VES, PEN, BOB,
+BRL, PYG, CLP, ARS, UYU all added) and was also separately missing NZD, a pre-existing gap
+left over from the earlier Oceania/New Zealand pass -- fixed. Added a new US_TERRITORIES
+set so the five non-state territories added in this pass group under the "United States"
+region bucket (their location.country field is the territory name, not "United States", for
+display purposes, but they are politically the same country).
+
+Nothing further is queued in this file. Any future expansion (e.g. Africa, the Middle
+East, South/Southeast Asia -- explicitly out of scope per the SCOPE note at the top of
+this file) would need a fresh scope-widening request before work resumes here.

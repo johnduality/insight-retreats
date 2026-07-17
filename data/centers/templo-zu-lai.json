@@ -1,0 +1,67 @@
+{
+  "id": "templo-zu-lai",
+  "name": "Templo Zu Lai",
+  "aka": [
+    "Instituto Budista Zu Lai",
+    "IBZL",
+    "Fo Guang Shan Zu Lai Temple",
+    "Zu Lai Temple"
+  ],
+  "website": "https://templozulai.org.br/",
+  "location": {
+    "address": "Estrada Fernando Nobre, 1461, Parque Rincão, Cotia, São Paulo, 06705-490, Brazil",
+    "city": "Cotia",
+    "region": "Greater São Paulo, São Paulo, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -23.5869,
+    "lng": -46.8831
+  },
+  "tradition": "Humanistic Buddhism (Fo Guang Shan), Chan / Pure Land practice",
+  "technique": "Seated meditation and mindful walking within a Humanistic Buddhist monastic routine, plus chanting, precepts practice, and study of Chan and Pure Land teachings",
+  "influences": [
+    "Venerable Master Hsing Yun (founder of Fo Guang Shan)",
+    "Fo Guang Shan monastic order"
+  ],
+  "teacherAccess": "Resident monastics and nuns lead the daily schedule, give Dharma talks, and are available for guidance throughout retreats and the intensive monastic-immersion program.",
+  "retreatOptions": "One-day silent meditation days (Xiu Xing); a Noble Silence weekend meditation retreat; a short precepts/ordination retreat; and a selective 30-day Intensive Buddhist Study and Monastic Life Immersion program held once a year.",
+  "about": "Templo Zu Lai is the South American headquarters of Fo Guang Shan, the Taiwan-founded Humanistic Buddhist order established by Venerable Master Hsing Yun, and is widely described as the largest Buddhist temple complex in Latin America. Built on a 150,000-square-meter site in Cotia in the greater São Paulo region and inaugurated in 2003, the temple is staffed by resident monastics who run a full calendar of public programs alongside its meditation retreats. Offerings range from a one-day silent meditation day (Xiu Xing) and a weekend Noble Silence retreat to a highly selective 30-day Intensive Buddhist Study and Monastic Life Immersion, during which participants follow the monks' daily routine of meditation, chanting, and temple work and sleep on-site in shared dormitories. All retreat participants eat the temple's vegetarian meals together, and in keeping with Fo Guang Shan's Humanistic Buddhism, the emphasis throughout is on bringing Chan and Pure Land practice into daily life rather than on permanent monastic seclusion.",
+  "schedule": "Regular one-day and weekend Noble Silence meditation retreats scheduled through the year, plus an annual 30-day residential immersion program with a competitive application process closing in late February.",
+  "cost": "Weekend and one-day retreats charge a modest fixed contribution; the 30-day immersion program requires an R$800 registration fee that is fully refunded to participants who complete the program.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three vegetarian meals a day provided on-site to all retreat and immersion-program participants at no separate charge.",
+  "workRequired": "partial",
+  "workNotes": "The 30-day immersion program includes daily temple work/chores as part of monastic-life practice; shorter retreats are primarily meditation-focused with little or no work expectation.",
+  "tags": [
+    "mahayana",
+    "silent",
+    "fixed-fee",
+    "meals-included",
+    "diet-vegetarian",
+    "long-retreats"
+  ],
+  "sources": [
+    {
+      "title": "Retiros e Vivências – Templo Zu Lai",
+      "url": "https://templozulai.org.br/atividades/retiros/"
+    },
+    {
+      "title": "Estudo e Vivência Intensiva de Budismo – IBZL",
+      "url": "https://templozulai.org.br/atividades/retiros/estudo-e-vivencia-intensiva-de-budismo/"
+    },
+    {
+      "title": "Retiro de Meditação em Nobre Silêncio – Templo Zu Lai",
+      "url": "https://templozulai.org.br/atividades/retiros/retiro-de-meditacao-em-nobre-silencio/"
+    },
+    {
+      "title": "Templo Zu Lai – Cotia (city tourism page)",
+      "url": "https://turismo.cotia.sp.gov.br/templo-zu-lai/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "montana-de-silencio",
+  "name": "Montaña de Silencio (Templo Sōfū-ji)",
+  "aka": [
+    "Montaña de Silencio",
+    "Comunidad Soto Zen Colombia - Medellín",
+    "Templo Sofu-ji"
+  ],
+  "website": "https://www.montanadesilencio.org/",
+  "location": {
+    "address": "Cl. 52 #78-92, Barrio Los Colores, Medellín, Antioquia, Colombia",
+    "city": "Medellín",
+    "region": "Antioquia, Colombia",
+    "country": "Colombia",
+    "state": "CO",
+    "lat": 6.2658,
+    "lng": -75.5939
+  },
+  "tradition": "Soto Zen Buddhism, lineage of Shunryu Suzuki Roshi (Branching Streams member of San Francisco Zen Center)",
+  "technique": "Zazen (seated meditation) and kinhin (walking meditation), with traditional Soto Zen liturgy and ceremony",
+  "influences": [
+    "Shunryu Suzuki Roshi",
+    "Jiryu Rutschman-Byler",
+    "Sanriki Jaramillo"
+  ],
+  "teacherAccess": "Sesshins are led in person by resident teacher Sanriki Jaramillo (Dharma heir of Jiryu Rutschman-Byler) together with visiting teachers; daily zazen periods and dharma talks are offered during retreats.",
+  "retreatOptions": "Regular multi-day sesshins (3, 7, or more nights) held at retreat venues outside the city (e.g., La Paleta, Santa Elena), plus single-day zazenkai practice days at the home temple; periods of live-in temple residency (ango-style) are possible for committed students.",
+  "about": "Montaña de Silencio is a Soto Zen Buddhist community based at Templo Sōfū-ji in the Los Colores neighborhood of Medellín, practicing in the lineage of Shunryu Suzuki Roshi as a Branching Streams member of the San Francisco Zen Center. The community traces its roots to 1989 and is led by resident teacher Sanriki Jaramillo, who received Dharma transmission from Jiryu Rutschman-Byler. While the home temple offers only day and evening zazen and study groups, the community regularly runs multi-day residential sesshins — typically 3 to 7-plus nights — at retreat venues outside the city, such as La Paleta in Santa Elena, following the traditional schedule of a Japanese Zen monastery (zazen, kinhin, meals, ceremony, and periods of work practice). A December Rohatsu sesshin and other sesshins are scheduled most years, and committed students may also apply for temporary residency at the temple.",
+  "schedule": "Sesshins are scheduled a few times a year (e.g., a 4-night September sesshin and a December Rohatsu sesshin) on a traditional monastic daily timetable of zazen, kinhin, meals, and ceremony; the home temple otherwise holds daily/weekly zazen without lodging.",
+  "cost": "Sesshin registration fee (covering lodging, meals, and teaching) set per retreat; the home temple's regular sits run on voluntary donation.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Sesshin meals follow traditional Zen monastic style (oryoki-style shared meals); the home temple's Saturday community breakfast asks a suggested COP 20,000 contribution.",
+  "workRequired": "yes",
+  "workNotes": "Sesshins include periods of samu (mindful work practice) as part of the monastic schedule, in keeping with Soto Zen tradition.",
+  "tags": [
+    "zen",
+    "silent",
+    "work-practice",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Montaña de Silencio - home",
+      "url": "https://www.montanadesilencio.org/"
+    },
+    {
+      "title": "La práctica - Montaña de Silencio",
+      "url": "https://www.montanadesilencio.org/la-practica/"
+    },
+    {
+      "title": "Programación - Montaña de Silencio",
+      "url": "https://www.montanadesilencio.org/programacion/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

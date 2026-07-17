@@ -1,0 +1,76 @@
+{
+  "id": "cebb-alto-paraiso",
+  "name": "CEBB Alto Paraíso",
+  "aka": [
+    "Aldeia CEBB Alto Paraíso",
+    "Centro de Estudos Budistas Bodisatva - Alto Paraíso"
+  ],
+  "website": "https://cebb.org.br/en/altoparaiso/",
+  "location": {
+    "address": "Rod. GO-239, km 56, direção São Jorge, Alto Paraíso de Goiás, GO, Brazil",
+    "city": "Alto Paraíso de Goiás",
+    "region": "Goiás, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -14.2,
+    "lng": -47.62
+  },
+  "tradition": "Nyingma Tibetan Buddhism (Rimé), CEBB tradition founded by Lama Padma Samten",
+  "technique": "Shamatha and Vajrayana meditation, sadhana practice, and teachings in the Dudjom Lingpa/Nyingma lineage",
+  "influences": [
+    "Lama Padma Samten (Alfredo Aveline)",
+    "Chagdud Tulku Rinpoche",
+    "Dudjom Lingpa lineage"
+  ],
+  "teacherAccess": "Biannual ~10-day retreats led personally by Lama Padma Samten; other retreats and weekly practices led by trained CEBB tutors.",
+  "retreatOptions": "Weekly open practice sessions for visitors; periodic weekend/short retreats led by CEBB tutors; ~10-day Winter (Jul/Aug) and Summer (Jan/Feb) retreats led by Lama Padma Samten twice a year.",
+  "about": "CEBB Alto Paraíso is a residential Tibetan Buddhist village and retreat center created in 2012 by Lama Padma Samten (Alfredo Aveline) and the sangha of the Centro de Estudos Budistas Bodisatva (CEBB), Brazil's Nyingma/Rimé Buddhist network, which Lama Padma Samten founded in 1986 as a disciple of Chagdud Tulku Rinpoche. The 44-hectare site sits beside Chapada dos Veadeiros National Park about 230 km (roughly 3 hours) from Brasília, near the town of Alto Paraíso de Goiás, and combines a temple area with two retreat lodges alongside a wider residents' village of about 30 people. Weekly practice sessions in the temple are open to all visitors year-round, and twice a year — in winter (July/August) and summer (January/February) — the village hosts roughly 10-day residential retreats led personally by Lama Padma Samten, plus periodic shorter retreats led by CEBB tutors or visiting teachers. During closed retreats, guests sleep in shared lodgings, keep Noble Silence from 9pm to 6am, and eat simple, home-style ovo-lacto-vegetarian meals with the community.",
+  "schedule": "Weekly practice open to visitors year-round; biannual ~10-day retreats (winter and summer), plus occasional retreats with guest teachers.",
+  "cost": "Retreats run on a published tiered-contribution scale covering lodging and meals, with reduced tiers for meals-only or no-lodging attendance.",
+  "pricePerDay": {
+    "min": 125,
+    "max": 125,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "Documented 2023 Alto Paraíso retreat: R$1,250 full board ÷ 10 nights = R$125/night (reduced tiers were also offered: ~R$89/night meals-only, ~R$63/night with neither meals nor lodging); current-year rates were not confirmed online.",
+    "source": "https://cebb.org.br/en/altoparaiso/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Simple, home-style ovo-lacto-vegetarian breakfast, lunch, and dinner served during closed retreats.",
+  "workRequired": "unknown",
+  "tags": [
+    "tibetan-vajrayana",
+    "silent",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "CEBB Alto Paraíso",
+      "url": "https://cebb.org.br/en/altoparaiso/"
+    },
+    {
+      "title": "Orientações aos visitantes | CEBB Alto Paraíso",
+      "url": "https://cebb.org.br/en/orientacoes-aos-visitantes-cebb-alto-paraiso/"
+    },
+    {
+      "title": "Retiro de Inverno 2026 | CEBB Alto Paraíso (GO)",
+      "url": "https://cebb.org.br/en/retiro-inverno-altoparaiso-2026/"
+    },
+    {
+      "title": "Sobre o Lama Padma Samten - CEBB",
+      "url": "https://cebb.org.br/en/lama-padma-samten/"
+    },
+    {
+      "title": "Sobre o CEBB",
+      "url": "https://cebb.org.br/en/sobre-o-cebb/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

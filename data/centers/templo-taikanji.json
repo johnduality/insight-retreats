@@ -1,0 +1,67 @@
+{
+  "id": "templo-taikanji",
+  "name": "Templo Taikanji",
+  "aka": [
+    "Zengetsuzan Taikanji",
+    "Templo Zen-Budista da Grande Compaixão",
+    "Templo Zengetsuzan Taikanji"
+  ],
+  "website": "https://www.taikanji.com.br/",
+  "location": {
+    "address": "Estrada das Pintas, km 3,5, Pitangueiras do Meio, Pedra Bela, São Paulo, 12990-000, Brazil",
+    "city": "Pedra Bela",
+    "region": "Interior de São Paulo (near Bragança Paulista), São Paulo, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -22.8033,
+    "lng": -46.3739
+  },
+  "tradition": "Soto Zen Buddhism",
+  "technique": "Zazen (seated meditation), kinhin (walking meditation), oryoki formal meal practice, and samu (mindful work practice)",
+  "influences": [
+    "Eihei Dogen Zenji",
+    "Keizan Jokin Zenji",
+    "Zenki Ando Coen Roshi (Monja Coen)",
+    "Zengetsu Enjo Stahel Sensei (founder)"
+  ],
+  "teacherAccess": "Founding teacher Enjo Sensei (who trained under Monja Coen Roshi and received Dharma transmission from Junnyu Kuroda Roshi in Japan) leads daily zazen instruction and Dharma talks during retreats.",
+  "retreatOptions": "Weekend meditation-and-silence retreats held on national holiday weekends, plus a longer New Year's retreat (roughly 5-7 nights spanning late December into January).",
+  "about": "Templo Taikanji, formally Zengetsuzan Taikanji ('Zen Moon Mountain Temple of Great Compassion'), is a Soto Zen temple established in 2002 by Monge Enjo (Zengetsu Enjo Stahel), who began monastic training in 1995 under Monja Coen Roshi and was later the first foreign monk admitted to formal monastic training at Sojiji Monastery in Japan, receiving Dharma transmission from Junnyu Kuroda Roshi. The temple sits at roughly 1,290 meters elevation in the rural Pitangueiras do Meio district of Pedra Bela, about 150 kilometers from the city of São Paulo, and is dedicated to Kannon, the Bodhisattva of Compassion. Its calendar of retreats follows the Soto Zen tradition transmitted by Dogen Zenji and Keizan Zenji, combining zazen and kinhin with samu (mindful work practice) and oryoki-style formal meals, held under Noble Silence for the duration of each retreat. Retreats range from long-weekend holiday retreats to a longer New Year's retreat spanning about a week, with simple shared-dormitory lodging (separate sections for men and women) and organic, largely plant-based ovo-lacto-vegetarian meals included in the retreat fee.",
+  "schedule": "A recurring calendar of long-weekend meditation-and-silence retreats tied to Brazilian national holidays throughout the year, plus an annual New Year's retreat of about 5-7 nights (late December to early January).",
+  "cost": "All-inclusive flat retreat fee covering accommodation, meals, and all program activities; exact pricing is set per retreat and published on the temple's event pages.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Ovo-lacto-vegetarian meals, largely plant-based and mostly organic, served as part of the retreat's oryoki meal practice and included in the retreat fee.",
+  "workRequired": "yes",
+  "workNotes": "Samu (mindful communal work practice) is a scheduled part of every retreat's daily program, alongside zazen and kinhin.",
+  "tags": [
+    "zen",
+    "silent",
+    "fixed-fee",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Templo Taikanji - Zen Budismo (official site)",
+      "url": "https://www.taikanji.com.br/"
+    },
+    {
+      "title": "O Templo | Templo Taikanji",
+      "url": "https://www.taikanji.com.br/templo-taikanji"
+    },
+    {
+      "title": "Retiro de Meditação e Silêncio - Templo Taikanji",
+      "url": "https://www.taikanji.com.br/retiros"
+    },
+    {
+      "title": "Como Chegar | Templo Taikanji",
+      "url": "https://www.taikanji.com.br/como-chegar"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

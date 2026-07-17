@@ -1,0 +1,73 @@
+{
+  "id": "karma-dechen-ling",
+  "name": "Karma Dechen Ling",
+  "aka": [
+    "KDL",
+    "Karma Dechen Ling Retreat Center",
+    "Centro de Retiros Budista del Camino del Diamante Karma Dechen Ling",
+    "Diamond Way Buddhism Uruguay Retreat Land"
+  ],
+  "website": "https://www.kdl.org.uy/",
+  "location": {
+    "address": "Sierra de los Caracoles, near Minas, Lavalleja Department, Uruguay (no public street address; directions given to registered retreatants)",
+    "city": "Minas",
+    "region": "Lavalleja, Uruguay",
+    "country": "Uruguay",
+    "state": "UY",
+    "lat": -34.376,
+    "lng": -55.238
+  },
+  "tradition": "Diamond Way Buddhism (Karma Kagyu lineage of Tibetan Buddhism)",
+  "technique": "Meditation on the nature of mind, guru yoga, and other Karma Kagyu Vajrayana meditation practices as taught within Diamond Way Buddhism",
+  "influences": [
+    "Lama Ole Nydahl (founder, Diamond Way Buddhism)",
+    "17th Karmapa Trinley Thaye Dorje (spiritual head)",
+    "Karma Kagyu lineage of Tibetan Buddhism"
+  ],
+  "teacherAccess": "Traveling Diamond Way teachers lead the annual International Course and periodic scheduled retreats; outside organized events the property is used by the local Uruguay/Argentina sangha for self-guided group practice.",
+  "retreatOptions": "An annual multi-day International Course; periodic weekend and multi-day meditation retreats led by traveling teachers; weekend work retreats combining practice with property upkeep.",
+  "about": "Karma Dechen Ling (KDL), meaning 'The Land of Highest Bliss,' is a 57-hectare Diamond Way Buddhist retreat property in the hills of the Sierra de los Caracoles near Minas, in Uruguay's Lavalleja department, about 180 km from Montevideo. Purchased in 2003 by the Diamond Way sanghas of Uruguay and Argentina, it belongs to the international network of more than 600 Diamond Way Buddhist centers founded by Lama Ole Nydahl within the Karma Kagyu lineage of Tibetan Buddhism, under the spiritual guidance of the 17th Karmapa Thaye Dorje. The property centers on a small gompa (meditation hall) and a house that together provide the basic infrastructure for year-round dharma activities, including an annual multi-day International Course, meditation retreats led by traveling Diamond Way teachers, and weekend work retreats where local sangha members help build and maintain the land. KDL is intended as a meeting point for Diamond Way practitioners across Latin America to meditate on the nature of mind together, exchange experience, and deepen the transmission of Karma Kagyu teachings. The center continues to expand its infrastructure through an ongoing fundraising and building project (Dream Big KDL).",
+  "schedule": "Year-round program organized by the Uruguay and Argentina Diamond Way sanghas, anchored by an annual International Course plus periodic weekend meditation and work retreats; exact dates are announced by the local sanghas rather than published on a fixed public calendar.",
+  "cost": "No fixed public pricing; retreat and course fees are set per event by the organizing Diamond Way sanghas of Uruguay and Argentina.",
+  "foodServed": "unknown",
+  "foodType": "unknown",
+  "foodNotes": "The property's house includes a shared kitchen used communally during retreats, but no published meal policy or diet details are available online.",
+  "workRequired": "partial",
+  "workNotes": "Dedicated weekend 'work retreats' ask participants to help build and maintain the land; the annual International Course and other scheduled meditation retreats do not require work.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Karma Dechen Ling (KDL) - official site",
+      "url": "https://www.kdl.org.uy/"
+    },
+    {
+      "title": "Diamond Way Buddhism Foundation - Uruguay (Karma Dechen Ling description, purchase year, size, infrastructure)",
+      "url": "https://www.buddhism-foundation.org/centers/owned-centers/uruguay"
+    },
+    {
+      "title": "Diamond Way Buddhism - Uruguay centers",
+      "url": "https://www.diamondway-buddhism.org/diamondway-buddhist-centers/country/uruguay/"
+    },
+    {
+      "title": "Montevideo Diamond Way Buddhist Center (sister urban center, network/lineage confirmation)",
+      "url": "https://www.karmapa.org/centers/montevideo/diamondway-buddhist-center-montevideo/"
+    },
+    {
+      "title": "Dream Big KDL - KDL 2nd stage building project",
+      "url": "https://www.dreambigkdl.com/"
+    },
+    {
+      "title": "KDL Centro de Retiros Karma Dechen Ling - Facebook",
+      "url": "https://www.facebook.com/DWBCKDL/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "dhamma-santi",
+  "name": "Dhamma Santi",
+  "aka": [
+    "Centro de Meditação Vipassana Dhamma Santi",
+    "Centro de Meditação Vipassana - Dhamma Santi",
+    "Vipassana Brasil"
+  ],
+  "website": "https://santi.dhamma.org/",
+  "location": {
+    "address": "Av. de Maria Luiza, 2.605, Sacra Família do Tinguá, Engenheiro Paulo de Frontin, RJ, CEP 26650-000, Brazil",
+    "city": "Miguel Pereira",
+    "region": "Rio de Janeiro (interior), Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -22.5497,
+    "lng": -43.6783
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led on-site by certified Goenka-tradition assistant teachers using recorded audio/video instructions and evening discourses given by S.N. Goenka.",
+  "retreatOptions": "10-day courses (the standard offering, run roughly monthly), 1-day and short courses and work periods for old students, longer 20/30/45-day courses for experienced practitioners, and periodic courses for children and teenagers.",
+  "about": "Dhamma Santi is a Vipassana meditation center in the S.N. Goenka tradition, located near Miguel Pereira in the rural interior of Rio de Janeiro state, Brazil. It was founded in May 2003 by a group of old students and assistant teachers who purchased land and built a Dhamma Hall after nearly a decade of running courses at rented sites around the country, making it the first Vipassana center of this tradition in South America. Set amid protected Atlantic Forest, the center has grown from an initial capacity of around 21 students to over 100, with separate housing for men and women including individual meditation cells added in 2012. The core offering is the standard silent, residential 10-day course teaching Anapana and Vipassana meditation through recorded instructions given by S.N. Goenka, led on-site by certified assistant teachers, alongside longer courses for returning students and periodic courses for children and teens. As with all centers in the Goenka network, courses are offered entirely on a voluntary donation (dana) basis, with no fees charged for teaching, food, or lodging.",
+  "schedule": "Multiple 10-day courses run through the year with old-student work periods in between, plus periodic 1-day, 20/30/45-day, and children/teen courses; exact dates are published on a rolling course calendar via dhamma.org.",
+  "cost": "No set fee of any kind; entirely dana (voluntary donation)-based. All costs are covered by donations from past students, and neither the teacher nor assistant teachers receive any remuneration.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "No suggested amount; retreatants may give as they are able at the end of a course.",
+    "source": "https://www.dhamma.org/en/schedules/schsanti"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals prepared and served on-site at no charge for the full duration of each course.",
+  "workRequired": "partial",
+  "workNotes": "Old students are welcome and often asked to give Dhamma service (seva); the center also runs dedicated multi-day work/service periods between courses for old students.",
+  "tags": [
+    "goenka",
+    "insight-vipassana",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Santi (home)",
+      "url": "https://santi.dhamma.org/"
+    },
+    {
+      "title": "About Dhamma Santi",
+      "url": "https://santi.dhamma.org/en/the-centre/"
+    },
+    {
+      "title": "Dhamma Santi course schedule (dhamma.org)",
+      "url": "https://www.dhamma.org/en/schedules/schsanti"
+    },
+    {
+      "title": "Children and Teens Course - Dhamma Santi",
+      "url": "https://santi.dhamma.org/en/children-and-teens-course/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

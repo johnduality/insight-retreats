@@ -1,0 +1,77 @@
+{
+  "id": "shobogenji-zen-temple-capilla-del-monte",
+  "name": "Templo Zen Shobogenji",
+  "aka": [
+    "Shobogenji",
+    "Shobogenji Zen Temple",
+    "Templo Zen de Shobogenji",
+    "Shobogenji Zen Temple, Capilla del Monte"
+  ],
+  "website": "https://shobogenji.org/",
+  "location": {
+    "address": "Paraje Ojo de Agua, ~5 km from Capilla del Monte, Córdoba, Argentina",
+    "city": "Capilla del Monte",
+    "region": "Punilla Valley, Córdoba, Argentina",
+    "country": "Argentina",
+    "state": "AR",
+    "lat": -30.865,
+    "lng": -64.555
+  },
+  "tradition": "Soto Zen Buddhism (Deshimaru lineage / Association Zen Internationale)",
+  "technique": "Zazen (seated Zen meditation) practiced on a fixed daily schedule, combined with samu (work practice) and periodic sesshin retreats",
+  "influences": [
+    "Taisen Deshimaru",
+    "Kosen Thibaut",
+    "Association Zen Internationale (AZI)"
+  ],
+  "teacherAccess": "Resident teachers and visiting monks of the Deshimaru/AZI lineage lead daily zazen and give teachings (kusen/mondo) during stays and sesshin; the temple's founding teacher's lineage holder visits Argentina annually to direct the summer Ango.",
+  "retreatOptions": "Weekend introductory stays (Saturday-Sunday, extendable by arrangement); periodic multi-day sesshin retreats through the year; the annual Ango (summer camp) held as four 9-day sessions (6 days of practice plus a 3-day sesshin), joinable by single session or in full.",
+  "about": "Founded in 1998 by Kosen Thibaut, a disciple of Master Taisen Deshimaru, Templo Zen Shobogenji is the first Zen temple established in Latin America and sits on a slope of Cerro Uritorco in the \"Ojo de Agua\" area, about 5 km from Capilla del Monte in the Sierras de Córdoba. The temple has a dojo, kitchen and dining room, a vegetable garden, ecological dry toilets, a two-story dormitory (the \"domo\"), and camping areas for practitioners who stay on site. Practice centers on zazen combined with samu (work practice such as cooking, gardening, and maintenance), following the daily rhythm of a working Zen monastery. Beyond weekend introductory stays, the temple holds several intensive sesshin retreats each year, culminating in the annual Ango summer camp, when the lineage's teacher travels from France to direct three days of intensive zazen within each of four nine-day sessions.",
+  "schedule": "Fixed daily zazen schedule for residents and visitors on retreat; periodic sesshin retreats through the year, and the annual Ango summer camp (four 9-day sessions: 6 days of practice plus a 3-day sesshin) held each January.",
+  "cost": "Dana/collaboration-based; a voluntary contribution (\"colaboración a conciencia\") is requested for zazen practice and stays, varying by length of stay, with an optional monthly contribution for regular practitioners.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "ARS",
+    "notes": "No fixed public tariff; the temple requests a voluntary collaboration that varies with length of stay, rather than a set nightly rate.",
+    "source": "https://shobogenji.org/"
+  },
+  "foodServed": "yes",
+  "foodType": "mixed",
+  "foodNotes": "Meals are generally vegetarian; on days when a dish with meat is served, a vegetarian alternative is always offered, and guests indicate dietary needs at registration.",
+  "workRequired": "yes",
+  "workNotes": "Samu (work practice - meal preparation, gardening, maintenance) is a required part of temple life and alternates with zazen during preparation periods before sesshin.",
+  "tags": [
+    "zen",
+    "silent",
+    "long-retreats",
+    "dana-donation",
+    "meals-included",
+    "work-practice",
+    "camping"
+  ],
+  "sources": [
+    {
+      "title": "Templo zen Shobogenji - official site",
+      "url": "https://shobogenji.org/"
+    },
+    {
+      "title": "Templo Zen Shobogenji - Association Zen Internationale (Argentina)",
+      "url": "https://zen-deshimaru.com.ar/templo-zen-shobogenji/"
+    },
+    {
+      "title": "Templo Shobogenji - Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Templo_Shobogenji"
+    },
+    {
+      "title": "Preguntas frecuentes - Zen Deshimaru Argentina",
+      "url": "https://zen-deshimaru.com.ar/preguntas-frecuentes/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

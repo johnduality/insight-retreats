@@ -1,0 +1,71 @@
+{
+  "id": "casa-zen-costa-rica",
+  "name": "Casa Zen de Costa Rica",
+  "aka": [
+    "Casa Zen",
+    "Casa Zen Costa Rica Zen Buddhist Community"
+  ],
+  "website": "https://www.casazen.org/",
+  "location": {
+    "address": "Calle Ronda, Santo Domingo de Heredia (100 m west and 100 m south of the Automercado, near the Basílica de Santo Domingo), Heredia Province, Costa Rica",
+    "city": "Santo Domingo de Heredia",
+    "region": "Heredia Province, Costa Rica",
+    "country": "Costa Rica",
+    "state": "CR",
+    "lat": 9.9707,
+    "lng": -84.1002
+  },
+  "tradition": "Zen Buddhism (Rochester Zen Center / Kapleau lineage)",
+  "technique": "Shikantaza (silent-illumination) and koan-inquiry zazen practiced in structured sesshin retreats",
+  "influences": [
+    "Roshi Philip Kapleau",
+    "Roshi Sunyana Graef",
+    "Sensei Bodhi Murillo",
+    "Harada-Yasutani lineage",
+    "Rochester Zen Center"
+  ],
+  "teacherAccess": "Dokusan (private teacher interviews) up to three times daily during sesshin, plus one daily teisho (Zen talk); dokusan is also available to members during their trial period.",
+  "retreatOptions": "Half-day and one- to two-day sittings; freer-structured 5-day meditation retreats (once a year); 3-day sesshins several times a year; and an annual 7-day traditional sesshin for experienced students.",
+  "about": "Casa Zen de Costa Rica is a lay Zen Buddhist community founded in 1974 in Santo Domingo de Heredia, in Costa Rica's Central Valley, making it one of the oldest Zen sanghas in Latin America. It is a sister center to the Vermont Zen Center, sharing the same Rochester Zen Center (Philip Kapleau) lineage; for 37 years its teacher was Roshi Sunyana Graef, who in November 2025 named her Costa Rican student Sensei Bodhi Murillo as Dharma heir and the new director of Casa Zen. The center holds sesshins and retreats nearly every month, alternating between Costa Rica and Vermont, ranging from 3-day sesshins to a freer 5-day retreat to an annual 7-day traditional sesshin, all built around silent zazen, walking meditation, chanting, and a daily work period. Beyond residential retreats, Casa Zen also offers daily sittings, introductory workshops, private meditation instruction, and ceremonies for its local Sangha. Note: this Casa Zen (a Zen Buddhist practice community in the Central Valley) is unrelated to the similarly-named yoga/surf guesthouse of the same name in the beach town of Santa Teresa.",
+  "schedule": "Sesshins and retreats are held nearly every month year-round, alternating between Casa Zen in Costa Rica and the Vermont Zen Center, with one 7-day traditional sesshin, several 3-day sesshins, and one 5-day retreat held in Costa Rica each year.",
+  "cost": "Program fees are set per retreat and not published online; community membership (minimum suggested donation of $30/month) gives priority sesshin registration and discounts.",
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals are served during sesshins and retreats as part of the structured daily schedule.",
+  "workRequired": "yes",
+  "workNotes": "A daily work period (samu) is built into both the structured sesshins and the freer 5-day retreat; the 5-day retreat specifically requires about 90 minutes of work practice each day.",
+  "tags": [
+    "zen",
+    "silent",
+    "meals-included",
+    "diet-vegetarian",
+    "work-practice"
+  ],
+  "sources": [
+    {
+      "title": "Casa Zen de Costa Rica - home",
+      "url": "https://www.casazen.org/index-e.html"
+    },
+    {
+      "title": "Casa Zen de Costa Rica - Seshines (Sesshin schedule and program types)",
+      "url": "https://www.casazen.org/seshin.html"
+    },
+    {
+      "title": "Casa Zen de Costa Rica - Membresía",
+      "url": "https://www.casazen.org/membresia.html"
+    },
+    {
+      "title": "Casa Zen de Costa Rica - Programas",
+      "url": "https://www.casazen.org/programas.html"
+    },
+    {
+      "title": "Casa Zen de Costa Rica - Contáctenos",
+      "url": "https://www.casazen.org/contacto.html"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

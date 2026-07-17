@@ -1,0 +1,73 @@
+{
+  "id": "templo-busshinji",
+  "name": "Templo Busshinji",
+  "aka": [
+    "Comunidade Budista Soto Zenshu da América do Sul",
+    "Templo Budista Busshinji",
+    "South American Headquarters Temple, Soto Zen Buddhism"
+  ],
+  "website": "https://sotozen.org.br/",
+  "location": {
+    "address": "Rua São Joaquim, 285, Liberdade, São Paulo, São Paulo, 01508-001, Brazil",
+    "city": "São Paulo",
+    "region": "São Paulo (city), São Paulo, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -23.5583,
+    "lng": -46.6355
+  },
+  "tradition": "Soto Zen Buddhism",
+  "technique": "Zazen (seated meditation), kinhin (walking meditation), and sutra chanting, practiced within multi-day sesshin retreats under Noble Silence",
+  "influences": [
+    "Eihei Dogen Zenji",
+    "Keizan Jokin Zenji",
+    "Rosen Takashina Zenji (founding mission, 1955)"
+  ],
+  "teacherAccess": "Resident Soto Zen priests of the Comunidade Budista Soto Zenshu da América do Sul lead daily zazen instruction, Dharma talks, and individual guidance during sesshin retreats.",
+  "retreatOptions": "Multi-day sesshin retreats through the year, including the week-long Rohatsu Sesshin (commemorating the Buddha's enlightenment, roughly Dec 1-8), the Fuyu Sesshin (Winter Sesshin), the Hoon Sesshin (Gratitude Sesshin), and one-day intensive zazen sesshins; on-site lodging is limited to about 30 places per retreat, allocated in registration order.",
+  "about": "Templo Busshinji is the South American headquarters temple of the Soto Zen Buddhist Community (Comunidade Budista Soto Zenshu da América do Sul), founded in 1955 through a mission led by the senior prelate Rosen Takashina Zenji and located in the historic Liberdade neighborhood in central São Paulo. As the region's main training and administrative center for the Japanese Soto Zen lineage of Dogen and Keizan, the temple hosts a full calendar of multi-day sesshin retreats, most notably the roughly week-long Rohatsu Sesshin marking the Buddha's enlightenment each December, alongside the Fuyu (Winter) Sesshin, the Hoon (Gratitude) Sesshin, and shorter one-day intensive zazen days. Retreats are held under Noble Silence with a fixed monastic schedule of zazen, kinhin, and chanting led by resident priests, and fresh vegetarian meals are served to all participants regardless of personal preference, in keeping with monastic practice. On-site lodging is limited to about 30 places per sesshin, allocated in the order registrations are confirmed, making the temple both an urban meditation center and the closest thing to a residential Zen monastery within the city of São Paulo.",
+  "schedule": "A recurring annual calendar of multi-day sesshin retreats — most notably the roughly week-long Rohatsu Sesshin each December — plus periodic Winter and Gratitude sesshins and one-day intensive zazen days.",
+  "cost": "Fixed registration fee per sesshin covering meals and on-site lodging (a recent Rohatsu Sesshin registration ran about R$700 for the full week); shorter one-day sesshins are priced separately and lower.",
+  "pricePerDay": {
+    "min": 87,
+    "max": 100,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "Approximate: based on a recent Rohatsu Sesshin (roughly 7-8 nights, Dec 1-8) registration fee of about R$700 covering lodging and meals, divided across the nights; the published fee amount varies year to year.",
+    "source": "https://sotozenorgbr.wordpress.com/2019/10/17/sesshin-da-iluminacao-rohatsu-sesshin-2019/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Fresh vegetarian meals served to all sesshin participants as part of the monastic schedule; guests are asked to accept the food offered without discrimination.",
+  "workRequired": "unknown",
+  "tags": [
+    "zen",
+    "silent",
+    "fixed-fee",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Templo Busshinji | Comunidade Budista Soto Zenshu da América do Sul",
+      "url": "https://sotozenorgbr.wordpress.com/"
+    },
+    {
+      "title": "Quem somos - Sotozen - Templo Budista Busshinji",
+      "url": "https://sotozen.org.br/quem-somos/"
+    },
+    {
+      "title": "Sesshin da Iluminação – Rohatsu Sesshin 2019 | Templo Busshinji",
+      "url": "https://sotozenorgbr.wordpress.com/2019/10/17/sesshin-da-iluminacao-rohatsu-sesshin-2019/"
+    },
+    {
+      "title": "Rohatsu Sesshin – SP – Daissen",
+      "url": "https://www.daissen.org.br/rohatsu-sesshin-sp/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

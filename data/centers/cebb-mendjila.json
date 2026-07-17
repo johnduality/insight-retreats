@@ -1,0 +1,77 @@
+{
+  "id": "cebb-mendjila",
+  "name": "CEBB Mendjila",
+  "aka": [
+    "Centro de Estudos Budistas Bodisatva - Mendjila",
+    "Aldeia CEBB Mendjila",
+    "Instituto Caminho do Meio - Mendjila"
+  ],
+  "website": "https://cebb.org.br/en/mendjila-contato/",
+  "location": {
+    "address": "Rua Regina B. Clemer, 2607, Bairro Índia, Canelinha, SC, Brazil",
+    "city": "Canelinha",
+    "region": "Santa Catarina, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -27.2536,
+    "lng": -48.8025
+  },
+  "tradition": "Tibetan Buddhism (Nyingma lineage) as taught by Lama Padma Samten, rooted in an original Zen Buddhist foundation",
+  "technique": "Shamatha and Dzogchen-based meditation, guided contemplation, and study of Buddhist teachings within the CEBB curriculum",
+  "influences": [
+    "Lama Padma Samten",
+    "Chagdud Tulku Rinpoche"
+  ],
+  "teacherAccess": "Retreats and teachings are led in person or online by Lama Padma Samten and other CEBB teachers; guests can also request individual tutor support.",
+  "retreatOptions": "Weekend and multi-day teaching retreats through the year, plus 7-21 night Vivência immersion stays with community and voluntary activities; day visits are also possible.",
+  "about": "CEBB Mendjila is an 11-hectare Buddhist retreat village of the Centro de Estudos Budistas Bodisatva (CEBB) network in Canelinha, Santa Catarina, about ten km from Tijucas. Established in 2010, it was the first CEBB village dedicated to Buddhist practice and residency in Santa Catarina. The property centers on the Mendjila Buddha Temple (Medicine Buddha), CEBB's second major temple, with capacity for around 300 people, alongside separate men's and women's dormitories able to lodge roughly 100 guests, a dining hall and industrial kitchen, gardens and orchards, and an eco-brick workshop. Following the Nyingma-rooted, Zen-founded approach taught by Lama Padma Samten across the CEBB network, the village hosts weekend and multi-day retreats as well as longer Vivência immersion stays in which guests join the community's daily schedule of meditation, study, and voluntary work.",
+  "schedule": "Periodic weekend and multi-day retreats with Lama Padma Samten and other CEBB teachers, plus ongoing Vivência immersion stays scheduled by arrangement.",
+  "cost": "Suggested, non-mandatory daily reference values are published for teaching, lodging and meals separately; some multi-day retreats separately suggest a R$200-400 reference contribution for the full program.",
+  "pricePerDay": {
+    "min": 65,
+    "max": 65,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "R$65/night computed from CEBB Mendjila's published itemized suggested values: accommodation R$25 + meals R$40 (breakfast R$10 + lunch R$20 + dinner R$10); a separate ~R$50 per-session teaching contribution is additional and voluntary.",
+    "source": "https://cebb.org.br/en/pagina-de-acompanhamento-retiro-a-pratica-do-caminho-direto-cebb-mendjila/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Vegetarian meals prepared in the village's industrial kitchen and dining hall are available for a suggested daily contribution.",
+  "workRequired": "partial",
+  "workNotes": "Vivência immersion guests take part in voluntary community activities (gardens, kitchen, general upkeep) alongside meditation and study.",
+  "tags": [
+    "tibetan-vajrayana",
+    "sliding-scale",
+    "meals-included",
+    "diet-vegetarian",
+    "long-retreats"
+  ],
+  "sources": [
+    {
+      "title": "Projeto da Casa de Retiros do CEBB Mendjila",
+      "url": "https://cebb.org.br/casa-de-retiros-do-cebb-rural-mendjila-canelinha-sc/"
+    },
+    {
+      "title": "Inauguração do Templo do CEBB Mendjila, em Canelinha/SC",
+      "url": "https://cebb.org.br/en/inauguracao-templo-mendjila/"
+    },
+    {
+      "title": "Aldeia Cebb Mendjila – Instituto Caminho do Meio",
+      "url": "https://icmcanelinha.wordpress.com/sobre-a-aldeia-cebb-mendjila/"
+    },
+    {
+      "title": "Página de Acompanhamento Retiro CEBB Mendjila (pricing)",
+      "url": "https://cebb.org.br/en/pagina-de-acompanhamento-retiro-a-pratica-do-caminho-direto-cebb-mendjila/"
+    },
+    {
+      "title": "CEBB Mendjila - Contato",
+      "url": "https://cebb.org.br/en/mendjila-contato/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

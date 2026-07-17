@@ -1,0 +1,80 @@
+{
+  "id": "mosteiro-suddhavari",
+  "name": "Mosteiro Suddhavāri",
+  "aka": [
+    "Suddhavari Monastery",
+    "Sociedade Budista do Brasil"
+  ],
+  "website": "https://suddhavari.org/",
+  "location": {
+    "address": "Soledade de Minas, MG, Brazil",
+    "city": "Soledade de Minas",
+    "region": "Sul de Minas (near São Lourenço), Minas Gerais, Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -22.0554,
+    "lng": -45.0464
+  },
+  "tradition": "Theravada Buddhism, Thai Forest Tradition of Ajahn Chah, affiliated with Wat Nong Pah Pong",
+  "technique": "Silent sitting and walking meditation within a monastic daily schedule, alms round, and work practice in the Thai Forest lineage",
+  "influences": [
+    "Ajahn Chah",
+    "Luang Por Liem",
+    "Ajahn Mudito (founding abbot)"
+  ],
+  "teacherAccess": "Resident monastics, including founding abbot Ajahn Mudito, lead the monastic schedule; senior teachers from the Ajahn Chah lineage (e.g. Ajahn Pasanno) visit periodically, but lay stays are unguided self-retreats.",
+  "retreatOptions": "Unguided residential stays for experienced practitioners only (no organized beginner program): unfamiliar guests up to about 7 nights, previously-known guests up to about a month, following the monastery's daily schedule.",
+  "about": "Mosteiro Suddhavāri is Brazil's monastery of the Thai Forest Tradition, founded in 2017 in Soledade de Minas in the far south of Minas Gerais, near São Lourenço, after Luang Por Liem blessed the purchase of the land. Founding abbot Ajahn Mudito, a Brazilian monk ordained at Wat Nong Pah Pong under Luang Por Liem, lived alone on the bare property for six months before the monastery took shape, and it has since been recognized as an official branch monastery of Wat Nong Pah Pong, the mother monastery of the worldwide Ajahn Chah lineage. Life follows the strict routine of the forest tradition — communal silence, renunciation, meditation, and required work — with meals limited to whatever is offered and no special diets accommodated. The monastery does not run scheduled retreats or accept complete beginners; instead it hosts self-directed residential stays for practitioners who already have solid Theravada study and retreat experience, admitting them for up to about a week (longer for known repeat visitors) entirely free of charge and funded by voluntary dana.",
+  "schedule": "Monastic daily schedule of communal meditation, chanting, alms round, and work periods set by the resident sangha; no fixed retreat calendar for lay guests.",
+  "cost": "Entirely dana (voluntary donation)-based; the monastery does not charge for teachings, food, or accommodation and does not expect donations from anyone unable to give.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "BRL",
+    "notes": "No suggested amount; strictly free of charge, funded by voluntary dana from supporters.",
+    "source": "https://suddhavari.org/endereco-contato/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Meals are vegetarian (no vegan or special-diet meals prepared); guests may not bring personal food but may donate food to the kitchen.",
+  "workRequired": "yes",
+  "workNotes": "Guests are expected to help with monastery work as part of the stay; the monastery states explicitly that not working is not permitted.",
+  "tags": [
+    "theravada",
+    "silent",
+    "dana-donation",
+    "monastic-community",
+    "work-practice",
+    "self-guided",
+    "meals-included",
+    "diet-vegetarian"
+  ],
+  "sources": [
+    {
+      "title": "Mosteiro Suddhavāri - home",
+      "url": "https://suddhavari.org/"
+    },
+    {
+      "title": "Quem Somos - Mosteiro Suddhavāri",
+      "url": "https://suddhavari.org/quem-somos/"
+    },
+    {
+      "title": "Estadia / Contato / Localização - Mosteiro Suddhavāri",
+      "url": "https://suddhavari.org/endereco-contato/"
+    },
+    {
+      "title": "Inscrição para estadia no mosteiro",
+      "url": "https://suddhavari.org/inscricao-estadia-no-mosteiro/"
+    },
+    {
+      "title": "Perguntas Frequentes - Mosteiro Suddhavāri",
+      "url": "https://suddhavari.org/perguntas-frequentes/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

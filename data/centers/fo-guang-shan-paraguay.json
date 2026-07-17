@@ -1,0 +1,74 @@
+{
+  "id": "fo-guang-shan-paraguay",
+  "name": "Templo Budista Fo Guang Shan Paraguay",
+  "aka": [
+    "Fo Guang Shan Ciudad del Este",
+    "Templo Budista Fo Guang Shan de Ciudad del Este",
+    "Asociacion Internacional Luz de Buda Paraguay",
+    "BLIA Paraguay",
+    "IBPS Paraguay"
+  ],
+  "website": "https://fgsparaguay.com/",
+  "location": {
+    "address": "Calle Tte. Fariña y Marginal Norte, Barrio San Agustín, Ciudad del Este, Alto Paraná, Paraguay",
+    "city": "Ciudad del Este",
+    "region": "Alto Paraná, Paraguay",
+    "country": "Paraguay",
+    "state": "PY",
+    "lat": -25.5094,
+    "lng": -54.6083
+  },
+  "tradition": "Chan / Pure Land Humanistic Buddhism (Fo Guang Shan order)",
+  "technique": "Chan (Chan Buddhism) sitting and walking meditation, Dharma talks, and ceremony, practiced in periods of Noble Silence during retreats",
+  "influences": [
+    "Venerable Master Hsing Yun (founder of Fo Guang Shan)",
+    "Buddha's Light International Association (BLIA)"
+  ],
+  "teacherAccess": "Daily teaching discourses and guided sessions from resident Fo Guang Shan monastics during retreats; regular free Dharma talks and consultations outside of retreats.",
+  "retreatOptions": "Free day visits, weekly practice sessions, and cultural/festival events (non-residential) throughout the year, plus periodic residential Chan meditation retreats (most recently a 3-day, 2-night program held in Noble Silence).",
+  "about": "Templo Budista Fo Guang Shan Paraguay is the Ciudad del Este temple of the international Humanistic Buddhist order founded in Taiwan by Venerable Master Hsing Yun and affiliated with the Buddha's Light International Association (BLIA). Construction began in 2016 in the barrio San Agustín neighborhood along the Marginal Norte and was completed in 2020, producing a complex that combines traditional Chinese monastic architecture with modern facilities and is staffed by resident Fo Guang Shan monastics. Alongside its regular free public programs, Dharma talks, and cultural festivals, the temple periodically opens a residential Chan meditation retreat — a 3-day, 2-night program held in Noble Silence with daily teaching discourses, three lacto-vegetarian meals a day, and on-site lodging in the temple. A sister Fo Guang Shan temple in Asunción, the capital, hosts day programs and community events, but only the Ciudad del Este site is documented as offering overnight retreat stays. In keeping with Fo Guang Shan's Humanistic Buddhism, the emphasis is on bringing Chan and Pure Land practice into everyday life rather than on permanent monastic seclusion.",
+  "schedule": "Free daily temple visits, weekly practice sessions, and periodic festivals/ceremonies (Vesak, Lunar New Year) year-round, plus occasional multi-day residential Chan retreats announced via the temple's social media and local press.",
+  "cost": "Free entry and regular programs; the residential Chan retreat is a set contribution of 350,000 Guaraníes covering two nights' lodging and three daily meals.",
+  "pricePerDay": {
+    "min": 175000,
+    "max": 175000,
+    "unit": "night",
+    "currency": "PYG",
+    "notes": "3-day/2-night Chan retreat (Mar 2024 offering): 350,000 PYG total ÷ 2 nights ≈ 175,000 PYG/night, including lodging and 3 meals/day.",
+    "source": "https://diariovanguardia.com.py/templo-budista-de-ciudad-del-este-invita-a-un-retiro-de-meditacion/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "Three lacto-vegetarian meals a day (breakfast, lunch, dinner) provided during the residential retreat.",
+  "workRequired": "unknown",
+  "tags": [
+    "mahayana",
+    "silent",
+    "meals-included",
+    "diet-vegetarian",
+    "fixed-fee"
+  ],
+  "sources": [
+    {
+      "title": "Templo budista de Ciudad del Este invita a un retiro de meditación - Diario Vanguardia",
+      "url": "https://diariovanguardia.com.py/templo-budista-de-ciudad-del-este-invita-a-un-retiro-de-meditacion/"
+    },
+    {
+      "title": "La diversidad del dharma en Paraguay. Segunda parte - Buddhistdoor en Español",
+      "url": "https://espanol.buddhistdoor.net/la-diversidad-del-dharma-en-paraguay-segunda-parte/"
+    },
+    {
+      "title": "Directorio de comunidades budistas en Paraguay - Buddhistdoor en Español",
+      "url": "https://espanol.buddhistdoor.net/directorio-de-comunidades-budistas-en-paraguay/"
+    },
+    {
+      "title": "Templo Budista Fo Guang Shan (Turis Hotel CDE)",
+      "url": "https://turiscde.com/indicaciones/templo-budista-fo-guang-shan/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

@@ -27,12 +27,30 @@ const STATE_NAMES = { CA: "California", OR: "Oregon", WA: "Washington", NY: "New
 // Preferred display order for the region selector; anything else falls to the end.
 const REGION_ORDER = ["United States", "Canada", "Europe", "Latin America", "Oceania"];
 const EUROPE = new Set(["United Kingdom", "Germany", "France", "Spain", "Italy", "Netherlands", "Switzerland", "Ireland", "Austria", "Belgium", "Portugal", "Poland", "Sweden", "Denmark", "Norway", "Finland", "Czech Republic", "Greece", "Hungary", "Romania", "Slovenia", "Croatia", "Bulgaria", "Iceland"]);
-const LATIN_AMERICA = new Set(["Mexico", "Guatemala", "Costa Rica", "Panama", "Colombia", "Ecuador", "Peru", "Chile", "Argentina", "Brazil", "Uruguay"]);
+// Latin America per the expansion plan's scope note: Spanish-, Portuguese-, and
+// French-speaking countries of the Americas south of the US (Mexico plus Central
+// America, the Spanish/French-speaking Caribbean, and South America). Guyana,
+// Suriname, and French Guiana are intentionally excluded (English/Dutch/French
+// overseas department, not part of this cultural/linguistic grouping).
+const LATIN_AMERICA = new Set([
+  "Mexico",
+  // Central America
+  "Guatemala", "Belize", "Honduras", "El Salvador", "Nicaragua", "Costa Rica", "Panama",
+  // Caribbean (Spanish/French-speaking)
+  "Cuba", "Dominican Republic", "Haiti",
+  // South America
+  "Colombia", "Venezuela", "Ecuador", "Peru", "Bolivia", "Brazil", "Paraguay", "Chile", "Argentina", "Uruguay",
+]);
 const OCEANIA = new Set(["Australia", "New Zealand"]);
+// Non-state US territories (populated, organized/unincorporated) — grouped into the
+// "United States" bucket rather than a separate region, since they're politically the
+// same country even though `location.country` names the territory for display purposes.
+const US_TERRITORIES = new Set(["Puerto Rico", "Guam", "US Virgin Islands", "American Samoa", "Northern Mariana Islands"]);
 // Which top-level region a center belongs to. US entries carry no `country`.
 function regionOf(c) {
   const country = c.location.country;
   if (!country || country === "United States" || country === "USA") return "United States";
+  if (US_TERRITORIES.has(country)) return "United States";
   if (country === "Canada") return "Canada";
   if (EUROPE.has(country)) return "Europe";
   if (LATIN_AMERICA.has(country)) return "Latin America";
@@ -43,9 +61,13 @@ function regionOf(c) {
 // e.g. "CHF 80", rather than silently mislabeling an unmapped currency as "$").
 function currencySymbol(cur) {
   const map = {
-    USD: "$", CAD: "$", AUD: "$", EUR: "€", GBP: "£", CHF: "CHF ",
+    USD: "$", CAD: "$", AUD: "$", NZD: "$", EUR: "€", GBP: "£", CHF: "CHF ",
     ISK: "kr ", SEK: "kr ", DKK: "kr ", NOK: "kr ", CZK: "Kč ", PLN: "zł ",
     HUF: "Ft ", RON: "lei ", BGN: "лв ",
+    // Latin America (Mexico + Central America + Caribbean + South America)
+    MXN: "$", GTQ: "Q", BZD: "BZ$", HNL: "L ", NIO: "C$", CRC: "₡", PAB: "B/. ",
+    CUP: "$", DOP: "RD$", HTG: "G ", COP: "$", VES: "Bs ", PEN: "S/ ", BOB: "Bs ",
+    BRL: "R$", PYG: "₲", CLP: "$", ARS: "$", UYU: "$U ",
   };
   return map[cur] || (cur ? cur + " " : "$");
 }

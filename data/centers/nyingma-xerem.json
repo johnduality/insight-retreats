@@ -1,0 +1,76 @@
+{
+  "id": "nyingma-xerem",
+  "name": "Centro Nyingma de Budismo Tibetano",
+  "aka": [
+    "Nyingma Rio",
+    "CNBT",
+    "Sítio da Cachoeira"
+  ],
+  "website": "https://www.nyingmario.org.br/",
+  "location": {
+    "address": "Sítio da Cachoeira, Xerém, Duque de Caxias, RJ (retreat land); urban study center at R. Casuarina, 297, Humaitá, Rio de Janeiro",
+    "city": "Xerém, Duque de Caxias",
+    "region": "Rio de Janeiro (interior), Brazil",
+    "country": "Brazil",
+    "state": "BR",
+    "lat": -22.556,
+    "lng": -43.309
+  },
+  "tradition": "Nyingma school of Tibetan Buddhism (Nyingma Mandala network founded by Tarthang Tulku Rinpoche)",
+  "technique": "Meditation, Kum Nye Tibetan yoga, Buddhist philosophy study, and traditional Nyingma ceremonies (e.g. Full Moon Chant)",
+  "influences": [
+    "Tarthang Tulku Rinpoche",
+    "Eleonora Furtado (founder of the Rio center)"
+  ],
+  "teacherAccess": "Led by resident instructors trained and personally authorized by Tarthang Tulku Rinpoche (including the only teachers in Brazil certified by him to teach Kum Nye yoga); the lineage head does not teach on-site.",
+  "retreatOptions": "Weekly meditation and Kum Nye yoga sessions plus Saturday workshops at the Humaitá study center; periodic multi-day residential retreats, including an annual summer retreat, at the Sítio da Cachoeira property in Xerém, which has on-site lodging for retreatants (exact night counts not published online).",
+  "about": "Centro Nyingma de Budismo Tibetano (also known as Nyingma Rio) is the Rio de Janeiro branch of the international Nyingma Mandala network founded by Tibetan lama Tarthang Tulku Rinpoche, brought to Rio in 1987 by Eleonora Furtado after she studied with him in California. Its urban study center in the Humaitá neighborhood houses two meditation halls, a stupa garden, a Kum Nye (Tibetan yoga) studio, a sacred-art workshop, and rooms for retreatants, while its dedicated retreat land, the Sítio da Cachoeira, sits in a forested setting in Xerém (Duque de Caxias), about an hour outside Rio de Janeiro city. Programming blends weekly meditation and Kum Nye yoga classes, semester-long study modules, and weekend workshops at Humaitá with occasional multi-day residential retreats, including an annual summer retreat, at the Sítio da Cachoeira. Teaching is led by center-trained instructors personally authorized by Tarthang Tulku rather than by the lineage head in person. The center runs on a pay-per-session or program contribution model rather than published fixed retreat pricing, and presents itself as open to all backgrounds with no prior Buddhist experience required.",
+  "schedule": "Weekly meditation/Kum Nye practices and Saturday workshops run year-round at the Humaitá center; multi-day retreats at the Sítio da Cachoeira are held periodically, including a summer retreat each year — see the site programação page for current dates.",
+  "cost": "No published fixed retreat pricing; activities are offered via a per-session or per-program \"contribuição\" (e.g. R$25 for a single weekly practice class); Sítio da Cachoeira retreats require separate registration with a contribution covering the stay — contact the center directly for current rates.",
+  "foodServed": "yes",
+  "foodType": "unknown",
+  "foodNotes": "The Humaitá facility includes a cafeteria serving healthy homemade food alongside lodging rooms for retreatants; specific meal arrangements for retreats at the Sítio da Cachoeira site are not independently confirmed online.",
+  "workRequired": "unknown",
+  "workNotes": "No published information found on work/seva expectations for retreatants.",
+  "tags": [
+    "tibetan-vajrayana",
+    "mahayana",
+    "dana-donation",
+    "meals-included"
+  ],
+  "sources": [
+    {
+      "title": "Atividades - Centro Nyingma de Budismo Tibetano",
+      "url": "https://nyingmario.org.br/atividades/"
+    },
+    {
+      "title": "Nyingma Rio – Nyingma Mandala",
+      "url": "https://nyingmamandala.org/nyingma-rio/"
+    },
+    {
+      "title": "Quem somos - Centro Nyingma de Budismo Tibetano",
+      "url": "https://www.nyingmario.org.br/quem-somos/"
+    },
+    {
+      "title": "Home - Nyingma (Centro Nyingma de Budismo Tibetano)",
+      "url": "https://www.nyingmario.org.br/"
+    },
+    {
+      "title": "Meditação e mantras no Centro Nyingma de Budismo Tibetano",
+      "url": "https://bafafa.com.br/mais-coisas/bem-estar/meditacao-e-mantras-no-centro-nyingma-de-budismo-tibetano"
+    },
+    {
+      "title": "Centro Nyingma Do Brasil – Nyingma Mandala (network / São Paulo sister center, used to distinguish legal names)",
+      "url": "https://nyingmamandala.org/centro-nyingma-do-brasil/"
+    },
+    {
+      "title": "Instituto Nyingma do Brasil - Namu (Nyingma Mandala background, São Paulo sister center)",
+      "url": "https://namu.com.br/portal/guias/instituto-nyingma-do-brasil/"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}

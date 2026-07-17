@@ -1,0 +1,74 @@
+{
+  "id": "dhamma-pasanna",
+  "name": "Dhamma Pasanna",
+  "aka": [
+    "Vipassana Chile",
+    "Vipassana Meditation Centre Dhamma Pasanna",
+    "Centro Vipassana Dhamma Pasanna"
+  ],
+  "website": "https://pasanna.dhamma.org/",
+  "location": {
+    "address": "Parcela de Cerro N°75, Hijuela Norte, Hacienda Tantehue, Comuna de Melipilla, Región Metropolitana, Chile",
+    "city": "Melipilla",
+    "region": "Región Metropolitana, Chile",
+    "country": "Chile",
+    "state": "CL",
+    "lat": -33.6891,
+    "lng": -71.2153
+  },
+  "tradition": "Vipassana Meditation as taught by S.N. Goenka",
+  "technique": "Anapana and Vipassana body-scan meditation, taught in silent, structured 10-day residential courses",
+  "influences": [
+    "S.N. Goenka",
+    "Sayagyi U Ba Khin"
+  ],
+  "teacherAccess": "No individual teacher access; courses are led by certified Goenka-tradition assistant teachers who give recorded evening discourses and are available for brief clarifying questions.",
+  "retreatOptions": "10-day courses (the core offering, held roughly 6-8 times a year); short 3-day and 1-day courses and service periods for old students; occasional executive 10-day courses; anapana courses for children when scheduled.",
+  "about": "Dhamma Pasanna is Chile's Goenka-tradition Vipassana center, run by the volunteer Vipassana Chile Corporation, which has taught the technique in the country since 1995. In 2008 the organization acquired land in Tantehue, near Melipilla about two hours from Santiago, for a future permanent center that already carries the name Dhamma Pasanna ('clarity and brilliance of the Dhamma'), given by S.N. Goenka himself; while that site is developed, the center's 10-day courses are currently held at temporary rented venues around the country, most recently in San Felipe and at Puerto Fonck near Puerto Octay. As with all dhamma.org centers, courses follow the tradition of Sayagyi U Ba Khin, are held under Noble Silence on a fixed daily schedule, and are taught entirely free of charge, funded solely by the voluntary donations of past students who serve as volunteer cooks, servers, and teachers. Short courses for old students, service periods, and periodic anapana courses for children are also offered.",
+  "schedule": "Roughly 6-8 ten-day courses per year on a published calendar, plus periodic 3-day and 1-day old-student courses, service periods, and anapana courses for children, all at temporary venues while the permanent Tantehue site is developed.",
+  "cost": "No fees of any kind; entirely dana (voluntary donation)-based, funded by donations from past students who completed a 10-day course.",
+  "pricePerDay": {
+    "min": null,
+    "max": null,
+    "unit": "night",
+    "currency": "CLP",
+    "notes": "No suggested amount; a Goenka tradition (dhamma.org) course with no set fee, as at every dhamma.org center.",
+    "source": "https://pasanna.dhamma.org/available-courses/"
+  },
+  "foodServed": "yes",
+  "foodType": "vegetarian",
+  "foodNotes": "All meals prepared and served on-site at no charge by volunteer servers; vegetarian meals included for the full 10-day course.",
+  "workRequired": "partial",
+  "workNotes": "Old students (who have completed a prior 10-day course) are welcomed to give work service (dhamma seva) at dedicated service periods; new students generally are not required to work during the course itself.",
+  "tags": [
+    "goenka",
+    "silent",
+    "dana-donation",
+    "meals-included",
+    "diet-vegetarian",
+    "family-friendly"
+  ],
+  "sources": [
+    {
+      "title": "Dhamma Pasanna – Vipassana Chile (home)",
+      "url": "https://pasanna.dhamma.org/"
+    },
+    {
+      "title": "Vipassana Chile – history and Tantehue land",
+      "url": "https://pasanna.dhamma.org/vipassana-chile/"
+    },
+    {
+      "title": "Available courses",
+      "url": "https://pasanna.dhamma.org/available-courses/"
+    },
+    {
+      "title": "Course schedule (non-center, Chile)",
+      "url": "https://www.dhamma.org/es/schedules/noncenter/cl"
+    }
+  ],
+  "meta": {
+    "generatedBy": "claude (cowork, Latin America expansion)",
+    "lastUpdated": "2026-07-16",
+    "reviewStatus": "unverified"
+  }
+}
