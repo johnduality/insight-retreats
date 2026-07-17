@@ -7,7 +7,7 @@
  * against the required fields in schema/entry.schema.json.
  *
  * Run:  node scripts/build-data.mjs
- * This is the Cloudflare Pages "build command".
+ * This is the deploy "build command" (see .github/workflows/deploy.yml).
  */
 import { readFileSync, writeFileSync, readdirSync, mkdirSync } from "node:fs";
 import { join, dirname } from "node:path";

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://johnduality.github.io/insight-retreats/sitemap.xml

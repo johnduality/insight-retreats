@@ -1,6 +1,6 @@
 # Insight Retreats
 
-An open catalogue of insight meditation retreat centers across the United States,
+An open catalogue of insight meditation retreat centers across the Americas, Europe, and Oceania,
 with a list view, an interactive map, and per-center detail pages. It's a plain
 **static site** — no backend, no server, no database — so it runs for free on any
 static host (GitHub Pages, Netlify, and the like).
