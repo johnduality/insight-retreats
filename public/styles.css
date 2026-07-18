@@ -225,4 +225,12 @@ a:hover { color: var(--blue-deep); }
   /* vertical space is scarce on phones — let the header scroll away
      instead of pinning it to the top */
   .site-header { position: static; }
+
+  /* Keep the brand on the left and the nav on the right on the same row.
+     flex-start (not center) keeps the brand level with the FIRST nav line
+     when the links wrap to two lines. */
+  .header-inner { flex-wrap: nowrap; align-items: flex-start; }
+  /* The nav links wrap among themselves and stay right-aligned, so an
+     overflowing link drops to a second right-adjusted line. */
+  .header-actions { flex-wrap: wrap; justify-content: flex-end; row-gap: 4px; }
 }
