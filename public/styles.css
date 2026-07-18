@@ -44,16 +44,14 @@ a:hover { color: var(--blue-deep); }
   background: var(--header-bg);
   backdrop-filter: saturate(140%) blur(10px);
 }
-.header-inner { display: flex; align-items: center; justify-content: space-between; height: 64px; }
+.header-inner { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 4px 14px; min-height: 64px; padding-top: 8px; padding-bottom: 8px; }
 .brand {
   font-family: var(--serif); font-weight: 700; font-size: 15px; line-height: 1;
   color: var(--blue); white-space: nowrap;
 }
 .brand:hover { color: var(--blue-deep); }
-.header-actions { display: flex; align-items: center; gap: 10px; }
+.header-actions { display: flex; align-items: center; gap: 18px; }
 .nav-link { font-family: var(--serif); font-size: 15px; font-weight: 700; }
-.about-page .about-links { margin: 8px 0 16px; padding-left: 20px; }
-.about-page .about-links li { margin-bottom: 8px; font-size: 17px; }
 
 /* Buttons — pill style */
 .btn {
