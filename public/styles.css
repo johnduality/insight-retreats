@@ -222,4 +222,7 @@ a:hover { color: var(--blue-deep); }
   .facts { position: static; }
   .viewtoggle { margin-left: 0; }
   .detail-head h1 { font-size: 30px; }
+  /* vertical space is scarce on phones — let the header scroll away
+     instead of pinning it to the top */
+  .site-header { position: static; }
 }
