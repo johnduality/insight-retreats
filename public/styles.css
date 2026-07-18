@@ -51,7 +51,18 @@ a:hover { color: var(--blue-deep); }
 }
 .brand:hover { color: var(--blue-deep); }
 .header-actions { display: flex; align-items: center; gap: 18px; }
+.nav-links { display: flex; align-items: center; gap: 18px; }
 .nav-link { font-family: var(--serif); font-size: 15px; font-weight: 700; }
+
+/* The "Pages" toggle — hidden on desktop (links show inline), shown on mobile. */
+.nav-toggle {
+  display: none; align-items: center; gap: 5px;
+  font-family: var(--serif); font-size: 15px; font-weight: 700;
+  color: var(--blue); background: none; border: 0; padding: 0; cursor: pointer;
+}
+.nav-toggle:hover { color: var(--blue-deep); }
+.nav-chevron { transition: transform .15s ease; }
+.nav-toggle[aria-expanded="true"] .nav-chevron { transform: rotate(180deg); }
 
 /* Buttons — pill style */
 .btn {
@@ -222,15 +233,18 @@ a:hover { color: var(--blue-deep); }
   .facts { position: static; }
   .viewtoggle { margin-left: 0; }
   .detail-head h1 { font-size: 30px; }
-  /* vertical space is scarce on phones — let the header scroll away
-     instead of pinning it to the top */
-  .site-header { position: static; }
 
-  /* Keep the brand on the left and the nav on the right on the same row.
-     flex-start (not center) keeps the brand level with the FIRST nav line
-     when the links wrap to two lines. */
-  .header-inner { flex-wrap: nowrap; align-items: flex-start; }
-  /* The nav links wrap among themselves and stay right-aligned, so an
-     overflowing link drops to a second right-adjusted line. */
-  .header-actions { flex-wrap: wrap; justify-content: flex-end; row-gap: 4px; }
+  /* Collapse the links behind a "Pages" dropdown so the brand keeps its own
+     line and never collides with the nav. */
+  .header-actions { position: relative; }
+  .nav-toggle { display: inline-flex; }
+  .nav-links {
+    display: none;
+    position: absolute; top: calc(100% + 8px); right: 0;
+    flex-direction: column; align-items: flex-end; gap: 12px;
+    background: var(--bg); border: 1px solid var(--border); border-radius: 10px;
+    padding: 12px 16px; box-shadow: 0 8px 24px rgba(20, 50, 90, 0.12);
+    z-index: 60; white-space: nowrap;
+  }
+  .nav-links.is-open { display: flex; }
 }
