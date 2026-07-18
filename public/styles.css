@@ -179,8 +179,11 @@ a:hover { color: var(--blue-deep); }
 .detail-back:hover { color: var(--blue-deep); }
 .detail-head { border-bottom: 1px solid var(--border); padding-bottom: 20px; margin-bottom: 24px; }
 .detail-head h1 { font-family: var(--display); font-weight: 700; margin: 0 0 6px; color: var(--title); font-size: 38px; line-height: 1.1; }
-#about .detail-head h1 { color: var(--blue); }
-#about .detail-head { border-bottom: none; padding-bottom: 0; }
+#about .detail-head h1 {
+  font-family: var(--serif); font-size: 27px; line-height: 1.6; font-weight: 700;
+  color: var(--blue); text-align: center; max-width: 700px; margin: 4px auto 0;
+}
+#about .detail-head { border-bottom: none; padding-bottom: 0; margin-bottom: 30px; }
 #about .detail-main h2 { color: var(--text); font-family: var(--serif); font-weight: 700; font-size: 17px; margin: 24px 0 6px; }
 .detail-head .tradition { color: var(--blue); font-size: 17px; margin: 0 0 2px; }
 .detail-head .place { color: var(--muted); margin: 0; font-size: 15px; }
