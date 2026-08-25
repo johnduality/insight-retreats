@@ -21620,6 +21620,96 @@
     }
   },
   {
+    "id": "dhamma-sukha-meditation-center",
+    "name": "Dhamma Sukha Meditation Center",
+    "aka": [
+      "DSMC",
+      "Dhammasukha",
+      "Dhamma Sukha Annapolis",
+      "Dhamma Sukha Meditation Center Missouri"
+    ],
+    "website": "https://www.dhammasukha.org/",
+    "location": {
+      "address": "8218 County Road 204, Annapolis, MO 63620",
+      "city": "Annapolis",
+      "county": "Iron County",
+      "region": "Ozark Mountains, southeast Missouri",
+      "state": "MO",
+      "lat": 37.513113,
+      "lng": -90.767203
+    },
+    "tradition": "Early Buddhist, sutta-based (the center's own term is Suttavada, set apart from later commentarial practice)",
+    "technique": "Tranquil Wisdom Insight Meditation (TWIM): brahmavihara/loving-kindness practice with the 6R process of relaxing tension",
+    "influences": [
+      "Ven. Bhante Vimalaramsi (founder, 1946-2023)",
+      "Rev. Sister Khema (Ven. Khanti Khema)",
+      "David Johnson",
+      "Delson Armstrong",
+      "Bhante Kusala",
+      "Pali suttas / earliest Buddhist texts"
+    ],
+    "teacherAccess": "Daily one-on-one interviews with the retreat teacher plus an evening Dhamma talk; teachers are in residence for the whole retreat.",
+    "retreatOptions": "Standard 10-night residential retreats, occasional 4-5 night intro retreats, and guided online Zoom retreats.",
+    "about": "Dhamma Sukha Meditation Center sits on wooded land in the Ozark hills outside Annapolis, in southeast Missouri, about two hours south of St. Louis. It was founded in 2003 by Bhante Vimalaramsi, who had begun teaching his method, Tranquil Wisdom Insight Meditation (TWIM), in 1995 and who died in 2023; the center is now led by senior teachers he trained, among them David Johnson, Delson Armstrong and Bhante Kusala. TWIM works with the brahmaviharas — loving-kindness and its companions — together with a 6R process of recognising, releasing, relaxing, re-smiling, returning and repeating, and the center presents it as practice drawn straight from the Pali suttas rather than from later commentaries. Retreats are residential and silent, with retreatants in single cabins, two meals a day, a short daily work period and a daily interview with the teacher. On-site retreats run through the warmer months; in the winter the center teaches the same method online over Zoom.",
+    "schedule": "On-site retreats run roughly April through September, scheduled every few weeks around which teacher is in residence; online Zoom retreats fill the winter months.",
+    "cost": "Fixed all-inclusive room-and-board fee paid at registration; teachers take no share of it and accept dana at the end of the retreat, and limited hardship scholarships exist.",
+    "pricePerDay": {
+      "min": 125,
+      "max": 125,
+      "unit": "night",
+      "notes": "Standard 10-night TWIM retreat is $1,250 all-in ($450 deposit + $800 balance) ÷ 10 nights; the shorter 4-night intro retreat works out lower at $475 ÷ 4 = $118.75. Round-trip St. Louis airport shuttle is a separate $180.",
+      "source": "https://www.dhammasukha.org/shop-retreats"
+    },
+    "foodServed": "yes",
+    "foodType": "mixed",
+    "foodNotes": "Two meals daily in monastic style — breakfast at 7:00 and a buffet lunch at 11:30, with no evening meal. Lunch offers a vegetarian or a meat/fish entree, all gluten-free, with dairy and non-dairy options.",
+    "workRequired": "yes",
+    "workNotes": "A 30-minute 'yogi job' each morning after breakfast — sweeping, weeding or other light cleaning — treated as part of the practice.",
+    "tags": [
+      "theravada",
+      "insight-vipassana",
+      "silent",
+      "online-hybrid",
+      "diet-vegetarian",
+      "diet-omnivore",
+      "fixed-fee",
+      "scholarships",
+      "meals-included",
+      "work-practice"
+    ],
+    "sources": [
+      {
+        "title": "Dhamma Sukha Meditation Center — home",
+        "url": "https://www.dhammasukha.org/"
+      },
+      {
+        "title": "Residential Retreats at DSMC",
+        "url": "https://www.dhammasukha.org/retreat-dsmc"
+      },
+      {
+        "title": "DSMC Retreat Fees",
+        "url": "https://www.dhammasukha.org/shop-retreats"
+      },
+      {
+        "title": "Maps and Directions to DSMC",
+        "url": "https://www.dhammasukha.org/maps-directions"
+      },
+      {
+        "title": "About Us",
+        "url": "https://www.dhammasukha.org/about-us"
+      },
+      {
+        "title": "Contact",
+        "url": "https://www.dhammasukha.org/contact-us"
+      }
+    ],
+    "meta": {
+      "generatedBy": "claude (cowork)",
+      "lastUpdated": "2026-08-25",
+      "reviewStatus": "unverified"
+    }
+  },
+  {
     "id": "ananda-kanan",
     "name": "Ananda Kanan",
     "aka": [
